@@ -1,0 +1,870 @@
+{
+  "state": "Sikkim",
+  "capital": "Gangtok",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Rumtek Monastery",
+        "desc": "Most famous heritage site in Sikkim",
+        "rating": "4.6",
+        "lat": 27.533,
+        "lng": 88.5122
+      },
+      {
+        "name": "State Museum Gangtok",
+        "desc": "Archaeological museum showcasing Sikkim history",
+        "rating": "4.2",
+        "lat": 27.543000000000003,
+        "lng": 88.52220000000001
+      },
+      {
+        "name": "Old Fort Gangtok",
+        "desc": "Historic fort from medieval era in Gangtok",
+        "rating": "4.3",
+        "lat": 27.553,
+        "lng": 88.5322
+      },
+      {
+        "name": "Ancient Temple Sikkim",
+        "desc": "Famous ancient temple showcasing Sikkim architecture",
+        "rating": "4.4",
+        "lat": 27.563000000000002,
+        "lng": 88.54220000000001
+      },
+      {
+        "name": "Colonial Building Gangtok",
+        "desc": "Historic colonial era building in Gangtok",
+        "rating": "4.1",
+        "lat": 27.573,
+        "lng": 88.55220000000001
+      },
+      {
+        "name": "Palace Sikkim",
+        "desc": "Royal palace of former rulers of Sikkim",
+        "rating": "4.4",
+        "lat": 27.523,
+        "lng": 88.5022
+      },
+      {
+        "name": "Rock Cut Caves Sikkim",
+        "desc": "Ancient rock cut monuments in Sikkim",
+        "rating": "4.3",
+        "lat": 27.513,
+        "lng": 88.49220000000001
+      },
+      {
+        "name": "Heritage Walk Gangtok",
+        "desc": "Guided walk through old quarter of Gangtok",
+        "rating": "4.3",
+        "lat": 27.503,
+        "lng": 88.4822
+      },
+      {
+        "name": "Memorial Museum Gangtok",
+        "desc": "Memorial to freedom fighters of Sikkim",
+        "rating": "4.1",
+        "lat": 27.493000000000002,
+        "lng": 88.4722
+      },
+      {
+        "name": "Ruins Site Sikkim",
+        "desc": "Ancient ruins and archaeological findings in Sikkim",
+        "rating": "4.2",
+        "lat": 27.483,
+        "lng": 88.46220000000001
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Gangtok",
+        "desc": "Authentic Sikkim thali with local specialties",
+        "rating": "4.5",
+        "lat": 27.633000000000003,
+        "lng": 88.6122
+      },
+      {
+        "name": "Street Food Market Gangtok",
+        "desc": "Famous street food market in Gangtok",
+        "rating": "4.4",
+        "lat": 27.643,
+        "lng": 88.6222
+      },
+      {
+        "name": "Local Sweet Shop Sikkim",
+        "desc": "Famous traditional sweets unique to Sikkim",
+        "rating": "4.5",
+        "lat": 27.653000000000002,
+        "lng": 88.63220000000001
+      },
+      {
+        "name": "Tribal Cuisine Sikkim",
+        "desc": "Authentic tribal food of Sikkim",
+        "rating": "4.4",
+        "lat": 27.663,
+        "lng": 88.6422
+      },
+      {
+        "name": "Dhaba Sikkim",
+        "desc": "Famous highway dhaba with Sikkim specialties",
+        "rating": "4.3",
+        "lat": 27.673000000000002,
+        "lng": 88.65220000000001
+      },
+      {
+        "name": "Vegetarian Restaurant Gangtok",
+        "desc": "Best pure vegetarian food in Gangtok",
+        "rating": "4.3",
+        "lat": 27.433,
+        "lng": 88.41220000000001
+      },
+      {
+        "name": "Biryani House Gangtok",
+        "desc": "Best biryani and rice dishes in Gangtok",
+        "rating": "4.4",
+        "lat": 27.423000000000002,
+        "lng": 88.40220000000001
+      },
+      {
+        "name": "Bakery Cafe Gangtok",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 27.413,
+        "lng": 88.3922
+      },
+      {
+        "name": "Royal Kitchen Sikkim",
+        "desc": "Restaurant serving royal recipes of Sikkim",
+        "rating": "4.5",
+        "lat": 27.403000000000002,
+        "lng": 88.38220000000001
+      },
+      {
+        "name": "Fish Curry House Sikkim",
+        "desc": "Traditional Sikkim style fish preparation",
+        "rating": "4.4",
+        "lat": 27.393,
+        "lng": 88.3722
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Gangtok",
+        "desc": "Luxury 5-star Taj hotel in Gangtok",
+        "rating": "4.7",
+        "lat": 27.733,
+        "lng": 88.71220000000001
+      },
+      {
+        "name": "Oberoi Resort Sikkim",
+        "desc": "Luxury resort in scenic location in Sikkim",
+        "rating": "4.8",
+        "lat": 27.743000000000002,
+        "lng": 88.7222
+      },
+      {
+        "name": "Heritage Hotel Gangtok",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 27.753,
+        "lng": 88.7322
+      },
+      {
+        "name": "ITC Hotel Gangtok",
+        "desc": "ITC luxury hotel in Gangtok",
+        "rating": "4.6",
+        "lat": 27.763,
+        "lng": 88.74220000000001
+      },
+      {
+        "name": "Eco Resort Sikkim",
+        "desc": "Eco-friendly resort in nature of Sikkim",
+        "rating": "4.5",
+        "lat": 27.773,
+        "lng": 88.7522
+      },
+      {
+        "name": "Boutique Hotel Gangtok",
+        "desc": "Charming boutique hotel in old quarter of Gangtok",
+        "rating": "4.4",
+        "lat": 27.333000000000002,
+        "lng": 88.3122
+      },
+      {
+        "name": "Marriott Gangtok",
+        "desc": "International 5-star Marriott hotel in Gangtok",
+        "rating": "4.6",
+        "lat": 27.323,
+        "lng": 88.30220000000001
+      },
+      {
+        "name": "Forest Lodge Sikkim",
+        "desc": "Wildlife lodge near forest of Sikkim",
+        "rating": "4.4",
+        "lat": 27.313000000000002,
+        "lng": 88.29220000000001
+      },
+      {
+        "name": "Homestay Sikkim",
+        "desc": "Authentic homestay with local family in Sikkim",
+        "rating": "4.3",
+        "lat": 27.303,
+        "lng": 88.2822
+      },
+      {
+        "name": "Budget Hotel Gangtok",
+        "desc": "Clean comfortable budget stay in Gangtok",
+        "rating": "4.0",
+        "lat": 27.293000000000003,
+        "lng": 88.27220000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Sikkim",
+        "desc": "Best panoramic viewpoint in Sikkim",
+        "rating": "4.5",
+        "lat": 27.833000000000002,
+        "lng": 88.8122
+      },
+      {
+        "name": "Waterfall Sikkim",
+        "desc": "Most beautiful waterfall in Sikkim",
+        "rating": "4.5",
+        "lat": 27.843,
+        "lng": 88.82220000000001
+      },
+      {
+        "name": "Lake Sikkim",
+        "desc": "Scenic lake in Sikkim with boating",
+        "rating": "4.3",
+        "lat": 27.853,
+        "lng": 88.8322
+      },
+      {
+        "name": "Hill Station Sikkim",
+        "desc": "Popular hill station in Sikkim",
+        "rating": "4.4",
+        "lat": 27.863,
+        "lng": 88.8422
+      },
+      {
+        "name": "National Park Sikkim",
+        "desc": "Wildlife national park in Sikkim",
+        "rating": "4.4",
+        "lat": 27.873,
+        "lng": 88.85220000000001
+      },
+      {
+        "name": "Beach Sikkim",
+        "desc": "Beautiful beach in Sikkim",
+        "rating": "4.3",
+        "lat": 27.233,
+        "lng": 88.21220000000001
+      },
+      {
+        "name": "Cave System Sikkim",
+        "desc": "Natural cave system in Sikkim",
+        "rating": "4.3",
+        "lat": 27.223000000000003,
+        "lng": 88.2022
+      },
+      {
+        "name": "Dam Sikkim",
+        "desc": "Scenic dam and reservoir in Sikkim",
+        "rating": "4.2",
+        "lat": 27.213,
+        "lng": 88.19220000000001
+      },
+      {
+        "name": "Botanical Garden Gangtok",
+        "desc": "Botanical garden with rare plants in Gangtok",
+        "rating": "4.2",
+        "lat": 27.203000000000003,
+        "lng": 88.18220000000001
+      },
+      {
+        "name": "Zoo Gangtok",
+        "desc": "State zoo in Gangtok with variety of animals",
+        "rating": "4.1",
+        "lat": 27.193,
+        "lng": 88.1722
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Gangtok",
+        "desc": "Bustling main market of Gangtok",
+        "rating": "4.3",
+        "lat": 27.933,
+        "lng": 88.91220000000001
+      },
+      {
+        "name": "Handicraft Market Sikkim",
+        "desc": "Traditional handicrafts of Sikkim",
+        "rating": "4.4",
+        "lat": 27.943,
+        "lng": 88.9222
+      },
+      {
+        "name": "Silk Market Sikkim",
+        "desc": "Famous silk and textile market of Sikkim",
+        "rating": "4.4",
+        "lat": 27.953000000000003,
+        "lng": 88.93220000000001
+      },
+      {
+        "name": "Tribal Art Market Sikkim",
+        "desc": "Traditional tribal art and crafts of Sikkim",
+        "rating": "4.4",
+        "lat": 27.963,
+        "lng": 88.94220000000001
+      },
+      {
+        "name": "Spice Market Sikkim",
+        "desc": "Aromatic spice market unique to Sikkim",
+        "rating": "4.3",
+        "lat": 27.973000000000003,
+        "lng": 88.9522
+      },
+      {
+        "name": "Mall Gangtok",
+        "desc": "Modern shopping mall in Gangtok",
+        "rating": "4.2",
+        "lat": 27.133000000000003,
+        "lng": 88.1122
+      },
+      {
+        "name": "Gem Market Sikkim",
+        "desc": "Precious and semi-precious stones of Sikkim",
+        "rating": "4.3",
+        "lat": 27.123,
+        "lng": 88.10220000000001
+      },
+      {
+        "name": "Bamboo Craft Sikkim",
+        "desc": "Traditional bamboo craft market of Sikkim",
+        "rating": "4.3",
+        "lat": 27.113,
+        "lng": 88.0922
+      },
+      {
+        "name": "Pottery Village Sikkim",
+        "desc": "Traditional pottery making village in Sikkim",
+        "rating": "4.3",
+        "lat": 27.103,
+        "lng": 88.0822
+      },
+      {
+        "name": "Night Market Gangtok",
+        "desc": "Evening market in Gangtok with local goods",
+        "rating": "4.2",
+        "lat": 27.093,
+        "lng": 88.07220000000001
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Sikkim",
+        "desc": "Tiger and wildlife reserve in Sikkim",
+        "rating": "4.5",
+        "lat": 28.033,
+        "lng": 89.0122
+      },
+      {
+        "name": "Bird Sanctuary Sikkim",
+        "desc": "Migratory bird sanctuary in Sikkim",
+        "rating": "4.4",
+        "lat": 28.043000000000003,
+        "lng": 89.02220000000001
+      },
+      {
+        "name": "Forest Reserve Sikkim",
+        "desc": "Dense forest reserve of Sikkim",
+        "rating": "4.4",
+        "lat": 28.053,
+        "lng": 89.0322
+      },
+      {
+        "name": "River Valley Sikkim",
+        "desc": "Scenic river valley in Sikkim",
+        "rating": "4.3",
+        "lat": 28.063000000000002,
+        "lng": 89.04220000000001
+      },
+      {
+        "name": "Mountain Peak Sikkim",
+        "desc": "Highest mountain peak in Sikkim",
+        "rating": "4.4",
+        "lat": 28.073,
+        "lng": 89.05220000000001
+      },
+      {
+        "name": "Wetland Sikkim",
+        "desc": "Important wetland ecosystem in Sikkim",
+        "rating": "4.3",
+        "lat": 27.033,
+        "lng": 88.0122
+      },
+      {
+        "name": "Tea Garden Sikkim",
+        "desc": "Scenic tea or coffee plantation in Sikkim",
+        "rating": "4.4",
+        "lat": 27.023,
+        "lng": 88.0022
+      },
+      {
+        "name": "Organic Farm Sikkim",
+        "desc": "Organic farming experience in Sikkim",
+        "rating": "4.3",
+        "lat": 27.013,
+        "lng": 87.99220000000001
+      },
+      {
+        "name": "Sunrise Point Sikkim",
+        "desc": "Most spectacular sunrise point in Sikkim",
+        "rating": "4.5",
+        "lat": 27.003,
+        "lng": 87.9822
+      },
+      {
+        "name": "Eco Park Gangtok",
+        "desc": "Ecology park in Gangtok with rare plants",
+        "rating": "4.1",
+        "lat": 26.993000000000002,
+        "lng": 87.9722
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Sikkim",
+        "desc": "Most famous temple in Sikkim",
+        "rating": "4.6",
+        "lat": 28.133000000000003,
+        "lng": 89.1122
+      },
+      {
+        "name": "Mosque Gangtok",
+        "desc": "Historic mosque in Gangtok",
+        "rating": "4.3",
+        "lat": 28.143,
+        "lng": 89.1222
+      },
+      {
+        "name": "Church Gangtok",
+        "desc": "Historic church in Gangtok",
+        "rating": "4.3",
+        "lat": 28.153000000000002,
+        "lng": 89.13220000000001
+      },
+      {
+        "name": "Gurudwara Sikkim",
+        "desc": "Important Sikh shrine in Sikkim",
+        "rating": "4.4",
+        "lat": 28.163,
+        "lng": 89.1422
+      },
+      {
+        "name": "Buddhist Monastery Sikkim",
+        "desc": "Ancient Buddhist monastery in Sikkim",
+        "rating": "4.4",
+        "lat": 28.173000000000002,
+        "lng": 89.15220000000001
+      },
+      {
+        "name": "Jain Temple Sikkim",
+        "desc": "Famous Jain temple in Sikkim",
+        "rating": "4.4",
+        "lat": 26.933,
+        "lng": 87.91220000000001
+      },
+      {
+        "name": "Dargah Sikkim",
+        "desc": "Famous Sufi dargah in Sikkim",
+        "rating": "4.3",
+        "lat": 26.923000000000002,
+        "lng": 87.90220000000001
+      },
+      {
+        "name": "Ashram Sikkim",
+        "desc": "Spiritual ashram in Sikkim",
+        "rating": "4.4",
+        "lat": 26.913,
+        "lng": 87.8922
+      },
+      {
+        "name": "Pilgrimage Site Sikkim",
+        "desc": "Important pilgrimage destination in Sikkim",
+        "rating": "4.5",
+        "lat": 26.903000000000002,
+        "lng": 87.88220000000001
+      },
+      {
+        "name": "Sacred River Ghat Sikkim",
+        "desc": "Sacred river ghat for rituals in Sikkim",
+        "rating": "4.3",
+        "lat": 26.893,
+        "lng": 87.8722
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Sikkim",
+        "desc": "Traditional folk dance performance of Sikkim",
+        "rating": "4.5",
+        "lat": 28.233,
+        "lng": 89.21220000000001
+      },
+      {
+        "name": "Art Gallery Gangtok",
+        "desc": "State art gallery in Gangtok",
+        "rating": "4.2",
+        "lat": 28.243000000000002,
+        "lng": 89.2222
+      },
+      {
+        "name": "Cultural Center Gangtok",
+        "desc": "Cultural center for arts in Gangtok",
+        "rating": "4.3",
+        "lat": 28.253,
+        "lng": 89.2322
+      },
+      {
+        "name": "Music Festival Sikkim",
+        "desc": "Annual music festival of Sikkim",
+        "rating": "4.5",
+        "lat": 28.263,
+        "lng": 89.24220000000001
+      },
+      {
+        "name": "Tribal Museum Sikkim",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 28.273,
+        "lng": 89.2522
+      },
+      {
+        "name": "Craft Village Sikkim",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 26.833000000000002,
+        "lng": 87.8122
+      },
+      {
+        "name": "Classical Dance Academy Gangtok",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 26.823,
+        "lng": 87.80220000000001
+      },
+      {
+        "name": "Puppet Theatre Sikkim",
+        "desc": "Traditional puppet theatre of Sikkim",
+        "rating": "4.4",
+        "lat": 26.813000000000002,
+        "lng": 87.79220000000001
+      },
+      {
+        "name": "Weaving Center Sikkim",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 26.803,
+        "lng": 87.7822
+      },
+      {
+        "name": "Open Air Theatre Gangtok",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 26.793000000000003,
+        "lng": 87.77220000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Sikkim",
+        "desc": "Best trekking trails in Sikkim",
+        "rating": "4.4",
+        "lat": 28.333000000000002,
+        "lng": 89.3122
+      },
+      {
+        "name": "Rock Climbing Sikkim",
+        "desc": "Rock climbing spots in Sikkim",
+        "rating": "4.3",
+        "lat": 28.343,
+        "lng": 89.32220000000001
+      },
+      {
+        "name": "River Rafting Sikkim",
+        "desc": "White water rafting in rivers of Sikkim",
+        "rating": "4.5",
+        "lat": 28.353,
+        "lng": 89.3322
+      },
+      {
+        "name": "Paragliding Sikkim",
+        "desc": "Paragliding spots in Sikkim",
+        "rating": "4.4",
+        "lat": 28.363,
+        "lng": 89.3422
+      },
+      {
+        "name": "Camping Sikkim",
+        "desc": "Camping spots in forests of Sikkim",
+        "rating": "4.4",
+        "lat": 28.373,
+        "lng": 89.35220000000001
+      },
+      {
+        "name": "Zip Line Sikkim",
+        "desc": "Zip lining adventure in Sikkim",
+        "rating": "4.3",
+        "lat": 26.733,
+        "lng": 87.71220000000001
+      },
+      {
+        "name": "Jungle Safari Sikkim",
+        "desc": "Jeep jungle safari in Sikkim",
+        "rating": "4.4",
+        "lat": 26.723000000000003,
+        "lng": 87.7022
+      },
+      {
+        "name": "Cycling Tour Sikkim",
+        "desc": "Scenic cycling routes in Sikkim",
+        "rating": "4.3",
+        "lat": 26.713,
+        "lng": 87.69220000000001
+      },
+      {
+        "name": "Water Sports Sikkim",
+        "desc": "Water sports activities in Sikkim",
+        "rating": "4.3",
+        "lat": 26.703000000000003,
+        "lng": 87.68220000000001
+      },
+      {
+        "name": "Bungee Jumping Sikkim",
+        "desc": "Bungee jumping experience in Sikkim",
+        "rating": "4.3",
+        "lat": 26.693,
+        "lng": 87.6722
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Sikkim",
+        "desc": "Traditional Ayurvedic treatments in Sikkim",
+        "rating": "4.4",
+        "lat": 28.433,
+        "lng": 89.41220000000001
+      },
+      {
+        "name": "Yoga Retreat Sikkim",
+        "desc": "Yoga and meditation retreat in Sikkim",
+        "rating": "4.4",
+        "lat": 28.443,
+        "lng": 89.4222
+      },
+      {
+        "name": "Spa Resort Sikkim",
+        "desc": "Luxury spa resort in Sikkim",
+        "rating": "4.5",
+        "lat": 28.453000000000003,
+        "lng": 89.43220000000001
+      },
+      {
+        "name": "Naturopathy Center Sikkim",
+        "desc": "Natural healing center in Sikkim",
+        "rating": "4.3",
+        "lat": 28.463,
+        "lng": 89.44220000000001
+      },
+      {
+        "name": "Meditation Ashram Sikkim",
+        "desc": "Peaceful meditation ashram in Sikkim",
+        "rating": "4.4",
+        "lat": 28.473000000000003,
+        "lng": 89.4522
+      },
+      {
+        "name": "Wellness Resort Gangtok",
+        "desc": "Luxury wellness resort in Gangtok",
+        "rating": "4.4",
+        "lat": 26.633000000000003,
+        "lng": 87.6122
+      },
+      {
+        "name": "Herbal Garden Sikkim",
+        "desc": "Medicinal herb garden in Sikkim",
+        "rating": "4.2",
+        "lat": 26.623,
+        "lng": 87.60220000000001
+      },
+      {
+        "name": "Forest Bathing Sikkim",
+        "desc": "Therapeutic forest walks in Sikkim",
+        "rating": "4.3",
+        "lat": 26.613,
+        "lng": 87.5922
+      },
+      {
+        "name": "Hot Spring Sikkim",
+        "desc": "Natural hot spring in Sikkim",
+        "rating": "4.4",
+        "lat": 26.603,
+        "lng": 87.5822
+      },
+      {
+        "name": "Detox Retreat Sikkim",
+        "desc": "Detox and wellness retreat in Sikkim",
+        "rating": "4.3",
+        "lat": 26.593,
+        "lng": 87.57220000000001
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Gangtok",
+        "desc": "Main airport of Sikkim in Gangtok",
+        "rating": "4.0",
+        "lat": 28.533,
+        "lng": 89.5122
+      },
+      {
+        "name": "Railway Station Gangtok",
+        "desc": "Main railway junction in Gangtok",
+        "rating": "3.8",
+        "lat": 28.543000000000003,
+        "lng": 89.52220000000001
+      },
+      {
+        "name": "Bus Terminal Gangtok",
+        "desc": "State bus terminal in Gangtok",
+        "rating": "3.7",
+        "lat": 28.553,
+        "lng": 89.5322
+      },
+      {
+        "name": "Metro Rail Gangtok",
+        "desc": "Metro rail system in Gangtok",
+        "rating": "4.2",
+        "lat": 28.563000000000002,
+        "lng": 89.54220000000001
+      },
+      {
+        "name": "Highway Sikkim",
+        "desc": "Major national highway through Sikkim",
+        "rating": "4.0",
+        "lat": 28.573,
+        "lng": 89.55220000000001
+      },
+      {
+        "name": "Port Sikkim",
+        "desc": "Major sea port of Sikkim",
+        "rating": "3.9",
+        "lat": 26.533,
+        "lng": 87.5122
+      },
+      {
+        "name": "Taxi Stand Gangtok",
+        "desc": "Main cab and taxi hub in Gangtok",
+        "rating": "3.8",
+        "lat": 26.523,
+        "lng": 87.5022
+      },
+      {
+        "name": "Auto Rickshaw Gangtok",
+        "desc": "Auto rickshaw services across Gangtok",
+        "rating": "3.6",
+        "lat": 26.513,
+        "lng": 87.49220000000001
+      },
+      {
+        "name": "Cab Services Gangtok",
+        "desc": "Ola and Uber cab services in Gangtok",
+        "rating": "4.0",
+        "lat": 26.503,
+        "lng": 87.4822
+      },
+      {
+        "name": "Helipad Sikkim",
+        "desc": "Helicopter services in Sikkim",
+        "rating": "4.0",
+        "lat": 26.493000000000002,
+        "lng": 87.4722
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Sikkim",
+        "desc": "Most famous festival of Sikkim",
+        "rating": "4.7",
+        "lat": 28.633000000000003,
+        "lng": 89.6122
+      },
+      {
+        "name": "Cooking Class Sikkim",
+        "desc": "Learn traditional Sikkim cooking techniques",
+        "rating": "4.5",
+        "lat": 28.643,
+        "lng": 89.6222
+      },
+      {
+        "name": "Village Walk Sikkim",
+        "desc": "Authentic village life experience in Sikkim",
+        "rating": "4.4",
+        "lat": 28.653000000000002,
+        "lng": 89.63220000000001
+      },
+      {
+        "name": "Craft Workshop Sikkim",
+        "desc": "Traditional craft making workshop in Sikkim",
+        "rating": "4.4",
+        "lat": 28.663,
+        "lng": 89.6422
+      },
+      {
+        "name": "Sunrise Trek Sikkim",
+        "desc": "Early morning sunrise trek in Sikkim",
+        "rating": "4.5",
+        "lat": 28.673000000000002,
+        "lng": 89.65220000000001
+      },
+      {
+        "name": "Local Market Tour Gangtok",
+        "desc": "Guided tour of local markets in Gangtok",
+        "rating": "4.3",
+        "lat": 26.433,
+        "lng": 87.41220000000001
+      },
+      {
+        "name": "Folk Performance Sikkim",
+        "desc": "Traditional folk art performance of Sikkim",
+        "rating": "4.5",
+        "lat": 26.423000000000002,
+        "lng": 87.40220000000001
+      },
+      {
+        "name": "Farm Stay Sikkim",
+        "desc": "Authentic farm stay experience in Sikkim",
+        "rating": "4.4",
+        "lat": 26.413,
+        "lng": 87.3922
+      },
+      {
+        "name": "Night Safari Sikkim",
+        "desc": "Night wildlife safari in Sikkim",
+        "rating": "4.4",
+        "lat": 26.403000000000002,
+        "lng": 87.38220000000001
+      },
+      {
+        "name": "Harvest Festival Sikkim",
+        "desc": "Traditional harvest festival of Sikkim",
+        "rating": "4.5",
+        "lat": 26.393,
+        "lng": 87.3722
+      }
+    ]
+  }
+}

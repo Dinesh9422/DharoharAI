@@ -1,0 +1,870 @@
+{
+  "state": "Jharkhand",
+  "capital": "Ranchi",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Betla National Park",
+        "desc": "Most famous heritage site in Jharkhand",
+        "rating": "4.6",
+        "lat": 23.6102,
+        "lng": 85.2799
+      },
+      {
+        "name": "State Museum Ranchi",
+        "desc": "Archaeological museum showcasing Jharkhand history",
+        "rating": "4.2",
+        "lat": 23.6202,
+        "lng": 85.2899
+      },
+      {
+        "name": "Old Fort Ranchi",
+        "desc": "Historic fort from medieval era in Ranchi",
+        "rating": "4.3",
+        "lat": 23.6302,
+        "lng": 85.2999
+      },
+      {
+        "name": "Ancient Temple Jharkhand",
+        "desc": "Famous ancient temple showcasing Jharkhand architecture",
+        "rating": "4.4",
+        "lat": 23.6402,
+        "lng": 85.3099
+      },
+      {
+        "name": "Colonial Building Ranchi",
+        "desc": "Historic colonial era building in Ranchi",
+        "rating": "4.1",
+        "lat": 23.650199999999998,
+        "lng": 85.3199
+      },
+      {
+        "name": "Palace Jharkhand",
+        "desc": "Royal palace of former rulers of Jharkhand",
+        "rating": "4.4",
+        "lat": 23.600199999999997,
+        "lng": 85.26989999999999
+      },
+      {
+        "name": "Rock Cut Caves Jharkhand",
+        "desc": "Ancient rock cut monuments in Jharkhand",
+        "rating": "4.3",
+        "lat": 23.5902,
+        "lng": 85.2599
+      },
+      {
+        "name": "Heritage Walk Ranchi",
+        "desc": "Guided walk through old quarter of Ranchi",
+        "rating": "4.3",
+        "lat": 23.580199999999998,
+        "lng": 85.2499
+      },
+      {
+        "name": "Memorial Museum Ranchi",
+        "desc": "Memorial to freedom fighters of Jharkhand",
+        "rating": "4.1",
+        "lat": 23.5702,
+        "lng": 85.23989999999999
+      },
+      {
+        "name": "Ruins Site Jharkhand",
+        "desc": "Ancient ruins and archaeological findings in Jharkhand",
+        "rating": "4.2",
+        "lat": 23.5602,
+        "lng": 85.2299
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Ranchi",
+        "desc": "Authentic Jharkhand thali with local specialties",
+        "rating": "4.5",
+        "lat": 23.7102,
+        "lng": 85.37989999999999
+      },
+      {
+        "name": "Street Food Market Ranchi",
+        "desc": "Famous street food market in Ranchi",
+        "rating": "4.4",
+        "lat": 23.7202,
+        "lng": 85.3899
+      },
+      {
+        "name": "Local Sweet Shop Jharkhand",
+        "desc": "Famous traditional sweets unique to Jharkhand",
+        "rating": "4.5",
+        "lat": 23.7302,
+        "lng": 85.3999
+      },
+      {
+        "name": "Tribal Cuisine Jharkhand",
+        "desc": "Authentic tribal food of Jharkhand",
+        "rating": "4.4",
+        "lat": 23.740199999999998,
+        "lng": 85.4099
+      },
+      {
+        "name": "Dhaba Jharkhand",
+        "desc": "Famous highway dhaba with Jharkhand specialties",
+        "rating": "4.3",
+        "lat": 23.7502,
+        "lng": 85.4199
+      },
+      {
+        "name": "Vegetarian Restaurant Ranchi",
+        "desc": "Best pure vegetarian food in Ranchi",
+        "rating": "4.3",
+        "lat": 23.510199999999998,
+        "lng": 85.1799
+      },
+      {
+        "name": "Biryani House Ranchi",
+        "desc": "Best biryani and rice dishes in Ranchi",
+        "rating": "4.4",
+        "lat": 23.5002,
+        "lng": 85.1699
+      },
+      {
+        "name": "Bakery Cafe Ranchi",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 23.490199999999998,
+        "lng": 85.1599
+      },
+      {
+        "name": "Royal Kitchen Jharkhand",
+        "desc": "Restaurant serving royal recipes of Jharkhand",
+        "rating": "4.5",
+        "lat": 23.4802,
+        "lng": 85.1499
+      },
+      {
+        "name": "Fish Curry House Jharkhand",
+        "desc": "Traditional Jharkhand style fish preparation",
+        "rating": "4.4",
+        "lat": 23.4702,
+        "lng": 85.1399
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Ranchi",
+        "desc": "Luxury 5-star Taj hotel in Ranchi",
+        "rating": "4.7",
+        "lat": 23.8102,
+        "lng": 85.4799
+      },
+      {
+        "name": "Oberoi Resort Jharkhand",
+        "desc": "Luxury resort in scenic location in Jharkhand",
+        "rating": "4.8",
+        "lat": 23.8202,
+        "lng": 85.48989999999999
+      },
+      {
+        "name": "Heritage Hotel Ranchi",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 23.830199999999998,
+        "lng": 85.4999
+      },
+      {
+        "name": "ITC Hotel Ranchi",
+        "desc": "ITC luxury hotel in Ranchi",
+        "rating": "4.6",
+        "lat": 23.8402,
+        "lng": 85.5099
+      },
+      {
+        "name": "Eco Resort Jharkhand",
+        "desc": "Eco-friendly resort in nature of Jharkhand",
+        "rating": "4.5",
+        "lat": 23.850199999999997,
+        "lng": 85.51989999999999
+      },
+      {
+        "name": "Boutique Hotel Ranchi",
+        "desc": "Charming boutique hotel in old quarter of Ranchi",
+        "rating": "4.4",
+        "lat": 23.4102,
+        "lng": 85.0799
+      },
+      {
+        "name": "Marriott Ranchi",
+        "desc": "International 5-star Marriott hotel in Ranchi",
+        "rating": "4.6",
+        "lat": 23.400199999999998,
+        "lng": 85.0699
+      },
+      {
+        "name": "Forest Lodge Jharkhand",
+        "desc": "Wildlife lodge near forest of Jharkhand",
+        "rating": "4.4",
+        "lat": 23.3902,
+        "lng": 85.0599
+      },
+      {
+        "name": "Homestay Jharkhand",
+        "desc": "Authentic homestay with local family in Jharkhand",
+        "rating": "4.3",
+        "lat": 23.3802,
+        "lng": 85.0499
+      },
+      {
+        "name": "Budget Hotel Ranchi",
+        "desc": "Clean comfortable budget stay in Ranchi",
+        "rating": "4.0",
+        "lat": 23.3702,
+        "lng": 85.0399
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Jharkhand",
+        "desc": "Best panoramic viewpoint in Jharkhand",
+        "rating": "4.5",
+        "lat": 23.9102,
+        "lng": 85.5799
+      },
+      {
+        "name": "Waterfall Jharkhand",
+        "desc": "Most beautiful waterfall in Jharkhand",
+        "rating": "4.5",
+        "lat": 23.920199999999998,
+        "lng": 85.5899
+      },
+      {
+        "name": "Lake Jharkhand",
+        "desc": "Scenic lake in Jharkhand with boating",
+        "rating": "4.3",
+        "lat": 23.9302,
+        "lng": 85.59989999999999
+      },
+      {
+        "name": "Hill Station Jharkhand",
+        "desc": "Popular hill station in Jharkhand",
+        "rating": "4.4",
+        "lat": 23.940199999999997,
+        "lng": 85.6099
+      },
+      {
+        "name": "National Park Jharkhand",
+        "desc": "Wildlife national park in Jharkhand",
+        "rating": "4.4",
+        "lat": 23.9502,
+        "lng": 85.6199
+      },
+      {
+        "name": "Beach Jharkhand",
+        "desc": "Beautiful beach in Jharkhand",
+        "rating": "4.3",
+        "lat": 23.3102,
+        "lng": 84.9799
+      },
+      {
+        "name": "Cave System Jharkhand",
+        "desc": "Natural cave system in Jharkhand",
+        "rating": "4.3",
+        "lat": 23.3002,
+        "lng": 84.9699
+      },
+      {
+        "name": "Dam Jharkhand",
+        "desc": "Scenic dam and reservoir in Jharkhand",
+        "rating": "4.2",
+        "lat": 23.2902,
+        "lng": 84.9599
+      },
+      {
+        "name": "Botanical Garden Ranchi",
+        "desc": "Botanical garden with rare plants in Ranchi",
+        "rating": "4.2",
+        "lat": 23.2802,
+        "lng": 84.9499
+      },
+      {
+        "name": "Zoo Ranchi",
+        "desc": "State zoo in Ranchi with variety of animals",
+        "rating": "4.1",
+        "lat": 23.2702,
+        "lng": 84.9399
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Ranchi",
+        "desc": "Bustling main market of Ranchi",
+        "rating": "4.3",
+        "lat": 24.010199999999998,
+        "lng": 85.6799
+      },
+      {
+        "name": "Handicraft Market Jharkhand",
+        "desc": "Traditional handicrafts of Jharkhand",
+        "rating": "4.4",
+        "lat": 24.0202,
+        "lng": 85.6899
+      },
+      {
+        "name": "Silk Market Jharkhand",
+        "desc": "Famous silk and textile market of Jharkhand",
+        "rating": "4.4",
+        "lat": 24.0302,
+        "lng": 85.6999
+      },
+      {
+        "name": "Tribal Art Market Jharkhand",
+        "desc": "Traditional tribal art and crafts of Jharkhand",
+        "rating": "4.4",
+        "lat": 24.0402,
+        "lng": 85.7099
+      },
+      {
+        "name": "Spice Market Jharkhand",
+        "desc": "Aromatic spice market unique to Jharkhand",
+        "rating": "4.3",
+        "lat": 24.0502,
+        "lng": 85.7199
+      },
+      {
+        "name": "Mall Ranchi",
+        "desc": "Modern shopping mall in Ranchi",
+        "rating": "4.2",
+        "lat": 23.2102,
+        "lng": 84.87989999999999
+      },
+      {
+        "name": "Gem Market Jharkhand",
+        "desc": "Precious and semi-precious stones of Jharkhand",
+        "rating": "4.3",
+        "lat": 23.2002,
+        "lng": 84.8699
+      },
+      {
+        "name": "Bamboo Craft Jharkhand",
+        "desc": "Traditional bamboo craft market of Jharkhand",
+        "rating": "4.3",
+        "lat": 23.190199999999997,
+        "lng": 84.8599
+      },
+      {
+        "name": "Pottery Village Jharkhand",
+        "desc": "Traditional pottery making village in Jharkhand",
+        "rating": "4.3",
+        "lat": 23.1802,
+        "lng": 84.84989999999999
+      },
+      {
+        "name": "Night Market Ranchi",
+        "desc": "Evening market in Ranchi with local goods",
+        "rating": "4.2",
+        "lat": 23.170199999999998,
+        "lng": 84.8399
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Jharkhand",
+        "desc": "Tiger and wildlife reserve in Jharkhand",
+        "rating": "4.5",
+        "lat": 24.1102,
+        "lng": 85.7799
+      },
+      {
+        "name": "Bird Sanctuary Jharkhand",
+        "desc": "Migratory bird sanctuary in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.1202,
+        "lng": 85.7899
+      },
+      {
+        "name": "Forest Reserve Jharkhand",
+        "desc": "Dense forest reserve of Jharkhand",
+        "rating": "4.4",
+        "lat": 24.1302,
+        "lng": 85.7999
+      },
+      {
+        "name": "River Valley Jharkhand",
+        "desc": "Scenic river valley in Jharkhand",
+        "rating": "4.3",
+        "lat": 24.1402,
+        "lng": 85.8099
+      },
+      {
+        "name": "Mountain Peak Jharkhand",
+        "desc": "Highest mountain peak in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.150199999999998,
+        "lng": 85.8199
+      },
+      {
+        "name": "Wetland Jharkhand",
+        "desc": "Important wetland ecosystem in Jharkhand",
+        "rating": "4.3",
+        "lat": 23.1102,
+        "lng": 84.7799
+      },
+      {
+        "name": "Tea Garden Jharkhand",
+        "desc": "Scenic tea or coffee plantation in Jharkhand",
+        "rating": "4.4",
+        "lat": 23.100199999999997,
+        "lng": 84.76989999999999
+      },
+      {
+        "name": "Organic Farm Jharkhand",
+        "desc": "Organic farming experience in Jharkhand",
+        "rating": "4.3",
+        "lat": 23.0902,
+        "lng": 84.7599
+      },
+      {
+        "name": "Sunrise Point Jharkhand",
+        "desc": "Most spectacular sunrise point in Jharkhand",
+        "rating": "4.5",
+        "lat": 23.080199999999998,
+        "lng": 84.7499
+      },
+      {
+        "name": "Eco Park Ranchi",
+        "desc": "Ecology park in Ranchi with rare plants",
+        "rating": "4.1",
+        "lat": 23.0702,
+        "lng": 84.73989999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Jharkhand",
+        "desc": "Most famous temple in Jharkhand",
+        "rating": "4.6",
+        "lat": 24.2102,
+        "lng": 85.87989999999999
+      },
+      {
+        "name": "Mosque Ranchi",
+        "desc": "Historic mosque in Ranchi",
+        "rating": "4.3",
+        "lat": 24.2202,
+        "lng": 85.8899
+      },
+      {
+        "name": "Church Ranchi",
+        "desc": "Historic church in Ranchi",
+        "rating": "4.3",
+        "lat": 24.2302,
+        "lng": 85.8999
+      },
+      {
+        "name": "Gurudwara Jharkhand",
+        "desc": "Important Sikh shrine in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.240199999999998,
+        "lng": 85.9099
+      },
+      {
+        "name": "Buddhist Monastery Jharkhand",
+        "desc": "Ancient Buddhist monastery in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.2502,
+        "lng": 85.9199
+      },
+      {
+        "name": "Jain Temple Jharkhand",
+        "desc": "Famous Jain temple in Jharkhand",
+        "rating": "4.4",
+        "lat": 23.010199999999998,
+        "lng": 84.6799
+      },
+      {
+        "name": "Dargah Jharkhand",
+        "desc": "Famous Sufi dargah in Jharkhand",
+        "rating": "4.3",
+        "lat": 23.0002,
+        "lng": 84.6699
+      },
+      {
+        "name": "Ashram Jharkhand",
+        "desc": "Spiritual ashram in Jharkhand",
+        "rating": "4.4",
+        "lat": 22.990199999999998,
+        "lng": 84.6599
+      },
+      {
+        "name": "Pilgrimage Site Jharkhand",
+        "desc": "Important pilgrimage destination in Jharkhand",
+        "rating": "4.5",
+        "lat": 22.9802,
+        "lng": 84.6499
+      },
+      {
+        "name": "Sacred River Ghat Jharkhand",
+        "desc": "Sacred river ghat for rituals in Jharkhand",
+        "rating": "4.3",
+        "lat": 22.9702,
+        "lng": 84.6399
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Jharkhand",
+        "desc": "Traditional folk dance performance of Jharkhand",
+        "rating": "4.5",
+        "lat": 24.3102,
+        "lng": 85.9799
+      },
+      {
+        "name": "Art Gallery Ranchi",
+        "desc": "State art gallery in Ranchi",
+        "rating": "4.2",
+        "lat": 24.3202,
+        "lng": 85.98989999999999
+      },
+      {
+        "name": "Cultural Center Ranchi",
+        "desc": "Cultural center for arts in Ranchi",
+        "rating": "4.3",
+        "lat": 24.330199999999998,
+        "lng": 85.9999
+      },
+      {
+        "name": "Music Festival Jharkhand",
+        "desc": "Annual music festival of Jharkhand",
+        "rating": "4.5",
+        "lat": 24.3402,
+        "lng": 86.0099
+      },
+      {
+        "name": "Tribal Museum Jharkhand",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 24.350199999999997,
+        "lng": 86.01989999999999
+      },
+      {
+        "name": "Craft Village Jharkhand",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 22.9102,
+        "lng": 84.5799
+      },
+      {
+        "name": "Classical Dance Academy Ranchi",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 22.900199999999998,
+        "lng": 84.5699
+      },
+      {
+        "name": "Puppet Theatre Jharkhand",
+        "desc": "Traditional puppet theatre of Jharkhand",
+        "rating": "4.4",
+        "lat": 22.8902,
+        "lng": 84.5599
+      },
+      {
+        "name": "Weaving Center Jharkhand",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 22.8802,
+        "lng": 84.5499
+      },
+      {
+        "name": "Open Air Theatre Ranchi",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 22.8702,
+        "lng": 84.5399
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Jharkhand",
+        "desc": "Best trekking trails in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.4102,
+        "lng": 86.0799
+      },
+      {
+        "name": "Rock Climbing Jharkhand",
+        "desc": "Rock climbing spots in Jharkhand",
+        "rating": "4.3",
+        "lat": 24.420199999999998,
+        "lng": 86.0899
+      },
+      {
+        "name": "River Rafting Jharkhand",
+        "desc": "White water rafting in rivers of Jharkhand",
+        "rating": "4.5",
+        "lat": 24.4302,
+        "lng": 86.09989999999999
+      },
+      {
+        "name": "Paragliding Jharkhand",
+        "desc": "Paragliding spots in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.440199999999997,
+        "lng": 86.1099
+      },
+      {
+        "name": "Camping Jharkhand",
+        "desc": "Camping spots in forests of Jharkhand",
+        "rating": "4.4",
+        "lat": 24.4502,
+        "lng": 86.1199
+      },
+      {
+        "name": "Zip Line Jharkhand",
+        "desc": "Zip lining adventure in Jharkhand",
+        "rating": "4.3",
+        "lat": 22.8102,
+        "lng": 84.4799
+      },
+      {
+        "name": "Jungle Safari Jharkhand",
+        "desc": "Jeep jungle safari in Jharkhand",
+        "rating": "4.4",
+        "lat": 22.8002,
+        "lng": 84.4699
+      },
+      {
+        "name": "Cycling Tour Jharkhand",
+        "desc": "Scenic cycling routes in Jharkhand",
+        "rating": "4.3",
+        "lat": 22.7902,
+        "lng": 84.4599
+      },
+      {
+        "name": "Water Sports Jharkhand",
+        "desc": "Water sports activities in Jharkhand",
+        "rating": "4.3",
+        "lat": 22.7802,
+        "lng": 84.4499
+      },
+      {
+        "name": "Bungee Jumping Jharkhand",
+        "desc": "Bungee jumping experience in Jharkhand",
+        "rating": "4.3",
+        "lat": 22.7702,
+        "lng": 84.4399
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Jharkhand",
+        "desc": "Traditional Ayurvedic treatments in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.510199999999998,
+        "lng": 86.1799
+      },
+      {
+        "name": "Yoga Retreat Jharkhand",
+        "desc": "Yoga and meditation retreat in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.5202,
+        "lng": 86.1899
+      },
+      {
+        "name": "Spa Resort Jharkhand",
+        "desc": "Luxury spa resort in Jharkhand",
+        "rating": "4.5",
+        "lat": 24.5302,
+        "lng": 86.1999
+      },
+      {
+        "name": "Naturopathy Center Jharkhand",
+        "desc": "Natural healing center in Jharkhand",
+        "rating": "4.3",
+        "lat": 24.5402,
+        "lng": 86.2099
+      },
+      {
+        "name": "Meditation Ashram Jharkhand",
+        "desc": "Peaceful meditation ashram in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.5502,
+        "lng": 86.2199
+      },
+      {
+        "name": "Wellness Resort Ranchi",
+        "desc": "Luxury wellness resort in Ranchi",
+        "rating": "4.4",
+        "lat": 22.7102,
+        "lng": 84.37989999999999
+      },
+      {
+        "name": "Herbal Garden Jharkhand",
+        "desc": "Medicinal herb garden in Jharkhand",
+        "rating": "4.2",
+        "lat": 22.7002,
+        "lng": 84.3699
+      },
+      {
+        "name": "Forest Bathing Jharkhand",
+        "desc": "Therapeutic forest walks in Jharkhand",
+        "rating": "4.3",
+        "lat": 22.690199999999997,
+        "lng": 84.3599
+      },
+      {
+        "name": "Hot Spring Jharkhand",
+        "desc": "Natural hot spring in Jharkhand",
+        "rating": "4.4",
+        "lat": 22.6802,
+        "lng": 84.34989999999999
+      },
+      {
+        "name": "Detox Retreat Jharkhand",
+        "desc": "Detox and wellness retreat in Jharkhand",
+        "rating": "4.3",
+        "lat": 22.670199999999998,
+        "lng": 84.3399
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Ranchi",
+        "desc": "Main airport of Jharkhand in Ranchi",
+        "rating": "4.0",
+        "lat": 24.6102,
+        "lng": 86.2799
+      },
+      {
+        "name": "Railway Station Ranchi",
+        "desc": "Main railway junction in Ranchi",
+        "rating": "3.8",
+        "lat": 24.6202,
+        "lng": 86.2899
+      },
+      {
+        "name": "Bus Terminal Ranchi",
+        "desc": "State bus terminal in Ranchi",
+        "rating": "3.7",
+        "lat": 24.6302,
+        "lng": 86.2999
+      },
+      {
+        "name": "Metro Rail Ranchi",
+        "desc": "Metro rail system in Ranchi",
+        "rating": "4.2",
+        "lat": 24.6402,
+        "lng": 86.3099
+      },
+      {
+        "name": "Highway Jharkhand",
+        "desc": "Major national highway through Jharkhand",
+        "rating": "4.0",
+        "lat": 24.650199999999998,
+        "lng": 86.3199
+      },
+      {
+        "name": "Port Jharkhand",
+        "desc": "Major sea port of Jharkhand",
+        "rating": "3.9",
+        "lat": 22.6102,
+        "lng": 84.2799
+      },
+      {
+        "name": "Taxi Stand Ranchi",
+        "desc": "Main cab and taxi hub in Ranchi",
+        "rating": "3.8",
+        "lat": 22.600199999999997,
+        "lng": 84.26989999999999
+      },
+      {
+        "name": "Auto Rickshaw Ranchi",
+        "desc": "Auto rickshaw services across Ranchi",
+        "rating": "3.6",
+        "lat": 22.5902,
+        "lng": 84.2599
+      },
+      {
+        "name": "Cab Services Ranchi",
+        "desc": "Ola and Uber cab services in Ranchi",
+        "rating": "4.0",
+        "lat": 22.580199999999998,
+        "lng": 84.2499
+      },
+      {
+        "name": "Helipad Jharkhand",
+        "desc": "Helicopter services in Jharkhand",
+        "rating": "4.0",
+        "lat": 22.5702,
+        "lng": 84.23989999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Jharkhand",
+        "desc": "Most famous festival of Jharkhand",
+        "rating": "4.7",
+        "lat": 24.7102,
+        "lng": 86.37989999999999
+      },
+      {
+        "name": "Cooking Class Jharkhand",
+        "desc": "Learn traditional Jharkhand cooking techniques",
+        "rating": "4.5",
+        "lat": 24.7202,
+        "lng": 86.3899
+      },
+      {
+        "name": "Village Walk Jharkhand",
+        "desc": "Authentic village life experience in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.7302,
+        "lng": 86.3999
+      },
+      {
+        "name": "Craft Workshop Jharkhand",
+        "desc": "Traditional craft making workshop in Jharkhand",
+        "rating": "4.4",
+        "lat": 24.740199999999998,
+        "lng": 86.4099
+      },
+      {
+        "name": "Sunrise Trek Jharkhand",
+        "desc": "Early morning sunrise trek in Jharkhand",
+        "rating": "4.5",
+        "lat": 24.7502,
+        "lng": 86.4199
+      },
+      {
+        "name": "Local Market Tour Ranchi",
+        "desc": "Guided tour of local markets in Ranchi",
+        "rating": "4.3",
+        "lat": 22.510199999999998,
+        "lng": 84.1799
+      },
+      {
+        "name": "Folk Performance Jharkhand",
+        "desc": "Traditional folk art performance of Jharkhand",
+        "rating": "4.5",
+        "lat": 22.5002,
+        "lng": 84.1699
+      },
+      {
+        "name": "Farm Stay Jharkhand",
+        "desc": "Authentic farm stay experience in Jharkhand",
+        "rating": "4.4",
+        "lat": 22.490199999999998,
+        "lng": 84.1599
+      },
+      {
+        "name": "Night Safari Jharkhand",
+        "desc": "Night wildlife safari in Jharkhand",
+        "rating": "4.4",
+        "lat": 22.4802,
+        "lng": 84.1499
+      },
+      {
+        "name": "Harvest Festival Jharkhand",
+        "desc": "Traditional harvest festival of Jharkhand",
+        "rating": "4.5",
+        "lat": 22.4702,
+        "lng": 84.1399
+      }
+    ]
+  }
+}

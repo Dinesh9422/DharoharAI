@@ -1,0 +1,870 @@
+{
+  "state": "Meghalaya",
+  "capital": "Shillong",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Living Root Bridges",
+        "desc": "Most famous heritage site in Meghalaya",
+        "rating": "4.6",
+        "lat": 25.467,
+        "lng": 91.3662
+      },
+      {
+        "name": "State Museum Shillong",
+        "desc": "Archaeological museum showcasing Meghalaya history",
+        "rating": "4.2",
+        "lat": 25.477,
+        "lng": 91.37620000000001
+      },
+      {
+        "name": "Old Fort Shillong",
+        "desc": "Historic fort from medieval era in Shillong",
+        "rating": "4.3",
+        "lat": 25.487,
+        "lng": 91.3862
+      },
+      {
+        "name": "Ancient Temple Meghalaya",
+        "desc": "Famous ancient temple showcasing Meghalaya architecture",
+        "rating": "4.4",
+        "lat": 25.497,
+        "lng": 91.39620000000001
+      },
+      {
+        "name": "Colonial Building Shillong",
+        "desc": "Historic colonial era building in Shillong",
+        "rating": "4.1",
+        "lat": 25.506999999999998,
+        "lng": 91.40620000000001
+      },
+      {
+        "name": "Palace Meghalaya",
+        "desc": "Royal palace of former rulers of Meghalaya",
+        "rating": "4.4",
+        "lat": 25.456999999999997,
+        "lng": 91.3562
+      },
+      {
+        "name": "Rock Cut Caves Meghalaya",
+        "desc": "Ancient rock cut monuments in Meghalaya",
+        "rating": "4.3",
+        "lat": 25.447,
+        "lng": 91.34620000000001
+      },
+      {
+        "name": "Heritage Walk Shillong",
+        "desc": "Guided walk through old quarter of Shillong",
+        "rating": "4.3",
+        "lat": 25.436999999999998,
+        "lng": 91.3362
+      },
+      {
+        "name": "Memorial Museum Shillong",
+        "desc": "Memorial to freedom fighters of Meghalaya",
+        "rating": "4.1",
+        "lat": 25.427,
+        "lng": 91.3262
+      },
+      {
+        "name": "Ruins Site Meghalaya",
+        "desc": "Ancient ruins and archaeological findings in Meghalaya",
+        "rating": "4.2",
+        "lat": 25.416999999999998,
+        "lng": 91.31620000000001
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Shillong",
+        "desc": "Authentic Meghalaya thali with local specialties",
+        "rating": "4.5",
+        "lat": 25.567,
+        "lng": 91.4662
+      },
+      {
+        "name": "Street Food Market Shillong",
+        "desc": "Famous street food market in Shillong",
+        "rating": "4.4",
+        "lat": 25.576999999999998,
+        "lng": 91.4762
+      },
+      {
+        "name": "Local Sweet Shop Meghalaya",
+        "desc": "Famous traditional sweets unique to Meghalaya",
+        "rating": "4.5",
+        "lat": 25.587,
+        "lng": 91.48620000000001
+      },
+      {
+        "name": "Tribal Cuisine Meghalaya",
+        "desc": "Authentic tribal food of Meghalaya",
+        "rating": "4.4",
+        "lat": 25.596999999999998,
+        "lng": 91.4962
+      },
+      {
+        "name": "Dhaba Meghalaya",
+        "desc": "Famous highway dhaba with Meghalaya specialties",
+        "rating": "4.3",
+        "lat": 25.607,
+        "lng": 91.5062
+      },
+      {
+        "name": "Vegetarian Restaurant Shillong",
+        "desc": "Best pure vegetarian food in Shillong",
+        "rating": "4.3",
+        "lat": 25.366999999999997,
+        "lng": 91.26620000000001
+      },
+      {
+        "name": "Biryani House Shillong",
+        "desc": "Best biryani and rice dishes in Shillong",
+        "rating": "4.4",
+        "lat": 25.357,
+        "lng": 91.2562
+      },
+      {
+        "name": "Bakery Cafe Shillong",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 25.346999999999998,
+        "lng": 91.2462
+      },
+      {
+        "name": "Royal Kitchen Meghalaya",
+        "desc": "Restaurant serving royal recipes of Meghalaya",
+        "rating": "4.5",
+        "lat": 25.337,
+        "lng": 91.23620000000001
+      },
+      {
+        "name": "Fish Curry House Meghalaya",
+        "desc": "Traditional Meghalaya style fish preparation",
+        "rating": "4.4",
+        "lat": 25.326999999999998,
+        "lng": 91.2262
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Shillong",
+        "desc": "Luxury 5-star Taj hotel in Shillong",
+        "rating": "4.7",
+        "lat": 25.666999999999998,
+        "lng": 91.56620000000001
+      },
+      {
+        "name": "Oberoi Resort Meghalaya",
+        "desc": "Luxury resort in scenic location in Meghalaya",
+        "rating": "4.8",
+        "lat": 25.677,
+        "lng": 91.5762
+      },
+      {
+        "name": "Heritage Hotel Shillong",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 25.686999999999998,
+        "lng": 91.5862
+      },
+      {
+        "name": "ITC Hotel Shillong",
+        "desc": "ITC luxury hotel in Shillong",
+        "rating": "4.6",
+        "lat": 25.697,
+        "lng": 91.59620000000001
+      },
+      {
+        "name": "Eco Resort Meghalaya",
+        "desc": "Eco-friendly resort in nature of Meghalaya",
+        "rating": "4.5",
+        "lat": 25.706999999999997,
+        "lng": 91.6062
+      },
+      {
+        "name": "Boutique Hotel Shillong",
+        "desc": "Charming boutique hotel in old quarter of Shillong",
+        "rating": "4.4",
+        "lat": 25.267,
+        "lng": 91.1662
+      },
+      {
+        "name": "Marriott Shillong",
+        "desc": "International 5-star Marriott hotel in Shillong",
+        "rating": "4.6",
+        "lat": 25.256999999999998,
+        "lng": 91.15620000000001
+      },
+      {
+        "name": "Forest Lodge Meghalaya",
+        "desc": "Wildlife lodge near forest of Meghalaya",
+        "rating": "4.4",
+        "lat": 25.247,
+        "lng": 91.14620000000001
+      },
+      {
+        "name": "Homestay Meghalaya",
+        "desc": "Authentic homestay with local family in Meghalaya",
+        "rating": "4.3",
+        "lat": 25.237,
+        "lng": 91.1362
+      },
+      {
+        "name": "Budget Hotel Shillong",
+        "desc": "Clean comfortable budget stay in Shillong",
+        "rating": "4.0",
+        "lat": 25.227,
+        "lng": 91.12620000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Meghalaya",
+        "desc": "Best panoramic viewpoint in Meghalaya",
+        "rating": "4.5",
+        "lat": 25.767,
+        "lng": 91.6662
+      },
+      {
+        "name": "Waterfall Meghalaya",
+        "desc": "Most beautiful waterfall in Meghalaya",
+        "rating": "4.5",
+        "lat": 25.776999999999997,
+        "lng": 91.67620000000001
+      },
+      {
+        "name": "Lake Meghalaya",
+        "desc": "Scenic lake in Meghalaya with boating",
+        "rating": "4.3",
+        "lat": 25.787,
+        "lng": 91.6862
+      },
+      {
+        "name": "Hill Station Meghalaya",
+        "desc": "Popular hill station in Meghalaya",
+        "rating": "4.4",
+        "lat": 25.796999999999997,
+        "lng": 91.6962
+      },
+      {
+        "name": "National Park Meghalaya",
+        "desc": "Wildlife national park in Meghalaya",
+        "rating": "4.4",
+        "lat": 25.807,
+        "lng": 91.70620000000001
+      },
+      {
+        "name": "Beach Meghalaya",
+        "desc": "Beautiful beach in Meghalaya",
+        "rating": "4.3",
+        "lat": 25.166999999999998,
+        "lng": 91.06620000000001
+      },
+      {
+        "name": "Cave System Meghalaya",
+        "desc": "Natural cave system in Meghalaya",
+        "rating": "4.3",
+        "lat": 25.157,
+        "lng": 91.0562
+      },
+      {
+        "name": "Dam Meghalaya",
+        "desc": "Scenic dam and reservoir in Meghalaya",
+        "rating": "4.2",
+        "lat": 25.147,
+        "lng": 91.04620000000001
+      },
+      {
+        "name": "Botanical Garden Shillong",
+        "desc": "Botanical garden with rare plants in Shillong",
+        "rating": "4.2",
+        "lat": 25.137,
+        "lng": 91.03620000000001
+      },
+      {
+        "name": "Zoo Shillong",
+        "desc": "State zoo in Shillong with variety of animals",
+        "rating": "4.1",
+        "lat": 25.127,
+        "lng": 91.0262
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Shillong",
+        "desc": "Bustling main market of Shillong",
+        "rating": "4.3",
+        "lat": 25.866999999999997,
+        "lng": 91.76620000000001
+      },
+      {
+        "name": "Handicraft Market Meghalaya",
+        "desc": "Traditional handicrafts of Meghalaya",
+        "rating": "4.4",
+        "lat": 25.877,
+        "lng": 91.7762
+      },
+      {
+        "name": "Silk Market Meghalaya",
+        "desc": "Famous silk and textile market of Meghalaya",
+        "rating": "4.4",
+        "lat": 25.887,
+        "lng": 91.78620000000001
+      },
+      {
+        "name": "Tribal Art Market Meghalaya",
+        "desc": "Traditional tribal art and crafts of Meghalaya",
+        "rating": "4.4",
+        "lat": 25.897,
+        "lng": 91.79620000000001
+      },
+      {
+        "name": "Spice Market Meghalaya",
+        "desc": "Aromatic spice market unique to Meghalaya",
+        "rating": "4.3",
+        "lat": 25.907,
+        "lng": 91.8062
+      },
+      {
+        "name": "Mall Shillong",
+        "desc": "Modern shopping mall in Shillong",
+        "rating": "4.2",
+        "lat": 25.067,
+        "lng": 90.9662
+      },
+      {
+        "name": "Gem Market Meghalaya",
+        "desc": "Precious and semi-precious stones of Meghalaya",
+        "rating": "4.3",
+        "lat": 25.057,
+        "lng": 90.95620000000001
+      },
+      {
+        "name": "Bamboo Craft Meghalaya",
+        "desc": "Traditional bamboo craft market of Meghalaya",
+        "rating": "4.3",
+        "lat": 25.046999999999997,
+        "lng": 90.9462
+      },
+      {
+        "name": "Pottery Village Meghalaya",
+        "desc": "Traditional pottery making village in Meghalaya",
+        "rating": "4.3",
+        "lat": 25.037,
+        "lng": 90.9362
+      },
+      {
+        "name": "Night Market Shillong",
+        "desc": "Evening market in Shillong with local goods",
+        "rating": "4.2",
+        "lat": 25.026999999999997,
+        "lng": 90.92620000000001
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Meghalaya",
+        "desc": "Tiger and wildlife reserve in Meghalaya",
+        "rating": "4.5",
+        "lat": 25.967,
+        "lng": 91.8662
+      },
+      {
+        "name": "Bird Sanctuary Meghalaya",
+        "desc": "Migratory bird sanctuary in Meghalaya",
+        "rating": "4.4",
+        "lat": 25.977,
+        "lng": 91.87620000000001
+      },
+      {
+        "name": "Forest Reserve Meghalaya",
+        "desc": "Dense forest reserve of Meghalaya",
+        "rating": "4.4",
+        "lat": 25.987,
+        "lng": 91.8862
+      },
+      {
+        "name": "River Valley Meghalaya",
+        "desc": "Scenic river valley in Meghalaya",
+        "rating": "4.3",
+        "lat": 25.997,
+        "lng": 91.89620000000001
+      },
+      {
+        "name": "Mountain Peak Meghalaya",
+        "desc": "Highest mountain peak in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.006999999999998,
+        "lng": 91.90620000000001
+      },
+      {
+        "name": "Wetland Meghalaya",
+        "desc": "Important wetland ecosystem in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.967,
+        "lng": 90.8662
+      },
+      {
+        "name": "Tea Garden Meghalaya",
+        "desc": "Scenic tea or coffee plantation in Meghalaya",
+        "rating": "4.4",
+        "lat": 24.956999999999997,
+        "lng": 90.8562
+      },
+      {
+        "name": "Organic Farm Meghalaya",
+        "desc": "Organic farming experience in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.947,
+        "lng": 90.84620000000001
+      },
+      {
+        "name": "Sunrise Point Meghalaya",
+        "desc": "Most spectacular sunrise point in Meghalaya",
+        "rating": "4.5",
+        "lat": 24.936999999999998,
+        "lng": 90.8362
+      },
+      {
+        "name": "Eco Park Shillong",
+        "desc": "Ecology park in Shillong with rare plants",
+        "rating": "4.1",
+        "lat": 24.927,
+        "lng": 90.8262
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Meghalaya",
+        "desc": "Most famous temple in Meghalaya",
+        "rating": "4.6",
+        "lat": 26.067,
+        "lng": 91.9662
+      },
+      {
+        "name": "Mosque Shillong",
+        "desc": "Historic mosque in Shillong",
+        "rating": "4.3",
+        "lat": 26.076999999999998,
+        "lng": 91.9762
+      },
+      {
+        "name": "Church Shillong",
+        "desc": "Historic church in Shillong",
+        "rating": "4.3",
+        "lat": 26.087,
+        "lng": 91.98620000000001
+      },
+      {
+        "name": "Gurudwara Meghalaya",
+        "desc": "Important Sikh shrine in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.096999999999998,
+        "lng": 91.9962
+      },
+      {
+        "name": "Buddhist Monastery Meghalaya",
+        "desc": "Ancient Buddhist monastery in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.107,
+        "lng": 92.0062
+      },
+      {
+        "name": "Jain Temple Meghalaya",
+        "desc": "Famous Jain temple in Meghalaya",
+        "rating": "4.4",
+        "lat": 24.866999999999997,
+        "lng": 90.76620000000001
+      },
+      {
+        "name": "Dargah Meghalaya",
+        "desc": "Famous Sufi dargah in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.857,
+        "lng": 90.7562
+      },
+      {
+        "name": "Ashram Meghalaya",
+        "desc": "Spiritual ashram in Meghalaya",
+        "rating": "4.4",
+        "lat": 24.846999999999998,
+        "lng": 90.7462
+      },
+      {
+        "name": "Pilgrimage Site Meghalaya",
+        "desc": "Important pilgrimage destination in Meghalaya",
+        "rating": "4.5",
+        "lat": 24.837,
+        "lng": 90.73620000000001
+      },
+      {
+        "name": "Sacred River Ghat Meghalaya",
+        "desc": "Sacred river ghat for rituals in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.826999999999998,
+        "lng": 90.7262
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Meghalaya",
+        "desc": "Traditional folk dance performance of Meghalaya",
+        "rating": "4.5",
+        "lat": 26.166999999999998,
+        "lng": 92.06620000000001
+      },
+      {
+        "name": "Art Gallery Shillong",
+        "desc": "State art gallery in Shillong",
+        "rating": "4.2",
+        "lat": 26.177,
+        "lng": 92.0762
+      },
+      {
+        "name": "Cultural Center Shillong",
+        "desc": "Cultural center for arts in Shillong",
+        "rating": "4.3",
+        "lat": 26.186999999999998,
+        "lng": 92.0862
+      },
+      {
+        "name": "Music Festival Meghalaya",
+        "desc": "Annual music festival of Meghalaya",
+        "rating": "4.5",
+        "lat": 26.197,
+        "lng": 92.09620000000001
+      },
+      {
+        "name": "Tribal Museum Meghalaya",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 26.206999999999997,
+        "lng": 92.1062
+      },
+      {
+        "name": "Craft Village Meghalaya",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 24.767,
+        "lng": 90.6662
+      },
+      {
+        "name": "Classical Dance Academy Shillong",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 24.756999999999998,
+        "lng": 90.65620000000001
+      },
+      {
+        "name": "Puppet Theatre Meghalaya",
+        "desc": "Traditional puppet theatre of Meghalaya",
+        "rating": "4.4",
+        "lat": 24.747,
+        "lng": 90.64620000000001
+      },
+      {
+        "name": "Weaving Center Meghalaya",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 24.737,
+        "lng": 90.6362
+      },
+      {
+        "name": "Open Air Theatre Shillong",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 24.727,
+        "lng": 90.62620000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Meghalaya",
+        "desc": "Best trekking trails in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.267,
+        "lng": 92.1662
+      },
+      {
+        "name": "Rock Climbing Meghalaya",
+        "desc": "Rock climbing spots in Meghalaya",
+        "rating": "4.3",
+        "lat": 26.276999999999997,
+        "lng": 92.17620000000001
+      },
+      {
+        "name": "River Rafting Meghalaya",
+        "desc": "White water rafting in rivers of Meghalaya",
+        "rating": "4.5",
+        "lat": 26.287,
+        "lng": 92.1862
+      },
+      {
+        "name": "Paragliding Meghalaya",
+        "desc": "Paragliding spots in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.296999999999997,
+        "lng": 92.1962
+      },
+      {
+        "name": "Camping Meghalaya",
+        "desc": "Camping spots in forests of Meghalaya",
+        "rating": "4.4",
+        "lat": 26.307,
+        "lng": 92.20620000000001
+      },
+      {
+        "name": "Zip Line Meghalaya",
+        "desc": "Zip lining adventure in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.666999999999998,
+        "lng": 90.56620000000001
+      },
+      {
+        "name": "Jungle Safari Meghalaya",
+        "desc": "Jeep jungle safari in Meghalaya",
+        "rating": "4.4",
+        "lat": 24.657,
+        "lng": 90.5562
+      },
+      {
+        "name": "Cycling Tour Meghalaya",
+        "desc": "Scenic cycling routes in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.647,
+        "lng": 90.54620000000001
+      },
+      {
+        "name": "Water Sports Meghalaya",
+        "desc": "Water sports activities in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.637,
+        "lng": 90.53620000000001
+      },
+      {
+        "name": "Bungee Jumping Meghalaya",
+        "desc": "Bungee jumping experience in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.627,
+        "lng": 90.5262
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Meghalaya",
+        "desc": "Traditional Ayurvedic treatments in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.366999999999997,
+        "lng": 92.26620000000001
+      },
+      {
+        "name": "Yoga Retreat Meghalaya",
+        "desc": "Yoga and meditation retreat in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.377,
+        "lng": 92.2762
+      },
+      {
+        "name": "Spa Resort Meghalaya",
+        "desc": "Luxury spa resort in Meghalaya",
+        "rating": "4.5",
+        "lat": 26.387,
+        "lng": 92.28620000000001
+      },
+      {
+        "name": "Naturopathy Center Meghalaya",
+        "desc": "Natural healing center in Meghalaya",
+        "rating": "4.3",
+        "lat": 26.397,
+        "lng": 92.29620000000001
+      },
+      {
+        "name": "Meditation Ashram Meghalaya",
+        "desc": "Peaceful meditation ashram in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.407,
+        "lng": 92.3062
+      },
+      {
+        "name": "Wellness Resort Shillong",
+        "desc": "Luxury wellness resort in Shillong",
+        "rating": "4.4",
+        "lat": 24.567,
+        "lng": 90.4662
+      },
+      {
+        "name": "Herbal Garden Meghalaya",
+        "desc": "Medicinal herb garden in Meghalaya",
+        "rating": "4.2",
+        "lat": 24.557,
+        "lng": 90.45620000000001
+      },
+      {
+        "name": "Forest Bathing Meghalaya",
+        "desc": "Therapeutic forest walks in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.546999999999997,
+        "lng": 90.4462
+      },
+      {
+        "name": "Hot Spring Meghalaya",
+        "desc": "Natural hot spring in Meghalaya",
+        "rating": "4.4",
+        "lat": 24.537,
+        "lng": 90.4362
+      },
+      {
+        "name": "Detox Retreat Meghalaya",
+        "desc": "Detox and wellness retreat in Meghalaya",
+        "rating": "4.3",
+        "lat": 24.526999999999997,
+        "lng": 90.42620000000001
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Shillong",
+        "desc": "Main airport of Meghalaya in Shillong",
+        "rating": "4.0",
+        "lat": 26.467,
+        "lng": 92.3662
+      },
+      {
+        "name": "Railway Station Shillong",
+        "desc": "Main railway junction in Shillong",
+        "rating": "3.8",
+        "lat": 26.477,
+        "lng": 92.37620000000001
+      },
+      {
+        "name": "Bus Terminal Shillong",
+        "desc": "State bus terminal in Shillong",
+        "rating": "3.7",
+        "lat": 26.487,
+        "lng": 92.3862
+      },
+      {
+        "name": "Metro Rail Shillong",
+        "desc": "Metro rail system in Shillong",
+        "rating": "4.2",
+        "lat": 26.497,
+        "lng": 92.39620000000001
+      },
+      {
+        "name": "Highway Meghalaya",
+        "desc": "Major national highway through Meghalaya",
+        "rating": "4.0",
+        "lat": 26.506999999999998,
+        "lng": 92.40620000000001
+      },
+      {
+        "name": "Port Meghalaya",
+        "desc": "Major sea port of Meghalaya",
+        "rating": "3.9",
+        "lat": 24.467,
+        "lng": 90.3662
+      },
+      {
+        "name": "Taxi Stand Shillong",
+        "desc": "Main cab and taxi hub in Shillong",
+        "rating": "3.8",
+        "lat": 24.456999999999997,
+        "lng": 90.3562
+      },
+      {
+        "name": "Auto Rickshaw Shillong",
+        "desc": "Auto rickshaw services across Shillong",
+        "rating": "3.6",
+        "lat": 24.447,
+        "lng": 90.34620000000001
+      },
+      {
+        "name": "Cab Services Shillong",
+        "desc": "Ola and Uber cab services in Shillong",
+        "rating": "4.0",
+        "lat": 24.436999999999998,
+        "lng": 90.3362
+      },
+      {
+        "name": "Helipad Meghalaya",
+        "desc": "Helicopter services in Meghalaya",
+        "rating": "4.0",
+        "lat": 24.427,
+        "lng": 90.3262
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Meghalaya",
+        "desc": "Most famous festival of Meghalaya",
+        "rating": "4.7",
+        "lat": 26.567,
+        "lng": 92.4662
+      },
+      {
+        "name": "Cooking Class Meghalaya",
+        "desc": "Learn traditional Meghalaya cooking techniques",
+        "rating": "4.5",
+        "lat": 26.576999999999998,
+        "lng": 92.4762
+      },
+      {
+        "name": "Village Walk Meghalaya",
+        "desc": "Authentic village life experience in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.587,
+        "lng": 92.48620000000001
+      },
+      {
+        "name": "Craft Workshop Meghalaya",
+        "desc": "Traditional craft making workshop in Meghalaya",
+        "rating": "4.4",
+        "lat": 26.596999999999998,
+        "lng": 92.4962
+      },
+      {
+        "name": "Sunrise Trek Meghalaya",
+        "desc": "Early morning sunrise trek in Meghalaya",
+        "rating": "4.5",
+        "lat": 26.607,
+        "lng": 92.5062
+      },
+      {
+        "name": "Local Market Tour Shillong",
+        "desc": "Guided tour of local markets in Shillong",
+        "rating": "4.3",
+        "lat": 24.366999999999997,
+        "lng": 90.26620000000001
+      },
+      {
+        "name": "Folk Performance Meghalaya",
+        "desc": "Traditional folk art performance of Meghalaya",
+        "rating": "4.5",
+        "lat": 24.357,
+        "lng": 90.2562
+      },
+      {
+        "name": "Farm Stay Meghalaya",
+        "desc": "Authentic farm stay experience in Meghalaya",
+        "rating": "4.4",
+        "lat": 24.346999999999998,
+        "lng": 90.2462
+      },
+      {
+        "name": "Night Safari Meghalaya",
+        "desc": "Night wildlife safari in Meghalaya",
+        "rating": "4.4",
+        "lat": 24.337,
+        "lng": 90.23620000000001
+      },
+      {
+        "name": "Harvest Festival Meghalaya",
+        "desc": "Traditional harvest festival of Meghalaya",
+        "rating": "4.5",
+        "lat": 24.326999999999998,
+        "lng": 90.2262
+      }
+    ]
+  }
+}

@@ -1,0 +1,870 @@
+{
+  "state": "Gujarat",
+  "capital": "Gandhinagar",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Somnath Temple",
+        "desc": "Most famous heritage site in Gujarat",
+        "rating": "4.6",
+        "lat": 22.2587,
+        "lng": 71.1924
+      },
+      {
+        "name": "State Museum Gandhinagar",
+        "desc": "Archaeological museum showcasing Gujarat history",
+        "rating": "4.2",
+        "lat": 22.268700000000003,
+        "lng": 71.20240000000001
+      },
+      {
+        "name": "Old Fort Gandhinagar",
+        "desc": "Historic fort from medieval era in Gandhinagar",
+        "rating": "4.3",
+        "lat": 22.2787,
+        "lng": 71.2124
+      },
+      {
+        "name": "Ancient Temple Gujarat",
+        "desc": "Famous ancient temple showcasing Gujarat architecture",
+        "rating": "4.4",
+        "lat": 22.288700000000002,
+        "lng": 71.22240000000001
+      },
+      {
+        "name": "Colonial Building Gandhinagar",
+        "desc": "Historic colonial era building in Gandhinagar",
+        "rating": "4.1",
+        "lat": 22.2987,
+        "lng": 71.23240000000001
+      },
+      {
+        "name": "Palace Gujarat",
+        "desc": "Royal palace of former rulers of Gujarat",
+        "rating": "4.4",
+        "lat": 22.2487,
+        "lng": 71.1824
+      },
+      {
+        "name": "Rock Cut Caves Gujarat",
+        "desc": "Ancient rock cut monuments in Gujarat",
+        "rating": "4.3",
+        "lat": 22.2387,
+        "lng": 71.17240000000001
+      },
+      {
+        "name": "Heritage Walk Gandhinagar",
+        "desc": "Guided walk through old quarter of Gandhinagar",
+        "rating": "4.3",
+        "lat": 22.2287,
+        "lng": 71.1624
+      },
+      {
+        "name": "Memorial Museum Gandhinagar",
+        "desc": "Memorial to freedom fighters of Gujarat",
+        "rating": "4.1",
+        "lat": 22.218700000000002,
+        "lng": 71.1524
+      },
+      {
+        "name": "Ruins Site Gujarat",
+        "desc": "Ancient ruins and archaeological findings in Gujarat",
+        "rating": "4.2",
+        "lat": 22.2087,
+        "lng": 71.14240000000001
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Gandhinagar",
+        "desc": "Authentic Gujarat thali with local specialties",
+        "rating": "4.5",
+        "lat": 22.358700000000002,
+        "lng": 71.2924
+      },
+      {
+        "name": "Street Food Market Gandhinagar",
+        "desc": "Famous street food market in Gandhinagar",
+        "rating": "4.4",
+        "lat": 22.3687,
+        "lng": 71.3024
+      },
+      {
+        "name": "Local Sweet Shop Gujarat",
+        "desc": "Famous traditional sweets unique to Gujarat",
+        "rating": "4.5",
+        "lat": 22.378700000000002,
+        "lng": 71.31240000000001
+      },
+      {
+        "name": "Tribal Cuisine Gujarat",
+        "desc": "Authentic tribal food of Gujarat",
+        "rating": "4.4",
+        "lat": 22.3887,
+        "lng": 71.3224
+      },
+      {
+        "name": "Dhaba Gujarat",
+        "desc": "Famous highway dhaba with Gujarat specialties",
+        "rating": "4.3",
+        "lat": 22.3987,
+        "lng": 71.3324
+      },
+      {
+        "name": "Vegetarian Restaurant Gandhinagar",
+        "desc": "Best pure vegetarian food in Gandhinagar",
+        "rating": "4.3",
+        "lat": 22.1587,
+        "lng": 71.09240000000001
+      },
+      {
+        "name": "Biryani House Gandhinagar",
+        "desc": "Best biryani and rice dishes in Gandhinagar",
+        "rating": "4.4",
+        "lat": 22.1487,
+        "lng": 71.0824
+      },
+      {
+        "name": "Bakery Cafe Gandhinagar",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 22.1387,
+        "lng": 71.0724
+      },
+      {
+        "name": "Royal Kitchen Gujarat",
+        "desc": "Restaurant serving royal recipes of Gujarat",
+        "rating": "4.5",
+        "lat": 22.128700000000002,
+        "lng": 71.06240000000001
+      },
+      {
+        "name": "Fish Curry House Gujarat",
+        "desc": "Traditional Gujarat style fish preparation",
+        "rating": "4.4",
+        "lat": 22.1187,
+        "lng": 71.0524
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Gandhinagar",
+        "desc": "Luxury 5-star Taj hotel in Gandhinagar",
+        "rating": "4.7",
+        "lat": 22.4587,
+        "lng": 71.39240000000001
+      },
+      {
+        "name": "Oberoi Resort Gujarat",
+        "desc": "Luxury resort in scenic location in Gujarat",
+        "rating": "4.8",
+        "lat": 22.468700000000002,
+        "lng": 71.4024
+      },
+      {
+        "name": "Heritage Hotel Gandhinagar",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 22.4787,
+        "lng": 71.4124
+      },
+      {
+        "name": "ITC Hotel Gandhinagar",
+        "desc": "ITC luxury hotel in Gandhinagar",
+        "rating": "4.6",
+        "lat": 22.4887,
+        "lng": 71.42240000000001
+      },
+      {
+        "name": "Eco Resort Gujarat",
+        "desc": "Eco-friendly resort in nature of Gujarat",
+        "rating": "4.5",
+        "lat": 22.4987,
+        "lng": 71.4324
+      },
+      {
+        "name": "Boutique Hotel Gandhinagar",
+        "desc": "Charming boutique hotel in old quarter of Gandhinagar",
+        "rating": "4.4",
+        "lat": 22.0587,
+        "lng": 70.9924
+      },
+      {
+        "name": "Marriott Gandhinagar",
+        "desc": "International 5-star Marriott hotel in Gandhinagar",
+        "rating": "4.6",
+        "lat": 22.0487,
+        "lng": 70.98240000000001
+      },
+      {
+        "name": "Forest Lodge Gujarat",
+        "desc": "Wildlife lodge near forest of Gujarat",
+        "rating": "4.4",
+        "lat": 22.038700000000002,
+        "lng": 70.97240000000001
+      },
+      {
+        "name": "Homestay Gujarat",
+        "desc": "Authentic homestay with local family in Gujarat",
+        "rating": "4.3",
+        "lat": 22.0287,
+        "lng": 70.9624
+      },
+      {
+        "name": "Budget Hotel Gandhinagar",
+        "desc": "Clean comfortable budget stay in Gandhinagar",
+        "rating": "4.0",
+        "lat": 22.018700000000003,
+        "lng": 70.95240000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Gujarat",
+        "desc": "Best panoramic viewpoint in Gujarat",
+        "rating": "4.5",
+        "lat": 22.5587,
+        "lng": 71.4924
+      },
+      {
+        "name": "Waterfall Gujarat",
+        "desc": "Most beautiful waterfall in Gujarat",
+        "rating": "4.5",
+        "lat": 22.5687,
+        "lng": 71.50240000000001
+      },
+      {
+        "name": "Lake Gujarat",
+        "desc": "Scenic lake in Gujarat with boating",
+        "rating": "4.3",
+        "lat": 22.5787,
+        "lng": 71.5124
+      },
+      {
+        "name": "Hill Station Gujarat",
+        "desc": "Popular hill station in Gujarat",
+        "rating": "4.4",
+        "lat": 22.5887,
+        "lng": 71.5224
+      },
+      {
+        "name": "National Park Gujarat",
+        "desc": "Wildlife national park in Gujarat",
+        "rating": "4.4",
+        "lat": 22.5987,
+        "lng": 71.53240000000001
+      },
+      {
+        "name": "Beach Gujarat",
+        "desc": "Beautiful beach in Gujarat",
+        "rating": "4.3",
+        "lat": 21.9587,
+        "lng": 70.89240000000001
+      },
+      {
+        "name": "Cave System Gujarat",
+        "desc": "Natural cave system in Gujarat",
+        "rating": "4.3",
+        "lat": 21.948700000000002,
+        "lng": 70.8824
+      },
+      {
+        "name": "Dam Gujarat",
+        "desc": "Scenic dam and reservoir in Gujarat",
+        "rating": "4.2",
+        "lat": 21.9387,
+        "lng": 70.87240000000001
+      },
+      {
+        "name": "Botanical Garden Gandhinagar",
+        "desc": "Botanical garden with rare plants in Gandhinagar",
+        "rating": "4.2",
+        "lat": 21.928700000000003,
+        "lng": 70.86240000000001
+      },
+      {
+        "name": "Zoo Gandhinagar",
+        "desc": "State zoo in Gandhinagar with variety of animals",
+        "rating": "4.1",
+        "lat": 21.9187,
+        "lng": 70.8524
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Gandhinagar",
+        "desc": "Bustling main market of Gandhinagar",
+        "rating": "4.3",
+        "lat": 22.6587,
+        "lng": 71.59240000000001
+      },
+      {
+        "name": "Handicraft Market Gujarat",
+        "desc": "Traditional handicrafts of Gujarat",
+        "rating": "4.4",
+        "lat": 22.6687,
+        "lng": 71.6024
+      },
+      {
+        "name": "Silk Market Gujarat",
+        "desc": "Famous silk and textile market of Gujarat",
+        "rating": "4.4",
+        "lat": 22.678700000000003,
+        "lng": 71.61240000000001
+      },
+      {
+        "name": "Tribal Art Market Gujarat",
+        "desc": "Traditional tribal art and crafts of Gujarat",
+        "rating": "4.4",
+        "lat": 22.6887,
+        "lng": 71.62240000000001
+      },
+      {
+        "name": "Spice Market Gujarat",
+        "desc": "Aromatic spice market unique to Gujarat",
+        "rating": "4.3",
+        "lat": 22.698700000000002,
+        "lng": 71.6324
+      },
+      {
+        "name": "Mall Gandhinagar",
+        "desc": "Modern shopping mall in Gandhinagar",
+        "rating": "4.2",
+        "lat": 21.858700000000002,
+        "lng": 70.7924
+      },
+      {
+        "name": "Gem Market Gujarat",
+        "desc": "Precious and semi-precious stones of Gujarat",
+        "rating": "4.3",
+        "lat": 21.8487,
+        "lng": 70.78240000000001
+      },
+      {
+        "name": "Bamboo Craft Gujarat",
+        "desc": "Traditional bamboo craft market of Gujarat",
+        "rating": "4.3",
+        "lat": 21.8387,
+        "lng": 70.7724
+      },
+      {
+        "name": "Pottery Village Gujarat",
+        "desc": "Traditional pottery making village in Gujarat",
+        "rating": "4.3",
+        "lat": 21.8287,
+        "lng": 70.7624
+      },
+      {
+        "name": "Night Market Gandhinagar",
+        "desc": "Evening market in Gandhinagar with local goods",
+        "rating": "4.2",
+        "lat": 21.8187,
+        "lng": 70.75240000000001
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Gujarat",
+        "desc": "Tiger and wildlife reserve in Gujarat",
+        "rating": "4.5",
+        "lat": 22.7587,
+        "lng": 71.6924
+      },
+      {
+        "name": "Bird Sanctuary Gujarat",
+        "desc": "Migratory bird sanctuary in Gujarat",
+        "rating": "4.4",
+        "lat": 22.768700000000003,
+        "lng": 71.70240000000001
+      },
+      {
+        "name": "Forest Reserve Gujarat",
+        "desc": "Dense forest reserve of Gujarat",
+        "rating": "4.4",
+        "lat": 22.7787,
+        "lng": 71.7124
+      },
+      {
+        "name": "River Valley Gujarat",
+        "desc": "Scenic river valley in Gujarat",
+        "rating": "4.3",
+        "lat": 22.788700000000002,
+        "lng": 71.72240000000001
+      },
+      {
+        "name": "Mountain Peak Gujarat",
+        "desc": "Highest mountain peak in Gujarat",
+        "rating": "4.4",
+        "lat": 22.7987,
+        "lng": 71.73240000000001
+      },
+      {
+        "name": "Wetland Gujarat",
+        "desc": "Important wetland ecosystem in Gujarat",
+        "rating": "4.3",
+        "lat": 21.7587,
+        "lng": 70.6924
+      },
+      {
+        "name": "Tea Garden Gujarat",
+        "desc": "Scenic tea or coffee plantation in Gujarat",
+        "rating": "4.4",
+        "lat": 21.7487,
+        "lng": 70.6824
+      },
+      {
+        "name": "Organic Farm Gujarat",
+        "desc": "Organic farming experience in Gujarat",
+        "rating": "4.3",
+        "lat": 21.7387,
+        "lng": 70.67240000000001
+      },
+      {
+        "name": "Sunrise Point Gujarat",
+        "desc": "Most spectacular sunrise point in Gujarat",
+        "rating": "4.5",
+        "lat": 21.7287,
+        "lng": 70.6624
+      },
+      {
+        "name": "Eco Park Gandhinagar",
+        "desc": "Ecology park in Gandhinagar with rare plants",
+        "rating": "4.1",
+        "lat": 21.718700000000002,
+        "lng": 70.6524
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Gujarat",
+        "desc": "Most famous temple in Gujarat",
+        "rating": "4.6",
+        "lat": 22.858700000000002,
+        "lng": 71.7924
+      },
+      {
+        "name": "Mosque Gandhinagar",
+        "desc": "Historic mosque in Gandhinagar",
+        "rating": "4.3",
+        "lat": 22.8687,
+        "lng": 71.8024
+      },
+      {
+        "name": "Church Gandhinagar",
+        "desc": "Historic church in Gandhinagar",
+        "rating": "4.3",
+        "lat": 22.878700000000002,
+        "lng": 71.81240000000001
+      },
+      {
+        "name": "Gurudwara Gujarat",
+        "desc": "Important Sikh shrine in Gujarat",
+        "rating": "4.4",
+        "lat": 22.8887,
+        "lng": 71.8224
+      },
+      {
+        "name": "Buddhist Monastery Gujarat",
+        "desc": "Ancient Buddhist monastery in Gujarat",
+        "rating": "4.4",
+        "lat": 22.8987,
+        "lng": 71.8324
+      },
+      {
+        "name": "Jain Temple Gujarat",
+        "desc": "Famous Jain temple in Gujarat",
+        "rating": "4.4",
+        "lat": 21.6587,
+        "lng": 70.59240000000001
+      },
+      {
+        "name": "Dargah Gujarat",
+        "desc": "Famous Sufi dargah in Gujarat",
+        "rating": "4.3",
+        "lat": 21.6487,
+        "lng": 70.5824
+      },
+      {
+        "name": "Ashram Gujarat",
+        "desc": "Spiritual ashram in Gujarat",
+        "rating": "4.4",
+        "lat": 21.6387,
+        "lng": 70.5724
+      },
+      {
+        "name": "Pilgrimage Site Gujarat",
+        "desc": "Important pilgrimage destination in Gujarat",
+        "rating": "4.5",
+        "lat": 21.628700000000002,
+        "lng": 70.56240000000001
+      },
+      {
+        "name": "Sacred River Ghat Gujarat",
+        "desc": "Sacred river ghat for rituals in Gujarat",
+        "rating": "4.3",
+        "lat": 21.6187,
+        "lng": 70.5524
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Gujarat",
+        "desc": "Traditional folk dance performance of Gujarat",
+        "rating": "4.5",
+        "lat": 22.9587,
+        "lng": 71.89240000000001
+      },
+      {
+        "name": "Art Gallery Gandhinagar",
+        "desc": "State art gallery in Gandhinagar",
+        "rating": "4.2",
+        "lat": 22.968700000000002,
+        "lng": 71.9024
+      },
+      {
+        "name": "Cultural Center Gandhinagar",
+        "desc": "Cultural center for arts in Gandhinagar",
+        "rating": "4.3",
+        "lat": 22.9787,
+        "lng": 71.9124
+      },
+      {
+        "name": "Music Festival Gujarat",
+        "desc": "Annual music festival of Gujarat",
+        "rating": "4.5",
+        "lat": 22.9887,
+        "lng": 71.92240000000001
+      },
+      {
+        "name": "Tribal Museum Gujarat",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 22.9987,
+        "lng": 71.9324
+      },
+      {
+        "name": "Craft Village Gujarat",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 21.5587,
+        "lng": 70.4924
+      },
+      {
+        "name": "Classical Dance Academy Gandhinagar",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 21.5487,
+        "lng": 70.48240000000001
+      },
+      {
+        "name": "Puppet Theatre Gujarat",
+        "desc": "Traditional puppet theatre of Gujarat",
+        "rating": "4.4",
+        "lat": 21.538700000000002,
+        "lng": 70.47240000000001
+      },
+      {
+        "name": "Weaving Center Gujarat",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 21.5287,
+        "lng": 70.4624
+      },
+      {
+        "name": "Open Air Theatre Gandhinagar",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 21.518700000000003,
+        "lng": 70.45240000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Gujarat",
+        "desc": "Best trekking trails in Gujarat",
+        "rating": "4.4",
+        "lat": 23.0587,
+        "lng": 71.9924
+      },
+      {
+        "name": "Rock Climbing Gujarat",
+        "desc": "Rock climbing spots in Gujarat",
+        "rating": "4.3",
+        "lat": 23.0687,
+        "lng": 72.00240000000001
+      },
+      {
+        "name": "River Rafting Gujarat",
+        "desc": "White water rafting in rivers of Gujarat",
+        "rating": "4.5",
+        "lat": 23.0787,
+        "lng": 72.0124
+      },
+      {
+        "name": "Paragliding Gujarat",
+        "desc": "Paragliding spots in Gujarat",
+        "rating": "4.4",
+        "lat": 23.0887,
+        "lng": 72.0224
+      },
+      {
+        "name": "Camping Gujarat",
+        "desc": "Camping spots in forests of Gujarat",
+        "rating": "4.4",
+        "lat": 23.0987,
+        "lng": 72.03240000000001
+      },
+      {
+        "name": "Zip Line Gujarat",
+        "desc": "Zip lining adventure in Gujarat",
+        "rating": "4.3",
+        "lat": 21.4587,
+        "lng": 70.39240000000001
+      },
+      {
+        "name": "Jungle Safari Gujarat",
+        "desc": "Jeep jungle safari in Gujarat",
+        "rating": "4.4",
+        "lat": 21.448700000000002,
+        "lng": 70.3824
+      },
+      {
+        "name": "Cycling Tour Gujarat",
+        "desc": "Scenic cycling routes in Gujarat",
+        "rating": "4.3",
+        "lat": 21.4387,
+        "lng": 70.37240000000001
+      },
+      {
+        "name": "Water Sports Gujarat",
+        "desc": "Water sports activities in Gujarat",
+        "rating": "4.3",
+        "lat": 21.428700000000003,
+        "lng": 70.36240000000001
+      },
+      {
+        "name": "Bungee Jumping Gujarat",
+        "desc": "Bungee jumping experience in Gujarat",
+        "rating": "4.3",
+        "lat": 21.4187,
+        "lng": 70.3524
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Gujarat",
+        "desc": "Traditional Ayurvedic treatments in Gujarat",
+        "rating": "4.4",
+        "lat": 23.1587,
+        "lng": 72.09240000000001
+      },
+      {
+        "name": "Yoga Retreat Gujarat",
+        "desc": "Yoga and meditation retreat in Gujarat",
+        "rating": "4.4",
+        "lat": 23.1687,
+        "lng": 72.1024
+      },
+      {
+        "name": "Spa Resort Gujarat",
+        "desc": "Luxury spa resort in Gujarat",
+        "rating": "4.5",
+        "lat": 23.178700000000003,
+        "lng": 72.11240000000001
+      },
+      {
+        "name": "Naturopathy Center Gujarat",
+        "desc": "Natural healing center in Gujarat",
+        "rating": "4.3",
+        "lat": 23.1887,
+        "lng": 72.12240000000001
+      },
+      {
+        "name": "Meditation Ashram Gujarat",
+        "desc": "Peaceful meditation ashram in Gujarat",
+        "rating": "4.4",
+        "lat": 23.198700000000002,
+        "lng": 72.1324
+      },
+      {
+        "name": "Wellness Resort Gandhinagar",
+        "desc": "Luxury wellness resort in Gandhinagar",
+        "rating": "4.4",
+        "lat": 21.358700000000002,
+        "lng": 70.2924
+      },
+      {
+        "name": "Herbal Garden Gujarat",
+        "desc": "Medicinal herb garden in Gujarat",
+        "rating": "4.2",
+        "lat": 21.3487,
+        "lng": 70.28240000000001
+      },
+      {
+        "name": "Forest Bathing Gujarat",
+        "desc": "Therapeutic forest walks in Gujarat",
+        "rating": "4.3",
+        "lat": 21.3387,
+        "lng": 70.2724
+      },
+      {
+        "name": "Hot Spring Gujarat",
+        "desc": "Natural hot spring in Gujarat",
+        "rating": "4.4",
+        "lat": 21.3287,
+        "lng": 70.2624
+      },
+      {
+        "name": "Detox Retreat Gujarat",
+        "desc": "Detox and wellness retreat in Gujarat",
+        "rating": "4.3",
+        "lat": 21.3187,
+        "lng": 70.25240000000001
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Gandhinagar",
+        "desc": "Main airport of Gujarat in Gandhinagar",
+        "rating": "4.0",
+        "lat": 23.2587,
+        "lng": 72.1924
+      },
+      {
+        "name": "Railway Station Gandhinagar",
+        "desc": "Main railway junction in Gandhinagar",
+        "rating": "3.8",
+        "lat": 23.268700000000003,
+        "lng": 72.20240000000001
+      },
+      {
+        "name": "Bus Terminal Gandhinagar",
+        "desc": "State bus terminal in Gandhinagar",
+        "rating": "3.7",
+        "lat": 23.2787,
+        "lng": 72.2124
+      },
+      {
+        "name": "Metro Rail Gandhinagar",
+        "desc": "Metro rail system in Gandhinagar",
+        "rating": "4.2",
+        "lat": 23.288700000000002,
+        "lng": 72.22240000000001
+      },
+      {
+        "name": "Highway Gujarat",
+        "desc": "Major national highway through Gujarat",
+        "rating": "4.0",
+        "lat": 23.2987,
+        "lng": 72.23240000000001
+      },
+      {
+        "name": "Port Gujarat",
+        "desc": "Major sea port of Gujarat",
+        "rating": "3.9",
+        "lat": 21.2587,
+        "lng": 70.1924
+      },
+      {
+        "name": "Taxi Stand Gandhinagar",
+        "desc": "Main cab and taxi hub in Gandhinagar",
+        "rating": "3.8",
+        "lat": 21.2487,
+        "lng": 70.1824
+      },
+      {
+        "name": "Auto Rickshaw Gandhinagar",
+        "desc": "Auto rickshaw services across Gandhinagar",
+        "rating": "3.6",
+        "lat": 21.2387,
+        "lng": 70.17240000000001
+      },
+      {
+        "name": "Cab Services Gandhinagar",
+        "desc": "Ola and Uber cab services in Gandhinagar",
+        "rating": "4.0",
+        "lat": 21.2287,
+        "lng": 70.1624
+      },
+      {
+        "name": "Helipad Gujarat",
+        "desc": "Helicopter services in Gujarat",
+        "rating": "4.0",
+        "lat": 21.218700000000002,
+        "lng": 70.1524
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Gujarat",
+        "desc": "Most famous festival of Gujarat",
+        "rating": "4.7",
+        "lat": 23.358700000000002,
+        "lng": 72.2924
+      },
+      {
+        "name": "Cooking Class Gujarat",
+        "desc": "Learn traditional Gujarat cooking techniques",
+        "rating": "4.5",
+        "lat": 23.3687,
+        "lng": 72.3024
+      },
+      {
+        "name": "Village Walk Gujarat",
+        "desc": "Authentic village life experience in Gujarat",
+        "rating": "4.4",
+        "lat": 23.378700000000002,
+        "lng": 72.31240000000001
+      },
+      {
+        "name": "Craft Workshop Gujarat",
+        "desc": "Traditional craft making workshop in Gujarat",
+        "rating": "4.4",
+        "lat": 23.3887,
+        "lng": 72.3224
+      },
+      {
+        "name": "Sunrise Trek Gujarat",
+        "desc": "Early morning sunrise trek in Gujarat",
+        "rating": "4.5",
+        "lat": 23.3987,
+        "lng": 72.3324
+      },
+      {
+        "name": "Local Market Tour Gandhinagar",
+        "desc": "Guided tour of local markets in Gandhinagar",
+        "rating": "4.3",
+        "lat": 21.1587,
+        "lng": 70.09240000000001
+      },
+      {
+        "name": "Folk Performance Gujarat",
+        "desc": "Traditional folk art performance of Gujarat",
+        "rating": "4.5",
+        "lat": 21.1487,
+        "lng": 70.0824
+      },
+      {
+        "name": "Farm Stay Gujarat",
+        "desc": "Authentic farm stay experience in Gujarat",
+        "rating": "4.4",
+        "lat": 21.1387,
+        "lng": 70.0724
+      },
+      {
+        "name": "Night Safari Gujarat",
+        "desc": "Night wildlife safari in Gujarat",
+        "rating": "4.4",
+        "lat": 21.128700000000002,
+        "lng": 70.06240000000001
+      },
+      {
+        "name": "Harvest Festival Gujarat",
+        "desc": "Traditional harvest festival of Gujarat",
+        "rating": "4.5",
+        "lat": 21.1187,
+        "lng": 70.0524
+      }
+    ]
+  }
+}

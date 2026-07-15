@@ -1,0 +1,870 @@
+{
+  "state": "Chandigarh",
+  "capital": "Chandigarh",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Rock Garden Chandigarh",
+        "desc": "Most famous heritage site in Chandigarh",
+        "rating": "4.6",
+        "lat": 30.7333,
+        "lng": 76.7794
+      },
+      {
+        "name": "State Museum Chandigarh",
+        "desc": "Archaeological museum showcasing Chandigarh history",
+        "rating": "4.2",
+        "lat": 30.7433,
+        "lng": 76.7894
+      },
+      {
+        "name": "Old Fort Chandigarh",
+        "desc": "Historic fort from medieval era in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.7533,
+        "lng": 76.79939999999999
+      },
+      {
+        "name": "Ancient Temple Chandigarh",
+        "desc": "Famous ancient temple showcasing Chandigarh architecture",
+        "rating": "4.4",
+        "lat": 30.7633,
+        "lng": 76.8094
+      },
+      {
+        "name": "Colonial Building Chandigarh",
+        "desc": "Historic colonial era building in Chandigarh",
+        "rating": "4.1",
+        "lat": 30.7733,
+        "lng": 76.8194
+      },
+      {
+        "name": "Palace Chandigarh",
+        "desc": "Royal palace of former rulers of Chandigarh",
+        "rating": "4.4",
+        "lat": 30.7233,
+        "lng": 76.76939999999999
+      },
+      {
+        "name": "Rock Cut Caves Chandigarh",
+        "desc": "Ancient rock cut monuments in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.7133,
+        "lng": 76.7594
+      },
+      {
+        "name": "Heritage Walk Chandigarh",
+        "desc": "Guided walk through old quarter of Chandigarh",
+        "rating": "4.3",
+        "lat": 30.7033,
+        "lng": 76.7494
+      },
+      {
+        "name": "Memorial Museum Chandigarh",
+        "desc": "Memorial to freedom fighters of Chandigarh",
+        "rating": "4.1",
+        "lat": 30.6933,
+        "lng": 76.73939999999999
+      },
+      {
+        "name": "Ruins Site Chandigarh",
+        "desc": "Ancient ruins and archaeological findings in Chandigarh",
+        "rating": "4.2",
+        "lat": 30.6833,
+        "lng": 76.7294
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Chandigarh",
+        "desc": "Authentic Chandigarh thali with local specialties",
+        "rating": "4.5",
+        "lat": 30.8333,
+        "lng": 76.87939999999999
+      },
+      {
+        "name": "Street Food Market Chandigarh",
+        "desc": "Famous street food market in Chandigarh",
+        "rating": "4.4",
+        "lat": 30.8433,
+        "lng": 76.8894
+      },
+      {
+        "name": "Local Sweet Shop Chandigarh",
+        "desc": "Famous traditional sweets unique to Chandigarh",
+        "rating": "4.5",
+        "lat": 30.8533,
+        "lng": 76.8994
+      },
+      {
+        "name": "Tribal Cuisine Chandigarh",
+        "desc": "Authentic tribal food of Chandigarh",
+        "rating": "4.4",
+        "lat": 30.8633,
+        "lng": 76.90939999999999
+      },
+      {
+        "name": "Dhaba Chandigarh",
+        "desc": "Famous highway dhaba with Chandigarh specialties",
+        "rating": "4.3",
+        "lat": 30.8733,
+        "lng": 76.9194
+      },
+      {
+        "name": "Vegetarian Restaurant Chandigarh",
+        "desc": "Best pure vegetarian food in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.6333,
+        "lng": 76.6794
+      },
+      {
+        "name": "Biryani House Chandigarh",
+        "desc": "Best biryani and rice dishes in Chandigarh",
+        "rating": "4.4",
+        "lat": 30.6233,
+        "lng": 76.6694
+      },
+      {
+        "name": "Bakery Cafe Chandigarh",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 30.6133,
+        "lng": 76.65939999999999
+      },
+      {
+        "name": "Royal Kitchen Chandigarh",
+        "desc": "Restaurant serving royal recipes of Chandigarh",
+        "rating": "4.5",
+        "lat": 30.6033,
+        "lng": 76.6494
+      },
+      {
+        "name": "Fish Curry House Chandigarh",
+        "desc": "Traditional Chandigarh style fish preparation",
+        "rating": "4.4",
+        "lat": 30.5933,
+        "lng": 76.6394
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Chandigarh",
+        "desc": "Luxury 5-star Taj hotel in Chandigarh",
+        "rating": "4.7",
+        "lat": 30.9333,
+        "lng": 76.9794
+      },
+      {
+        "name": "Oberoi Resort Chandigarh",
+        "desc": "Luxury resort in scenic location in Chandigarh",
+        "rating": "4.8",
+        "lat": 30.9433,
+        "lng": 76.98939999999999
+      },
+      {
+        "name": "Heritage Hotel Chandigarh",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 30.9533,
+        "lng": 76.9994
+      },
+      {
+        "name": "ITC Hotel Chandigarh",
+        "desc": "ITC luxury hotel in Chandigarh",
+        "rating": "4.6",
+        "lat": 30.9633,
+        "lng": 77.0094
+      },
+      {
+        "name": "Eco Resort Chandigarh",
+        "desc": "Eco-friendly resort in nature of Chandigarh",
+        "rating": "4.5",
+        "lat": 30.9733,
+        "lng": 77.01939999999999
+      },
+      {
+        "name": "Boutique Hotel Chandigarh",
+        "desc": "Charming boutique hotel in old quarter of Chandigarh",
+        "rating": "4.4",
+        "lat": 30.5333,
+        "lng": 76.57939999999999
+      },
+      {
+        "name": "Marriott Chandigarh",
+        "desc": "International 5-star Marriott hotel in Chandigarh",
+        "rating": "4.6",
+        "lat": 30.5233,
+        "lng": 76.5694
+      },
+      {
+        "name": "Forest Lodge Chandigarh",
+        "desc": "Wildlife lodge near forest of Chandigarh",
+        "rating": "4.4",
+        "lat": 30.5133,
+        "lng": 76.5594
+      },
+      {
+        "name": "Homestay Chandigarh",
+        "desc": "Authentic homestay with local family in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.5033,
+        "lng": 76.54939999999999
+      },
+      {
+        "name": "Budget Hotel Chandigarh",
+        "desc": "Clean comfortable budget stay in Chandigarh",
+        "rating": "4.0",
+        "lat": 30.4933,
+        "lng": 76.5394
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Chandigarh",
+        "desc": "Best panoramic viewpoint in Chandigarh",
+        "rating": "4.5",
+        "lat": 31.0333,
+        "lng": 77.07939999999999
+      },
+      {
+        "name": "Waterfall Chandigarh",
+        "desc": "Most beautiful waterfall in Chandigarh",
+        "rating": "4.5",
+        "lat": 31.0433,
+        "lng": 77.0894
+      },
+      {
+        "name": "Lake Chandigarh",
+        "desc": "Scenic lake in Chandigarh with boating",
+        "rating": "4.3",
+        "lat": 31.0533,
+        "lng": 77.09939999999999
+      },
+      {
+        "name": "Hill Station Chandigarh",
+        "desc": "Popular hill station in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.063299999999998,
+        "lng": 77.1094
+      },
+      {
+        "name": "National Park Chandigarh",
+        "desc": "Wildlife national park in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.0733,
+        "lng": 77.1194
+      },
+      {
+        "name": "Beach Chandigarh",
+        "desc": "Beautiful beach in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.4333,
+        "lng": 76.4794
+      },
+      {
+        "name": "Cave System Chandigarh",
+        "desc": "Natural cave system in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.4233,
+        "lng": 76.4694
+      },
+      {
+        "name": "Dam Chandigarh",
+        "desc": "Scenic dam and reservoir in Chandigarh",
+        "rating": "4.2",
+        "lat": 30.4133,
+        "lng": 76.4594
+      },
+      {
+        "name": "Botanical Garden Chandigarh",
+        "desc": "Botanical garden with rare plants in Chandigarh",
+        "rating": "4.2",
+        "lat": 30.4033,
+        "lng": 76.4494
+      },
+      {
+        "name": "Zoo Chandigarh",
+        "desc": "State zoo in Chandigarh with variety of animals",
+        "rating": "4.1",
+        "lat": 30.3933,
+        "lng": 76.43939999999999
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Chandigarh",
+        "desc": "Bustling main market of Chandigarh",
+        "rating": "4.3",
+        "lat": 31.1333,
+        "lng": 77.1794
+      },
+      {
+        "name": "Handicraft Market Chandigarh",
+        "desc": "Traditional handicrafts of Chandigarh",
+        "rating": "4.4",
+        "lat": 31.1433,
+        "lng": 77.18939999999999
+      },
+      {
+        "name": "Silk Market Chandigarh",
+        "desc": "Famous silk and textile market of Chandigarh",
+        "rating": "4.4",
+        "lat": 31.1533,
+        "lng": 77.1994
+      },
+      {
+        "name": "Tribal Art Market Chandigarh",
+        "desc": "Traditional tribal art and crafts of Chandigarh",
+        "rating": "4.4",
+        "lat": 31.1633,
+        "lng": 77.2094
+      },
+      {
+        "name": "Spice Market Chandigarh",
+        "desc": "Aromatic spice market unique to Chandigarh",
+        "rating": "4.3",
+        "lat": 31.1733,
+        "lng": 77.2194
+      },
+      {
+        "name": "Mall Chandigarh",
+        "desc": "Modern shopping mall in Chandigarh",
+        "rating": "4.2",
+        "lat": 30.3333,
+        "lng": 76.37939999999999
+      },
+      {
+        "name": "Gem Market Chandigarh",
+        "desc": "Precious and semi-precious stones of Chandigarh",
+        "rating": "4.3",
+        "lat": 30.3233,
+        "lng": 76.3694
+      },
+      {
+        "name": "Bamboo Craft Chandigarh",
+        "desc": "Traditional bamboo craft market of Chandigarh",
+        "rating": "4.3",
+        "lat": 30.313299999999998,
+        "lng": 76.3594
+      },
+      {
+        "name": "Pottery Village Chandigarh",
+        "desc": "Traditional pottery making village in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.3033,
+        "lng": 76.34939999999999
+      },
+      {
+        "name": "Night Market Chandigarh",
+        "desc": "Evening market in Chandigarh with local goods",
+        "rating": "4.2",
+        "lat": 30.2933,
+        "lng": 76.3394
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Chandigarh",
+        "desc": "Tiger and wildlife reserve in Chandigarh",
+        "rating": "4.5",
+        "lat": 31.2333,
+        "lng": 77.2794
+      },
+      {
+        "name": "Bird Sanctuary Chandigarh",
+        "desc": "Migratory bird sanctuary in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.2433,
+        "lng": 77.2894
+      },
+      {
+        "name": "Forest Reserve Chandigarh",
+        "desc": "Dense forest reserve of Chandigarh",
+        "rating": "4.4",
+        "lat": 31.2533,
+        "lng": 77.29939999999999
+      },
+      {
+        "name": "River Valley Chandigarh",
+        "desc": "Scenic river valley in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.2633,
+        "lng": 77.3094
+      },
+      {
+        "name": "Mountain Peak Chandigarh",
+        "desc": "Highest mountain peak in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.2733,
+        "lng": 77.3194
+      },
+      {
+        "name": "Wetland Chandigarh",
+        "desc": "Important wetland ecosystem in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.2333,
+        "lng": 76.2794
+      },
+      {
+        "name": "Tea Garden Chandigarh",
+        "desc": "Scenic tea or coffee plantation in Chandigarh",
+        "rating": "4.4",
+        "lat": 30.2233,
+        "lng": 76.26939999999999
+      },
+      {
+        "name": "Organic Farm Chandigarh",
+        "desc": "Organic farming experience in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.2133,
+        "lng": 76.2594
+      },
+      {
+        "name": "Sunrise Point Chandigarh",
+        "desc": "Most spectacular sunrise point in Chandigarh",
+        "rating": "4.5",
+        "lat": 30.2033,
+        "lng": 76.2494
+      },
+      {
+        "name": "Eco Park Chandigarh",
+        "desc": "Ecology park in Chandigarh with rare plants",
+        "rating": "4.1",
+        "lat": 30.1933,
+        "lng": 76.23939999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Chandigarh",
+        "desc": "Most famous temple in Chandigarh",
+        "rating": "4.6",
+        "lat": 31.3333,
+        "lng": 77.37939999999999
+      },
+      {
+        "name": "Mosque Chandigarh",
+        "desc": "Historic mosque in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.3433,
+        "lng": 77.3894
+      },
+      {
+        "name": "Church Chandigarh",
+        "desc": "Historic church in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.3533,
+        "lng": 77.3994
+      },
+      {
+        "name": "Gurudwara Chandigarh",
+        "desc": "Important Sikh shrine in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.3633,
+        "lng": 77.40939999999999
+      },
+      {
+        "name": "Buddhist Monastery Chandigarh",
+        "desc": "Ancient Buddhist monastery in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.3733,
+        "lng": 77.4194
+      },
+      {
+        "name": "Jain Temple Chandigarh",
+        "desc": "Famous Jain temple in Chandigarh",
+        "rating": "4.4",
+        "lat": 30.1333,
+        "lng": 76.1794
+      },
+      {
+        "name": "Dargah Chandigarh",
+        "desc": "Famous Sufi dargah in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.1233,
+        "lng": 76.1694
+      },
+      {
+        "name": "Ashram Chandigarh",
+        "desc": "Spiritual ashram in Chandigarh",
+        "rating": "4.4",
+        "lat": 30.1133,
+        "lng": 76.15939999999999
+      },
+      {
+        "name": "Pilgrimage Site Chandigarh",
+        "desc": "Important pilgrimage destination in Chandigarh",
+        "rating": "4.5",
+        "lat": 30.1033,
+        "lng": 76.1494
+      },
+      {
+        "name": "Sacred River Ghat Chandigarh",
+        "desc": "Sacred river ghat for rituals in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.0933,
+        "lng": 76.1394
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Chandigarh",
+        "desc": "Traditional folk dance performance of Chandigarh",
+        "rating": "4.5",
+        "lat": 31.4333,
+        "lng": 77.4794
+      },
+      {
+        "name": "Art Gallery Chandigarh",
+        "desc": "State art gallery in Chandigarh",
+        "rating": "4.2",
+        "lat": 31.4433,
+        "lng": 77.48939999999999
+      },
+      {
+        "name": "Cultural Center Chandigarh",
+        "desc": "Cultural center for arts in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.4533,
+        "lng": 77.4994
+      },
+      {
+        "name": "Music Festival Chandigarh",
+        "desc": "Annual music festival of Chandigarh",
+        "rating": "4.5",
+        "lat": 31.4633,
+        "lng": 77.5094
+      },
+      {
+        "name": "Tribal Museum Chandigarh",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 31.4733,
+        "lng": 77.51939999999999
+      },
+      {
+        "name": "Craft Village Chandigarh",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 30.0333,
+        "lng": 76.07939999999999
+      },
+      {
+        "name": "Classical Dance Academy Chandigarh",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 30.0233,
+        "lng": 76.0694
+      },
+      {
+        "name": "Puppet Theatre Chandigarh",
+        "desc": "Traditional puppet theatre of Chandigarh",
+        "rating": "4.4",
+        "lat": 30.0133,
+        "lng": 76.0594
+      },
+      {
+        "name": "Weaving Center Chandigarh",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 30.0033,
+        "lng": 76.04939999999999
+      },
+      {
+        "name": "Open Air Theatre Chandigarh",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 29.9933,
+        "lng": 76.0394
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Chandigarh",
+        "desc": "Best trekking trails in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.5333,
+        "lng": 77.57939999999999
+      },
+      {
+        "name": "Rock Climbing Chandigarh",
+        "desc": "Rock climbing spots in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.5433,
+        "lng": 77.5894
+      },
+      {
+        "name": "River Rafting Chandigarh",
+        "desc": "White water rafting in rivers of Chandigarh",
+        "rating": "4.5",
+        "lat": 31.5533,
+        "lng": 77.59939999999999
+      },
+      {
+        "name": "Paragliding Chandigarh",
+        "desc": "Paragliding spots in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.563299999999998,
+        "lng": 77.6094
+      },
+      {
+        "name": "Camping Chandigarh",
+        "desc": "Camping spots in forests of Chandigarh",
+        "rating": "4.4",
+        "lat": 31.5733,
+        "lng": 77.6194
+      },
+      {
+        "name": "Zip Line Chandigarh",
+        "desc": "Zip lining adventure in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.9333,
+        "lng": 75.9794
+      },
+      {
+        "name": "Jungle Safari Chandigarh",
+        "desc": "Jeep jungle safari in Chandigarh",
+        "rating": "4.4",
+        "lat": 29.9233,
+        "lng": 75.9694
+      },
+      {
+        "name": "Cycling Tour Chandigarh",
+        "desc": "Scenic cycling routes in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.9133,
+        "lng": 75.9594
+      },
+      {
+        "name": "Water Sports Chandigarh",
+        "desc": "Water sports activities in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.9033,
+        "lng": 75.9494
+      },
+      {
+        "name": "Bungee Jumping Chandigarh",
+        "desc": "Bungee jumping experience in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.8933,
+        "lng": 75.93939999999999
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Chandigarh",
+        "desc": "Traditional Ayurvedic treatments in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.6333,
+        "lng": 77.6794
+      },
+      {
+        "name": "Yoga Retreat Chandigarh",
+        "desc": "Yoga and meditation retreat in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.6433,
+        "lng": 77.68939999999999
+      },
+      {
+        "name": "Spa Resort Chandigarh",
+        "desc": "Luxury spa resort in Chandigarh",
+        "rating": "4.5",
+        "lat": 31.6533,
+        "lng": 77.6994
+      },
+      {
+        "name": "Naturopathy Center Chandigarh",
+        "desc": "Natural healing center in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.6633,
+        "lng": 77.7094
+      },
+      {
+        "name": "Meditation Ashram Chandigarh",
+        "desc": "Peaceful meditation ashram in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.6733,
+        "lng": 77.7194
+      },
+      {
+        "name": "Wellness Resort Chandigarh",
+        "desc": "Luxury wellness resort in Chandigarh",
+        "rating": "4.4",
+        "lat": 29.8333,
+        "lng": 75.87939999999999
+      },
+      {
+        "name": "Herbal Garden Chandigarh",
+        "desc": "Medicinal herb garden in Chandigarh",
+        "rating": "4.2",
+        "lat": 29.8233,
+        "lng": 75.8694
+      },
+      {
+        "name": "Forest Bathing Chandigarh",
+        "desc": "Therapeutic forest walks in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.813299999999998,
+        "lng": 75.8594
+      },
+      {
+        "name": "Hot Spring Chandigarh",
+        "desc": "Natural hot spring in Chandigarh",
+        "rating": "4.4",
+        "lat": 29.8033,
+        "lng": 75.84939999999999
+      },
+      {
+        "name": "Detox Retreat Chandigarh",
+        "desc": "Detox and wellness retreat in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.7933,
+        "lng": 75.8394
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Chandigarh",
+        "desc": "Main airport of Chandigarh in Chandigarh",
+        "rating": "4.0",
+        "lat": 31.7333,
+        "lng": 77.7794
+      },
+      {
+        "name": "Railway Station Chandigarh",
+        "desc": "Main railway junction in Chandigarh",
+        "rating": "3.8",
+        "lat": 31.7433,
+        "lng": 77.7894
+      },
+      {
+        "name": "Bus Terminal Chandigarh",
+        "desc": "State bus terminal in Chandigarh",
+        "rating": "3.7",
+        "lat": 31.7533,
+        "lng": 77.79939999999999
+      },
+      {
+        "name": "Metro Rail Chandigarh",
+        "desc": "Metro rail system in Chandigarh",
+        "rating": "4.2",
+        "lat": 31.7633,
+        "lng": 77.8094
+      },
+      {
+        "name": "Highway Chandigarh",
+        "desc": "Major national highway through Chandigarh",
+        "rating": "4.0",
+        "lat": 31.7733,
+        "lng": 77.8194
+      },
+      {
+        "name": "Port Chandigarh",
+        "desc": "Major sea port of Chandigarh",
+        "rating": "3.9",
+        "lat": 29.7333,
+        "lng": 75.7794
+      },
+      {
+        "name": "Taxi Stand Chandigarh",
+        "desc": "Main cab and taxi hub in Chandigarh",
+        "rating": "3.8",
+        "lat": 29.7233,
+        "lng": 75.76939999999999
+      },
+      {
+        "name": "Auto Rickshaw Chandigarh",
+        "desc": "Auto rickshaw services across Chandigarh",
+        "rating": "3.6",
+        "lat": 29.7133,
+        "lng": 75.7594
+      },
+      {
+        "name": "Cab Services Chandigarh",
+        "desc": "Ola and Uber cab services in Chandigarh",
+        "rating": "4.0",
+        "lat": 29.7033,
+        "lng": 75.7494
+      },
+      {
+        "name": "Helipad Chandigarh",
+        "desc": "Helicopter services in Chandigarh",
+        "rating": "4.0",
+        "lat": 29.6933,
+        "lng": 75.73939999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Chandigarh",
+        "desc": "Most famous festival of Chandigarh",
+        "rating": "4.7",
+        "lat": 31.8333,
+        "lng": 77.87939999999999
+      },
+      {
+        "name": "Cooking Class Chandigarh",
+        "desc": "Learn traditional Chandigarh cooking techniques",
+        "rating": "4.5",
+        "lat": 31.8433,
+        "lng": 77.8894
+      },
+      {
+        "name": "Village Walk Chandigarh",
+        "desc": "Authentic village life experience in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.8533,
+        "lng": 77.8994
+      },
+      {
+        "name": "Craft Workshop Chandigarh",
+        "desc": "Traditional craft making workshop in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.8633,
+        "lng": 77.90939999999999
+      },
+      {
+        "name": "Sunrise Trek Chandigarh",
+        "desc": "Early morning sunrise trek in Chandigarh",
+        "rating": "4.5",
+        "lat": 31.8733,
+        "lng": 77.9194
+      },
+      {
+        "name": "Local Market Tour Chandigarh",
+        "desc": "Guided tour of local markets in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.6333,
+        "lng": 75.6794
+      },
+      {
+        "name": "Folk Performance Chandigarh",
+        "desc": "Traditional folk art performance of Chandigarh",
+        "rating": "4.5",
+        "lat": 29.6233,
+        "lng": 75.6694
+      },
+      {
+        "name": "Farm Stay Chandigarh",
+        "desc": "Authentic farm stay experience in Chandigarh",
+        "rating": "4.4",
+        "lat": 29.6133,
+        "lng": 75.65939999999999
+      },
+      {
+        "name": "Night Safari Chandigarh",
+        "desc": "Night wildlife safari in Chandigarh",
+        "rating": "4.4",
+        "lat": 29.6033,
+        "lng": 75.6494
+      },
+      {
+        "name": "Harvest Festival Chandigarh",
+        "desc": "Traditional harvest festival of Chandigarh",
+        "rating": "4.5",
+        "lat": 29.5933,
+        "lng": 75.6394
+      }
+    ]
+  }
+}

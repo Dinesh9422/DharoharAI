@@ -1,0 +1,870 @@
+{
+  "state": "Bihar",
+  "capital": "Patna",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Mahabodhi Temple Bodh Gaya",
+        "desc": "Most famous heritage site in Bihar",
+        "rating": "4.6",
+        "lat": 25.0961,
+        "lng": 85.3131
+      },
+      {
+        "name": "State Museum Patna",
+        "desc": "Archaeological museum showcasing Bihar history",
+        "rating": "4.2",
+        "lat": 25.1061,
+        "lng": 85.32310000000001
+      },
+      {
+        "name": "Old Fort Patna",
+        "desc": "Historic fort from medieval era in Patna",
+        "rating": "4.3",
+        "lat": 25.1161,
+        "lng": 85.3331
+      },
+      {
+        "name": "Ancient Temple Bihar",
+        "desc": "Famous ancient temple showcasing Bihar architecture",
+        "rating": "4.4",
+        "lat": 25.1261,
+        "lng": 85.3431
+      },
+      {
+        "name": "Colonial Building Patna",
+        "desc": "Historic colonial era building in Patna",
+        "rating": "4.1",
+        "lat": 25.1361,
+        "lng": 85.35310000000001
+      },
+      {
+        "name": "Palace Bihar",
+        "desc": "Royal palace of former rulers of Bihar",
+        "rating": "4.4",
+        "lat": 25.0861,
+        "lng": 85.3031
+      },
+      {
+        "name": "Rock Cut Caves Bihar",
+        "desc": "Ancient rock cut monuments in Bihar",
+        "rating": "4.3",
+        "lat": 25.0761,
+        "lng": 85.29310000000001
+      },
+      {
+        "name": "Heritage Walk Patna",
+        "desc": "Guided walk through old quarter of Patna",
+        "rating": "4.3",
+        "lat": 25.0661,
+        "lng": 85.2831
+      },
+      {
+        "name": "Memorial Museum Patna",
+        "desc": "Memorial to freedom fighters of Bihar",
+        "rating": "4.1",
+        "lat": 25.0561,
+        "lng": 85.2731
+      },
+      {
+        "name": "Ruins Site Bihar",
+        "desc": "Ancient ruins and archaeological findings in Bihar",
+        "rating": "4.2",
+        "lat": 25.0461,
+        "lng": 85.26310000000001
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Patna",
+        "desc": "Authentic Bihar thali with local specialties",
+        "rating": "4.5",
+        "lat": 25.1961,
+        "lng": 85.4131
+      },
+      {
+        "name": "Street Food Market Patna",
+        "desc": "Famous street food market in Patna",
+        "rating": "4.4",
+        "lat": 25.2061,
+        "lng": 85.4231
+      },
+      {
+        "name": "Local Sweet Shop Bihar",
+        "desc": "Famous traditional sweets unique to Bihar",
+        "rating": "4.5",
+        "lat": 25.2161,
+        "lng": 85.43310000000001
+      },
+      {
+        "name": "Tribal Cuisine Bihar",
+        "desc": "Authentic tribal food of Bihar",
+        "rating": "4.4",
+        "lat": 25.2261,
+        "lng": 85.4431
+      },
+      {
+        "name": "Dhaba Bihar",
+        "desc": "Famous highway dhaba with Bihar specialties",
+        "rating": "4.3",
+        "lat": 25.2361,
+        "lng": 85.4531
+      },
+      {
+        "name": "Vegetarian Restaurant Patna",
+        "desc": "Best pure vegetarian food in Patna",
+        "rating": "4.3",
+        "lat": 24.9961,
+        "lng": 85.21310000000001
+      },
+      {
+        "name": "Biryani House Patna",
+        "desc": "Best biryani and rice dishes in Patna",
+        "rating": "4.4",
+        "lat": 24.9861,
+        "lng": 85.2031
+      },
+      {
+        "name": "Bakery Cafe Patna",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 24.9761,
+        "lng": 85.1931
+      },
+      {
+        "name": "Royal Kitchen Bihar",
+        "desc": "Restaurant serving royal recipes of Bihar",
+        "rating": "4.5",
+        "lat": 24.9661,
+        "lng": 85.18310000000001
+      },
+      {
+        "name": "Fish Curry House Bihar",
+        "desc": "Traditional Bihar style fish preparation",
+        "rating": "4.4",
+        "lat": 24.9561,
+        "lng": 85.1731
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Patna",
+        "desc": "Luxury 5-star Taj hotel in Patna",
+        "rating": "4.7",
+        "lat": 25.2961,
+        "lng": 85.51310000000001
+      },
+      {
+        "name": "Oberoi Resort Bihar",
+        "desc": "Luxury resort in scenic location in Bihar",
+        "rating": "4.8",
+        "lat": 25.3061,
+        "lng": 85.5231
+      },
+      {
+        "name": "Heritage Hotel Patna",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 25.3161,
+        "lng": 85.5331
+      },
+      {
+        "name": "ITC Hotel Patna",
+        "desc": "ITC luxury hotel in Patna",
+        "rating": "4.6",
+        "lat": 25.3261,
+        "lng": 85.54310000000001
+      },
+      {
+        "name": "Eco Resort Bihar",
+        "desc": "Eco-friendly resort in nature of Bihar",
+        "rating": "4.5",
+        "lat": 25.3361,
+        "lng": 85.5531
+      },
+      {
+        "name": "Boutique Hotel Patna",
+        "desc": "Charming boutique hotel in old quarter of Patna",
+        "rating": "4.4",
+        "lat": 24.8961,
+        "lng": 85.1131
+      },
+      {
+        "name": "Marriott Patna",
+        "desc": "International 5-star Marriott hotel in Patna",
+        "rating": "4.6",
+        "lat": 24.8861,
+        "lng": 85.10310000000001
+      },
+      {
+        "name": "Forest Lodge Bihar",
+        "desc": "Wildlife lodge near forest of Bihar",
+        "rating": "4.4",
+        "lat": 24.8761,
+        "lng": 85.0931
+      },
+      {
+        "name": "Homestay Bihar",
+        "desc": "Authentic homestay with local family in Bihar",
+        "rating": "4.3",
+        "lat": 24.8661,
+        "lng": 85.0831
+      },
+      {
+        "name": "Budget Hotel Patna",
+        "desc": "Clean comfortable budget stay in Patna",
+        "rating": "4.0",
+        "lat": 24.8561,
+        "lng": 85.07310000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Bihar",
+        "desc": "Best panoramic viewpoint in Bihar",
+        "rating": "4.5",
+        "lat": 25.3961,
+        "lng": 85.6131
+      },
+      {
+        "name": "Waterfall Bihar",
+        "desc": "Most beautiful waterfall in Bihar",
+        "rating": "4.5",
+        "lat": 25.4061,
+        "lng": 85.62310000000001
+      },
+      {
+        "name": "Lake Bihar",
+        "desc": "Scenic lake in Bihar with boating",
+        "rating": "4.3",
+        "lat": 25.4161,
+        "lng": 85.6331
+      },
+      {
+        "name": "Hill Station Bihar",
+        "desc": "Popular hill station in Bihar",
+        "rating": "4.4",
+        "lat": 25.426099999999998,
+        "lng": 85.6431
+      },
+      {
+        "name": "National Park Bihar",
+        "desc": "Wildlife national park in Bihar",
+        "rating": "4.4",
+        "lat": 25.4361,
+        "lng": 85.65310000000001
+      },
+      {
+        "name": "Beach Bihar",
+        "desc": "Beautiful beach in Bihar",
+        "rating": "4.3",
+        "lat": 24.7961,
+        "lng": 85.01310000000001
+      },
+      {
+        "name": "Cave System Bihar",
+        "desc": "Natural cave system in Bihar",
+        "rating": "4.3",
+        "lat": 24.7861,
+        "lng": 85.0031
+      },
+      {
+        "name": "Dam Bihar",
+        "desc": "Scenic dam and reservoir in Bihar",
+        "rating": "4.2",
+        "lat": 24.7761,
+        "lng": 84.99310000000001
+      },
+      {
+        "name": "Botanical Garden Patna",
+        "desc": "Botanical garden with rare plants in Patna",
+        "rating": "4.2",
+        "lat": 24.7661,
+        "lng": 84.98310000000001
+      },
+      {
+        "name": "Zoo Patna",
+        "desc": "State zoo in Patna with variety of animals",
+        "rating": "4.1",
+        "lat": 24.7561,
+        "lng": 84.9731
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Patna",
+        "desc": "Bustling main market of Patna",
+        "rating": "4.3",
+        "lat": 25.4961,
+        "lng": 85.71310000000001
+      },
+      {
+        "name": "Handicraft Market Bihar",
+        "desc": "Traditional handicrafts of Bihar",
+        "rating": "4.4",
+        "lat": 25.5061,
+        "lng": 85.7231
+      },
+      {
+        "name": "Silk Market Bihar",
+        "desc": "Famous silk and textile market of Bihar",
+        "rating": "4.4",
+        "lat": 25.5161,
+        "lng": 85.73310000000001
+      },
+      {
+        "name": "Tribal Art Market Bihar",
+        "desc": "Traditional tribal art and crafts of Bihar",
+        "rating": "4.4",
+        "lat": 25.5261,
+        "lng": 85.74310000000001
+      },
+      {
+        "name": "Spice Market Bihar",
+        "desc": "Aromatic spice market unique to Bihar",
+        "rating": "4.3",
+        "lat": 25.5361,
+        "lng": 85.7531
+      },
+      {
+        "name": "Mall Patna",
+        "desc": "Modern shopping mall in Patna",
+        "rating": "4.2",
+        "lat": 24.6961,
+        "lng": 84.9131
+      },
+      {
+        "name": "Gem Market Bihar",
+        "desc": "Precious and semi-precious stones of Bihar",
+        "rating": "4.3",
+        "lat": 24.6861,
+        "lng": 84.90310000000001
+      },
+      {
+        "name": "Bamboo Craft Bihar",
+        "desc": "Traditional bamboo craft market of Bihar",
+        "rating": "4.3",
+        "lat": 24.676099999999998,
+        "lng": 84.8931
+      },
+      {
+        "name": "Pottery Village Bihar",
+        "desc": "Traditional pottery making village in Bihar",
+        "rating": "4.3",
+        "lat": 24.6661,
+        "lng": 84.8831
+      },
+      {
+        "name": "Night Market Patna",
+        "desc": "Evening market in Patna with local goods",
+        "rating": "4.2",
+        "lat": 24.6561,
+        "lng": 84.87310000000001
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Bihar",
+        "desc": "Tiger and wildlife reserve in Bihar",
+        "rating": "4.5",
+        "lat": 25.5961,
+        "lng": 85.8131
+      },
+      {
+        "name": "Bird Sanctuary Bihar",
+        "desc": "Migratory bird sanctuary in Bihar",
+        "rating": "4.4",
+        "lat": 25.6061,
+        "lng": 85.82310000000001
+      },
+      {
+        "name": "Forest Reserve Bihar",
+        "desc": "Dense forest reserve of Bihar",
+        "rating": "4.4",
+        "lat": 25.6161,
+        "lng": 85.8331
+      },
+      {
+        "name": "River Valley Bihar",
+        "desc": "Scenic river valley in Bihar",
+        "rating": "4.3",
+        "lat": 25.6261,
+        "lng": 85.8431
+      },
+      {
+        "name": "Mountain Peak Bihar",
+        "desc": "Highest mountain peak in Bihar",
+        "rating": "4.4",
+        "lat": 25.6361,
+        "lng": 85.85310000000001
+      },
+      {
+        "name": "Wetland Bihar",
+        "desc": "Important wetland ecosystem in Bihar",
+        "rating": "4.3",
+        "lat": 24.5961,
+        "lng": 84.8131
+      },
+      {
+        "name": "Tea Garden Bihar",
+        "desc": "Scenic tea or coffee plantation in Bihar",
+        "rating": "4.4",
+        "lat": 24.5861,
+        "lng": 84.8031
+      },
+      {
+        "name": "Organic Farm Bihar",
+        "desc": "Organic farming experience in Bihar",
+        "rating": "4.3",
+        "lat": 24.5761,
+        "lng": 84.79310000000001
+      },
+      {
+        "name": "Sunrise Point Bihar",
+        "desc": "Most spectacular sunrise point in Bihar",
+        "rating": "4.5",
+        "lat": 24.5661,
+        "lng": 84.7831
+      },
+      {
+        "name": "Eco Park Patna",
+        "desc": "Ecology park in Patna with rare plants",
+        "rating": "4.1",
+        "lat": 24.5561,
+        "lng": 84.7731
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Bihar",
+        "desc": "Most famous temple in Bihar",
+        "rating": "4.6",
+        "lat": 25.6961,
+        "lng": 85.9131
+      },
+      {
+        "name": "Mosque Patna",
+        "desc": "Historic mosque in Patna",
+        "rating": "4.3",
+        "lat": 25.7061,
+        "lng": 85.9231
+      },
+      {
+        "name": "Church Patna",
+        "desc": "Historic church in Patna",
+        "rating": "4.3",
+        "lat": 25.7161,
+        "lng": 85.93310000000001
+      },
+      {
+        "name": "Gurudwara Bihar",
+        "desc": "Important Sikh shrine in Bihar",
+        "rating": "4.4",
+        "lat": 25.7261,
+        "lng": 85.9431
+      },
+      {
+        "name": "Buddhist Monastery Bihar",
+        "desc": "Ancient Buddhist monastery in Bihar",
+        "rating": "4.4",
+        "lat": 25.7361,
+        "lng": 85.9531
+      },
+      {
+        "name": "Jain Temple Bihar",
+        "desc": "Famous Jain temple in Bihar",
+        "rating": "4.4",
+        "lat": 24.4961,
+        "lng": 84.71310000000001
+      },
+      {
+        "name": "Dargah Bihar",
+        "desc": "Famous Sufi dargah in Bihar",
+        "rating": "4.3",
+        "lat": 24.4861,
+        "lng": 84.7031
+      },
+      {
+        "name": "Ashram Bihar",
+        "desc": "Spiritual ashram in Bihar",
+        "rating": "4.4",
+        "lat": 24.4761,
+        "lng": 84.6931
+      },
+      {
+        "name": "Pilgrimage Site Bihar",
+        "desc": "Important pilgrimage destination in Bihar",
+        "rating": "4.5",
+        "lat": 24.4661,
+        "lng": 84.68310000000001
+      },
+      {
+        "name": "Sacred River Ghat Bihar",
+        "desc": "Sacred river ghat for rituals in Bihar",
+        "rating": "4.3",
+        "lat": 24.4561,
+        "lng": 84.6731
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Bihar",
+        "desc": "Traditional folk dance performance of Bihar",
+        "rating": "4.5",
+        "lat": 25.7961,
+        "lng": 86.01310000000001
+      },
+      {
+        "name": "Art Gallery Patna",
+        "desc": "State art gallery in Patna",
+        "rating": "4.2",
+        "lat": 25.8061,
+        "lng": 86.0231
+      },
+      {
+        "name": "Cultural Center Patna",
+        "desc": "Cultural center for arts in Patna",
+        "rating": "4.3",
+        "lat": 25.8161,
+        "lng": 86.0331
+      },
+      {
+        "name": "Music Festival Bihar",
+        "desc": "Annual music festival of Bihar",
+        "rating": "4.5",
+        "lat": 25.8261,
+        "lng": 86.04310000000001
+      },
+      {
+        "name": "Tribal Museum Bihar",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 25.8361,
+        "lng": 86.0531
+      },
+      {
+        "name": "Craft Village Bihar",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 24.3961,
+        "lng": 84.6131
+      },
+      {
+        "name": "Classical Dance Academy Patna",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 24.3861,
+        "lng": 84.60310000000001
+      },
+      {
+        "name": "Puppet Theatre Bihar",
+        "desc": "Traditional puppet theatre of Bihar",
+        "rating": "4.4",
+        "lat": 24.3761,
+        "lng": 84.5931
+      },
+      {
+        "name": "Weaving Center Bihar",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 24.3661,
+        "lng": 84.5831
+      },
+      {
+        "name": "Open Air Theatre Patna",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 24.3561,
+        "lng": 84.57310000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Bihar",
+        "desc": "Best trekking trails in Bihar",
+        "rating": "4.4",
+        "lat": 25.8961,
+        "lng": 86.1131
+      },
+      {
+        "name": "Rock Climbing Bihar",
+        "desc": "Rock climbing spots in Bihar",
+        "rating": "4.3",
+        "lat": 25.9061,
+        "lng": 86.12310000000001
+      },
+      {
+        "name": "River Rafting Bihar",
+        "desc": "White water rafting in rivers of Bihar",
+        "rating": "4.5",
+        "lat": 25.9161,
+        "lng": 86.1331
+      },
+      {
+        "name": "Paragliding Bihar",
+        "desc": "Paragliding spots in Bihar",
+        "rating": "4.4",
+        "lat": 25.926099999999998,
+        "lng": 86.1431
+      },
+      {
+        "name": "Camping Bihar",
+        "desc": "Camping spots in forests of Bihar",
+        "rating": "4.4",
+        "lat": 25.9361,
+        "lng": 86.15310000000001
+      },
+      {
+        "name": "Zip Line Bihar",
+        "desc": "Zip lining adventure in Bihar",
+        "rating": "4.3",
+        "lat": 24.2961,
+        "lng": 84.51310000000001
+      },
+      {
+        "name": "Jungle Safari Bihar",
+        "desc": "Jeep jungle safari in Bihar",
+        "rating": "4.4",
+        "lat": 24.2861,
+        "lng": 84.5031
+      },
+      {
+        "name": "Cycling Tour Bihar",
+        "desc": "Scenic cycling routes in Bihar",
+        "rating": "4.3",
+        "lat": 24.2761,
+        "lng": 84.49310000000001
+      },
+      {
+        "name": "Water Sports Bihar",
+        "desc": "Water sports activities in Bihar",
+        "rating": "4.3",
+        "lat": 24.2661,
+        "lng": 84.48310000000001
+      },
+      {
+        "name": "Bungee Jumping Bihar",
+        "desc": "Bungee jumping experience in Bihar",
+        "rating": "4.3",
+        "lat": 24.2561,
+        "lng": 84.4731
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Bihar",
+        "desc": "Traditional Ayurvedic treatments in Bihar",
+        "rating": "4.4",
+        "lat": 25.9961,
+        "lng": 86.21310000000001
+      },
+      {
+        "name": "Yoga Retreat Bihar",
+        "desc": "Yoga and meditation retreat in Bihar",
+        "rating": "4.4",
+        "lat": 26.0061,
+        "lng": 86.2231
+      },
+      {
+        "name": "Spa Resort Bihar",
+        "desc": "Luxury spa resort in Bihar",
+        "rating": "4.5",
+        "lat": 26.0161,
+        "lng": 86.23310000000001
+      },
+      {
+        "name": "Naturopathy Center Bihar",
+        "desc": "Natural healing center in Bihar",
+        "rating": "4.3",
+        "lat": 26.0261,
+        "lng": 86.24310000000001
+      },
+      {
+        "name": "Meditation Ashram Bihar",
+        "desc": "Peaceful meditation ashram in Bihar",
+        "rating": "4.4",
+        "lat": 26.0361,
+        "lng": 86.2531
+      },
+      {
+        "name": "Wellness Resort Patna",
+        "desc": "Luxury wellness resort in Patna",
+        "rating": "4.4",
+        "lat": 24.1961,
+        "lng": 84.4131
+      },
+      {
+        "name": "Herbal Garden Bihar",
+        "desc": "Medicinal herb garden in Bihar",
+        "rating": "4.2",
+        "lat": 24.1861,
+        "lng": 84.40310000000001
+      },
+      {
+        "name": "Forest Bathing Bihar",
+        "desc": "Therapeutic forest walks in Bihar",
+        "rating": "4.3",
+        "lat": 24.176099999999998,
+        "lng": 84.3931
+      },
+      {
+        "name": "Hot Spring Bihar",
+        "desc": "Natural hot spring in Bihar",
+        "rating": "4.4",
+        "lat": 24.1661,
+        "lng": 84.3831
+      },
+      {
+        "name": "Detox Retreat Bihar",
+        "desc": "Detox and wellness retreat in Bihar",
+        "rating": "4.3",
+        "lat": 24.1561,
+        "lng": 84.37310000000001
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Patna",
+        "desc": "Main airport of Bihar in Patna",
+        "rating": "4.0",
+        "lat": 26.0961,
+        "lng": 86.3131
+      },
+      {
+        "name": "Railway Station Patna",
+        "desc": "Main railway junction in Patna",
+        "rating": "3.8",
+        "lat": 26.1061,
+        "lng": 86.32310000000001
+      },
+      {
+        "name": "Bus Terminal Patna",
+        "desc": "State bus terminal in Patna",
+        "rating": "3.7",
+        "lat": 26.1161,
+        "lng": 86.3331
+      },
+      {
+        "name": "Metro Rail Patna",
+        "desc": "Metro rail system in Patna",
+        "rating": "4.2",
+        "lat": 26.1261,
+        "lng": 86.3431
+      },
+      {
+        "name": "Highway Bihar",
+        "desc": "Major national highway through Bihar",
+        "rating": "4.0",
+        "lat": 26.1361,
+        "lng": 86.35310000000001
+      },
+      {
+        "name": "Port Bihar",
+        "desc": "Major sea port of Bihar",
+        "rating": "3.9",
+        "lat": 24.0961,
+        "lng": 84.3131
+      },
+      {
+        "name": "Taxi Stand Patna",
+        "desc": "Main cab and taxi hub in Patna",
+        "rating": "3.8",
+        "lat": 24.0861,
+        "lng": 84.3031
+      },
+      {
+        "name": "Auto Rickshaw Patna",
+        "desc": "Auto rickshaw services across Patna",
+        "rating": "3.6",
+        "lat": 24.0761,
+        "lng": 84.29310000000001
+      },
+      {
+        "name": "Cab Services Patna",
+        "desc": "Ola and Uber cab services in Patna",
+        "rating": "4.0",
+        "lat": 24.0661,
+        "lng": 84.2831
+      },
+      {
+        "name": "Helipad Bihar",
+        "desc": "Helicopter services in Bihar",
+        "rating": "4.0",
+        "lat": 24.0561,
+        "lng": 84.2731
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Bihar",
+        "desc": "Most famous festival of Bihar",
+        "rating": "4.7",
+        "lat": 26.1961,
+        "lng": 86.4131
+      },
+      {
+        "name": "Cooking Class Bihar",
+        "desc": "Learn traditional Bihar cooking techniques",
+        "rating": "4.5",
+        "lat": 26.2061,
+        "lng": 86.4231
+      },
+      {
+        "name": "Village Walk Bihar",
+        "desc": "Authentic village life experience in Bihar",
+        "rating": "4.4",
+        "lat": 26.2161,
+        "lng": 86.43310000000001
+      },
+      {
+        "name": "Craft Workshop Bihar",
+        "desc": "Traditional craft making workshop in Bihar",
+        "rating": "4.4",
+        "lat": 26.2261,
+        "lng": 86.4431
+      },
+      {
+        "name": "Sunrise Trek Bihar",
+        "desc": "Early morning sunrise trek in Bihar",
+        "rating": "4.5",
+        "lat": 26.2361,
+        "lng": 86.4531
+      },
+      {
+        "name": "Local Market Tour Patna",
+        "desc": "Guided tour of local markets in Patna",
+        "rating": "4.3",
+        "lat": 23.9961,
+        "lng": 84.21310000000001
+      },
+      {
+        "name": "Folk Performance Bihar",
+        "desc": "Traditional folk art performance of Bihar",
+        "rating": "4.5",
+        "lat": 23.9861,
+        "lng": 84.2031
+      },
+      {
+        "name": "Farm Stay Bihar",
+        "desc": "Authentic farm stay experience in Bihar",
+        "rating": "4.4",
+        "lat": 23.9761,
+        "lng": 84.1931
+      },
+      {
+        "name": "Night Safari Bihar",
+        "desc": "Night wildlife safari in Bihar",
+        "rating": "4.4",
+        "lat": 23.9661,
+        "lng": 84.18310000000001
+      },
+      {
+        "name": "Harvest Festival Bihar",
+        "desc": "Traditional harvest festival of Bihar",
+        "rating": "4.5",
+        "lat": 23.9561,
+        "lng": 84.1731
+      }
+    ]
+  }
+}

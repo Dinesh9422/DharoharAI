@@ -1,0 +1,870 @@
+{
+  "state": "Assam",
+  "capital": "Guwahati",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Kaziranga National Park",
+        "desc": "Most famous heritage site in Assam",
+        "rating": "4.6",
+        "lat": 26.2006,
+        "lng": 92.9376
+      },
+      {
+        "name": "State Museum Guwahati",
+        "desc": "Archaeological museum showcasing Assam history",
+        "rating": "4.2",
+        "lat": 26.210600000000003,
+        "lng": 92.94760000000001
+      },
+      {
+        "name": "Old Fort Guwahati",
+        "desc": "Historic fort from medieval era in Guwahati",
+        "rating": "4.3",
+        "lat": 26.2206,
+        "lng": 92.9576
+      },
+      {
+        "name": "Ancient Temple Assam",
+        "desc": "Famous ancient temple showcasing Assam architecture",
+        "rating": "4.4",
+        "lat": 26.230600000000003,
+        "lng": 92.9676
+      },
+      {
+        "name": "Colonial Building Guwahati",
+        "desc": "Historic colonial era building in Guwahati",
+        "rating": "4.1",
+        "lat": 26.2406,
+        "lng": 92.97760000000001
+      },
+      {
+        "name": "Palace Assam",
+        "desc": "Royal palace of former rulers of Assam",
+        "rating": "4.4",
+        "lat": 26.1906,
+        "lng": 92.9276
+      },
+      {
+        "name": "Rock Cut Caves Assam",
+        "desc": "Ancient rock cut monuments in Assam",
+        "rating": "4.3",
+        "lat": 26.180600000000002,
+        "lng": 92.91760000000001
+      },
+      {
+        "name": "Heritage Walk Guwahati",
+        "desc": "Guided walk through old quarter of Guwahati",
+        "rating": "4.3",
+        "lat": 26.1706,
+        "lng": 92.9076
+      },
+      {
+        "name": "Memorial Museum Guwahati",
+        "desc": "Memorial to freedom fighters of Assam",
+        "rating": "4.1",
+        "lat": 26.160600000000002,
+        "lng": 92.8976
+      },
+      {
+        "name": "Ruins Site Assam",
+        "desc": "Ancient ruins and archaeological findings in Assam",
+        "rating": "4.2",
+        "lat": 26.1506,
+        "lng": 92.8876
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Guwahati",
+        "desc": "Authentic Assam thali with local specialties",
+        "rating": "4.5",
+        "lat": 26.300600000000003,
+        "lng": 93.0376
+      },
+      {
+        "name": "Street Food Market Guwahati",
+        "desc": "Famous street food market in Guwahati",
+        "rating": "4.4",
+        "lat": 26.3106,
+        "lng": 93.0476
+      },
+      {
+        "name": "Local Sweet Shop Assam",
+        "desc": "Famous traditional sweets unique to Assam",
+        "rating": "4.5",
+        "lat": 26.320600000000002,
+        "lng": 93.05760000000001
+      },
+      {
+        "name": "Tribal Cuisine Assam",
+        "desc": "Authentic tribal food of Assam",
+        "rating": "4.4",
+        "lat": 26.3306,
+        "lng": 93.0676
+      },
+      {
+        "name": "Dhaba Assam",
+        "desc": "Famous highway dhaba with Assam specialties",
+        "rating": "4.3",
+        "lat": 26.340600000000002,
+        "lng": 93.0776
+      },
+      {
+        "name": "Vegetarian Restaurant Guwahati",
+        "desc": "Best pure vegetarian food in Guwahati",
+        "rating": "4.3",
+        "lat": 26.1006,
+        "lng": 92.83760000000001
+      },
+      {
+        "name": "Biryani House Guwahati",
+        "desc": "Best biryani and rice dishes in Guwahati",
+        "rating": "4.4",
+        "lat": 26.090600000000002,
+        "lng": 92.8276
+      },
+      {
+        "name": "Bakery Cafe Guwahati",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 26.0806,
+        "lng": 92.8176
+      },
+      {
+        "name": "Royal Kitchen Assam",
+        "desc": "Restaurant serving royal recipes of Assam",
+        "rating": "4.5",
+        "lat": 26.070600000000002,
+        "lng": 92.80760000000001
+      },
+      {
+        "name": "Fish Curry House Assam",
+        "desc": "Traditional Assam style fish preparation",
+        "rating": "4.4",
+        "lat": 26.0606,
+        "lng": 92.7976
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Guwahati",
+        "desc": "Luxury 5-star Taj hotel in Guwahati",
+        "rating": "4.7",
+        "lat": 26.4006,
+        "lng": 93.1376
+      },
+      {
+        "name": "Oberoi Resort Assam",
+        "desc": "Luxury resort in scenic location in Assam",
+        "rating": "4.8",
+        "lat": 26.410600000000002,
+        "lng": 93.1476
+      },
+      {
+        "name": "Heritage Hotel Guwahati",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 26.4206,
+        "lng": 93.1576
+      },
+      {
+        "name": "ITC Hotel Guwahati",
+        "desc": "ITC luxury hotel in Guwahati",
+        "rating": "4.6",
+        "lat": 26.430600000000002,
+        "lng": 93.16760000000001
+      },
+      {
+        "name": "Eco Resort Assam",
+        "desc": "Eco-friendly resort in nature of Assam",
+        "rating": "4.5",
+        "lat": 26.4406,
+        "lng": 93.1776
+      },
+      {
+        "name": "Boutique Hotel Guwahati",
+        "desc": "Charming boutique hotel in old quarter of Guwahati",
+        "rating": "4.4",
+        "lat": 26.000600000000002,
+        "lng": 92.7376
+      },
+      {
+        "name": "Marriott Guwahati",
+        "desc": "International 5-star Marriott hotel in Guwahati",
+        "rating": "4.6",
+        "lat": 25.9906,
+        "lng": 92.72760000000001
+      },
+      {
+        "name": "Forest Lodge Assam",
+        "desc": "Wildlife lodge near forest of Assam",
+        "rating": "4.4",
+        "lat": 25.980600000000003,
+        "lng": 92.7176
+      },
+      {
+        "name": "Homestay Assam",
+        "desc": "Authentic homestay with local family in Assam",
+        "rating": "4.3",
+        "lat": 25.9706,
+        "lng": 92.7076
+      },
+      {
+        "name": "Budget Hotel Guwahati",
+        "desc": "Clean comfortable budget stay in Guwahati",
+        "rating": "4.0",
+        "lat": 25.960600000000003,
+        "lng": 92.69760000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Assam",
+        "desc": "Best panoramic viewpoint in Assam",
+        "rating": "4.5",
+        "lat": 26.500600000000002,
+        "lng": 93.2376
+      },
+      {
+        "name": "Waterfall Assam",
+        "desc": "Most beautiful waterfall in Assam",
+        "rating": "4.5",
+        "lat": 26.5106,
+        "lng": 93.2476
+      },
+      {
+        "name": "Lake Assam",
+        "desc": "Scenic lake in Assam with boating",
+        "rating": "4.3",
+        "lat": 26.5206,
+        "lng": 93.2576
+      },
+      {
+        "name": "Hill Station Assam",
+        "desc": "Popular hill station in Assam",
+        "rating": "4.4",
+        "lat": 26.5306,
+        "lng": 93.2676
+      },
+      {
+        "name": "National Park Assam",
+        "desc": "Wildlife national park in Assam",
+        "rating": "4.4",
+        "lat": 26.5406,
+        "lng": 93.2776
+      },
+      {
+        "name": "Beach Assam",
+        "desc": "Beautiful beach in Assam",
+        "rating": "4.3",
+        "lat": 25.9006,
+        "lng": 92.6376
+      },
+      {
+        "name": "Cave System Assam",
+        "desc": "Natural cave system in Assam",
+        "rating": "4.3",
+        "lat": 25.890600000000003,
+        "lng": 92.6276
+      },
+      {
+        "name": "Dam Assam",
+        "desc": "Scenic dam and reservoir in Assam",
+        "rating": "4.2",
+        "lat": 25.8806,
+        "lng": 92.61760000000001
+      },
+      {
+        "name": "Botanical Garden Guwahati",
+        "desc": "Botanical garden with rare plants in Guwahati",
+        "rating": "4.2",
+        "lat": 25.870600000000003,
+        "lng": 92.6076
+      },
+      {
+        "name": "Zoo Guwahati",
+        "desc": "State zoo in Guwahati with variety of animals",
+        "rating": "4.1",
+        "lat": 25.8606,
+        "lng": 92.5976
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Guwahati",
+        "desc": "Bustling main market of Guwahati",
+        "rating": "4.3",
+        "lat": 26.6006,
+        "lng": 93.33760000000001
+      },
+      {
+        "name": "Handicraft Market Assam",
+        "desc": "Traditional handicrafts of Assam",
+        "rating": "4.4",
+        "lat": 26.6106,
+        "lng": 93.3476
+      },
+      {
+        "name": "Silk Market Assam",
+        "desc": "Famous silk and textile market of Assam",
+        "rating": "4.4",
+        "lat": 26.620600000000003,
+        "lng": 93.3576
+      },
+      {
+        "name": "Tribal Art Market Assam",
+        "desc": "Traditional tribal art and crafts of Assam",
+        "rating": "4.4",
+        "lat": 26.6306,
+        "lng": 93.36760000000001
+      },
+      {
+        "name": "Spice Market Assam",
+        "desc": "Aromatic spice market unique to Assam",
+        "rating": "4.3",
+        "lat": 26.640600000000003,
+        "lng": 93.3776
+      },
+      {
+        "name": "Mall Guwahati",
+        "desc": "Modern shopping mall in Guwahati",
+        "rating": "4.2",
+        "lat": 25.800600000000003,
+        "lng": 92.5376
+      },
+      {
+        "name": "Gem Market Assam",
+        "desc": "Precious and semi-precious stones of Assam",
+        "rating": "4.3",
+        "lat": 25.7906,
+        "lng": 92.5276
+      },
+      {
+        "name": "Bamboo Craft Assam",
+        "desc": "Traditional bamboo craft market of Assam",
+        "rating": "4.3",
+        "lat": 25.7806,
+        "lng": 92.5176
+      },
+      {
+        "name": "Pottery Village Assam",
+        "desc": "Traditional pottery making village in Assam",
+        "rating": "4.3",
+        "lat": 25.7706,
+        "lng": 92.5076
+      },
+      {
+        "name": "Night Market Guwahati",
+        "desc": "Evening market in Guwahati with local goods",
+        "rating": "4.2",
+        "lat": 25.7606,
+        "lng": 92.4976
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Assam",
+        "desc": "Tiger and wildlife reserve in Assam",
+        "rating": "4.5",
+        "lat": 26.7006,
+        "lng": 93.4376
+      },
+      {
+        "name": "Bird Sanctuary Assam",
+        "desc": "Migratory bird sanctuary in Assam",
+        "rating": "4.4",
+        "lat": 26.710600000000003,
+        "lng": 93.44760000000001
+      },
+      {
+        "name": "Forest Reserve Assam",
+        "desc": "Dense forest reserve of Assam",
+        "rating": "4.4",
+        "lat": 26.7206,
+        "lng": 93.4576
+      },
+      {
+        "name": "River Valley Assam",
+        "desc": "Scenic river valley in Assam",
+        "rating": "4.3",
+        "lat": 26.730600000000003,
+        "lng": 93.4676
+      },
+      {
+        "name": "Mountain Peak Assam",
+        "desc": "Highest mountain peak in Assam",
+        "rating": "4.4",
+        "lat": 26.7406,
+        "lng": 93.47760000000001
+      },
+      {
+        "name": "Wetland Assam",
+        "desc": "Important wetland ecosystem in Assam",
+        "rating": "4.3",
+        "lat": 25.7006,
+        "lng": 92.4376
+      },
+      {
+        "name": "Tea Garden Assam",
+        "desc": "Scenic tea or coffee plantation in Assam",
+        "rating": "4.4",
+        "lat": 25.6906,
+        "lng": 92.4276
+      },
+      {
+        "name": "Organic Farm Assam",
+        "desc": "Organic farming experience in Assam",
+        "rating": "4.3",
+        "lat": 25.680600000000002,
+        "lng": 92.41760000000001
+      },
+      {
+        "name": "Sunrise Point Assam",
+        "desc": "Most spectacular sunrise point in Assam",
+        "rating": "4.5",
+        "lat": 25.6706,
+        "lng": 92.4076
+      },
+      {
+        "name": "Eco Park Guwahati",
+        "desc": "Ecology park in Guwahati with rare plants",
+        "rating": "4.1",
+        "lat": 25.660600000000002,
+        "lng": 92.3976
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Assam",
+        "desc": "Most famous temple in Assam",
+        "rating": "4.6",
+        "lat": 26.800600000000003,
+        "lng": 93.5376
+      },
+      {
+        "name": "Mosque Guwahati",
+        "desc": "Historic mosque in Guwahati",
+        "rating": "4.3",
+        "lat": 26.8106,
+        "lng": 93.5476
+      },
+      {
+        "name": "Church Guwahati",
+        "desc": "Historic church in Guwahati",
+        "rating": "4.3",
+        "lat": 26.820600000000002,
+        "lng": 93.55760000000001
+      },
+      {
+        "name": "Gurudwara Assam",
+        "desc": "Important Sikh shrine in Assam",
+        "rating": "4.4",
+        "lat": 26.8306,
+        "lng": 93.5676
+      },
+      {
+        "name": "Buddhist Monastery Assam",
+        "desc": "Ancient Buddhist monastery in Assam",
+        "rating": "4.4",
+        "lat": 26.840600000000002,
+        "lng": 93.5776
+      },
+      {
+        "name": "Jain Temple Assam",
+        "desc": "Famous Jain temple in Assam",
+        "rating": "4.4",
+        "lat": 25.6006,
+        "lng": 92.33760000000001
+      },
+      {
+        "name": "Dargah Assam",
+        "desc": "Famous Sufi dargah in Assam",
+        "rating": "4.3",
+        "lat": 25.590600000000002,
+        "lng": 92.3276
+      },
+      {
+        "name": "Ashram Assam",
+        "desc": "Spiritual ashram in Assam",
+        "rating": "4.4",
+        "lat": 25.5806,
+        "lng": 92.3176
+      },
+      {
+        "name": "Pilgrimage Site Assam",
+        "desc": "Important pilgrimage destination in Assam",
+        "rating": "4.5",
+        "lat": 25.570600000000002,
+        "lng": 92.30760000000001
+      },
+      {
+        "name": "Sacred River Ghat Assam",
+        "desc": "Sacred river ghat for rituals in Assam",
+        "rating": "4.3",
+        "lat": 25.5606,
+        "lng": 92.2976
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Assam",
+        "desc": "Traditional folk dance performance of Assam",
+        "rating": "4.5",
+        "lat": 26.9006,
+        "lng": 93.6376
+      },
+      {
+        "name": "Art Gallery Guwahati",
+        "desc": "State art gallery in Guwahati",
+        "rating": "4.2",
+        "lat": 26.910600000000002,
+        "lng": 93.6476
+      },
+      {
+        "name": "Cultural Center Guwahati",
+        "desc": "Cultural center for arts in Guwahati",
+        "rating": "4.3",
+        "lat": 26.9206,
+        "lng": 93.6576
+      },
+      {
+        "name": "Music Festival Assam",
+        "desc": "Annual music festival of Assam",
+        "rating": "4.5",
+        "lat": 26.930600000000002,
+        "lng": 93.66760000000001
+      },
+      {
+        "name": "Tribal Museum Assam",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 26.9406,
+        "lng": 93.6776
+      },
+      {
+        "name": "Craft Village Assam",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 25.500600000000002,
+        "lng": 92.2376
+      },
+      {
+        "name": "Classical Dance Academy Guwahati",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 25.4906,
+        "lng": 92.22760000000001
+      },
+      {
+        "name": "Puppet Theatre Assam",
+        "desc": "Traditional puppet theatre of Assam",
+        "rating": "4.4",
+        "lat": 25.480600000000003,
+        "lng": 92.2176
+      },
+      {
+        "name": "Weaving Center Assam",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 25.4706,
+        "lng": 92.2076
+      },
+      {
+        "name": "Open Air Theatre Guwahati",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 25.460600000000003,
+        "lng": 92.19760000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Assam",
+        "desc": "Best trekking trails in Assam",
+        "rating": "4.4",
+        "lat": 27.000600000000002,
+        "lng": 93.7376
+      },
+      {
+        "name": "Rock Climbing Assam",
+        "desc": "Rock climbing spots in Assam",
+        "rating": "4.3",
+        "lat": 27.0106,
+        "lng": 93.7476
+      },
+      {
+        "name": "River Rafting Assam",
+        "desc": "White water rafting in rivers of Assam",
+        "rating": "4.5",
+        "lat": 27.0206,
+        "lng": 93.7576
+      },
+      {
+        "name": "Paragliding Assam",
+        "desc": "Paragliding spots in Assam",
+        "rating": "4.4",
+        "lat": 27.0306,
+        "lng": 93.7676
+      },
+      {
+        "name": "Camping Assam",
+        "desc": "Camping spots in forests of Assam",
+        "rating": "4.4",
+        "lat": 27.0406,
+        "lng": 93.7776
+      },
+      {
+        "name": "Zip Line Assam",
+        "desc": "Zip lining adventure in Assam",
+        "rating": "4.3",
+        "lat": 25.4006,
+        "lng": 92.1376
+      },
+      {
+        "name": "Jungle Safari Assam",
+        "desc": "Jeep jungle safari in Assam",
+        "rating": "4.4",
+        "lat": 25.390600000000003,
+        "lng": 92.1276
+      },
+      {
+        "name": "Cycling Tour Assam",
+        "desc": "Scenic cycling routes in Assam",
+        "rating": "4.3",
+        "lat": 25.3806,
+        "lng": 92.11760000000001
+      },
+      {
+        "name": "Water Sports Assam",
+        "desc": "Water sports activities in Assam",
+        "rating": "4.3",
+        "lat": 25.370600000000003,
+        "lng": 92.1076
+      },
+      {
+        "name": "Bungee Jumping Assam",
+        "desc": "Bungee jumping experience in Assam",
+        "rating": "4.3",
+        "lat": 25.3606,
+        "lng": 92.0976
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Assam",
+        "desc": "Traditional Ayurvedic treatments in Assam",
+        "rating": "4.4",
+        "lat": 27.1006,
+        "lng": 93.83760000000001
+      },
+      {
+        "name": "Yoga Retreat Assam",
+        "desc": "Yoga and meditation retreat in Assam",
+        "rating": "4.4",
+        "lat": 27.1106,
+        "lng": 93.8476
+      },
+      {
+        "name": "Spa Resort Assam",
+        "desc": "Luxury spa resort in Assam",
+        "rating": "4.5",
+        "lat": 27.120600000000003,
+        "lng": 93.8576
+      },
+      {
+        "name": "Naturopathy Center Assam",
+        "desc": "Natural healing center in Assam",
+        "rating": "4.3",
+        "lat": 27.1306,
+        "lng": 93.86760000000001
+      },
+      {
+        "name": "Meditation Ashram Assam",
+        "desc": "Peaceful meditation ashram in Assam",
+        "rating": "4.4",
+        "lat": 27.140600000000003,
+        "lng": 93.8776
+      },
+      {
+        "name": "Wellness Resort Guwahati",
+        "desc": "Luxury wellness resort in Guwahati",
+        "rating": "4.4",
+        "lat": 25.300600000000003,
+        "lng": 92.0376
+      },
+      {
+        "name": "Herbal Garden Assam",
+        "desc": "Medicinal herb garden in Assam",
+        "rating": "4.2",
+        "lat": 25.2906,
+        "lng": 92.0276
+      },
+      {
+        "name": "Forest Bathing Assam",
+        "desc": "Therapeutic forest walks in Assam",
+        "rating": "4.3",
+        "lat": 25.2806,
+        "lng": 92.0176
+      },
+      {
+        "name": "Hot Spring Assam",
+        "desc": "Natural hot spring in Assam",
+        "rating": "4.4",
+        "lat": 25.2706,
+        "lng": 92.0076
+      },
+      {
+        "name": "Detox Retreat Assam",
+        "desc": "Detox and wellness retreat in Assam",
+        "rating": "4.3",
+        "lat": 25.2606,
+        "lng": 91.9976
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Guwahati",
+        "desc": "Main airport of Assam in Guwahati",
+        "rating": "4.0",
+        "lat": 27.2006,
+        "lng": 93.9376
+      },
+      {
+        "name": "Railway Station Guwahati",
+        "desc": "Main railway junction in Guwahati",
+        "rating": "3.8",
+        "lat": 27.210600000000003,
+        "lng": 93.94760000000001
+      },
+      {
+        "name": "Bus Terminal Guwahati",
+        "desc": "State bus terminal in Guwahati",
+        "rating": "3.7",
+        "lat": 27.2206,
+        "lng": 93.9576
+      },
+      {
+        "name": "Metro Rail Guwahati",
+        "desc": "Metro rail system in Guwahati",
+        "rating": "4.2",
+        "lat": 27.230600000000003,
+        "lng": 93.9676
+      },
+      {
+        "name": "Highway Assam",
+        "desc": "Major national highway through Assam",
+        "rating": "4.0",
+        "lat": 27.2406,
+        "lng": 93.97760000000001
+      },
+      {
+        "name": "Port Assam",
+        "desc": "Major sea port of Assam",
+        "rating": "3.9",
+        "lat": 25.2006,
+        "lng": 91.9376
+      },
+      {
+        "name": "Taxi Stand Guwahati",
+        "desc": "Main cab and taxi hub in Guwahati",
+        "rating": "3.8",
+        "lat": 25.1906,
+        "lng": 91.9276
+      },
+      {
+        "name": "Auto Rickshaw Guwahati",
+        "desc": "Auto rickshaw services across Guwahati",
+        "rating": "3.6",
+        "lat": 25.180600000000002,
+        "lng": 91.91760000000001
+      },
+      {
+        "name": "Cab Services Guwahati",
+        "desc": "Ola and Uber cab services in Guwahati",
+        "rating": "4.0",
+        "lat": 25.1706,
+        "lng": 91.9076
+      },
+      {
+        "name": "Helipad Assam",
+        "desc": "Helicopter services in Assam",
+        "rating": "4.0",
+        "lat": 25.160600000000002,
+        "lng": 91.8976
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Assam",
+        "desc": "Most famous festival of Assam",
+        "rating": "4.7",
+        "lat": 27.300600000000003,
+        "lng": 94.0376
+      },
+      {
+        "name": "Cooking Class Assam",
+        "desc": "Learn traditional Assam cooking techniques",
+        "rating": "4.5",
+        "lat": 27.3106,
+        "lng": 94.0476
+      },
+      {
+        "name": "Village Walk Assam",
+        "desc": "Authentic village life experience in Assam",
+        "rating": "4.4",
+        "lat": 27.320600000000002,
+        "lng": 94.05760000000001
+      },
+      {
+        "name": "Craft Workshop Assam",
+        "desc": "Traditional craft making workshop in Assam",
+        "rating": "4.4",
+        "lat": 27.3306,
+        "lng": 94.0676
+      },
+      {
+        "name": "Sunrise Trek Assam",
+        "desc": "Early morning sunrise trek in Assam",
+        "rating": "4.5",
+        "lat": 27.340600000000002,
+        "lng": 94.0776
+      },
+      {
+        "name": "Local Market Tour Guwahati",
+        "desc": "Guided tour of local markets in Guwahati",
+        "rating": "4.3",
+        "lat": 25.1006,
+        "lng": 91.83760000000001
+      },
+      {
+        "name": "Folk Performance Assam",
+        "desc": "Traditional folk art performance of Assam",
+        "rating": "4.5",
+        "lat": 25.090600000000002,
+        "lng": 91.8276
+      },
+      {
+        "name": "Farm Stay Assam",
+        "desc": "Authentic farm stay experience in Assam",
+        "rating": "4.4",
+        "lat": 25.0806,
+        "lng": 91.8176
+      },
+      {
+        "name": "Night Safari Assam",
+        "desc": "Night wildlife safari in Assam",
+        "rating": "4.4",
+        "lat": 25.070600000000002,
+        "lng": 91.80760000000001
+      },
+      {
+        "name": "Harvest Festival Assam",
+        "desc": "Traditional harvest festival of Assam",
+        "rating": "4.5",
+        "lat": 25.0606,
+        "lng": 91.7976
+      }
+    ]
+  }
+}

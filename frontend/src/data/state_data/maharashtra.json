@@ -1,0 +1,870 @@
+{
+  "state": "Maharashtra",
+  "capital": "Mumbai",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Gateway of India",
+        "desc": "Most famous heritage site in Maharashtra",
+        "rating": "4.6",
+        "lat": 19.7515,
+        "lng": 75.7139
+      },
+      {
+        "name": "State Museum Mumbai",
+        "desc": "Archaeological museum showcasing Maharashtra history",
+        "rating": "4.2",
+        "lat": 19.7615,
+        "lng": 75.7239
+      },
+      {
+        "name": "Old Fort Mumbai",
+        "desc": "Historic fort from medieval era in Mumbai",
+        "rating": "4.3",
+        "lat": 19.7715,
+        "lng": 75.73389999999999
+      },
+      {
+        "name": "Ancient Temple Maharashtra",
+        "desc": "Famous ancient temple showcasing Maharashtra architecture",
+        "rating": "4.4",
+        "lat": 19.7815,
+        "lng": 75.7439
+      },
+      {
+        "name": "Colonial Building Mumbai",
+        "desc": "Historic colonial era building in Mumbai",
+        "rating": "4.1",
+        "lat": 19.7915,
+        "lng": 75.7539
+      },
+      {
+        "name": "Palace Maharashtra",
+        "desc": "Royal palace of former rulers of Maharashtra",
+        "rating": "4.4",
+        "lat": 19.7415,
+        "lng": 75.70389999999999
+      },
+      {
+        "name": "Rock Cut Caves Maharashtra",
+        "desc": "Ancient rock cut monuments in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.7315,
+        "lng": 75.6939
+      },
+      {
+        "name": "Heritage Walk Mumbai",
+        "desc": "Guided walk through old quarter of Mumbai",
+        "rating": "4.3",
+        "lat": 19.7215,
+        "lng": 75.6839
+      },
+      {
+        "name": "Memorial Museum Mumbai",
+        "desc": "Memorial to freedom fighters of Maharashtra",
+        "rating": "4.1",
+        "lat": 19.7115,
+        "lng": 75.67389999999999
+      },
+      {
+        "name": "Ruins Site Maharashtra",
+        "desc": "Ancient ruins and archaeological findings in Maharashtra",
+        "rating": "4.2",
+        "lat": 19.7015,
+        "lng": 75.6639
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Mumbai",
+        "desc": "Authentic Maharashtra thali with local specialties",
+        "rating": "4.5",
+        "lat": 19.8515,
+        "lng": 75.81389999999999
+      },
+      {
+        "name": "Street Food Market Mumbai",
+        "desc": "Famous street food market in Mumbai",
+        "rating": "4.4",
+        "lat": 19.8615,
+        "lng": 75.8239
+      },
+      {
+        "name": "Local Sweet Shop Maharashtra",
+        "desc": "Famous traditional sweets unique to Maharashtra",
+        "rating": "4.5",
+        "lat": 19.8715,
+        "lng": 75.8339
+      },
+      {
+        "name": "Tribal Cuisine Maharashtra",
+        "desc": "Authentic tribal food of Maharashtra",
+        "rating": "4.4",
+        "lat": 19.8815,
+        "lng": 75.84389999999999
+      },
+      {
+        "name": "Dhaba Maharashtra",
+        "desc": "Famous highway dhaba with Maharashtra specialties",
+        "rating": "4.3",
+        "lat": 19.8915,
+        "lng": 75.8539
+      },
+      {
+        "name": "Vegetarian Restaurant Mumbai",
+        "desc": "Best pure vegetarian food in Mumbai",
+        "rating": "4.3",
+        "lat": 19.6515,
+        "lng": 75.6139
+      },
+      {
+        "name": "Biryani House Mumbai",
+        "desc": "Best biryani and rice dishes in Mumbai",
+        "rating": "4.4",
+        "lat": 19.6415,
+        "lng": 75.6039
+      },
+      {
+        "name": "Bakery Cafe Mumbai",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 19.6315,
+        "lng": 75.59389999999999
+      },
+      {
+        "name": "Royal Kitchen Maharashtra",
+        "desc": "Restaurant serving royal recipes of Maharashtra",
+        "rating": "4.5",
+        "lat": 19.6215,
+        "lng": 75.5839
+      },
+      {
+        "name": "Fish Curry House Maharashtra",
+        "desc": "Traditional Maharashtra style fish preparation",
+        "rating": "4.4",
+        "lat": 19.6115,
+        "lng": 75.5739
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Mumbai",
+        "desc": "Luxury 5-star Taj hotel in Mumbai",
+        "rating": "4.7",
+        "lat": 19.9515,
+        "lng": 75.9139
+      },
+      {
+        "name": "Oberoi Resort Maharashtra",
+        "desc": "Luxury resort in scenic location in Maharashtra",
+        "rating": "4.8",
+        "lat": 19.9615,
+        "lng": 75.92389999999999
+      },
+      {
+        "name": "Heritage Hotel Mumbai",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 19.9715,
+        "lng": 75.9339
+      },
+      {
+        "name": "ITC Hotel Mumbai",
+        "desc": "ITC luxury hotel in Mumbai",
+        "rating": "4.6",
+        "lat": 19.9815,
+        "lng": 75.9439
+      },
+      {
+        "name": "Eco Resort Maharashtra",
+        "desc": "Eco-friendly resort in nature of Maharashtra",
+        "rating": "4.5",
+        "lat": 19.9915,
+        "lng": 75.95389999999999
+      },
+      {
+        "name": "Boutique Hotel Mumbai",
+        "desc": "Charming boutique hotel in old quarter of Mumbai",
+        "rating": "4.4",
+        "lat": 19.5515,
+        "lng": 75.51389999999999
+      },
+      {
+        "name": "Marriott Mumbai",
+        "desc": "International 5-star Marriott hotel in Mumbai",
+        "rating": "4.6",
+        "lat": 19.5415,
+        "lng": 75.5039
+      },
+      {
+        "name": "Forest Lodge Maharashtra",
+        "desc": "Wildlife lodge near forest of Maharashtra",
+        "rating": "4.4",
+        "lat": 19.5315,
+        "lng": 75.4939
+      },
+      {
+        "name": "Homestay Maharashtra",
+        "desc": "Authentic homestay with local family in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.5215,
+        "lng": 75.48389999999999
+      },
+      {
+        "name": "Budget Hotel Mumbai",
+        "desc": "Clean comfortable budget stay in Mumbai",
+        "rating": "4.0",
+        "lat": 19.5115,
+        "lng": 75.4739
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Maharashtra",
+        "desc": "Best panoramic viewpoint in Maharashtra",
+        "rating": "4.5",
+        "lat": 20.0515,
+        "lng": 76.01389999999999
+      },
+      {
+        "name": "Waterfall Maharashtra",
+        "desc": "Most beautiful waterfall in Maharashtra",
+        "rating": "4.5",
+        "lat": 20.0615,
+        "lng": 76.0239
+      },
+      {
+        "name": "Lake Maharashtra",
+        "desc": "Scenic lake in Maharashtra with boating",
+        "rating": "4.3",
+        "lat": 20.0715,
+        "lng": 76.03389999999999
+      },
+      {
+        "name": "Hill Station Maharashtra",
+        "desc": "Popular hill station in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.0815,
+        "lng": 76.0439
+      },
+      {
+        "name": "National Park Maharashtra",
+        "desc": "Wildlife national park in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.0915,
+        "lng": 76.0539
+      },
+      {
+        "name": "Beach Maharashtra",
+        "desc": "Beautiful beach in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.4515,
+        "lng": 75.4139
+      },
+      {
+        "name": "Cave System Maharashtra",
+        "desc": "Natural cave system in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.4415,
+        "lng": 75.4039
+      },
+      {
+        "name": "Dam Maharashtra",
+        "desc": "Scenic dam and reservoir in Maharashtra",
+        "rating": "4.2",
+        "lat": 19.4315,
+        "lng": 75.3939
+      },
+      {
+        "name": "Botanical Garden Mumbai",
+        "desc": "Botanical garden with rare plants in Mumbai",
+        "rating": "4.2",
+        "lat": 19.4215,
+        "lng": 75.3839
+      },
+      {
+        "name": "Zoo Mumbai",
+        "desc": "State zoo in Mumbai with variety of animals",
+        "rating": "4.1",
+        "lat": 19.4115,
+        "lng": 75.37389999999999
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Mumbai",
+        "desc": "Bustling main market of Mumbai",
+        "rating": "4.3",
+        "lat": 20.1515,
+        "lng": 76.1139
+      },
+      {
+        "name": "Handicraft Market Maharashtra",
+        "desc": "Traditional handicrafts of Maharashtra",
+        "rating": "4.4",
+        "lat": 20.1615,
+        "lng": 76.12389999999999
+      },
+      {
+        "name": "Silk Market Maharashtra",
+        "desc": "Famous silk and textile market of Maharashtra",
+        "rating": "4.4",
+        "lat": 20.1715,
+        "lng": 76.1339
+      },
+      {
+        "name": "Tribal Art Market Maharashtra",
+        "desc": "Traditional tribal art and crafts of Maharashtra",
+        "rating": "4.4",
+        "lat": 20.1815,
+        "lng": 76.1439
+      },
+      {
+        "name": "Spice Market Maharashtra",
+        "desc": "Aromatic spice market unique to Maharashtra",
+        "rating": "4.3",
+        "lat": 20.1915,
+        "lng": 76.1539
+      },
+      {
+        "name": "Mall Mumbai",
+        "desc": "Modern shopping mall in Mumbai",
+        "rating": "4.2",
+        "lat": 19.3515,
+        "lng": 75.31389999999999
+      },
+      {
+        "name": "Gem Market Maharashtra",
+        "desc": "Precious and semi-precious stones of Maharashtra",
+        "rating": "4.3",
+        "lat": 19.3415,
+        "lng": 75.3039
+      },
+      {
+        "name": "Bamboo Craft Maharashtra",
+        "desc": "Traditional bamboo craft market of Maharashtra",
+        "rating": "4.3",
+        "lat": 19.3315,
+        "lng": 75.2939
+      },
+      {
+        "name": "Pottery Village Maharashtra",
+        "desc": "Traditional pottery making village in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.3215,
+        "lng": 75.28389999999999
+      },
+      {
+        "name": "Night Market Mumbai",
+        "desc": "Evening market in Mumbai with local goods",
+        "rating": "4.2",
+        "lat": 19.3115,
+        "lng": 75.2739
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Maharashtra",
+        "desc": "Tiger and wildlife reserve in Maharashtra",
+        "rating": "4.5",
+        "lat": 20.2515,
+        "lng": 76.2139
+      },
+      {
+        "name": "Bird Sanctuary Maharashtra",
+        "desc": "Migratory bird sanctuary in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.2615,
+        "lng": 76.2239
+      },
+      {
+        "name": "Forest Reserve Maharashtra",
+        "desc": "Dense forest reserve of Maharashtra",
+        "rating": "4.4",
+        "lat": 20.2715,
+        "lng": 76.23389999999999
+      },
+      {
+        "name": "River Valley Maharashtra",
+        "desc": "Scenic river valley in Maharashtra",
+        "rating": "4.3",
+        "lat": 20.2815,
+        "lng": 76.2439
+      },
+      {
+        "name": "Mountain Peak Maharashtra",
+        "desc": "Highest mountain peak in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.2915,
+        "lng": 76.2539
+      },
+      {
+        "name": "Wetland Maharashtra",
+        "desc": "Important wetland ecosystem in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.2515,
+        "lng": 75.2139
+      },
+      {
+        "name": "Tea Garden Maharashtra",
+        "desc": "Scenic tea or coffee plantation in Maharashtra",
+        "rating": "4.4",
+        "lat": 19.2415,
+        "lng": 75.20389999999999
+      },
+      {
+        "name": "Organic Farm Maharashtra",
+        "desc": "Organic farming experience in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.2315,
+        "lng": 75.1939
+      },
+      {
+        "name": "Sunrise Point Maharashtra",
+        "desc": "Most spectacular sunrise point in Maharashtra",
+        "rating": "4.5",
+        "lat": 19.2215,
+        "lng": 75.1839
+      },
+      {
+        "name": "Eco Park Mumbai",
+        "desc": "Ecology park in Mumbai with rare plants",
+        "rating": "4.1",
+        "lat": 19.2115,
+        "lng": 75.17389999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Maharashtra",
+        "desc": "Most famous temple in Maharashtra",
+        "rating": "4.6",
+        "lat": 20.3515,
+        "lng": 76.31389999999999
+      },
+      {
+        "name": "Mosque Mumbai",
+        "desc": "Historic mosque in Mumbai",
+        "rating": "4.3",
+        "lat": 20.3615,
+        "lng": 76.3239
+      },
+      {
+        "name": "Church Mumbai",
+        "desc": "Historic church in Mumbai",
+        "rating": "4.3",
+        "lat": 20.3715,
+        "lng": 76.3339
+      },
+      {
+        "name": "Gurudwara Maharashtra",
+        "desc": "Important Sikh shrine in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.3815,
+        "lng": 76.34389999999999
+      },
+      {
+        "name": "Buddhist Monastery Maharashtra",
+        "desc": "Ancient Buddhist monastery in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.3915,
+        "lng": 76.3539
+      },
+      {
+        "name": "Jain Temple Maharashtra",
+        "desc": "Famous Jain temple in Maharashtra",
+        "rating": "4.4",
+        "lat": 19.1515,
+        "lng": 75.1139
+      },
+      {
+        "name": "Dargah Maharashtra",
+        "desc": "Famous Sufi dargah in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.1415,
+        "lng": 75.1039
+      },
+      {
+        "name": "Ashram Maharashtra",
+        "desc": "Spiritual ashram in Maharashtra",
+        "rating": "4.4",
+        "lat": 19.1315,
+        "lng": 75.09389999999999
+      },
+      {
+        "name": "Pilgrimage Site Maharashtra",
+        "desc": "Important pilgrimage destination in Maharashtra",
+        "rating": "4.5",
+        "lat": 19.1215,
+        "lng": 75.0839
+      },
+      {
+        "name": "Sacred River Ghat Maharashtra",
+        "desc": "Sacred river ghat for rituals in Maharashtra",
+        "rating": "4.3",
+        "lat": 19.1115,
+        "lng": 75.0739
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Maharashtra",
+        "desc": "Traditional folk dance performance of Maharashtra",
+        "rating": "4.5",
+        "lat": 20.4515,
+        "lng": 76.4139
+      },
+      {
+        "name": "Art Gallery Mumbai",
+        "desc": "State art gallery in Mumbai",
+        "rating": "4.2",
+        "lat": 20.4615,
+        "lng": 76.42389999999999
+      },
+      {
+        "name": "Cultural Center Mumbai",
+        "desc": "Cultural center for arts in Mumbai",
+        "rating": "4.3",
+        "lat": 20.4715,
+        "lng": 76.4339
+      },
+      {
+        "name": "Music Festival Maharashtra",
+        "desc": "Annual music festival of Maharashtra",
+        "rating": "4.5",
+        "lat": 20.4815,
+        "lng": 76.4439
+      },
+      {
+        "name": "Tribal Museum Maharashtra",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 20.4915,
+        "lng": 76.45389999999999
+      },
+      {
+        "name": "Craft Village Maharashtra",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 19.0515,
+        "lng": 75.01389999999999
+      },
+      {
+        "name": "Classical Dance Academy Mumbai",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 19.0415,
+        "lng": 75.0039
+      },
+      {
+        "name": "Puppet Theatre Maharashtra",
+        "desc": "Traditional puppet theatre of Maharashtra",
+        "rating": "4.4",
+        "lat": 19.0315,
+        "lng": 74.9939
+      },
+      {
+        "name": "Weaving Center Maharashtra",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 19.0215,
+        "lng": 74.98389999999999
+      },
+      {
+        "name": "Open Air Theatre Mumbai",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 19.0115,
+        "lng": 74.9739
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Maharashtra",
+        "desc": "Best trekking trails in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.5515,
+        "lng": 76.51389999999999
+      },
+      {
+        "name": "Rock Climbing Maharashtra",
+        "desc": "Rock climbing spots in Maharashtra",
+        "rating": "4.3",
+        "lat": 20.5615,
+        "lng": 76.5239
+      },
+      {
+        "name": "River Rafting Maharashtra",
+        "desc": "White water rafting in rivers of Maharashtra",
+        "rating": "4.5",
+        "lat": 20.5715,
+        "lng": 76.53389999999999
+      },
+      {
+        "name": "Paragliding Maharashtra",
+        "desc": "Paragliding spots in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.5815,
+        "lng": 76.5439
+      },
+      {
+        "name": "Camping Maharashtra",
+        "desc": "Camping spots in forests of Maharashtra",
+        "rating": "4.4",
+        "lat": 20.5915,
+        "lng": 76.5539
+      },
+      {
+        "name": "Zip Line Maharashtra",
+        "desc": "Zip lining adventure in Maharashtra",
+        "rating": "4.3",
+        "lat": 18.9515,
+        "lng": 74.9139
+      },
+      {
+        "name": "Jungle Safari Maharashtra",
+        "desc": "Jeep jungle safari in Maharashtra",
+        "rating": "4.4",
+        "lat": 18.9415,
+        "lng": 74.9039
+      },
+      {
+        "name": "Cycling Tour Maharashtra",
+        "desc": "Scenic cycling routes in Maharashtra",
+        "rating": "4.3",
+        "lat": 18.9315,
+        "lng": 74.8939
+      },
+      {
+        "name": "Water Sports Maharashtra",
+        "desc": "Water sports activities in Maharashtra",
+        "rating": "4.3",
+        "lat": 18.9215,
+        "lng": 74.8839
+      },
+      {
+        "name": "Bungee Jumping Maharashtra",
+        "desc": "Bungee jumping experience in Maharashtra",
+        "rating": "4.3",
+        "lat": 18.9115,
+        "lng": 74.87389999999999
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Maharashtra",
+        "desc": "Traditional Ayurvedic treatments in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.6515,
+        "lng": 76.6139
+      },
+      {
+        "name": "Yoga Retreat Maharashtra",
+        "desc": "Yoga and meditation retreat in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.6615,
+        "lng": 76.62389999999999
+      },
+      {
+        "name": "Spa Resort Maharashtra",
+        "desc": "Luxury spa resort in Maharashtra",
+        "rating": "4.5",
+        "lat": 20.6715,
+        "lng": 76.6339
+      },
+      {
+        "name": "Naturopathy Center Maharashtra",
+        "desc": "Natural healing center in Maharashtra",
+        "rating": "4.3",
+        "lat": 20.6815,
+        "lng": 76.6439
+      },
+      {
+        "name": "Meditation Ashram Maharashtra",
+        "desc": "Peaceful meditation ashram in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.6915,
+        "lng": 76.6539
+      },
+      {
+        "name": "Wellness Resort Mumbai",
+        "desc": "Luxury wellness resort in Mumbai",
+        "rating": "4.4",
+        "lat": 18.8515,
+        "lng": 74.81389999999999
+      },
+      {
+        "name": "Herbal Garden Maharashtra",
+        "desc": "Medicinal herb garden in Maharashtra",
+        "rating": "4.2",
+        "lat": 18.8415,
+        "lng": 74.8039
+      },
+      {
+        "name": "Forest Bathing Maharashtra",
+        "desc": "Therapeutic forest walks in Maharashtra",
+        "rating": "4.3",
+        "lat": 18.8315,
+        "lng": 74.7939
+      },
+      {
+        "name": "Hot Spring Maharashtra",
+        "desc": "Natural hot spring in Maharashtra",
+        "rating": "4.4",
+        "lat": 18.8215,
+        "lng": 74.78389999999999
+      },
+      {
+        "name": "Detox Retreat Maharashtra",
+        "desc": "Detox and wellness retreat in Maharashtra",
+        "rating": "4.3",
+        "lat": 18.8115,
+        "lng": 74.7739
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Mumbai",
+        "desc": "Main airport of Maharashtra in Mumbai",
+        "rating": "4.0",
+        "lat": 20.7515,
+        "lng": 76.7139
+      },
+      {
+        "name": "Railway Station Mumbai",
+        "desc": "Main railway junction in Mumbai",
+        "rating": "3.8",
+        "lat": 20.7615,
+        "lng": 76.7239
+      },
+      {
+        "name": "Bus Terminal Mumbai",
+        "desc": "State bus terminal in Mumbai",
+        "rating": "3.7",
+        "lat": 20.7715,
+        "lng": 76.73389999999999
+      },
+      {
+        "name": "Metro Rail Mumbai",
+        "desc": "Metro rail system in Mumbai",
+        "rating": "4.2",
+        "lat": 20.7815,
+        "lng": 76.7439
+      },
+      {
+        "name": "Highway Maharashtra",
+        "desc": "Major national highway through Maharashtra",
+        "rating": "4.0",
+        "lat": 20.7915,
+        "lng": 76.7539
+      },
+      {
+        "name": "Port Maharashtra",
+        "desc": "Major sea port of Maharashtra",
+        "rating": "3.9",
+        "lat": 18.7515,
+        "lng": 74.7139
+      },
+      {
+        "name": "Taxi Stand Mumbai",
+        "desc": "Main cab and taxi hub in Mumbai",
+        "rating": "3.8",
+        "lat": 18.7415,
+        "lng": 74.70389999999999
+      },
+      {
+        "name": "Auto Rickshaw Mumbai",
+        "desc": "Auto rickshaw services across Mumbai",
+        "rating": "3.6",
+        "lat": 18.7315,
+        "lng": 74.6939
+      },
+      {
+        "name": "Cab Services Mumbai",
+        "desc": "Ola and Uber cab services in Mumbai",
+        "rating": "4.0",
+        "lat": 18.7215,
+        "lng": 74.6839
+      },
+      {
+        "name": "Helipad Maharashtra",
+        "desc": "Helicopter services in Maharashtra",
+        "rating": "4.0",
+        "lat": 18.7115,
+        "lng": 74.67389999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Maharashtra",
+        "desc": "Most famous festival of Maharashtra",
+        "rating": "4.7",
+        "lat": 20.8515,
+        "lng": 76.81389999999999
+      },
+      {
+        "name": "Cooking Class Maharashtra",
+        "desc": "Learn traditional Maharashtra cooking techniques",
+        "rating": "4.5",
+        "lat": 20.8615,
+        "lng": 76.8239
+      },
+      {
+        "name": "Village Walk Maharashtra",
+        "desc": "Authentic village life experience in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.8715,
+        "lng": 76.8339
+      },
+      {
+        "name": "Craft Workshop Maharashtra",
+        "desc": "Traditional craft making workshop in Maharashtra",
+        "rating": "4.4",
+        "lat": 20.8815,
+        "lng": 76.84389999999999
+      },
+      {
+        "name": "Sunrise Trek Maharashtra",
+        "desc": "Early morning sunrise trek in Maharashtra",
+        "rating": "4.5",
+        "lat": 20.8915,
+        "lng": 76.8539
+      },
+      {
+        "name": "Local Market Tour Mumbai",
+        "desc": "Guided tour of local markets in Mumbai",
+        "rating": "4.3",
+        "lat": 18.6515,
+        "lng": 74.6139
+      },
+      {
+        "name": "Folk Performance Maharashtra",
+        "desc": "Traditional folk art performance of Maharashtra",
+        "rating": "4.5",
+        "lat": 18.6415,
+        "lng": 74.6039
+      },
+      {
+        "name": "Farm Stay Maharashtra",
+        "desc": "Authentic farm stay experience in Maharashtra",
+        "rating": "4.4",
+        "lat": 18.6315,
+        "lng": 74.59389999999999
+      },
+      {
+        "name": "Night Safari Maharashtra",
+        "desc": "Night wildlife safari in Maharashtra",
+        "rating": "4.4",
+        "lat": 18.6215,
+        "lng": 74.5839
+      },
+      {
+        "name": "Harvest Festival Maharashtra",
+        "desc": "Traditional harvest festival of Maharashtra",
+        "rating": "4.5",
+        "lat": 18.6115,
+        "lng": 74.5739
+      }
+    ]
+  }
+}

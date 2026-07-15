@@ -1,0 +1,870 @@
+{
+  "state": "Tripura",
+  "capital": "Agartala",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Ujjayanta Palace",
+        "desc": "Most famous heritage site in Tripura",
+        "rating": "4.6",
+        "lat": 23.9408,
+        "lng": 91.9882
+      },
+      {
+        "name": "State Museum Agartala",
+        "desc": "Archaeological museum showcasing Tripura history",
+        "rating": "4.2",
+        "lat": 23.9508,
+        "lng": 91.99820000000001
+      },
+      {
+        "name": "Old Fort Agartala",
+        "desc": "Historic fort from medieval era in Agartala",
+        "rating": "4.3",
+        "lat": 23.9608,
+        "lng": 92.0082
+      },
+      {
+        "name": "Ancient Temple Tripura",
+        "desc": "Famous ancient temple showcasing Tripura architecture",
+        "rating": "4.4",
+        "lat": 23.9708,
+        "lng": 92.01820000000001
+      },
+      {
+        "name": "Colonial Building Agartala",
+        "desc": "Historic colonial era building in Agartala",
+        "rating": "4.1",
+        "lat": 23.9808,
+        "lng": 92.02820000000001
+      },
+      {
+        "name": "Palace Tripura",
+        "desc": "Royal palace of former rulers of Tripura",
+        "rating": "4.4",
+        "lat": 23.930799999999998,
+        "lng": 91.9782
+      },
+      {
+        "name": "Rock Cut Caves Tripura",
+        "desc": "Ancient rock cut monuments in Tripura",
+        "rating": "4.3",
+        "lat": 23.9208,
+        "lng": 91.96820000000001
+      },
+      {
+        "name": "Heritage Walk Agartala",
+        "desc": "Guided walk through old quarter of Agartala",
+        "rating": "4.3",
+        "lat": 23.9108,
+        "lng": 91.9582
+      },
+      {
+        "name": "Memorial Museum Agartala",
+        "desc": "Memorial to freedom fighters of Tripura",
+        "rating": "4.1",
+        "lat": 23.9008,
+        "lng": 91.9482
+      },
+      {
+        "name": "Ruins Site Tripura",
+        "desc": "Ancient ruins and archaeological findings in Tripura",
+        "rating": "4.2",
+        "lat": 23.8908,
+        "lng": 91.93820000000001
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Agartala",
+        "desc": "Authentic Tripura thali with local specialties",
+        "rating": "4.5",
+        "lat": 24.0408,
+        "lng": 92.0882
+      },
+      {
+        "name": "Street Food Market Agartala",
+        "desc": "Famous street food market in Agartala",
+        "rating": "4.4",
+        "lat": 24.0508,
+        "lng": 92.0982
+      },
+      {
+        "name": "Local Sweet Shop Tripura",
+        "desc": "Famous traditional sweets unique to Tripura",
+        "rating": "4.5",
+        "lat": 24.0608,
+        "lng": 92.10820000000001
+      },
+      {
+        "name": "Tribal Cuisine Tripura",
+        "desc": "Authentic tribal food of Tripura",
+        "rating": "4.4",
+        "lat": 24.0708,
+        "lng": 92.1182
+      },
+      {
+        "name": "Dhaba Tripura",
+        "desc": "Famous highway dhaba with Tripura specialties",
+        "rating": "4.3",
+        "lat": 24.0808,
+        "lng": 92.1282
+      },
+      {
+        "name": "Vegetarian Restaurant Agartala",
+        "desc": "Best pure vegetarian food in Agartala",
+        "rating": "4.3",
+        "lat": 23.840799999999998,
+        "lng": 91.88820000000001
+      },
+      {
+        "name": "Biryani House Agartala",
+        "desc": "Best biryani and rice dishes in Agartala",
+        "rating": "4.4",
+        "lat": 23.8308,
+        "lng": 91.8782
+      },
+      {
+        "name": "Bakery Cafe Agartala",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 23.8208,
+        "lng": 91.8682
+      },
+      {
+        "name": "Royal Kitchen Tripura",
+        "desc": "Restaurant serving royal recipes of Tripura",
+        "rating": "4.5",
+        "lat": 23.8108,
+        "lng": 91.85820000000001
+      },
+      {
+        "name": "Fish Curry House Tripura",
+        "desc": "Traditional Tripura style fish preparation",
+        "rating": "4.4",
+        "lat": 23.8008,
+        "lng": 91.8482
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Agartala",
+        "desc": "Luxury 5-star Taj hotel in Agartala",
+        "rating": "4.7",
+        "lat": 24.1408,
+        "lng": 92.18820000000001
+      },
+      {
+        "name": "Oberoi Resort Tripura",
+        "desc": "Luxury resort in scenic location in Tripura",
+        "rating": "4.8",
+        "lat": 24.1508,
+        "lng": 92.1982
+      },
+      {
+        "name": "Heritage Hotel Agartala",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 24.1608,
+        "lng": 92.2082
+      },
+      {
+        "name": "ITC Hotel Agartala",
+        "desc": "ITC luxury hotel in Agartala",
+        "rating": "4.6",
+        "lat": 24.1708,
+        "lng": 92.21820000000001
+      },
+      {
+        "name": "Eco Resort Tripura",
+        "desc": "Eco-friendly resort in nature of Tripura",
+        "rating": "4.5",
+        "lat": 24.180799999999998,
+        "lng": 92.2282
+      },
+      {
+        "name": "Boutique Hotel Agartala",
+        "desc": "Charming boutique hotel in old quarter of Agartala",
+        "rating": "4.4",
+        "lat": 23.7408,
+        "lng": 91.7882
+      },
+      {
+        "name": "Marriott Agartala",
+        "desc": "International 5-star Marriott hotel in Agartala",
+        "rating": "4.6",
+        "lat": 23.7308,
+        "lng": 91.77820000000001
+      },
+      {
+        "name": "Forest Lodge Tripura",
+        "desc": "Wildlife lodge near forest of Tripura",
+        "rating": "4.4",
+        "lat": 23.7208,
+        "lng": 91.76820000000001
+      },
+      {
+        "name": "Homestay Tripura",
+        "desc": "Authentic homestay with local family in Tripura",
+        "rating": "4.3",
+        "lat": 23.7108,
+        "lng": 91.7582
+      },
+      {
+        "name": "Budget Hotel Agartala",
+        "desc": "Clean comfortable budget stay in Agartala",
+        "rating": "4.0",
+        "lat": 23.7008,
+        "lng": 91.74820000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Tripura",
+        "desc": "Best panoramic viewpoint in Tripura",
+        "rating": "4.5",
+        "lat": 24.2408,
+        "lng": 92.2882
+      },
+      {
+        "name": "Waterfall Tripura",
+        "desc": "Most beautiful waterfall in Tripura",
+        "rating": "4.5",
+        "lat": 24.250799999999998,
+        "lng": 92.29820000000001
+      },
+      {
+        "name": "Lake Tripura",
+        "desc": "Scenic lake in Tripura with boating",
+        "rating": "4.3",
+        "lat": 24.2608,
+        "lng": 92.3082
+      },
+      {
+        "name": "Hill Station Tripura",
+        "desc": "Popular hill station in Tripura",
+        "rating": "4.4",
+        "lat": 24.270799999999998,
+        "lng": 92.3182
+      },
+      {
+        "name": "National Park Tripura",
+        "desc": "Wildlife national park in Tripura",
+        "rating": "4.4",
+        "lat": 24.2808,
+        "lng": 92.32820000000001
+      },
+      {
+        "name": "Beach Tripura",
+        "desc": "Beautiful beach in Tripura",
+        "rating": "4.3",
+        "lat": 23.6408,
+        "lng": 91.68820000000001
+      },
+      {
+        "name": "Cave System Tripura",
+        "desc": "Natural cave system in Tripura",
+        "rating": "4.3",
+        "lat": 23.6308,
+        "lng": 91.6782
+      },
+      {
+        "name": "Dam Tripura",
+        "desc": "Scenic dam and reservoir in Tripura",
+        "rating": "4.2",
+        "lat": 23.6208,
+        "lng": 91.66820000000001
+      },
+      {
+        "name": "Botanical Garden Agartala",
+        "desc": "Botanical garden with rare plants in Agartala",
+        "rating": "4.2",
+        "lat": 23.6108,
+        "lng": 91.65820000000001
+      },
+      {
+        "name": "Zoo Agartala",
+        "desc": "State zoo in Agartala with variety of animals",
+        "rating": "4.1",
+        "lat": 23.6008,
+        "lng": 91.6482
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Agartala",
+        "desc": "Bustling main market of Agartala",
+        "rating": "4.3",
+        "lat": 24.340799999999998,
+        "lng": 92.38820000000001
+      },
+      {
+        "name": "Handicraft Market Tripura",
+        "desc": "Traditional handicrafts of Tripura",
+        "rating": "4.4",
+        "lat": 24.3508,
+        "lng": 92.3982
+      },
+      {
+        "name": "Silk Market Tripura",
+        "desc": "Famous silk and textile market of Tripura",
+        "rating": "4.4",
+        "lat": 24.3608,
+        "lng": 92.40820000000001
+      },
+      {
+        "name": "Tribal Art Market Tripura",
+        "desc": "Traditional tribal art and crafts of Tripura",
+        "rating": "4.4",
+        "lat": 24.3708,
+        "lng": 92.41820000000001
+      },
+      {
+        "name": "Spice Market Tripura",
+        "desc": "Aromatic spice market unique to Tripura",
+        "rating": "4.3",
+        "lat": 24.3808,
+        "lng": 92.4282
+      },
+      {
+        "name": "Mall Agartala",
+        "desc": "Modern shopping mall in Agartala",
+        "rating": "4.2",
+        "lat": 23.5408,
+        "lng": 91.5882
+      },
+      {
+        "name": "Gem Market Tripura",
+        "desc": "Precious and semi-precious stones of Tripura",
+        "rating": "4.3",
+        "lat": 23.5308,
+        "lng": 91.57820000000001
+      },
+      {
+        "name": "Bamboo Craft Tripura",
+        "desc": "Traditional bamboo craft market of Tripura",
+        "rating": "4.3",
+        "lat": 23.520799999999998,
+        "lng": 91.5682
+      },
+      {
+        "name": "Pottery Village Tripura",
+        "desc": "Traditional pottery making village in Tripura",
+        "rating": "4.3",
+        "lat": 23.5108,
+        "lng": 91.5582
+      },
+      {
+        "name": "Night Market Agartala",
+        "desc": "Evening market in Agartala with local goods",
+        "rating": "4.2",
+        "lat": 23.500799999999998,
+        "lng": 91.54820000000001
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Tripura",
+        "desc": "Tiger and wildlife reserve in Tripura",
+        "rating": "4.5",
+        "lat": 24.4408,
+        "lng": 92.4882
+      },
+      {
+        "name": "Bird Sanctuary Tripura",
+        "desc": "Migratory bird sanctuary in Tripura",
+        "rating": "4.4",
+        "lat": 24.4508,
+        "lng": 92.49820000000001
+      },
+      {
+        "name": "Forest Reserve Tripura",
+        "desc": "Dense forest reserve of Tripura",
+        "rating": "4.4",
+        "lat": 24.4608,
+        "lng": 92.5082
+      },
+      {
+        "name": "River Valley Tripura",
+        "desc": "Scenic river valley in Tripura",
+        "rating": "4.3",
+        "lat": 24.4708,
+        "lng": 92.51820000000001
+      },
+      {
+        "name": "Mountain Peak Tripura",
+        "desc": "Highest mountain peak in Tripura",
+        "rating": "4.4",
+        "lat": 24.4808,
+        "lng": 92.52820000000001
+      },
+      {
+        "name": "Wetland Tripura",
+        "desc": "Important wetland ecosystem in Tripura",
+        "rating": "4.3",
+        "lat": 23.4408,
+        "lng": 91.4882
+      },
+      {
+        "name": "Tea Garden Tripura",
+        "desc": "Scenic tea or coffee plantation in Tripura",
+        "rating": "4.4",
+        "lat": 23.430799999999998,
+        "lng": 91.4782
+      },
+      {
+        "name": "Organic Farm Tripura",
+        "desc": "Organic farming experience in Tripura",
+        "rating": "4.3",
+        "lat": 23.4208,
+        "lng": 91.46820000000001
+      },
+      {
+        "name": "Sunrise Point Tripura",
+        "desc": "Most spectacular sunrise point in Tripura",
+        "rating": "4.5",
+        "lat": 23.4108,
+        "lng": 91.4582
+      },
+      {
+        "name": "Eco Park Agartala",
+        "desc": "Ecology park in Agartala with rare plants",
+        "rating": "4.1",
+        "lat": 23.4008,
+        "lng": 91.4482
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Tripura",
+        "desc": "Most famous temple in Tripura",
+        "rating": "4.6",
+        "lat": 24.5408,
+        "lng": 92.5882
+      },
+      {
+        "name": "Mosque Agartala",
+        "desc": "Historic mosque in Agartala",
+        "rating": "4.3",
+        "lat": 24.5508,
+        "lng": 92.5982
+      },
+      {
+        "name": "Church Agartala",
+        "desc": "Historic church in Agartala",
+        "rating": "4.3",
+        "lat": 24.5608,
+        "lng": 92.60820000000001
+      },
+      {
+        "name": "Gurudwara Tripura",
+        "desc": "Important Sikh shrine in Tripura",
+        "rating": "4.4",
+        "lat": 24.5708,
+        "lng": 92.6182
+      },
+      {
+        "name": "Buddhist Monastery Tripura",
+        "desc": "Ancient Buddhist monastery in Tripura",
+        "rating": "4.4",
+        "lat": 24.5808,
+        "lng": 92.6282
+      },
+      {
+        "name": "Jain Temple Tripura",
+        "desc": "Famous Jain temple in Tripura",
+        "rating": "4.4",
+        "lat": 23.340799999999998,
+        "lng": 91.38820000000001
+      },
+      {
+        "name": "Dargah Tripura",
+        "desc": "Famous Sufi dargah in Tripura",
+        "rating": "4.3",
+        "lat": 23.3308,
+        "lng": 91.3782
+      },
+      {
+        "name": "Ashram Tripura",
+        "desc": "Spiritual ashram in Tripura",
+        "rating": "4.4",
+        "lat": 23.3208,
+        "lng": 91.3682
+      },
+      {
+        "name": "Pilgrimage Site Tripura",
+        "desc": "Important pilgrimage destination in Tripura",
+        "rating": "4.5",
+        "lat": 23.3108,
+        "lng": 91.35820000000001
+      },
+      {
+        "name": "Sacred River Ghat Tripura",
+        "desc": "Sacred river ghat for rituals in Tripura",
+        "rating": "4.3",
+        "lat": 23.3008,
+        "lng": 91.3482
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Tripura",
+        "desc": "Traditional folk dance performance of Tripura",
+        "rating": "4.5",
+        "lat": 24.6408,
+        "lng": 92.68820000000001
+      },
+      {
+        "name": "Art Gallery Agartala",
+        "desc": "State art gallery in Agartala",
+        "rating": "4.2",
+        "lat": 24.6508,
+        "lng": 92.6982
+      },
+      {
+        "name": "Cultural Center Agartala",
+        "desc": "Cultural center for arts in Agartala",
+        "rating": "4.3",
+        "lat": 24.6608,
+        "lng": 92.7082
+      },
+      {
+        "name": "Music Festival Tripura",
+        "desc": "Annual music festival of Tripura",
+        "rating": "4.5",
+        "lat": 24.6708,
+        "lng": 92.71820000000001
+      },
+      {
+        "name": "Tribal Museum Tripura",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 24.680799999999998,
+        "lng": 92.7282
+      },
+      {
+        "name": "Craft Village Tripura",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 23.2408,
+        "lng": 91.2882
+      },
+      {
+        "name": "Classical Dance Academy Agartala",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 23.2308,
+        "lng": 91.27820000000001
+      },
+      {
+        "name": "Puppet Theatre Tripura",
+        "desc": "Traditional puppet theatre of Tripura",
+        "rating": "4.4",
+        "lat": 23.2208,
+        "lng": 91.26820000000001
+      },
+      {
+        "name": "Weaving Center Tripura",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 23.2108,
+        "lng": 91.2582
+      },
+      {
+        "name": "Open Air Theatre Agartala",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 23.2008,
+        "lng": 91.24820000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Tripura",
+        "desc": "Best trekking trails in Tripura",
+        "rating": "4.4",
+        "lat": 24.7408,
+        "lng": 92.7882
+      },
+      {
+        "name": "Rock Climbing Tripura",
+        "desc": "Rock climbing spots in Tripura",
+        "rating": "4.3",
+        "lat": 24.750799999999998,
+        "lng": 92.79820000000001
+      },
+      {
+        "name": "River Rafting Tripura",
+        "desc": "White water rafting in rivers of Tripura",
+        "rating": "4.5",
+        "lat": 24.7608,
+        "lng": 92.8082
+      },
+      {
+        "name": "Paragliding Tripura",
+        "desc": "Paragliding spots in Tripura",
+        "rating": "4.4",
+        "lat": 24.770799999999998,
+        "lng": 92.8182
+      },
+      {
+        "name": "Camping Tripura",
+        "desc": "Camping spots in forests of Tripura",
+        "rating": "4.4",
+        "lat": 24.7808,
+        "lng": 92.82820000000001
+      },
+      {
+        "name": "Zip Line Tripura",
+        "desc": "Zip lining adventure in Tripura",
+        "rating": "4.3",
+        "lat": 23.1408,
+        "lng": 91.18820000000001
+      },
+      {
+        "name": "Jungle Safari Tripura",
+        "desc": "Jeep jungle safari in Tripura",
+        "rating": "4.4",
+        "lat": 23.1308,
+        "lng": 91.1782
+      },
+      {
+        "name": "Cycling Tour Tripura",
+        "desc": "Scenic cycling routes in Tripura",
+        "rating": "4.3",
+        "lat": 23.1208,
+        "lng": 91.16820000000001
+      },
+      {
+        "name": "Water Sports Tripura",
+        "desc": "Water sports activities in Tripura",
+        "rating": "4.3",
+        "lat": 23.1108,
+        "lng": 91.15820000000001
+      },
+      {
+        "name": "Bungee Jumping Tripura",
+        "desc": "Bungee jumping experience in Tripura",
+        "rating": "4.3",
+        "lat": 23.1008,
+        "lng": 91.1482
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Tripura",
+        "desc": "Traditional Ayurvedic treatments in Tripura",
+        "rating": "4.4",
+        "lat": 24.840799999999998,
+        "lng": 92.88820000000001
+      },
+      {
+        "name": "Yoga Retreat Tripura",
+        "desc": "Yoga and meditation retreat in Tripura",
+        "rating": "4.4",
+        "lat": 24.8508,
+        "lng": 92.8982
+      },
+      {
+        "name": "Spa Resort Tripura",
+        "desc": "Luxury spa resort in Tripura",
+        "rating": "4.5",
+        "lat": 24.8608,
+        "lng": 92.90820000000001
+      },
+      {
+        "name": "Naturopathy Center Tripura",
+        "desc": "Natural healing center in Tripura",
+        "rating": "4.3",
+        "lat": 24.8708,
+        "lng": 92.91820000000001
+      },
+      {
+        "name": "Meditation Ashram Tripura",
+        "desc": "Peaceful meditation ashram in Tripura",
+        "rating": "4.4",
+        "lat": 24.8808,
+        "lng": 92.9282
+      },
+      {
+        "name": "Wellness Resort Agartala",
+        "desc": "Luxury wellness resort in Agartala",
+        "rating": "4.4",
+        "lat": 23.0408,
+        "lng": 91.0882
+      },
+      {
+        "name": "Herbal Garden Tripura",
+        "desc": "Medicinal herb garden in Tripura",
+        "rating": "4.2",
+        "lat": 23.0308,
+        "lng": 91.07820000000001
+      },
+      {
+        "name": "Forest Bathing Tripura",
+        "desc": "Therapeutic forest walks in Tripura",
+        "rating": "4.3",
+        "lat": 23.020799999999998,
+        "lng": 91.0682
+      },
+      {
+        "name": "Hot Spring Tripura",
+        "desc": "Natural hot spring in Tripura",
+        "rating": "4.4",
+        "lat": 23.0108,
+        "lng": 91.0582
+      },
+      {
+        "name": "Detox Retreat Tripura",
+        "desc": "Detox and wellness retreat in Tripura",
+        "rating": "4.3",
+        "lat": 23.000799999999998,
+        "lng": 91.04820000000001
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Agartala",
+        "desc": "Main airport of Tripura in Agartala",
+        "rating": "4.0",
+        "lat": 24.9408,
+        "lng": 92.9882
+      },
+      {
+        "name": "Railway Station Agartala",
+        "desc": "Main railway junction in Agartala",
+        "rating": "3.8",
+        "lat": 24.9508,
+        "lng": 92.99820000000001
+      },
+      {
+        "name": "Bus Terminal Agartala",
+        "desc": "State bus terminal in Agartala",
+        "rating": "3.7",
+        "lat": 24.9608,
+        "lng": 93.0082
+      },
+      {
+        "name": "Metro Rail Agartala",
+        "desc": "Metro rail system in Agartala",
+        "rating": "4.2",
+        "lat": 24.9708,
+        "lng": 93.01820000000001
+      },
+      {
+        "name": "Highway Tripura",
+        "desc": "Major national highway through Tripura",
+        "rating": "4.0",
+        "lat": 24.9808,
+        "lng": 93.02820000000001
+      },
+      {
+        "name": "Port Tripura",
+        "desc": "Major sea port of Tripura",
+        "rating": "3.9",
+        "lat": 22.9408,
+        "lng": 90.9882
+      },
+      {
+        "name": "Taxi Stand Agartala",
+        "desc": "Main cab and taxi hub in Agartala",
+        "rating": "3.8",
+        "lat": 22.930799999999998,
+        "lng": 90.9782
+      },
+      {
+        "name": "Auto Rickshaw Agartala",
+        "desc": "Auto rickshaw services across Agartala",
+        "rating": "3.6",
+        "lat": 22.9208,
+        "lng": 90.96820000000001
+      },
+      {
+        "name": "Cab Services Agartala",
+        "desc": "Ola and Uber cab services in Agartala",
+        "rating": "4.0",
+        "lat": 22.9108,
+        "lng": 90.9582
+      },
+      {
+        "name": "Helipad Tripura",
+        "desc": "Helicopter services in Tripura",
+        "rating": "4.0",
+        "lat": 22.9008,
+        "lng": 90.9482
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Tripura",
+        "desc": "Most famous festival of Tripura",
+        "rating": "4.7",
+        "lat": 25.0408,
+        "lng": 93.0882
+      },
+      {
+        "name": "Cooking Class Tripura",
+        "desc": "Learn traditional Tripura cooking techniques",
+        "rating": "4.5",
+        "lat": 25.0508,
+        "lng": 93.0982
+      },
+      {
+        "name": "Village Walk Tripura",
+        "desc": "Authentic village life experience in Tripura",
+        "rating": "4.4",
+        "lat": 25.0608,
+        "lng": 93.10820000000001
+      },
+      {
+        "name": "Craft Workshop Tripura",
+        "desc": "Traditional craft making workshop in Tripura",
+        "rating": "4.4",
+        "lat": 25.0708,
+        "lng": 93.1182
+      },
+      {
+        "name": "Sunrise Trek Tripura",
+        "desc": "Early morning sunrise trek in Tripura",
+        "rating": "4.5",
+        "lat": 25.0808,
+        "lng": 93.1282
+      },
+      {
+        "name": "Local Market Tour Agartala",
+        "desc": "Guided tour of local markets in Agartala",
+        "rating": "4.3",
+        "lat": 22.840799999999998,
+        "lng": 90.88820000000001
+      },
+      {
+        "name": "Folk Performance Tripura",
+        "desc": "Traditional folk art performance of Tripura",
+        "rating": "4.5",
+        "lat": 22.8308,
+        "lng": 90.8782
+      },
+      {
+        "name": "Farm Stay Tripura",
+        "desc": "Authentic farm stay experience in Tripura",
+        "rating": "4.4",
+        "lat": 22.8208,
+        "lng": 90.8682
+      },
+      {
+        "name": "Night Safari Tripura",
+        "desc": "Night wildlife safari in Tripura",
+        "rating": "4.4",
+        "lat": 22.8108,
+        "lng": 90.85820000000001
+      },
+      {
+        "name": "Harvest Festival Tripura",
+        "desc": "Traditional harvest festival of Tripura",
+        "rating": "4.5",
+        "lat": 22.8008,
+        "lng": 90.8482
+      }
+    ]
+  }
+}

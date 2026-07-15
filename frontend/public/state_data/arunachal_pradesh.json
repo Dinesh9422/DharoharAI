@@ -1,0 +1,870 @@
+{
+  "state": "Arunachal Pradesh",
+  "capital": "Itanagar",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Tawang Monastery",
+        "desc": "Most famous heritage site in Arunachal Pradesh",
+        "rating": "4.6",
+        "lat": 28.218,
+        "lng": 94.7278
+      },
+      {
+        "name": "State Museum Itanagar",
+        "desc": "Archaeological museum showcasing Arunachal Pradesh history",
+        "rating": "4.2",
+        "lat": 28.228,
+        "lng": 94.73780000000001
+      },
+      {
+        "name": "Old Fort Itanagar",
+        "desc": "Historic fort from medieval era in Itanagar",
+        "rating": "4.3",
+        "lat": 28.238,
+        "lng": 94.7478
+      },
+      {
+        "name": "Ancient Temple Arunachal Pradesh",
+        "desc": "Famous ancient temple showcasing Arunachal Pradesh architecture",
+        "rating": "4.4",
+        "lat": 28.248,
+        "lng": 94.7578
+      },
+      {
+        "name": "Colonial Building Itanagar",
+        "desc": "Historic colonial era building in Itanagar",
+        "rating": "4.1",
+        "lat": 28.258,
+        "lng": 94.76780000000001
+      },
+      {
+        "name": "Palace Arunachal Pradesh",
+        "desc": "Royal palace of former rulers of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.208,
+        "lng": 94.7178
+      },
+      {
+        "name": "Rock Cut Caves Arunachal Pradesh",
+        "desc": "Ancient rock cut monuments in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 28.198,
+        "lng": 94.7078
+      },
+      {
+        "name": "Heritage Walk Itanagar",
+        "desc": "Guided walk through old quarter of Itanagar",
+        "rating": "4.3",
+        "lat": 28.188,
+        "lng": 94.6978
+      },
+      {
+        "name": "Memorial Museum Itanagar",
+        "desc": "Memorial to freedom fighters of Arunachal Pradesh",
+        "rating": "4.1",
+        "lat": 28.178,
+        "lng": 94.6878
+      },
+      {
+        "name": "Ruins Site Arunachal Pradesh",
+        "desc": "Ancient ruins and archaeological findings in Arunachal Pradesh",
+        "rating": "4.2",
+        "lat": 28.168,
+        "lng": 94.6778
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Itanagar",
+        "desc": "Authentic Arunachal Pradesh thali with local specialties",
+        "rating": "4.5",
+        "lat": 28.318,
+        "lng": 94.8278
+      },
+      {
+        "name": "Street Food Market Itanagar",
+        "desc": "Famous street food market in Itanagar",
+        "rating": "4.4",
+        "lat": 28.328,
+        "lng": 94.8378
+      },
+      {
+        "name": "Local Sweet Shop Arunachal Pradesh",
+        "desc": "Famous traditional sweets unique to Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 28.338,
+        "lng": 94.8478
+      },
+      {
+        "name": "Tribal Cuisine Arunachal Pradesh",
+        "desc": "Authentic tribal food of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.348,
+        "lng": 94.8578
+      },
+      {
+        "name": "Dhaba Arunachal Pradesh",
+        "desc": "Famous highway dhaba with Arunachal Pradesh specialties",
+        "rating": "4.3",
+        "lat": 28.358,
+        "lng": 94.8678
+      },
+      {
+        "name": "Vegetarian Restaurant Itanagar",
+        "desc": "Best pure vegetarian food in Itanagar",
+        "rating": "4.3",
+        "lat": 28.118,
+        "lng": 94.62780000000001
+      },
+      {
+        "name": "Biryani House Itanagar",
+        "desc": "Best biryani and rice dishes in Itanagar",
+        "rating": "4.4",
+        "lat": 28.108,
+        "lng": 94.6178
+      },
+      {
+        "name": "Bakery Cafe Itanagar",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 28.098,
+        "lng": 94.6078
+      },
+      {
+        "name": "Royal Kitchen Arunachal Pradesh",
+        "desc": "Restaurant serving royal recipes of Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 28.088,
+        "lng": 94.5978
+      },
+      {
+        "name": "Fish Curry House Arunachal Pradesh",
+        "desc": "Traditional Arunachal Pradesh style fish preparation",
+        "rating": "4.4",
+        "lat": 28.078,
+        "lng": 94.5878
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Itanagar",
+        "desc": "Luxury 5-star Taj hotel in Itanagar",
+        "rating": "4.7",
+        "lat": 28.418,
+        "lng": 94.9278
+      },
+      {
+        "name": "Oberoi Resort Arunachal Pradesh",
+        "desc": "Luxury resort in scenic location in Arunachal Pradesh",
+        "rating": "4.8",
+        "lat": 28.428,
+        "lng": 94.9378
+      },
+      {
+        "name": "Heritage Hotel Itanagar",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 28.438,
+        "lng": 94.9478
+      },
+      {
+        "name": "ITC Hotel Itanagar",
+        "desc": "ITC luxury hotel in Itanagar",
+        "rating": "4.6",
+        "lat": 28.448,
+        "lng": 94.9578
+      },
+      {
+        "name": "Eco Resort Arunachal Pradesh",
+        "desc": "Eco-friendly resort in nature of Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 28.458,
+        "lng": 94.9678
+      },
+      {
+        "name": "Boutique Hotel Itanagar",
+        "desc": "Charming boutique hotel in old quarter of Itanagar",
+        "rating": "4.4",
+        "lat": 28.018,
+        "lng": 94.5278
+      },
+      {
+        "name": "Marriott Itanagar",
+        "desc": "International 5-star Marriott hotel in Itanagar",
+        "rating": "4.6",
+        "lat": 28.008,
+        "lng": 94.51780000000001
+      },
+      {
+        "name": "Forest Lodge Arunachal Pradesh",
+        "desc": "Wildlife lodge near forest of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.998,
+        "lng": 94.5078
+      },
+      {
+        "name": "Homestay Arunachal Pradesh",
+        "desc": "Authentic homestay with local family in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.988,
+        "lng": 94.4978
+      },
+      {
+        "name": "Budget Hotel Itanagar",
+        "desc": "Clean comfortable budget stay in Itanagar",
+        "rating": "4.0",
+        "lat": 27.978,
+        "lng": 94.48780000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Arunachal Pradesh",
+        "desc": "Best panoramic viewpoint in Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 28.518,
+        "lng": 95.0278
+      },
+      {
+        "name": "Waterfall Arunachal Pradesh",
+        "desc": "Most beautiful waterfall in Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 28.528,
+        "lng": 95.0378
+      },
+      {
+        "name": "Lake Arunachal Pradesh",
+        "desc": "Scenic lake in Arunachal Pradesh with boating",
+        "rating": "4.3",
+        "lat": 28.538,
+        "lng": 95.0478
+      },
+      {
+        "name": "Hill Station Arunachal Pradesh",
+        "desc": "Popular hill station in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.548,
+        "lng": 95.0578
+      },
+      {
+        "name": "National Park Arunachal Pradesh",
+        "desc": "Wildlife national park in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.558,
+        "lng": 95.0678
+      },
+      {
+        "name": "Beach Arunachal Pradesh",
+        "desc": "Beautiful beach in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.918,
+        "lng": 94.4278
+      },
+      {
+        "name": "Cave System Arunachal Pradesh",
+        "desc": "Natural cave system in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.908,
+        "lng": 94.4178
+      },
+      {
+        "name": "Dam Arunachal Pradesh",
+        "desc": "Scenic dam and reservoir in Arunachal Pradesh",
+        "rating": "4.2",
+        "lat": 27.898,
+        "lng": 94.40780000000001
+      },
+      {
+        "name": "Botanical Garden Itanagar",
+        "desc": "Botanical garden with rare plants in Itanagar",
+        "rating": "4.2",
+        "lat": 27.888,
+        "lng": 94.3978
+      },
+      {
+        "name": "Zoo Itanagar",
+        "desc": "State zoo in Itanagar with variety of animals",
+        "rating": "4.1",
+        "lat": 27.878,
+        "lng": 94.3878
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Itanagar",
+        "desc": "Bustling main market of Itanagar",
+        "rating": "4.3",
+        "lat": 28.618,
+        "lng": 95.12780000000001
+      },
+      {
+        "name": "Handicraft Market Arunachal Pradesh",
+        "desc": "Traditional handicrafts of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.628,
+        "lng": 95.1378
+      },
+      {
+        "name": "Silk Market Arunachal Pradesh",
+        "desc": "Famous silk and textile market of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.638,
+        "lng": 95.1478
+      },
+      {
+        "name": "Tribal Art Market Arunachal Pradesh",
+        "desc": "Traditional tribal art and crafts of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.648,
+        "lng": 95.15780000000001
+      },
+      {
+        "name": "Spice Market Arunachal Pradesh",
+        "desc": "Aromatic spice market unique to Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 28.658,
+        "lng": 95.1678
+      },
+      {
+        "name": "Mall Itanagar",
+        "desc": "Modern shopping mall in Itanagar",
+        "rating": "4.2",
+        "lat": 27.818,
+        "lng": 94.3278
+      },
+      {
+        "name": "Gem Market Arunachal Pradesh",
+        "desc": "Precious and semi-precious stones of Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.808,
+        "lng": 94.3178
+      },
+      {
+        "name": "Bamboo Craft Arunachal Pradesh",
+        "desc": "Traditional bamboo craft market of Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.798,
+        "lng": 94.3078
+      },
+      {
+        "name": "Pottery Village Arunachal Pradesh",
+        "desc": "Traditional pottery making village in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.788,
+        "lng": 94.2978
+      },
+      {
+        "name": "Night Market Itanagar",
+        "desc": "Evening market in Itanagar with local goods",
+        "rating": "4.2",
+        "lat": 27.778,
+        "lng": 94.2878
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Arunachal Pradesh",
+        "desc": "Tiger and wildlife reserve in Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 28.718,
+        "lng": 95.2278
+      },
+      {
+        "name": "Bird Sanctuary Arunachal Pradesh",
+        "desc": "Migratory bird sanctuary in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.728,
+        "lng": 95.23780000000001
+      },
+      {
+        "name": "Forest Reserve Arunachal Pradesh",
+        "desc": "Dense forest reserve of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.738,
+        "lng": 95.2478
+      },
+      {
+        "name": "River Valley Arunachal Pradesh",
+        "desc": "Scenic river valley in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 28.748,
+        "lng": 95.2578
+      },
+      {
+        "name": "Mountain Peak Arunachal Pradesh",
+        "desc": "Highest mountain peak in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.758,
+        "lng": 95.26780000000001
+      },
+      {
+        "name": "Wetland Arunachal Pradesh",
+        "desc": "Important wetland ecosystem in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.718,
+        "lng": 94.2278
+      },
+      {
+        "name": "Tea Garden Arunachal Pradesh",
+        "desc": "Scenic tea or coffee plantation in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.708,
+        "lng": 94.2178
+      },
+      {
+        "name": "Organic Farm Arunachal Pradesh",
+        "desc": "Organic farming experience in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.698,
+        "lng": 94.2078
+      },
+      {
+        "name": "Sunrise Point Arunachal Pradesh",
+        "desc": "Most spectacular sunrise point in Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 27.688,
+        "lng": 94.1978
+      },
+      {
+        "name": "Eco Park Itanagar",
+        "desc": "Ecology park in Itanagar with rare plants",
+        "rating": "4.1",
+        "lat": 27.678,
+        "lng": 94.1878
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Arunachal Pradesh",
+        "desc": "Most famous temple in Arunachal Pradesh",
+        "rating": "4.6",
+        "lat": 28.818,
+        "lng": 95.3278
+      },
+      {
+        "name": "Mosque Itanagar",
+        "desc": "Historic mosque in Itanagar",
+        "rating": "4.3",
+        "lat": 28.828,
+        "lng": 95.3378
+      },
+      {
+        "name": "Church Itanagar",
+        "desc": "Historic church in Itanagar",
+        "rating": "4.3",
+        "lat": 28.838,
+        "lng": 95.3478
+      },
+      {
+        "name": "Gurudwara Arunachal Pradesh",
+        "desc": "Important Sikh shrine in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.848,
+        "lng": 95.3578
+      },
+      {
+        "name": "Buddhist Monastery Arunachal Pradesh",
+        "desc": "Ancient Buddhist monastery in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 28.858,
+        "lng": 95.3678
+      },
+      {
+        "name": "Jain Temple Arunachal Pradesh",
+        "desc": "Famous Jain temple in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.618,
+        "lng": 94.12780000000001
+      },
+      {
+        "name": "Dargah Arunachal Pradesh",
+        "desc": "Famous Sufi dargah in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.608,
+        "lng": 94.1178
+      },
+      {
+        "name": "Ashram Arunachal Pradesh",
+        "desc": "Spiritual ashram in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.598,
+        "lng": 94.1078
+      },
+      {
+        "name": "Pilgrimage Site Arunachal Pradesh",
+        "desc": "Important pilgrimage destination in Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 27.588,
+        "lng": 94.0978
+      },
+      {
+        "name": "Sacred River Ghat Arunachal Pradesh",
+        "desc": "Sacred river ghat for rituals in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.578,
+        "lng": 94.0878
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Arunachal Pradesh",
+        "desc": "Traditional folk dance performance of Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 28.918,
+        "lng": 95.4278
+      },
+      {
+        "name": "Art Gallery Itanagar",
+        "desc": "State art gallery in Itanagar",
+        "rating": "4.2",
+        "lat": 28.928,
+        "lng": 95.4378
+      },
+      {
+        "name": "Cultural Center Itanagar",
+        "desc": "Cultural center for arts in Itanagar",
+        "rating": "4.3",
+        "lat": 28.938,
+        "lng": 95.4478
+      },
+      {
+        "name": "Music Festival Arunachal Pradesh",
+        "desc": "Annual music festival of Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 28.948,
+        "lng": 95.4578
+      },
+      {
+        "name": "Tribal Museum Arunachal Pradesh",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 28.958,
+        "lng": 95.4678
+      },
+      {
+        "name": "Craft Village Arunachal Pradesh",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 27.518,
+        "lng": 94.0278
+      },
+      {
+        "name": "Classical Dance Academy Itanagar",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 27.508,
+        "lng": 94.01780000000001
+      },
+      {
+        "name": "Puppet Theatre Arunachal Pradesh",
+        "desc": "Traditional puppet theatre of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.498,
+        "lng": 94.0078
+      },
+      {
+        "name": "Weaving Center Arunachal Pradesh",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 27.488,
+        "lng": 93.9978
+      },
+      {
+        "name": "Open Air Theatre Itanagar",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 27.478,
+        "lng": 93.98780000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Arunachal Pradesh",
+        "desc": "Best trekking trails in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.018,
+        "lng": 95.5278
+      },
+      {
+        "name": "Rock Climbing Arunachal Pradesh",
+        "desc": "Rock climbing spots in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 29.028,
+        "lng": 95.5378
+      },
+      {
+        "name": "River Rafting Arunachal Pradesh",
+        "desc": "White water rafting in rivers of Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 29.038,
+        "lng": 95.5478
+      },
+      {
+        "name": "Paragliding Arunachal Pradesh",
+        "desc": "Paragliding spots in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.048,
+        "lng": 95.5578
+      },
+      {
+        "name": "Camping Arunachal Pradesh",
+        "desc": "Camping spots in forests of Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.058,
+        "lng": 95.5678
+      },
+      {
+        "name": "Zip Line Arunachal Pradesh",
+        "desc": "Zip lining adventure in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.418,
+        "lng": 93.9278
+      },
+      {
+        "name": "Jungle Safari Arunachal Pradesh",
+        "desc": "Jeep jungle safari in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.408,
+        "lng": 93.9178
+      },
+      {
+        "name": "Cycling Tour Arunachal Pradesh",
+        "desc": "Scenic cycling routes in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.398,
+        "lng": 93.90780000000001
+      },
+      {
+        "name": "Water Sports Arunachal Pradesh",
+        "desc": "Water sports activities in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.388,
+        "lng": 93.8978
+      },
+      {
+        "name": "Bungee Jumping Arunachal Pradesh",
+        "desc": "Bungee jumping experience in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.378,
+        "lng": 93.8878
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Arunachal Pradesh",
+        "desc": "Traditional Ayurvedic treatments in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.118,
+        "lng": 95.62780000000001
+      },
+      {
+        "name": "Yoga Retreat Arunachal Pradesh",
+        "desc": "Yoga and meditation retreat in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.128,
+        "lng": 95.6378
+      },
+      {
+        "name": "Spa Resort Arunachal Pradesh",
+        "desc": "Luxury spa resort in Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 29.138,
+        "lng": 95.6478
+      },
+      {
+        "name": "Naturopathy Center Arunachal Pradesh",
+        "desc": "Natural healing center in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 29.148,
+        "lng": 95.65780000000001
+      },
+      {
+        "name": "Meditation Ashram Arunachal Pradesh",
+        "desc": "Peaceful meditation ashram in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.158,
+        "lng": 95.6678
+      },
+      {
+        "name": "Wellness Resort Itanagar",
+        "desc": "Luxury wellness resort in Itanagar",
+        "rating": "4.4",
+        "lat": 27.318,
+        "lng": 93.8278
+      },
+      {
+        "name": "Herbal Garden Arunachal Pradesh",
+        "desc": "Medicinal herb garden in Arunachal Pradesh",
+        "rating": "4.2",
+        "lat": 27.308,
+        "lng": 93.8178
+      },
+      {
+        "name": "Forest Bathing Arunachal Pradesh",
+        "desc": "Therapeutic forest walks in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.298,
+        "lng": 93.8078
+      },
+      {
+        "name": "Hot Spring Arunachal Pradesh",
+        "desc": "Natural hot spring in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.288,
+        "lng": 93.7978
+      },
+      {
+        "name": "Detox Retreat Arunachal Pradesh",
+        "desc": "Detox and wellness retreat in Arunachal Pradesh",
+        "rating": "4.3",
+        "lat": 27.278,
+        "lng": 93.7878
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Itanagar",
+        "desc": "Main airport of Arunachal Pradesh in Itanagar",
+        "rating": "4.0",
+        "lat": 29.218,
+        "lng": 95.7278
+      },
+      {
+        "name": "Railway Station Itanagar",
+        "desc": "Main railway junction in Itanagar",
+        "rating": "3.8",
+        "lat": 29.228,
+        "lng": 95.73780000000001
+      },
+      {
+        "name": "Bus Terminal Itanagar",
+        "desc": "State bus terminal in Itanagar",
+        "rating": "3.7",
+        "lat": 29.238,
+        "lng": 95.7478
+      },
+      {
+        "name": "Metro Rail Itanagar",
+        "desc": "Metro rail system in Itanagar",
+        "rating": "4.2",
+        "lat": 29.248,
+        "lng": 95.7578
+      },
+      {
+        "name": "Highway Arunachal Pradesh",
+        "desc": "Major national highway through Arunachal Pradesh",
+        "rating": "4.0",
+        "lat": 29.258,
+        "lng": 95.76780000000001
+      },
+      {
+        "name": "Port Arunachal Pradesh",
+        "desc": "Major sea port of Arunachal Pradesh",
+        "rating": "3.9",
+        "lat": 27.218,
+        "lng": 93.7278
+      },
+      {
+        "name": "Taxi Stand Itanagar",
+        "desc": "Main cab and taxi hub in Itanagar",
+        "rating": "3.8",
+        "lat": 27.208,
+        "lng": 93.7178
+      },
+      {
+        "name": "Auto Rickshaw Itanagar",
+        "desc": "Auto rickshaw services across Itanagar",
+        "rating": "3.6",
+        "lat": 27.198,
+        "lng": 93.7078
+      },
+      {
+        "name": "Cab Services Itanagar",
+        "desc": "Ola and Uber cab services in Itanagar",
+        "rating": "4.0",
+        "lat": 27.188,
+        "lng": 93.6978
+      },
+      {
+        "name": "Helipad Arunachal Pradesh",
+        "desc": "Helicopter services in Arunachal Pradesh",
+        "rating": "4.0",
+        "lat": 27.178,
+        "lng": 93.6878
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Arunachal Pradesh",
+        "desc": "Most famous festival of Arunachal Pradesh",
+        "rating": "4.7",
+        "lat": 29.318,
+        "lng": 95.8278
+      },
+      {
+        "name": "Cooking Class Arunachal Pradesh",
+        "desc": "Learn traditional Arunachal Pradesh cooking techniques",
+        "rating": "4.5",
+        "lat": 29.328,
+        "lng": 95.8378
+      },
+      {
+        "name": "Village Walk Arunachal Pradesh",
+        "desc": "Authentic village life experience in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.338,
+        "lng": 95.8478
+      },
+      {
+        "name": "Craft Workshop Arunachal Pradesh",
+        "desc": "Traditional craft making workshop in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.348,
+        "lng": 95.8578
+      },
+      {
+        "name": "Sunrise Trek Arunachal Pradesh",
+        "desc": "Early morning sunrise trek in Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 29.358,
+        "lng": 95.8678
+      },
+      {
+        "name": "Local Market Tour Itanagar",
+        "desc": "Guided tour of local markets in Itanagar",
+        "rating": "4.3",
+        "lat": 27.118,
+        "lng": 93.62780000000001
+      },
+      {
+        "name": "Folk Performance Arunachal Pradesh",
+        "desc": "Traditional folk art performance of Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 27.108,
+        "lng": 93.6178
+      },
+      {
+        "name": "Farm Stay Arunachal Pradesh",
+        "desc": "Authentic farm stay experience in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.098,
+        "lng": 93.6078
+      },
+      {
+        "name": "Night Safari Arunachal Pradesh",
+        "desc": "Night wildlife safari in Arunachal Pradesh",
+        "rating": "4.4",
+        "lat": 27.088,
+        "lng": 93.5978
+      },
+      {
+        "name": "Harvest Festival Arunachal Pradesh",
+        "desc": "Traditional harvest festival of Arunachal Pradesh",
+        "rating": "4.5",
+        "lat": 27.078,
+        "lng": 93.5878
+      }
+    ]
+  }
+}

@@ -1,0 +1,870 @@
+{
+  "state": "Andaman and Nicobar Islands",
+  "capital": "Port Blair",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Cellular Jail Port Blair",
+        "desc": "Most famous heritage site in Andaman and Nicobar Islands",
+        "rating": "4.6",
+        "lat": 11.7401,
+        "lng": 92.6586
+      },
+      {
+        "name": "State Museum Port Blair",
+        "desc": "Archaeological museum showcasing Andaman and Nicobar Islands history",
+        "rating": "4.2",
+        "lat": 11.7501,
+        "lng": 92.66860000000001
+      },
+      {
+        "name": "Old Fort Port Blair",
+        "desc": "Historic fort from medieval era in Port Blair",
+        "rating": "4.3",
+        "lat": 11.7601,
+        "lng": 92.6786
+      },
+      {
+        "name": "Ancient Temple Andaman and Nicobar Islands",
+        "desc": "Famous ancient temple showcasing Andaman and Nicobar Islands architecture",
+        "rating": "4.4",
+        "lat": 11.7701,
+        "lng": 92.68860000000001
+      },
+      {
+        "name": "Colonial Building Port Blair",
+        "desc": "Historic colonial era building in Port Blair",
+        "rating": "4.1",
+        "lat": 11.7801,
+        "lng": 92.69860000000001
+      },
+      {
+        "name": "Palace Andaman and Nicobar Islands",
+        "desc": "Royal palace of former rulers of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 11.7301,
+        "lng": 92.6486
+      },
+      {
+        "name": "Rock Cut Caves Andaman and Nicobar Islands",
+        "desc": "Ancient rock cut monuments in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.7201,
+        "lng": 92.63860000000001
+      },
+      {
+        "name": "Heritage Walk Port Blair",
+        "desc": "Guided walk through old quarter of Port Blair",
+        "rating": "4.3",
+        "lat": 11.7101,
+        "lng": 92.6286
+      },
+      {
+        "name": "Memorial Museum Port Blair",
+        "desc": "Memorial to freedom fighters of Andaman and Nicobar Islands",
+        "rating": "4.1",
+        "lat": 11.7001,
+        "lng": 92.6186
+      },
+      {
+        "name": "Ruins Site Andaman and Nicobar Islands",
+        "desc": "Ancient ruins and archaeological findings in Andaman and Nicobar Islands",
+        "rating": "4.2",
+        "lat": 11.6901,
+        "lng": 92.60860000000001
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Port Blair",
+        "desc": "Authentic Andaman and Nicobar Islands thali with local specialties",
+        "rating": "4.5",
+        "lat": 11.8401,
+        "lng": 92.7586
+      },
+      {
+        "name": "Street Food Market Port Blair",
+        "desc": "Famous street food market in Port Blair",
+        "rating": "4.4",
+        "lat": 11.8501,
+        "lng": 92.7686
+      },
+      {
+        "name": "Local Sweet Shop Andaman and Nicobar Islands",
+        "desc": "Famous traditional sweets unique to Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 11.8601,
+        "lng": 92.77860000000001
+      },
+      {
+        "name": "Tribal Cuisine Andaman and Nicobar Islands",
+        "desc": "Authentic tribal food of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 11.8701,
+        "lng": 92.7886
+      },
+      {
+        "name": "Dhaba Andaman and Nicobar Islands",
+        "desc": "Famous highway dhaba with Andaman and Nicobar Islands specialties",
+        "rating": "4.3",
+        "lat": 11.8801,
+        "lng": 92.79860000000001
+      },
+      {
+        "name": "Vegetarian Restaurant Port Blair",
+        "desc": "Best pure vegetarian food in Port Blair",
+        "rating": "4.3",
+        "lat": 11.6401,
+        "lng": 92.55860000000001
+      },
+      {
+        "name": "Biryani House Port Blair",
+        "desc": "Best biryani and rice dishes in Port Blair",
+        "rating": "4.4",
+        "lat": 11.6301,
+        "lng": 92.54860000000001
+      },
+      {
+        "name": "Bakery Cafe Port Blair",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 11.6201,
+        "lng": 92.5386
+      },
+      {
+        "name": "Royal Kitchen Andaman and Nicobar Islands",
+        "desc": "Restaurant serving royal recipes of Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 11.6101,
+        "lng": 92.52860000000001
+      },
+      {
+        "name": "Fish Curry House Andaman and Nicobar Islands",
+        "desc": "Traditional Andaman and Nicobar Islands style fish preparation",
+        "rating": "4.4",
+        "lat": 11.6001,
+        "lng": 92.5186
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Port Blair",
+        "desc": "Luxury 5-star Taj hotel in Port Blair",
+        "rating": "4.7",
+        "lat": 11.9401,
+        "lng": 92.85860000000001
+      },
+      {
+        "name": "Oberoi Resort Andaman and Nicobar Islands",
+        "desc": "Luxury resort in scenic location in Andaman and Nicobar Islands",
+        "rating": "4.8",
+        "lat": 11.9501,
+        "lng": 92.8686
+      },
+      {
+        "name": "Heritage Hotel Port Blair",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 11.9601,
+        "lng": 92.8786
+      },
+      {
+        "name": "ITC Hotel Port Blair",
+        "desc": "ITC luxury hotel in Port Blair",
+        "rating": "4.6",
+        "lat": 11.9701,
+        "lng": 92.88860000000001
+      },
+      {
+        "name": "Eco Resort Andaman and Nicobar Islands",
+        "desc": "Eco-friendly resort in nature of Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 11.9801,
+        "lng": 92.8986
+      },
+      {
+        "name": "Boutique Hotel Port Blair",
+        "desc": "Charming boutique hotel in old quarter of Port Blair",
+        "rating": "4.4",
+        "lat": 11.5401,
+        "lng": 92.4586
+      },
+      {
+        "name": "Marriott Port Blair",
+        "desc": "International 5-star Marriott hotel in Port Blair",
+        "rating": "4.6",
+        "lat": 11.5301,
+        "lng": 92.44860000000001
+      },
+      {
+        "name": "Forest Lodge Andaman and Nicobar Islands",
+        "desc": "Wildlife lodge near forest of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 11.5201,
+        "lng": 92.43860000000001
+      },
+      {
+        "name": "Homestay Andaman and Nicobar Islands",
+        "desc": "Authentic homestay with local family in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.5101,
+        "lng": 92.4286
+      },
+      {
+        "name": "Budget Hotel Port Blair",
+        "desc": "Clean comfortable budget stay in Port Blair",
+        "rating": "4.0",
+        "lat": 11.5001,
+        "lng": 92.41860000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Andaman and Nicobar Islands",
+        "desc": "Best panoramic viewpoint in Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 12.0401,
+        "lng": 92.9586
+      },
+      {
+        "name": "Waterfall Andaman and Nicobar Islands",
+        "desc": "Most beautiful waterfall in Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 12.0501,
+        "lng": 92.96860000000001
+      },
+      {
+        "name": "Lake Andaman and Nicobar Islands",
+        "desc": "Scenic lake in Andaman and Nicobar Islands with boating",
+        "rating": "4.3",
+        "lat": 12.0601,
+        "lng": 92.9786
+      },
+      {
+        "name": "Hill Station Andaman and Nicobar Islands",
+        "desc": "Popular hill station in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.0701,
+        "lng": 92.9886
+      },
+      {
+        "name": "National Park Andaman and Nicobar Islands",
+        "desc": "Wildlife national park in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.0801,
+        "lng": 92.99860000000001
+      },
+      {
+        "name": "Beach Andaman and Nicobar Islands",
+        "desc": "Beautiful beach in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.4401,
+        "lng": 92.35860000000001
+      },
+      {
+        "name": "Cave System Andaman and Nicobar Islands",
+        "desc": "Natural cave system in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.4301,
+        "lng": 92.3486
+      },
+      {
+        "name": "Dam Andaman and Nicobar Islands",
+        "desc": "Scenic dam and reservoir in Andaman and Nicobar Islands",
+        "rating": "4.2",
+        "lat": 11.4201,
+        "lng": 92.33860000000001
+      },
+      {
+        "name": "Botanical Garden Port Blair",
+        "desc": "Botanical garden with rare plants in Port Blair",
+        "rating": "4.2",
+        "lat": 11.4101,
+        "lng": 92.32860000000001
+      },
+      {
+        "name": "Zoo Port Blair",
+        "desc": "State zoo in Port Blair with variety of animals",
+        "rating": "4.1",
+        "lat": 11.4001,
+        "lng": 92.3186
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Port Blair",
+        "desc": "Bustling main market of Port Blair",
+        "rating": "4.3",
+        "lat": 12.1401,
+        "lng": 93.05860000000001
+      },
+      {
+        "name": "Handicraft Market Andaman and Nicobar Islands",
+        "desc": "Traditional handicrafts of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.1501,
+        "lng": 93.0686
+      },
+      {
+        "name": "Silk Market Andaman and Nicobar Islands",
+        "desc": "Famous silk and textile market of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.1601,
+        "lng": 93.07860000000001
+      },
+      {
+        "name": "Tribal Art Market Andaman and Nicobar Islands",
+        "desc": "Traditional tribal art and crafts of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.1701,
+        "lng": 93.08860000000001
+      },
+      {
+        "name": "Spice Market Andaman and Nicobar Islands",
+        "desc": "Aromatic spice market unique to Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 12.1801,
+        "lng": 93.0986
+      },
+      {
+        "name": "Mall Port Blair",
+        "desc": "Modern shopping mall in Port Blair",
+        "rating": "4.2",
+        "lat": 11.3401,
+        "lng": 92.2586
+      },
+      {
+        "name": "Gem Market Andaman and Nicobar Islands",
+        "desc": "Precious and semi-precious stones of Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.3301,
+        "lng": 92.24860000000001
+      },
+      {
+        "name": "Bamboo Craft Andaman and Nicobar Islands",
+        "desc": "Traditional bamboo craft market of Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.3201,
+        "lng": 92.2386
+      },
+      {
+        "name": "Pottery Village Andaman and Nicobar Islands",
+        "desc": "Traditional pottery making village in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.3101,
+        "lng": 92.2286
+      },
+      {
+        "name": "Night Market Port Blair",
+        "desc": "Evening market in Port Blair with local goods",
+        "rating": "4.2",
+        "lat": 11.3001,
+        "lng": 92.21860000000001
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Andaman and Nicobar Islands",
+        "desc": "Tiger and wildlife reserve in Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 12.2401,
+        "lng": 93.1586
+      },
+      {
+        "name": "Bird Sanctuary Andaman and Nicobar Islands",
+        "desc": "Migratory bird sanctuary in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.2501,
+        "lng": 93.16860000000001
+      },
+      {
+        "name": "Forest Reserve Andaman and Nicobar Islands",
+        "desc": "Dense forest reserve of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.2601,
+        "lng": 93.1786
+      },
+      {
+        "name": "River Valley Andaman and Nicobar Islands",
+        "desc": "Scenic river valley in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 12.2701,
+        "lng": 93.18860000000001
+      },
+      {
+        "name": "Mountain Peak Andaman and Nicobar Islands",
+        "desc": "Highest mountain peak in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.280100000000001,
+        "lng": 93.19860000000001
+      },
+      {
+        "name": "Wetland Andaman and Nicobar Islands",
+        "desc": "Important wetland ecosystem in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.2401,
+        "lng": 92.1586
+      },
+      {
+        "name": "Tea Garden Andaman and Nicobar Islands",
+        "desc": "Scenic tea or coffee plantation in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 11.2301,
+        "lng": 92.1486
+      },
+      {
+        "name": "Organic Farm Andaman and Nicobar Islands",
+        "desc": "Organic farming experience in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.2201,
+        "lng": 92.13860000000001
+      },
+      {
+        "name": "Sunrise Point Andaman and Nicobar Islands",
+        "desc": "Most spectacular sunrise point in Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 11.2101,
+        "lng": 92.1286
+      },
+      {
+        "name": "Eco Park Port Blair",
+        "desc": "Ecology park in Port Blair with rare plants",
+        "rating": "4.1",
+        "lat": 11.200099999999999,
+        "lng": 92.1186
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Andaman and Nicobar Islands",
+        "desc": "Most famous temple in Andaman and Nicobar Islands",
+        "rating": "4.6",
+        "lat": 12.3401,
+        "lng": 93.2586
+      },
+      {
+        "name": "Mosque Port Blair",
+        "desc": "Historic mosque in Port Blair",
+        "rating": "4.3",
+        "lat": 12.3501,
+        "lng": 93.2686
+      },
+      {
+        "name": "Church Port Blair",
+        "desc": "Historic church in Port Blair",
+        "rating": "4.3",
+        "lat": 12.3601,
+        "lng": 93.27860000000001
+      },
+      {
+        "name": "Gurudwara Andaman and Nicobar Islands",
+        "desc": "Important Sikh shrine in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.3701,
+        "lng": 93.2886
+      },
+      {
+        "name": "Buddhist Monastery Andaman and Nicobar Islands",
+        "desc": "Ancient Buddhist monastery in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.3801,
+        "lng": 93.29860000000001
+      },
+      {
+        "name": "Jain Temple Andaman and Nicobar Islands",
+        "desc": "Famous Jain temple in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 11.1401,
+        "lng": 92.05860000000001
+      },
+      {
+        "name": "Dargah Andaman and Nicobar Islands",
+        "desc": "Famous Sufi dargah in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.1301,
+        "lng": 92.04860000000001
+      },
+      {
+        "name": "Ashram Andaman and Nicobar Islands",
+        "desc": "Spiritual ashram in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 11.1201,
+        "lng": 92.0386
+      },
+      {
+        "name": "Pilgrimage Site Andaman and Nicobar Islands",
+        "desc": "Important pilgrimage destination in Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 11.1101,
+        "lng": 92.02860000000001
+      },
+      {
+        "name": "Sacred River Ghat Andaman and Nicobar Islands",
+        "desc": "Sacred river ghat for rituals in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 11.1001,
+        "lng": 92.0186
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Andaman and Nicobar Islands",
+        "desc": "Traditional folk dance performance of Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 12.4401,
+        "lng": 93.35860000000001
+      },
+      {
+        "name": "Art Gallery Port Blair",
+        "desc": "State art gallery in Port Blair",
+        "rating": "4.2",
+        "lat": 12.450099999999999,
+        "lng": 93.3686
+      },
+      {
+        "name": "Cultural Center Port Blair",
+        "desc": "Cultural center for arts in Port Blair",
+        "rating": "4.3",
+        "lat": 12.4601,
+        "lng": 93.3786
+      },
+      {
+        "name": "Music Festival Andaman and Nicobar Islands",
+        "desc": "Annual music festival of Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 12.4701,
+        "lng": 93.38860000000001
+      },
+      {
+        "name": "Tribal Museum Andaman and Nicobar Islands",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 12.4801,
+        "lng": 93.3986
+      },
+      {
+        "name": "Craft Village Andaman and Nicobar Islands",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 11.0401,
+        "lng": 91.9586
+      },
+      {
+        "name": "Classical Dance Academy Port Blair",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 11.030100000000001,
+        "lng": 91.94860000000001
+      },
+      {
+        "name": "Puppet Theatre Andaman and Nicobar Islands",
+        "desc": "Traditional puppet theatre of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 11.0201,
+        "lng": 91.93860000000001
+      },
+      {
+        "name": "Weaving Center Andaman and Nicobar Islands",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 11.0101,
+        "lng": 91.9286
+      },
+      {
+        "name": "Open Air Theatre Port Blair",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 11.0001,
+        "lng": 91.91860000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Andaman and Nicobar Islands",
+        "desc": "Best trekking trails in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.5401,
+        "lng": 93.4586
+      },
+      {
+        "name": "Rock Climbing Andaman and Nicobar Islands",
+        "desc": "Rock climbing spots in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 12.5501,
+        "lng": 93.46860000000001
+      },
+      {
+        "name": "River Rafting Andaman and Nicobar Islands",
+        "desc": "White water rafting in rivers of Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 12.5601,
+        "lng": 93.4786
+      },
+      {
+        "name": "Paragliding Andaman and Nicobar Islands",
+        "desc": "Paragliding spots in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.5701,
+        "lng": 93.4886
+      },
+      {
+        "name": "Camping Andaman and Nicobar Islands",
+        "desc": "Camping spots in forests of Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.5801,
+        "lng": 93.49860000000001
+      },
+      {
+        "name": "Zip Line Andaman and Nicobar Islands",
+        "desc": "Zip lining adventure in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 10.9401,
+        "lng": 91.85860000000001
+      },
+      {
+        "name": "Jungle Safari Andaman and Nicobar Islands",
+        "desc": "Jeep jungle safari in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 10.9301,
+        "lng": 91.8486
+      },
+      {
+        "name": "Cycling Tour Andaman and Nicobar Islands",
+        "desc": "Scenic cycling routes in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 10.9201,
+        "lng": 91.83860000000001
+      },
+      {
+        "name": "Water Sports Andaman and Nicobar Islands",
+        "desc": "Water sports activities in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 10.9101,
+        "lng": 91.82860000000001
+      },
+      {
+        "name": "Bungee Jumping Andaman and Nicobar Islands",
+        "desc": "Bungee jumping experience in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 10.9001,
+        "lng": 91.8186
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Andaman and Nicobar Islands",
+        "desc": "Traditional Ayurvedic treatments in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.6401,
+        "lng": 93.55860000000001
+      },
+      {
+        "name": "Yoga Retreat Andaman and Nicobar Islands",
+        "desc": "Yoga and meditation retreat in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.6501,
+        "lng": 93.5686
+      },
+      {
+        "name": "Spa Resort Andaman and Nicobar Islands",
+        "desc": "Luxury spa resort in Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 12.6601,
+        "lng": 93.57860000000001
+      },
+      {
+        "name": "Naturopathy Center Andaman and Nicobar Islands",
+        "desc": "Natural healing center in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 12.6701,
+        "lng": 93.58860000000001
+      },
+      {
+        "name": "Meditation Ashram Andaman and Nicobar Islands",
+        "desc": "Peaceful meditation ashram in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.6801,
+        "lng": 93.5986
+      },
+      {
+        "name": "Wellness Resort Port Blair",
+        "desc": "Luxury wellness resort in Port Blair",
+        "rating": "4.4",
+        "lat": 10.8401,
+        "lng": 91.7586
+      },
+      {
+        "name": "Herbal Garden Andaman and Nicobar Islands",
+        "desc": "Medicinal herb garden in Andaman and Nicobar Islands",
+        "rating": "4.2",
+        "lat": 10.8301,
+        "lng": 91.74860000000001
+      },
+      {
+        "name": "Forest Bathing Andaman and Nicobar Islands",
+        "desc": "Therapeutic forest walks in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 10.8201,
+        "lng": 91.7386
+      },
+      {
+        "name": "Hot Spring Andaman and Nicobar Islands",
+        "desc": "Natural hot spring in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 10.8101,
+        "lng": 91.7286
+      },
+      {
+        "name": "Detox Retreat Andaman and Nicobar Islands",
+        "desc": "Detox and wellness retreat in Andaman and Nicobar Islands",
+        "rating": "4.3",
+        "lat": 10.8001,
+        "lng": 91.71860000000001
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Port Blair",
+        "desc": "Main airport of Andaman and Nicobar Islands in Port Blair",
+        "rating": "4.0",
+        "lat": 12.7401,
+        "lng": 93.6586
+      },
+      {
+        "name": "Railway Station Port Blair",
+        "desc": "Main railway junction in Port Blair",
+        "rating": "3.8",
+        "lat": 12.7501,
+        "lng": 93.66860000000001
+      },
+      {
+        "name": "Bus Terminal Port Blair",
+        "desc": "State bus terminal in Port Blair",
+        "rating": "3.7",
+        "lat": 12.7601,
+        "lng": 93.6786
+      },
+      {
+        "name": "Metro Rail Port Blair",
+        "desc": "Metro rail system in Port Blair",
+        "rating": "4.2",
+        "lat": 12.7701,
+        "lng": 93.68860000000001
+      },
+      {
+        "name": "Highway Andaman and Nicobar Islands",
+        "desc": "Major national highway through Andaman and Nicobar Islands",
+        "rating": "4.0",
+        "lat": 12.780100000000001,
+        "lng": 93.69860000000001
+      },
+      {
+        "name": "Port Andaman and Nicobar Islands",
+        "desc": "Major sea port of Andaman and Nicobar Islands",
+        "rating": "3.9",
+        "lat": 10.7401,
+        "lng": 91.6586
+      },
+      {
+        "name": "Taxi Stand Port Blair",
+        "desc": "Main cab and taxi hub in Port Blair",
+        "rating": "3.8",
+        "lat": 10.7301,
+        "lng": 91.6486
+      },
+      {
+        "name": "Auto Rickshaw Port Blair",
+        "desc": "Auto rickshaw services across Port Blair",
+        "rating": "3.6",
+        "lat": 10.7201,
+        "lng": 91.63860000000001
+      },
+      {
+        "name": "Cab Services Port Blair",
+        "desc": "Ola and Uber cab services in Port Blair",
+        "rating": "4.0",
+        "lat": 10.7101,
+        "lng": 91.6286
+      },
+      {
+        "name": "Helipad Andaman and Nicobar Islands",
+        "desc": "Helicopter services in Andaman and Nicobar Islands",
+        "rating": "4.0",
+        "lat": 10.700099999999999,
+        "lng": 91.6186
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Andaman and Nicobar Islands",
+        "desc": "Most famous festival of Andaman and Nicobar Islands",
+        "rating": "4.7",
+        "lat": 12.8401,
+        "lng": 93.7586
+      },
+      {
+        "name": "Cooking Class Andaman and Nicobar Islands",
+        "desc": "Learn traditional Andaman and Nicobar Islands cooking techniques",
+        "rating": "4.5",
+        "lat": 12.8501,
+        "lng": 93.7686
+      },
+      {
+        "name": "Village Walk Andaman and Nicobar Islands",
+        "desc": "Authentic village life experience in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.8601,
+        "lng": 93.77860000000001
+      },
+      {
+        "name": "Craft Workshop Andaman and Nicobar Islands",
+        "desc": "Traditional craft making workshop in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 12.8701,
+        "lng": 93.7886
+      },
+      {
+        "name": "Sunrise Trek Andaman and Nicobar Islands",
+        "desc": "Early morning sunrise trek in Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 12.8801,
+        "lng": 93.79860000000001
+      },
+      {
+        "name": "Local Market Tour Port Blair",
+        "desc": "Guided tour of local markets in Port Blair",
+        "rating": "4.3",
+        "lat": 10.6401,
+        "lng": 91.55860000000001
+      },
+      {
+        "name": "Folk Performance Andaman and Nicobar Islands",
+        "desc": "Traditional folk art performance of Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 10.6301,
+        "lng": 91.54860000000001
+      },
+      {
+        "name": "Farm Stay Andaman and Nicobar Islands",
+        "desc": "Authentic farm stay experience in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 10.6201,
+        "lng": 91.5386
+      },
+      {
+        "name": "Night Safari Andaman and Nicobar Islands",
+        "desc": "Night wildlife safari in Andaman and Nicobar Islands",
+        "rating": "4.4",
+        "lat": 10.6101,
+        "lng": 91.52860000000001
+      },
+      {
+        "name": "Harvest Festival Andaman and Nicobar Islands",
+        "desc": "Traditional harvest festival of Andaman and Nicobar Islands",
+        "rating": "4.5",
+        "lat": 10.6001,
+        "lng": 91.5186
+      }
+    ]
+  }
+}

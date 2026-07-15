@@ -1,0 +1,870 @@
+{
+  "state": "Ladakh",
+  "capital": "Leh",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Pangong Tso Lake Ladakh",
+        "desc": "Most famous heritage site in Ladakh",
+        "rating": "4.6",
+        "lat": 34.1526,
+        "lng": 77.5771
+      },
+      {
+        "name": "State Museum Leh",
+        "desc": "Archaeological museum showcasing Ladakh history",
+        "rating": "4.2",
+        "lat": 34.1626,
+        "lng": 77.5871
+      },
+      {
+        "name": "Old Fort Leh",
+        "desc": "Historic fort from medieval era in Leh",
+        "rating": "4.3",
+        "lat": 34.1726,
+        "lng": 77.5971
+      },
+      {
+        "name": "Ancient Temple Ladakh",
+        "desc": "Famous ancient temple showcasing Ladakh architecture",
+        "rating": "4.4",
+        "lat": 34.1826,
+        "lng": 77.6071
+      },
+      {
+        "name": "Colonial Building Leh",
+        "desc": "Historic colonial era building in Leh",
+        "rating": "4.1",
+        "lat": 34.1926,
+        "lng": 77.61710000000001
+      },
+      {
+        "name": "Palace Ladakh",
+        "desc": "Royal palace of former rulers of Ladakh",
+        "rating": "4.4",
+        "lat": 34.1426,
+        "lng": 77.5671
+      },
+      {
+        "name": "Rock Cut Caves Ladakh",
+        "desc": "Ancient rock cut monuments in Ladakh",
+        "rating": "4.3",
+        "lat": 34.1326,
+        "lng": 77.5571
+      },
+      {
+        "name": "Heritage Walk Leh",
+        "desc": "Guided walk through old quarter of Leh",
+        "rating": "4.3",
+        "lat": 34.1226,
+        "lng": 77.5471
+      },
+      {
+        "name": "Memorial Museum Leh",
+        "desc": "Memorial to freedom fighters of Ladakh",
+        "rating": "4.1",
+        "lat": 34.1126,
+        "lng": 77.5371
+      },
+      {
+        "name": "Ruins Site Ladakh",
+        "desc": "Ancient ruins and archaeological findings in Ladakh",
+        "rating": "4.2",
+        "lat": 34.1026,
+        "lng": 77.5271
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Leh",
+        "desc": "Authentic Ladakh thali with local specialties",
+        "rating": "4.5",
+        "lat": 34.2526,
+        "lng": 77.6771
+      },
+      {
+        "name": "Street Food Market Leh",
+        "desc": "Famous street food market in Leh",
+        "rating": "4.4",
+        "lat": 34.2626,
+        "lng": 77.6871
+      },
+      {
+        "name": "Local Sweet Shop Ladakh",
+        "desc": "Famous traditional sweets unique to Ladakh",
+        "rating": "4.5",
+        "lat": 34.2726,
+        "lng": 77.6971
+      },
+      {
+        "name": "Tribal Cuisine Ladakh",
+        "desc": "Authentic tribal food of Ladakh",
+        "rating": "4.4",
+        "lat": 34.2826,
+        "lng": 77.7071
+      },
+      {
+        "name": "Dhaba Ladakh",
+        "desc": "Famous highway dhaba with Ladakh specialties",
+        "rating": "4.3",
+        "lat": 34.2926,
+        "lng": 77.7171
+      },
+      {
+        "name": "Vegetarian Restaurant Leh",
+        "desc": "Best pure vegetarian food in Leh",
+        "rating": "4.3",
+        "lat": 34.0526,
+        "lng": 77.47710000000001
+      },
+      {
+        "name": "Biryani House Leh",
+        "desc": "Best biryani and rice dishes in Leh",
+        "rating": "4.4",
+        "lat": 34.0426,
+        "lng": 77.4671
+      },
+      {
+        "name": "Bakery Cafe Leh",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 34.0326,
+        "lng": 77.4571
+      },
+      {
+        "name": "Royal Kitchen Ladakh",
+        "desc": "Restaurant serving royal recipes of Ladakh",
+        "rating": "4.5",
+        "lat": 34.0226,
+        "lng": 77.4471
+      },
+      {
+        "name": "Fish Curry House Ladakh",
+        "desc": "Traditional Ladakh style fish preparation",
+        "rating": "4.4",
+        "lat": 34.0126,
+        "lng": 77.4371
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Leh",
+        "desc": "Luxury 5-star Taj hotel in Leh",
+        "rating": "4.7",
+        "lat": 34.3526,
+        "lng": 77.7771
+      },
+      {
+        "name": "Oberoi Resort Ladakh",
+        "desc": "Luxury resort in scenic location in Ladakh",
+        "rating": "4.8",
+        "lat": 34.3626,
+        "lng": 77.7871
+      },
+      {
+        "name": "Heritage Hotel Leh",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 34.3726,
+        "lng": 77.7971
+      },
+      {
+        "name": "ITC Hotel Leh",
+        "desc": "ITC luxury hotel in Leh",
+        "rating": "4.6",
+        "lat": 34.3826,
+        "lng": 77.8071
+      },
+      {
+        "name": "Eco Resort Ladakh",
+        "desc": "Eco-friendly resort in nature of Ladakh",
+        "rating": "4.5",
+        "lat": 34.3926,
+        "lng": 77.8171
+      },
+      {
+        "name": "Boutique Hotel Leh",
+        "desc": "Charming boutique hotel in old quarter of Leh",
+        "rating": "4.4",
+        "lat": 33.9526,
+        "lng": 77.3771
+      },
+      {
+        "name": "Marriott Leh",
+        "desc": "International 5-star Marriott hotel in Leh",
+        "rating": "4.6",
+        "lat": 33.9426,
+        "lng": 77.36710000000001
+      },
+      {
+        "name": "Forest Lodge Ladakh",
+        "desc": "Wildlife lodge near forest of Ladakh",
+        "rating": "4.4",
+        "lat": 33.9326,
+        "lng": 77.3571
+      },
+      {
+        "name": "Homestay Ladakh",
+        "desc": "Authentic homestay with local family in Ladakh",
+        "rating": "4.3",
+        "lat": 33.9226,
+        "lng": 77.3471
+      },
+      {
+        "name": "Budget Hotel Leh",
+        "desc": "Clean comfortable budget stay in Leh",
+        "rating": "4.0",
+        "lat": 33.9126,
+        "lng": 77.3371
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Ladakh",
+        "desc": "Best panoramic viewpoint in Ladakh",
+        "rating": "4.5",
+        "lat": 34.4526,
+        "lng": 77.8771
+      },
+      {
+        "name": "Waterfall Ladakh",
+        "desc": "Most beautiful waterfall in Ladakh",
+        "rating": "4.5",
+        "lat": 34.4626,
+        "lng": 77.8871
+      },
+      {
+        "name": "Lake Ladakh",
+        "desc": "Scenic lake in Ladakh with boating",
+        "rating": "4.3",
+        "lat": 34.4726,
+        "lng": 77.8971
+      },
+      {
+        "name": "Hill Station Ladakh",
+        "desc": "Popular hill station in Ladakh",
+        "rating": "4.4",
+        "lat": 34.4826,
+        "lng": 77.9071
+      },
+      {
+        "name": "National Park Ladakh",
+        "desc": "Wildlife national park in Ladakh",
+        "rating": "4.4",
+        "lat": 34.4926,
+        "lng": 77.9171
+      },
+      {
+        "name": "Beach Ladakh",
+        "desc": "Beautiful beach in Ladakh",
+        "rating": "4.3",
+        "lat": 33.8526,
+        "lng": 77.2771
+      },
+      {
+        "name": "Cave System Ladakh",
+        "desc": "Natural cave system in Ladakh",
+        "rating": "4.3",
+        "lat": 33.8426,
+        "lng": 77.2671
+      },
+      {
+        "name": "Dam Ladakh",
+        "desc": "Scenic dam and reservoir in Ladakh",
+        "rating": "4.2",
+        "lat": 33.8326,
+        "lng": 77.25710000000001
+      },
+      {
+        "name": "Botanical Garden Leh",
+        "desc": "Botanical garden with rare plants in Leh",
+        "rating": "4.2",
+        "lat": 33.8226,
+        "lng": 77.2471
+      },
+      {
+        "name": "Zoo Leh",
+        "desc": "State zoo in Leh with variety of animals",
+        "rating": "4.1",
+        "lat": 33.812599999999996,
+        "lng": 77.2371
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Leh",
+        "desc": "Bustling main market of Leh",
+        "rating": "4.3",
+        "lat": 34.5526,
+        "lng": 77.97710000000001
+      },
+      {
+        "name": "Handicraft Market Ladakh",
+        "desc": "Traditional handicrafts of Ladakh",
+        "rating": "4.4",
+        "lat": 34.562599999999996,
+        "lng": 77.9871
+      },
+      {
+        "name": "Silk Market Ladakh",
+        "desc": "Famous silk and textile market of Ladakh",
+        "rating": "4.4",
+        "lat": 34.5726,
+        "lng": 77.9971
+      },
+      {
+        "name": "Tribal Art Market Ladakh",
+        "desc": "Traditional tribal art and crafts of Ladakh",
+        "rating": "4.4",
+        "lat": 34.5826,
+        "lng": 78.00710000000001
+      },
+      {
+        "name": "Spice Market Ladakh",
+        "desc": "Aromatic spice market unique to Ladakh",
+        "rating": "4.3",
+        "lat": 34.5926,
+        "lng": 78.0171
+      },
+      {
+        "name": "Mall Leh",
+        "desc": "Modern shopping mall in Leh",
+        "rating": "4.2",
+        "lat": 33.7526,
+        "lng": 77.1771
+      },
+      {
+        "name": "Gem Market Ladakh",
+        "desc": "Precious and semi-precious stones of Ladakh",
+        "rating": "4.3",
+        "lat": 33.7426,
+        "lng": 77.1671
+      },
+      {
+        "name": "Bamboo Craft Ladakh",
+        "desc": "Traditional bamboo craft market of Ladakh",
+        "rating": "4.3",
+        "lat": 33.7326,
+        "lng": 77.1571
+      },
+      {
+        "name": "Pottery Village Ladakh",
+        "desc": "Traditional pottery making village in Ladakh",
+        "rating": "4.3",
+        "lat": 33.7226,
+        "lng": 77.1471
+      },
+      {
+        "name": "Night Market Leh",
+        "desc": "Evening market in Leh with local goods",
+        "rating": "4.2",
+        "lat": 33.7126,
+        "lng": 77.1371
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Ladakh",
+        "desc": "Tiger and wildlife reserve in Ladakh",
+        "rating": "4.5",
+        "lat": 34.6526,
+        "lng": 78.0771
+      },
+      {
+        "name": "Bird Sanctuary Ladakh",
+        "desc": "Migratory bird sanctuary in Ladakh",
+        "rating": "4.4",
+        "lat": 34.6626,
+        "lng": 78.0871
+      },
+      {
+        "name": "Forest Reserve Ladakh",
+        "desc": "Dense forest reserve of Ladakh",
+        "rating": "4.4",
+        "lat": 34.6726,
+        "lng": 78.0971
+      },
+      {
+        "name": "River Valley Ladakh",
+        "desc": "Scenic river valley in Ladakh",
+        "rating": "4.3",
+        "lat": 34.6826,
+        "lng": 78.1071
+      },
+      {
+        "name": "Mountain Peak Ladakh",
+        "desc": "Highest mountain peak in Ladakh",
+        "rating": "4.4",
+        "lat": 34.6926,
+        "lng": 78.11710000000001
+      },
+      {
+        "name": "Wetland Ladakh",
+        "desc": "Important wetland ecosystem in Ladakh",
+        "rating": "4.3",
+        "lat": 33.6526,
+        "lng": 77.0771
+      },
+      {
+        "name": "Tea Garden Ladakh",
+        "desc": "Scenic tea or coffee plantation in Ladakh",
+        "rating": "4.4",
+        "lat": 33.6426,
+        "lng": 77.0671
+      },
+      {
+        "name": "Organic Farm Ladakh",
+        "desc": "Organic farming experience in Ladakh",
+        "rating": "4.3",
+        "lat": 33.6326,
+        "lng": 77.0571
+      },
+      {
+        "name": "Sunrise Point Ladakh",
+        "desc": "Most spectacular sunrise point in Ladakh",
+        "rating": "4.5",
+        "lat": 33.6226,
+        "lng": 77.0471
+      },
+      {
+        "name": "Eco Park Leh",
+        "desc": "Ecology park in Leh with rare plants",
+        "rating": "4.1",
+        "lat": 33.6126,
+        "lng": 77.0371
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Ladakh",
+        "desc": "Most famous temple in Ladakh",
+        "rating": "4.6",
+        "lat": 34.7526,
+        "lng": 78.1771
+      },
+      {
+        "name": "Mosque Leh",
+        "desc": "Historic mosque in Leh",
+        "rating": "4.3",
+        "lat": 34.7626,
+        "lng": 78.1871
+      },
+      {
+        "name": "Church Leh",
+        "desc": "Historic church in Leh",
+        "rating": "4.3",
+        "lat": 34.7726,
+        "lng": 78.1971
+      },
+      {
+        "name": "Gurudwara Ladakh",
+        "desc": "Important Sikh shrine in Ladakh",
+        "rating": "4.4",
+        "lat": 34.7826,
+        "lng": 78.2071
+      },
+      {
+        "name": "Buddhist Monastery Ladakh",
+        "desc": "Ancient Buddhist monastery in Ladakh",
+        "rating": "4.4",
+        "lat": 34.7926,
+        "lng": 78.2171
+      },
+      {
+        "name": "Jain Temple Ladakh",
+        "desc": "Famous Jain temple in Ladakh",
+        "rating": "4.4",
+        "lat": 33.5526,
+        "lng": 76.97710000000001
+      },
+      {
+        "name": "Dargah Ladakh",
+        "desc": "Famous Sufi dargah in Ladakh",
+        "rating": "4.3",
+        "lat": 33.5426,
+        "lng": 76.9671
+      },
+      {
+        "name": "Ashram Ladakh",
+        "desc": "Spiritual ashram in Ladakh",
+        "rating": "4.4",
+        "lat": 33.5326,
+        "lng": 76.9571
+      },
+      {
+        "name": "Pilgrimage Site Ladakh",
+        "desc": "Important pilgrimage destination in Ladakh",
+        "rating": "4.5",
+        "lat": 33.5226,
+        "lng": 76.9471
+      },
+      {
+        "name": "Sacred River Ghat Ladakh",
+        "desc": "Sacred river ghat for rituals in Ladakh",
+        "rating": "4.3",
+        "lat": 33.5126,
+        "lng": 76.9371
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Ladakh",
+        "desc": "Traditional folk dance performance of Ladakh",
+        "rating": "4.5",
+        "lat": 34.8526,
+        "lng": 78.2771
+      },
+      {
+        "name": "Art Gallery Leh",
+        "desc": "State art gallery in Leh",
+        "rating": "4.2",
+        "lat": 34.8626,
+        "lng": 78.2871
+      },
+      {
+        "name": "Cultural Center Leh",
+        "desc": "Cultural center for arts in Leh",
+        "rating": "4.3",
+        "lat": 34.8726,
+        "lng": 78.2971
+      },
+      {
+        "name": "Music Festival Ladakh",
+        "desc": "Annual music festival of Ladakh",
+        "rating": "4.5",
+        "lat": 34.8826,
+        "lng": 78.3071
+      },
+      {
+        "name": "Tribal Museum Ladakh",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 34.8926,
+        "lng": 78.3171
+      },
+      {
+        "name": "Craft Village Ladakh",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 33.4526,
+        "lng": 76.8771
+      },
+      {
+        "name": "Classical Dance Academy Leh",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 33.4426,
+        "lng": 76.86710000000001
+      },
+      {
+        "name": "Puppet Theatre Ladakh",
+        "desc": "Traditional puppet theatre of Ladakh",
+        "rating": "4.4",
+        "lat": 33.4326,
+        "lng": 76.8571
+      },
+      {
+        "name": "Weaving Center Ladakh",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 33.4226,
+        "lng": 76.8471
+      },
+      {
+        "name": "Open Air Theatre Leh",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 33.4126,
+        "lng": 76.8371
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Ladakh",
+        "desc": "Best trekking trails in Ladakh",
+        "rating": "4.4",
+        "lat": 34.9526,
+        "lng": 78.3771
+      },
+      {
+        "name": "Rock Climbing Ladakh",
+        "desc": "Rock climbing spots in Ladakh",
+        "rating": "4.3",
+        "lat": 34.9626,
+        "lng": 78.3871
+      },
+      {
+        "name": "River Rafting Ladakh",
+        "desc": "White water rafting in rivers of Ladakh",
+        "rating": "4.5",
+        "lat": 34.9726,
+        "lng": 78.3971
+      },
+      {
+        "name": "Paragliding Ladakh",
+        "desc": "Paragliding spots in Ladakh",
+        "rating": "4.4",
+        "lat": 34.9826,
+        "lng": 78.4071
+      },
+      {
+        "name": "Camping Ladakh",
+        "desc": "Camping spots in forests of Ladakh",
+        "rating": "4.4",
+        "lat": 34.9926,
+        "lng": 78.4171
+      },
+      {
+        "name": "Zip Line Ladakh",
+        "desc": "Zip lining adventure in Ladakh",
+        "rating": "4.3",
+        "lat": 33.3526,
+        "lng": 76.7771
+      },
+      {
+        "name": "Jungle Safari Ladakh",
+        "desc": "Jeep jungle safari in Ladakh",
+        "rating": "4.4",
+        "lat": 33.3426,
+        "lng": 76.7671
+      },
+      {
+        "name": "Cycling Tour Ladakh",
+        "desc": "Scenic cycling routes in Ladakh",
+        "rating": "4.3",
+        "lat": 33.3326,
+        "lng": 76.75710000000001
+      },
+      {
+        "name": "Water Sports Ladakh",
+        "desc": "Water sports activities in Ladakh",
+        "rating": "4.3",
+        "lat": 33.3226,
+        "lng": 76.7471
+      },
+      {
+        "name": "Bungee Jumping Ladakh",
+        "desc": "Bungee jumping experience in Ladakh",
+        "rating": "4.3",
+        "lat": 33.312599999999996,
+        "lng": 76.7371
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Ladakh",
+        "desc": "Traditional Ayurvedic treatments in Ladakh",
+        "rating": "4.4",
+        "lat": 35.0526,
+        "lng": 78.47710000000001
+      },
+      {
+        "name": "Yoga Retreat Ladakh",
+        "desc": "Yoga and meditation retreat in Ladakh",
+        "rating": "4.4",
+        "lat": 35.062599999999996,
+        "lng": 78.4871
+      },
+      {
+        "name": "Spa Resort Ladakh",
+        "desc": "Luxury spa resort in Ladakh",
+        "rating": "4.5",
+        "lat": 35.0726,
+        "lng": 78.4971
+      },
+      {
+        "name": "Naturopathy Center Ladakh",
+        "desc": "Natural healing center in Ladakh",
+        "rating": "4.3",
+        "lat": 35.0826,
+        "lng": 78.50710000000001
+      },
+      {
+        "name": "Meditation Ashram Ladakh",
+        "desc": "Peaceful meditation ashram in Ladakh",
+        "rating": "4.4",
+        "lat": 35.0926,
+        "lng": 78.5171
+      },
+      {
+        "name": "Wellness Resort Leh",
+        "desc": "Luxury wellness resort in Leh",
+        "rating": "4.4",
+        "lat": 33.2526,
+        "lng": 76.6771
+      },
+      {
+        "name": "Herbal Garden Ladakh",
+        "desc": "Medicinal herb garden in Ladakh",
+        "rating": "4.2",
+        "lat": 33.2426,
+        "lng": 76.6671
+      },
+      {
+        "name": "Forest Bathing Ladakh",
+        "desc": "Therapeutic forest walks in Ladakh",
+        "rating": "4.3",
+        "lat": 33.2326,
+        "lng": 76.6571
+      },
+      {
+        "name": "Hot Spring Ladakh",
+        "desc": "Natural hot spring in Ladakh",
+        "rating": "4.4",
+        "lat": 33.2226,
+        "lng": 76.6471
+      },
+      {
+        "name": "Detox Retreat Ladakh",
+        "desc": "Detox and wellness retreat in Ladakh",
+        "rating": "4.3",
+        "lat": 33.2126,
+        "lng": 76.6371
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Leh",
+        "desc": "Main airport of Ladakh in Leh",
+        "rating": "4.0",
+        "lat": 35.1526,
+        "lng": 78.5771
+      },
+      {
+        "name": "Railway Station Leh",
+        "desc": "Main railway junction in Leh",
+        "rating": "3.8",
+        "lat": 35.1626,
+        "lng": 78.5871
+      },
+      {
+        "name": "Bus Terminal Leh",
+        "desc": "State bus terminal in Leh",
+        "rating": "3.7",
+        "lat": 35.1726,
+        "lng": 78.5971
+      },
+      {
+        "name": "Metro Rail Leh",
+        "desc": "Metro rail system in Leh",
+        "rating": "4.2",
+        "lat": 35.1826,
+        "lng": 78.6071
+      },
+      {
+        "name": "Highway Ladakh",
+        "desc": "Major national highway through Ladakh",
+        "rating": "4.0",
+        "lat": 35.1926,
+        "lng": 78.61710000000001
+      },
+      {
+        "name": "Port Ladakh",
+        "desc": "Major sea port of Ladakh",
+        "rating": "3.9",
+        "lat": 33.1526,
+        "lng": 76.5771
+      },
+      {
+        "name": "Taxi Stand Leh",
+        "desc": "Main cab and taxi hub in Leh",
+        "rating": "3.8",
+        "lat": 33.1426,
+        "lng": 76.5671
+      },
+      {
+        "name": "Auto Rickshaw Leh",
+        "desc": "Auto rickshaw services across Leh",
+        "rating": "3.6",
+        "lat": 33.1326,
+        "lng": 76.5571
+      },
+      {
+        "name": "Cab Services Leh",
+        "desc": "Ola and Uber cab services in Leh",
+        "rating": "4.0",
+        "lat": 33.1226,
+        "lng": 76.5471
+      },
+      {
+        "name": "Helipad Ladakh",
+        "desc": "Helicopter services in Ladakh",
+        "rating": "4.0",
+        "lat": 33.1126,
+        "lng": 76.5371
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Ladakh",
+        "desc": "Most famous festival of Ladakh",
+        "rating": "4.7",
+        "lat": 35.2526,
+        "lng": 78.6771
+      },
+      {
+        "name": "Cooking Class Ladakh",
+        "desc": "Learn traditional Ladakh cooking techniques",
+        "rating": "4.5",
+        "lat": 35.2626,
+        "lng": 78.6871
+      },
+      {
+        "name": "Village Walk Ladakh",
+        "desc": "Authentic village life experience in Ladakh",
+        "rating": "4.4",
+        "lat": 35.2726,
+        "lng": 78.6971
+      },
+      {
+        "name": "Craft Workshop Ladakh",
+        "desc": "Traditional craft making workshop in Ladakh",
+        "rating": "4.4",
+        "lat": 35.2826,
+        "lng": 78.7071
+      },
+      {
+        "name": "Sunrise Trek Ladakh",
+        "desc": "Early morning sunrise trek in Ladakh",
+        "rating": "4.5",
+        "lat": 35.2926,
+        "lng": 78.7171
+      },
+      {
+        "name": "Local Market Tour Leh",
+        "desc": "Guided tour of local markets in Leh",
+        "rating": "4.3",
+        "lat": 33.0526,
+        "lng": 76.47710000000001
+      },
+      {
+        "name": "Folk Performance Ladakh",
+        "desc": "Traditional folk art performance of Ladakh",
+        "rating": "4.5",
+        "lat": 33.0426,
+        "lng": 76.4671
+      },
+      {
+        "name": "Farm Stay Ladakh",
+        "desc": "Authentic farm stay experience in Ladakh",
+        "rating": "4.4",
+        "lat": 33.0326,
+        "lng": 76.4571
+      },
+      {
+        "name": "Night Safari Ladakh",
+        "desc": "Night wildlife safari in Ladakh",
+        "rating": "4.4",
+        "lat": 33.0226,
+        "lng": 76.4471
+      },
+      {
+        "name": "Harvest Festival Ladakh",
+        "desc": "Traditional harvest festival of Ladakh",
+        "rating": "4.5",
+        "lat": 33.0126,
+        "lng": 76.4371
+      }
+    ]
+  }
+}

@@ -1,0 +1,870 @@
+{
+  "state": "Uttarakhand",
+  "capital": "Dehradun",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Kedarnath Temple",
+        "desc": "Most famous heritage site in Uttarakhand",
+        "rating": "4.6",
+        "lat": 30.0668,
+        "lng": 79.0193
+      },
+      {
+        "name": "State Museum Dehradun",
+        "desc": "Archaeological museum showcasing Uttarakhand history",
+        "rating": "4.2",
+        "lat": 30.076800000000002,
+        "lng": 79.0293
+      },
+      {
+        "name": "Old Fort Dehradun",
+        "desc": "Historic fort from medieval era in Dehradun",
+        "rating": "4.3",
+        "lat": 30.0868,
+        "lng": 79.0393
+      },
+      {
+        "name": "Ancient Temple Uttarakhand",
+        "desc": "Famous ancient temple showcasing Uttarakhand architecture",
+        "rating": "4.4",
+        "lat": 30.0968,
+        "lng": 79.0493
+      },
+      {
+        "name": "Colonial Building Dehradun",
+        "desc": "Historic colonial era building in Dehradun",
+        "rating": "4.1",
+        "lat": 30.1068,
+        "lng": 79.05930000000001
+      },
+      {
+        "name": "Palace Uttarakhand",
+        "desc": "Royal palace of former rulers of Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.0568,
+        "lng": 79.0093
+      },
+      {
+        "name": "Rock Cut Caves Uttarakhand",
+        "desc": "Ancient rock cut monuments in Uttarakhand",
+        "rating": "4.3",
+        "lat": 30.0468,
+        "lng": 78.9993
+      },
+      {
+        "name": "Heritage Walk Dehradun",
+        "desc": "Guided walk through old quarter of Dehradun",
+        "rating": "4.3",
+        "lat": 30.0368,
+        "lng": 78.9893
+      },
+      {
+        "name": "Memorial Museum Dehradun",
+        "desc": "Memorial to freedom fighters of Uttarakhand",
+        "rating": "4.1",
+        "lat": 30.0268,
+        "lng": 78.9793
+      },
+      {
+        "name": "Ruins Site Uttarakhand",
+        "desc": "Ancient ruins and archaeological findings in Uttarakhand",
+        "rating": "4.2",
+        "lat": 30.0168,
+        "lng": 78.9693
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Dehradun",
+        "desc": "Authentic Uttarakhand thali with local specialties",
+        "rating": "4.5",
+        "lat": 30.166800000000002,
+        "lng": 79.1193
+      },
+      {
+        "name": "Street Food Market Dehradun",
+        "desc": "Famous street food market in Dehradun",
+        "rating": "4.4",
+        "lat": 30.1768,
+        "lng": 79.1293
+      },
+      {
+        "name": "Local Sweet Shop Uttarakhand",
+        "desc": "Famous traditional sweets unique to Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.1868,
+        "lng": 79.1393
+      },
+      {
+        "name": "Tribal Cuisine Uttarakhand",
+        "desc": "Authentic tribal food of Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.1968,
+        "lng": 79.1493
+      },
+      {
+        "name": "Dhaba Uttarakhand",
+        "desc": "Famous highway dhaba with Uttarakhand specialties",
+        "rating": "4.3",
+        "lat": 30.2068,
+        "lng": 79.1593
+      },
+      {
+        "name": "Vegetarian Restaurant Dehradun",
+        "desc": "Best pure vegetarian food in Dehradun",
+        "rating": "4.3",
+        "lat": 29.9668,
+        "lng": 78.9193
+      },
+      {
+        "name": "Biryani House Dehradun",
+        "desc": "Best biryani and rice dishes in Dehradun",
+        "rating": "4.4",
+        "lat": 29.9568,
+        "lng": 78.9093
+      },
+      {
+        "name": "Bakery Cafe Dehradun",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 29.9468,
+        "lng": 78.8993
+      },
+      {
+        "name": "Royal Kitchen Uttarakhand",
+        "desc": "Restaurant serving royal recipes of Uttarakhand",
+        "rating": "4.5",
+        "lat": 29.9368,
+        "lng": 78.8893
+      },
+      {
+        "name": "Fish Curry House Uttarakhand",
+        "desc": "Traditional Uttarakhand style fish preparation",
+        "rating": "4.4",
+        "lat": 29.9268,
+        "lng": 78.8793
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Dehradun",
+        "desc": "Luxury 5-star Taj hotel in Dehradun",
+        "rating": "4.7",
+        "lat": 30.2668,
+        "lng": 79.2193
+      },
+      {
+        "name": "Oberoi Resort Uttarakhand",
+        "desc": "Luxury resort in scenic location in Uttarakhand",
+        "rating": "4.8",
+        "lat": 30.2768,
+        "lng": 79.2293
+      },
+      {
+        "name": "Heritage Hotel Dehradun",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 30.2868,
+        "lng": 79.2393
+      },
+      {
+        "name": "ITC Hotel Dehradun",
+        "desc": "ITC luxury hotel in Dehradun",
+        "rating": "4.6",
+        "lat": 30.2968,
+        "lng": 79.2493
+      },
+      {
+        "name": "Eco Resort Uttarakhand",
+        "desc": "Eco-friendly resort in nature of Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.3068,
+        "lng": 79.2593
+      },
+      {
+        "name": "Boutique Hotel Dehradun",
+        "desc": "Charming boutique hotel in old quarter of Dehradun",
+        "rating": "4.4",
+        "lat": 29.8668,
+        "lng": 78.8193
+      },
+      {
+        "name": "Marriott Dehradun",
+        "desc": "International 5-star Marriott hotel in Dehradun",
+        "rating": "4.6",
+        "lat": 29.8568,
+        "lng": 78.80930000000001
+      },
+      {
+        "name": "Forest Lodge Uttarakhand",
+        "desc": "Wildlife lodge near forest of Uttarakhand",
+        "rating": "4.4",
+        "lat": 29.8468,
+        "lng": 78.7993
+      },
+      {
+        "name": "Homestay Uttarakhand",
+        "desc": "Authentic homestay with local family in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.8368,
+        "lng": 78.7893
+      },
+      {
+        "name": "Budget Hotel Dehradun",
+        "desc": "Clean comfortable budget stay in Dehradun",
+        "rating": "4.0",
+        "lat": 29.826800000000002,
+        "lng": 78.7793
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Uttarakhand",
+        "desc": "Best panoramic viewpoint in Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.3668,
+        "lng": 79.3193
+      },
+      {
+        "name": "Waterfall Uttarakhand",
+        "desc": "Most beautiful waterfall in Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.3768,
+        "lng": 79.3293
+      },
+      {
+        "name": "Lake Uttarakhand",
+        "desc": "Scenic lake in Uttarakhand with boating",
+        "rating": "4.3",
+        "lat": 30.3868,
+        "lng": 79.3393
+      },
+      {
+        "name": "Hill Station Uttarakhand",
+        "desc": "Popular hill station in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.3968,
+        "lng": 79.3493
+      },
+      {
+        "name": "National Park Uttarakhand",
+        "desc": "Wildlife national park in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.4068,
+        "lng": 79.3593
+      },
+      {
+        "name": "Beach Uttarakhand",
+        "desc": "Beautiful beach in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.7668,
+        "lng": 78.7193
+      },
+      {
+        "name": "Cave System Uttarakhand",
+        "desc": "Natural cave system in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.756800000000002,
+        "lng": 78.7093
+      },
+      {
+        "name": "Dam Uttarakhand",
+        "desc": "Scenic dam and reservoir in Uttarakhand",
+        "rating": "4.2",
+        "lat": 29.7468,
+        "lng": 78.69930000000001
+      },
+      {
+        "name": "Botanical Garden Dehradun",
+        "desc": "Botanical garden with rare plants in Dehradun",
+        "rating": "4.2",
+        "lat": 29.736800000000002,
+        "lng": 78.6893
+      },
+      {
+        "name": "Zoo Dehradun",
+        "desc": "State zoo in Dehradun with variety of animals",
+        "rating": "4.1",
+        "lat": 29.7268,
+        "lng": 78.6793
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Dehradun",
+        "desc": "Bustling main market of Dehradun",
+        "rating": "4.3",
+        "lat": 30.4668,
+        "lng": 79.4193
+      },
+      {
+        "name": "Handicraft Market Uttarakhand",
+        "desc": "Traditional handicrafts of Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.4768,
+        "lng": 79.4293
+      },
+      {
+        "name": "Silk Market Uttarakhand",
+        "desc": "Famous silk and textile market of Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.486800000000002,
+        "lng": 79.4393
+      },
+      {
+        "name": "Tribal Art Market Uttarakhand",
+        "desc": "Traditional tribal art and crafts of Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.4968,
+        "lng": 79.44930000000001
+      },
+      {
+        "name": "Spice Market Uttarakhand",
+        "desc": "Aromatic spice market unique to Uttarakhand",
+        "rating": "4.3",
+        "lat": 30.506800000000002,
+        "lng": 79.4593
+      },
+      {
+        "name": "Mall Dehradun",
+        "desc": "Modern shopping mall in Dehradun",
+        "rating": "4.2",
+        "lat": 29.666800000000002,
+        "lng": 78.6193
+      },
+      {
+        "name": "Gem Market Uttarakhand",
+        "desc": "Precious and semi-precious stones of Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.6568,
+        "lng": 78.6093
+      },
+      {
+        "name": "Bamboo Craft Uttarakhand",
+        "desc": "Traditional bamboo craft market of Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.6468,
+        "lng": 78.5993
+      },
+      {
+        "name": "Pottery Village Uttarakhand",
+        "desc": "Traditional pottery making village in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.6368,
+        "lng": 78.5893
+      },
+      {
+        "name": "Night Market Dehradun",
+        "desc": "Evening market in Dehradun with local goods",
+        "rating": "4.2",
+        "lat": 29.6268,
+        "lng": 78.5793
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Uttarakhand",
+        "desc": "Tiger and wildlife reserve in Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.5668,
+        "lng": 79.5193
+      },
+      {
+        "name": "Bird Sanctuary Uttarakhand",
+        "desc": "Migratory bird sanctuary in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.576800000000002,
+        "lng": 79.5293
+      },
+      {
+        "name": "Forest Reserve Uttarakhand",
+        "desc": "Dense forest reserve of Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.5868,
+        "lng": 79.5393
+      },
+      {
+        "name": "River Valley Uttarakhand",
+        "desc": "Scenic river valley in Uttarakhand",
+        "rating": "4.3",
+        "lat": 30.5968,
+        "lng": 79.5493
+      },
+      {
+        "name": "Mountain Peak Uttarakhand",
+        "desc": "Highest mountain peak in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.6068,
+        "lng": 79.55930000000001
+      },
+      {
+        "name": "Wetland Uttarakhand",
+        "desc": "Important wetland ecosystem in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.5668,
+        "lng": 78.5193
+      },
+      {
+        "name": "Tea Garden Uttarakhand",
+        "desc": "Scenic tea or coffee plantation in Uttarakhand",
+        "rating": "4.4",
+        "lat": 29.5568,
+        "lng": 78.5093
+      },
+      {
+        "name": "Organic Farm Uttarakhand",
+        "desc": "Organic farming experience in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.5468,
+        "lng": 78.4993
+      },
+      {
+        "name": "Sunrise Point Uttarakhand",
+        "desc": "Most spectacular sunrise point in Uttarakhand",
+        "rating": "4.5",
+        "lat": 29.5368,
+        "lng": 78.4893
+      },
+      {
+        "name": "Eco Park Dehradun",
+        "desc": "Ecology park in Dehradun with rare plants",
+        "rating": "4.1",
+        "lat": 29.5268,
+        "lng": 78.4793
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Uttarakhand",
+        "desc": "Most famous temple in Uttarakhand",
+        "rating": "4.6",
+        "lat": 30.666800000000002,
+        "lng": 79.6193
+      },
+      {
+        "name": "Mosque Dehradun",
+        "desc": "Historic mosque in Dehradun",
+        "rating": "4.3",
+        "lat": 30.6768,
+        "lng": 79.6293
+      },
+      {
+        "name": "Church Dehradun",
+        "desc": "Historic church in Dehradun",
+        "rating": "4.3",
+        "lat": 30.6868,
+        "lng": 79.6393
+      },
+      {
+        "name": "Gurudwara Uttarakhand",
+        "desc": "Important Sikh shrine in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.6968,
+        "lng": 79.6493
+      },
+      {
+        "name": "Buddhist Monastery Uttarakhand",
+        "desc": "Ancient Buddhist monastery in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.7068,
+        "lng": 79.6593
+      },
+      {
+        "name": "Jain Temple Uttarakhand",
+        "desc": "Famous Jain temple in Uttarakhand",
+        "rating": "4.4",
+        "lat": 29.4668,
+        "lng": 78.4193
+      },
+      {
+        "name": "Dargah Uttarakhand",
+        "desc": "Famous Sufi dargah in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.4568,
+        "lng": 78.4093
+      },
+      {
+        "name": "Ashram Uttarakhand",
+        "desc": "Spiritual ashram in Uttarakhand",
+        "rating": "4.4",
+        "lat": 29.4468,
+        "lng": 78.3993
+      },
+      {
+        "name": "Pilgrimage Site Uttarakhand",
+        "desc": "Important pilgrimage destination in Uttarakhand",
+        "rating": "4.5",
+        "lat": 29.4368,
+        "lng": 78.3893
+      },
+      {
+        "name": "Sacred River Ghat Uttarakhand",
+        "desc": "Sacred river ghat for rituals in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.4268,
+        "lng": 78.3793
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Uttarakhand",
+        "desc": "Traditional folk dance performance of Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.7668,
+        "lng": 79.7193
+      },
+      {
+        "name": "Art Gallery Dehradun",
+        "desc": "State art gallery in Dehradun",
+        "rating": "4.2",
+        "lat": 30.7768,
+        "lng": 79.7293
+      },
+      {
+        "name": "Cultural Center Dehradun",
+        "desc": "Cultural center for arts in Dehradun",
+        "rating": "4.3",
+        "lat": 30.7868,
+        "lng": 79.7393
+      },
+      {
+        "name": "Music Festival Uttarakhand",
+        "desc": "Annual music festival of Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.7968,
+        "lng": 79.7493
+      },
+      {
+        "name": "Tribal Museum Uttarakhand",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 30.8068,
+        "lng": 79.7593
+      },
+      {
+        "name": "Craft Village Uttarakhand",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 29.3668,
+        "lng": 78.3193
+      },
+      {
+        "name": "Classical Dance Academy Dehradun",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 29.3568,
+        "lng": 78.30930000000001
+      },
+      {
+        "name": "Puppet Theatre Uttarakhand",
+        "desc": "Traditional puppet theatre of Uttarakhand",
+        "rating": "4.4",
+        "lat": 29.3468,
+        "lng": 78.2993
+      },
+      {
+        "name": "Weaving Center Uttarakhand",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 29.3368,
+        "lng": 78.2893
+      },
+      {
+        "name": "Open Air Theatre Dehradun",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 29.326800000000002,
+        "lng": 78.2793
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Uttarakhand",
+        "desc": "Best trekking trails in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.8668,
+        "lng": 79.8193
+      },
+      {
+        "name": "Rock Climbing Uttarakhand",
+        "desc": "Rock climbing spots in Uttarakhand",
+        "rating": "4.3",
+        "lat": 30.8768,
+        "lng": 79.8293
+      },
+      {
+        "name": "River Rafting Uttarakhand",
+        "desc": "White water rafting in rivers of Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.8868,
+        "lng": 79.8393
+      },
+      {
+        "name": "Paragliding Uttarakhand",
+        "desc": "Paragliding spots in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.8968,
+        "lng": 79.8493
+      },
+      {
+        "name": "Camping Uttarakhand",
+        "desc": "Camping spots in forests of Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.9068,
+        "lng": 79.8593
+      },
+      {
+        "name": "Zip Line Uttarakhand",
+        "desc": "Zip lining adventure in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.2668,
+        "lng": 78.2193
+      },
+      {
+        "name": "Jungle Safari Uttarakhand",
+        "desc": "Jeep jungle safari in Uttarakhand",
+        "rating": "4.4",
+        "lat": 29.256800000000002,
+        "lng": 78.2093
+      },
+      {
+        "name": "Cycling Tour Uttarakhand",
+        "desc": "Scenic cycling routes in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.2468,
+        "lng": 78.19930000000001
+      },
+      {
+        "name": "Water Sports Uttarakhand",
+        "desc": "Water sports activities in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.236800000000002,
+        "lng": 78.1893
+      },
+      {
+        "name": "Bungee Jumping Uttarakhand",
+        "desc": "Bungee jumping experience in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.2268,
+        "lng": 78.1793
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Uttarakhand",
+        "desc": "Traditional Ayurvedic treatments in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.9668,
+        "lng": 79.9193
+      },
+      {
+        "name": "Yoga Retreat Uttarakhand",
+        "desc": "Yoga and meditation retreat in Uttarakhand",
+        "rating": "4.4",
+        "lat": 30.9768,
+        "lng": 79.9293
+      },
+      {
+        "name": "Spa Resort Uttarakhand",
+        "desc": "Luxury spa resort in Uttarakhand",
+        "rating": "4.5",
+        "lat": 30.986800000000002,
+        "lng": 79.9393
+      },
+      {
+        "name": "Naturopathy Center Uttarakhand",
+        "desc": "Natural healing center in Uttarakhand",
+        "rating": "4.3",
+        "lat": 30.9968,
+        "lng": 79.94930000000001
+      },
+      {
+        "name": "Meditation Ashram Uttarakhand",
+        "desc": "Peaceful meditation ashram in Uttarakhand",
+        "rating": "4.4",
+        "lat": 31.006800000000002,
+        "lng": 79.9593
+      },
+      {
+        "name": "Wellness Resort Dehradun",
+        "desc": "Luxury wellness resort in Dehradun",
+        "rating": "4.4",
+        "lat": 29.166800000000002,
+        "lng": 78.1193
+      },
+      {
+        "name": "Herbal Garden Uttarakhand",
+        "desc": "Medicinal herb garden in Uttarakhand",
+        "rating": "4.2",
+        "lat": 29.1568,
+        "lng": 78.1093
+      },
+      {
+        "name": "Forest Bathing Uttarakhand",
+        "desc": "Therapeutic forest walks in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.1468,
+        "lng": 78.0993
+      },
+      {
+        "name": "Hot Spring Uttarakhand",
+        "desc": "Natural hot spring in Uttarakhand",
+        "rating": "4.4",
+        "lat": 29.1368,
+        "lng": 78.0893
+      },
+      {
+        "name": "Detox Retreat Uttarakhand",
+        "desc": "Detox and wellness retreat in Uttarakhand",
+        "rating": "4.3",
+        "lat": 29.1268,
+        "lng": 78.0793
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Dehradun",
+        "desc": "Main airport of Uttarakhand in Dehradun",
+        "rating": "4.0",
+        "lat": 31.0668,
+        "lng": 80.0193
+      },
+      {
+        "name": "Railway Station Dehradun",
+        "desc": "Main railway junction in Dehradun",
+        "rating": "3.8",
+        "lat": 31.076800000000002,
+        "lng": 80.0293
+      },
+      {
+        "name": "Bus Terminal Dehradun",
+        "desc": "State bus terminal in Dehradun",
+        "rating": "3.7",
+        "lat": 31.0868,
+        "lng": 80.0393
+      },
+      {
+        "name": "Metro Rail Dehradun",
+        "desc": "Metro rail system in Dehradun",
+        "rating": "4.2",
+        "lat": 31.0968,
+        "lng": 80.0493
+      },
+      {
+        "name": "Highway Uttarakhand",
+        "desc": "Major national highway through Uttarakhand",
+        "rating": "4.0",
+        "lat": 31.1068,
+        "lng": 80.05930000000001
+      },
+      {
+        "name": "Port Uttarakhand",
+        "desc": "Major sea port of Uttarakhand",
+        "rating": "3.9",
+        "lat": 29.0668,
+        "lng": 78.0193
+      },
+      {
+        "name": "Taxi Stand Dehradun",
+        "desc": "Main cab and taxi hub in Dehradun",
+        "rating": "3.8",
+        "lat": 29.0568,
+        "lng": 78.0093
+      },
+      {
+        "name": "Auto Rickshaw Dehradun",
+        "desc": "Auto rickshaw services across Dehradun",
+        "rating": "3.6",
+        "lat": 29.0468,
+        "lng": 77.9993
+      },
+      {
+        "name": "Cab Services Dehradun",
+        "desc": "Ola and Uber cab services in Dehradun",
+        "rating": "4.0",
+        "lat": 29.0368,
+        "lng": 77.9893
+      },
+      {
+        "name": "Helipad Uttarakhand",
+        "desc": "Helicopter services in Uttarakhand",
+        "rating": "4.0",
+        "lat": 29.0268,
+        "lng": 77.9793
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Uttarakhand",
+        "desc": "Most famous festival of Uttarakhand",
+        "rating": "4.7",
+        "lat": 31.166800000000002,
+        "lng": 80.1193
+      },
+      {
+        "name": "Cooking Class Uttarakhand",
+        "desc": "Learn traditional Uttarakhand cooking techniques",
+        "rating": "4.5",
+        "lat": 31.1768,
+        "lng": 80.1293
+      },
+      {
+        "name": "Village Walk Uttarakhand",
+        "desc": "Authentic village life experience in Uttarakhand",
+        "rating": "4.4",
+        "lat": 31.1868,
+        "lng": 80.1393
+      },
+      {
+        "name": "Craft Workshop Uttarakhand",
+        "desc": "Traditional craft making workshop in Uttarakhand",
+        "rating": "4.4",
+        "lat": 31.1968,
+        "lng": 80.1493
+      },
+      {
+        "name": "Sunrise Trek Uttarakhand",
+        "desc": "Early morning sunrise trek in Uttarakhand",
+        "rating": "4.5",
+        "lat": 31.2068,
+        "lng": 80.1593
+      },
+      {
+        "name": "Local Market Tour Dehradun",
+        "desc": "Guided tour of local markets in Dehradun",
+        "rating": "4.3",
+        "lat": 28.9668,
+        "lng": 77.9193
+      },
+      {
+        "name": "Folk Performance Uttarakhand",
+        "desc": "Traditional folk art performance of Uttarakhand",
+        "rating": "4.5",
+        "lat": 28.9568,
+        "lng": 77.9093
+      },
+      {
+        "name": "Farm Stay Uttarakhand",
+        "desc": "Authentic farm stay experience in Uttarakhand",
+        "rating": "4.4",
+        "lat": 28.9468,
+        "lng": 77.8993
+      },
+      {
+        "name": "Night Safari Uttarakhand",
+        "desc": "Night wildlife safari in Uttarakhand",
+        "rating": "4.4",
+        "lat": 28.9368,
+        "lng": 77.8893
+      },
+      {
+        "name": "Harvest Festival Uttarakhand",
+        "desc": "Traditional harvest festival of Uttarakhand",
+        "rating": "4.5",
+        "lat": 28.9268,
+        "lng": 77.8793
+      }
+    ]
+  }
+}

@@ -1,0 +1,870 @@
+{
+  "state": "Puducherry",
+  "capital": "Puducherry",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Auroville Township",
+        "desc": "Most famous heritage site in Puducherry",
+        "rating": "4.6",
+        "lat": 11.9416,
+        "lng": 79.8083
+      },
+      {
+        "name": "State Museum Puducherry",
+        "desc": "Archaeological museum showcasing Puducherry history",
+        "rating": "4.2",
+        "lat": 11.9516,
+        "lng": 79.81830000000001
+      },
+      {
+        "name": "Old Fort Puducherry",
+        "desc": "Historic fort from medieval era in Puducherry",
+        "rating": "4.3",
+        "lat": 11.961599999999999,
+        "lng": 79.8283
+      },
+      {
+        "name": "Ancient Temple Puducherry",
+        "desc": "Famous ancient temple showcasing Puducherry architecture",
+        "rating": "4.4",
+        "lat": 11.971599999999999,
+        "lng": 79.8383
+      },
+      {
+        "name": "Colonial Building Puducherry",
+        "desc": "Historic colonial era building in Puducherry",
+        "rating": "4.1",
+        "lat": 11.981599999999998,
+        "lng": 79.84830000000001
+      },
+      {
+        "name": "Palace Puducherry",
+        "desc": "Royal palace of former rulers of Puducherry",
+        "rating": "4.4",
+        "lat": 11.9316,
+        "lng": 79.7983
+      },
+      {
+        "name": "Rock Cut Caves Puducherry",
+        "desc": "Ancient rock cut monuments in Puducherry",
+        "rating": "4.3",
+        "lat": 11.9216,
+        "lng": 79.7883
+      },
+      {
+        "name": "Heritage Walk Puducherry",
+        "desc": "Guided walk through old quarter of Puducherry",
+        "rating": "4.3",
+        "lat": 11.9116,
+        "lng": 79.7783
+      },
+      {
+        "name": "Memorial Museum Puducherry",
+        "desc": "Memorial to freedom fighters of Puducherry",
+        "rating": "4.1",
+        "lat": 11.9016,
+        "lng": 79.7683
+      },
+      {
+        "name": "Ruins Site Puducherry",
+        "desc": "Ancient ruins and archaeological findings in Puducherry",
+        "rating": "4.2",
+        "lat": 11.891599999999999,
+        "lng": 79.7583
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Puducherry",
+        "desc": "Authentic Puducherry thali with local specialties",
+        "rating": "4.5",
+        "lat": 12.041599999999999,
+        "lng": 79.9083
+      },
+      {
+        "name": "Street Food Market Puducherry",
+        "desc": "Famous street food market in Puducherry",
+        "rating": "4.4",
+        "lat": 12.051599999999999,
+        "lng": 79.9183
+      },
+      {
+        "name": "Local Sweet Shop Puducherry",
+        "desc": "Famous traditional sweets unique to Puducherry",
+        "rating": "4.5",
+        "lat": 12.061599999999999,
+        "lng": 79.92830000000001
+      },
+      {
+        "name": "Tribal Cuisine Puducherry",
+        "desc": "Authentic tribal food of Puducherry",
+        "rating": "4.4",
+        "lat": 12.0716,
+        "lng": 79.9383
+      },
+      {
+        "name": "Dhaba Puducherry",
+        "desc": "Famous highway dhaba with Puducherry specialties",
+        "rating": "4.3",
+        "lat": 12.0816,
+        "lng": 79.9483
+      },
+      {
+        "name": "Vegetarian Restaurant Puducherry",
+        "desc": "Best pure vegetarian food in Puducherry",
+        "rating": "4.3",
+        "lat": 11.8416,
+        "lng": 79.70830000000001
+      },
+      {
+        "name": "Biryani House Puducherry",
+        "desc": "Best biryani and rice dishes in Puducherry",
+        "rating": "4.4",
+        "lat": 11.8316,
+        "lng": 79.6983
+      },
+      {
+        "name": "Bakery Cafe Puducherry",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 11.8216,
+        "lng": 79.6883
+      },
+      {
+        "name": "Royal Kitchen Puducherry",
+        "desc": "Restaurant serving royal recipes of Puducherry",
+        "rating": "4.5",
+        "lat": 11.811599999999999,
+        "lng": 79.67830000000001
+      },
+      {
+        "name": "Fish Curry House Puducherry",
+        "desc": "Traditional Puducherry style fish preparation",
+        "rating": "4.4",
+        "lat": 11.801599999999999,
+        "lng": 79.6683
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Puducherry",
+        "desc": "Luxury 5-star Taj hotel in Puducherry",
+        "rating": "4.7",
+        "lat": 12.141599999999999,
+        "lng": 80.0083
+      },
+      {
+        "name": "Oberoi Resort Puducherry",
+        "desc": "Luxury resort in scenic location in Puducherry",
+        "rating": "4.8",
+        "lat": 12.1516,
+        "lng": 80.0183
+      },
+      {
+        "name": "Heritage Hotel Puducherry",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 12.1616,
+        "lng": 80.0283
+      },
+      {
+        "name": "ITC Hotel Puducherry",
+        "desc": "ITC luxury hotel in Puducherry",
+        "rating": "4.6",
+        "lat": 12.1716,
+        "lng": 80.0383
+      },
+      {
+        "name": "Eco Resort Puducherry",
+        "desc": "Eco-friendly resort in nature of Puducherry",
+        "rating": "4.5",
+        "lat": 12.1816,
+        "lng": 80.0483
+      },
+      {
+        "name": "Boutique Hotel Puducherry",
+        "desc": "Charming boutique hotel in old quarter of Puducherry",
+        "rating": "4.4",
+        "lat": 11.7416,
+        "lng": 79.6083
+      },
+      {
+        "name": "Marriott Puducherry",
+        "desc": "International 5-star Marriott hotel in Puducherry",
+        "rating": "4.6",
+        "lat": 11.731599999999998,
+        "lng": 79.59830000000001
+      },
+      {
+        "name": "Forest Lodge Puducherry",
+        "desc": "Wildlife lodge near forest of Puducherry",
+        "rating": "4.4",
+        "lat": 11.721599999999999,
+        "lng": 79.5883
+      },
+      {
+        "name": "Homestay Puducherry",
+        "desc": "Authentic homestay with local family in Puducherry",
+        "rating": "4.3",
+        "lat": 11.711599999999999,
+        "lng": 79.5783
+      },
+      {
+        "name": "Budget Hotel Puducherry",
+        "desc": "Clean comfortable budget stay in Puducherry",
+        "rating": "4.0",
+        "lat": 11.7016,
+        "lng": 79.56830000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Puducherry",
+        "desc": "Best panoramic viewpoint in Puducherry",
+        "rating": "4.5",
+        "lat": 12.2416,
+        "lng": 80.1083
+      },
+      {
+        "name": "Waterfall Puducherry",
+        "desc": "Most beautiful waterfall in Puducherry",
+        "rating": "4.5",
+        "lat": 12.2516,
+        "lng": 80.1183
+      },
+      {
+        "name": "Lake Puducherry",
+        "desc": "Scenic lake in Puducherry with boating",
+        "rating": "4.3",
+        "lat": 12.2616,
+        "lng": 80.1283
+      },
+      {
+        "name": "Hill Station Puducherry",
+        "desc": "Popular hill station in Puducherry",
+        "rating": "4.4",
+        "lat": 12.2716,
+        "lng": 80.1383
+      },
+      {
+        "name": "National Park Puducherry",
+        "desc": "Wildlife national park in Puducherry",
+        "rating": "4.4",
+        "lat": 12.2816,
+        "lng": 80.1483
+      },
+      {
+        "name": "Beach Puducherry",
+        "desc": "Beautiful beach in Puducherry",
+        "rating": "4.3",
+        "lat": 11.641599999999999,
+        "lng": 79.5083
+      },
+      {
+        "name": "Cave System Puducherry",
+        "desc": "Natural cave system in Puducherry",
+        "rating": "4.3",
+        "lat": 11.631599999999999,
+        "lng": 79.4983
+      },
+      {
+        "name": "Dam Puducherry",
+        "desc": "Scenic dam and reservoir in Puducherry",
+        "rating": "4.2",
+        "lat": 11.621599999999999,
+        "lng": 79.48830000000001
+      },
+      {
+        "name": "Botanical Garden Puducherry",
+        "desc": "Botanical garden with rare plants in Puducherry",
+        "rating": "4.2",
+        "lat": 11.6116,
+        "lng": 79.4783
+      },
+      {
+        "name": "Zoo Puducherry",
+        "desc": "State zoo in Puducherry with variety of animals",
+        "rating": "4.1",
+        "lat": 11.6016,
+        "lng": 79.4683
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Puducherry",
+        "desc": "Bustling main market of Puducherry",
+        "rating": "4.3",
+        "lat": 12.3416,
+        "lng": 80.20830000000001
+      },
+      {
+        "name": "Handicraft Market Puducherry",
+        "desc": "Traditional handicrafts of Puducherry",
+        "rating": "4.4",
+        "lat": 12.3516,
+        "lng": 80.2183
+      },
+      {
+        "name": "Silk Market Puducherry",
+        "desc": "Famous silk and textile market of Puducherry",
+        "rating": "4.4",
+        "lat": 12.3616,
+        "lng": 80.2283
+      },
+      {
+        "name": "Tribal Art Market Puducherry",
+        "desc": "Traditional tribal art and crafts of Puducherry",
+        "rating": "4.4",
+        "lat": 12.371599999999999,
+        "lng": 80.23830000000001
+      },
+      {
+        "name": "Spice Market Puducherry",
+        "desc": "Aromatic spice market unique to Puducherry",
+        "rating": "4.3",
+        "lat": 12.381599999999999,
+        "lng": 80.2483
+      },
+      {
+        "name": "Mall Puducherry",
+        "desc": "Modern shopping mall in Puducherry",
+        "rating": "4.2",
+        "lat": 11.541599999999999,
+        "lng": 79.4083
+      },
+      {
+        "name": "Gem Market Puducherry",
+        "desc": "Precious and semi-precious stones of Puducherry",
+        "rating": "4.3",
+        "lat": 11.5316,
+        "lng": 79.3983
+      },
+      {
+        "name": "Bamboo Craft Puducherry",
+        "desc": "Traditional bamboo craft market of Puducherry",
+        "rating": "4.3",
+        "lat": 11.5216,
+        "lng": 79.3883
+      },
+      {
+        "name": "Pottery Village Puducherry",
+        "desc": "Traditional pottery making village in Puducherry",
+        "rating": "4.3",
+        "lat": 11.5116,
+        "lng": 79.3783
+      },
+      {
+        "name": "Night Market Puducherry",
+        "desc": "Evening market in Puducherry with local goods",
+        "rating": "4.2",
+        "lat": 11.5016,
+        "lng": 79.3683
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Puducherry",
+        "desc": "Tiger and wildlife reserve in Puducherry",
+        "rating": "4.5",
+        "lat": 12.4416,
+        "lng": 80.3083
+      },
+      {
+        "name": "Bird Sanctuary Puducherry",
+        "desc": "Migratory bird sanctuary in Puducherry",
+        "rating": "4.4",
+        "lat": 12.4516,
+        "lng": 80.31830000000001
+      },
+      {
+        "name": "Forest Reserve Puducherry",
+        "desc": "Dense forest reserve of Puducherry",
+        "rating": "4.4",
+        "lat": 12.461599999999999,
+        "lng": 80.3283
+      },
+      {
+        "name": "River Valley Puducherry",
+        "desc": "Scenic river valley in Puducherry",
+        "rating": "4.3",
+        "lat": 12.471599999999999,
+        "lng": 80.3383
+      },
+      {
+        "name": "Mountain Peak Puducherry",
+        "desc": "Highest mountain peak in Puducherry",
+        "rating": "4.4",
+        "lat": 12.4816,
+        "lng": 80.34830000000001
+      },
+      {
+        "name": "Wetland Puducherry",
+        "desc": "Important wetland ecosystem in Puducherry",
+        "rating": "4.3",
+        "lat": 11.4416,
+        "lng": 79.3083
+      },
+      {
+        "name": "Tea Garden Puducherry",
+        "desc": "Scenic tea or coffee plantation in Puducherry",
+        "rating": "4.4",
+        "lat": 11.4316,
+        "lng": 79.2983
+      },
+      {
+        "name": "Organic Farm Puducherry",
+        "desc": "Organic farming experience in Puducherry",
+        "rating": "4.3",
+        "lat": 11.4216,
+        "lng": 79.2883
+      },
+      {
+        "name": "Sunrise Point Puducherry",
+        "desc": "Most spectacular sunrise point in Puducherry",
+        "rating": "4.5",
+        "lat": 11.4116,
+        "lng": 79.2783
+      },
+      {
+        "name": "Eco Park Puducherry",
+        "desc": "Ecology park in Puducherry with rare plants",
+        "rating": "4.1",
+        "lat": 11.401599999999998,
+        "lng": 79.2683
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Puducherry",
+        "desc": "Most famous temple in Puducherry",
+        "rating": "4.6",
+        "lat": 12.541599999999999,
+        "lng": 80.4083
+      },
+      {
+        "name": "Mosque Puducherry",
+        "desc": "Historic mosque in Puducherry",
+        "rating": "4.3",
+        "lat": 12.551599999999999,
+        "lng": 80.4183
+      },
+      {
+        "name": "Church Puducherry",
+        "desc": "Historic church in Puducherry",
+        "rating": "4.3",
+        "lat": 12.561599999999999,
+        "lng": 80.42830000000001
+      },
+      {
+        "name": "Gurudwara Puducherry",
+        "desc": "Important Sikh shrine in Puducherry",
+        "rating": "4.4",
+        "lat": 12.5716,
+        "lng": 80.4383
+      },
+      {
+        "name": "Buddhist Monastery Puducherry",
+        "desc": "Ancient Buddhist monastery in Puducherry",
+        "rating": "4.4",
+        "lat": 12.5816,
+        "lng": 80.4483
+      },
+      {
+        "name": "Jain Temple Puducherry",
+        "desc": "Famous Jain temple in Puducherry",
+        "rating": "4.4",
+        "lat": 11.3416,
+        "lng": 79.20830000000001
+      },
+      {
+        "name": "Dargah Puducherry",
+        "desc": "Famous Sufi dargah in Puducherry",
+        "rating": "4.3",
+        "lat": 11.3316,
+        "lng": 79.1983
+      },
+      {
+        "name": "Ashram Puducherry",
+        "desc": "Spiritual ashram in Puducherry",
+        "rating": "4.4",
+        "lat": 11.3216,
+        "lng": 79.1883
+      },
+      {
+        "name": "Pilgrimage Site Puducherry",
+        "desc": "Important pilgrimage destination in Puducherry",
+        "rating": "4.5",
+        "lat": 11.311599999999999,
+        "lng": 79.17830000000001
+      },
+      {
+        "name": "Sacred River Ghat Puducherry",
+        "desc": "Sacred river ghat for rituals in Puducherry",
+        "rating": "4.3",
+        "lat": 11.301599999999999,
+        "lng": 79.1683
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Puducherry",
+        "desc": "Traditional folk dance performance of Puducherry",
+        "rating": "4.5",
+        "lat": 12.641599999999999,
+        "lng": 80.5083
+      },
+      {
+        "name": "Art Gallery Puducherry",
+        "desc": "State art gallery in Puducherry",
+        "rating": "4.2",
+        "lat": 12.651599999999998,
+        "lng": 80.5183
+      },
+      {
+        "name": "Cultural Center Puducherry",
+        "desc": "Cultural center for arts in Puducherry",
+        "rating": "4.3",
+        "lat": 12.6616,
+        "lng": 80.5283
+      },
+      {
+        "name": "Music Festival Puducherry",
+        "desc": "Annual music festival of Puducherry",
+        "rating": "4.5",
+        "lat": 12.6716,
+        "lng": 80.5383
+      },
+      {
+        "name": "Tribal Museum Puducherry",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 12.6816,
+        "lng": 80.5483
+      },
+      {
+        "name": "Craft Village Puducherry",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 11.2416,
+        "lng": 79.1083
+      },
+      {
+        "name": "Classical Dance Academy Puducherry",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 11.2316,
+        "lng": 79.09830000000001
+      },
+      {
+        "name": "Puppet Theatre Puducherry",
+        "desc": "Traditional puppet theatre of Puducherry",
+        "rating": "4.4",
+        "lat": 11.221599999999999,
+        "lng": 79.0883
+      },
+      {
+        "name": "Weaving Center Puducherry",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 11.211599999999999,
+        "lng": 79.0783
+      },
+      {
+        "name": "Open Air Theatre Puducherry",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 11.2016,
+        "lng": 79.06830000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Puducherry",
+        "desc": "Best trekking trails in Puducherry",
+        "rating": "4.4",
+        "lat": 12.7416,
+        "lng": 80.6083
+      },
+      {
+        "name": "Rock Climbing Puducherry",
+        "desc": "Rock climbing spots in Puducherry",
+        "rating": "4.3",
+        "lat": 12.7516,
+        "lng": 80.6183
+      },
+      {
+        "name": "River Rafting Puducherry",
+        "desc": "White water rafting in rivers of Puducherry",
+        "rating": "4.5",
+        "lat": 12.7616,
+        "lng": 80.6283
+      },
+      {
+        "name": "Paragliding Puducherry",
+        "desc": "Paragliding spots in Puducherry",
+        "rating": "4.4",
+        "lat": 12.7716,
+        "lng": 80.6383
+      },
+      {
+        "name": "Camping Puducherry",
+        "desc": "Camping spots in forests of Puducherry",
+        "rating": "4.4",
+        "lat": 12.7816,
+        "lng": 80.6483
+      },
+      {
+        "name": "Zip Line Puducherry",
+        "desc": "Zip lining adventure in Puducherry",
+        "rating": "4.3",
+        "lat": 11.141599999999999,
+        "lng": 79.0083
+      },
+      {
+        "name": "Jungle Safari Puducherry",
+        "desc": "Jeep jungle safari in Puducherry",
+        "rating": "4.4",
+        "lat": 11.131599999999999,
+        "lng": 78.9983
+      },
+      {
+        "name": "Cycling Tour Puducherry",
+        "desc": "Scenic cycling routes in Puducherry",
+        "rating": "4.3",
+        "lat": 11.121599999999999,
+        "lng": 78.98830000000001
+      },
+      {
+        "name": "Water Sports Puducherry",
+        "desc": "Water sports activities in Puducherry",
+        "rating": "4.3",
+        "lat": 11.1116,
+        "lng": 78.9783
+      },
+      {
+        "name": "Bungee Jumping Puducherry",
+        "desc": "Bungee jumping experience in Puducherry",
+        "rating": "4.3",
+        "lat": 11.1016,
+        "lng": 78.9683
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Puducherry",
+        "desc": "Traditional Ayurvedic treatments in Puducherry",
+        "rating": "4.4",
+        "lat": 12.8416,
+        "lng": 80.70830000000001
+      },
+      {
+        "name": "Yoga Retreat Puducherry",
+        "desc": "Yoga and meditation retreat in Puducherry",
+        "rating": "4.4",
+        "lat": 12.8516,
+        "lng": 80.7183
+      },
+      {
+        "name": "Spa Resort Puducherry",
+        "desc": "Luxury spa resort in Puducherry",
+        "rating": "4.5",
+        "lat": 12.8616,
+        "lng": 80.7283
+      },
+      {
+        "name": "Naturopathy Center Puducherry",
+        "desc": "Natural healing center in Puducherry",
+        "rating": "4.3",
+        "lat": 12.871599999999999,
+        "lng": 80.73830000000001
+      },
+      {
+        "name": "Meditation Ashram Puducherry",
+        "desc": "Peaceful meditation ashram in Puducherry",
+        "rating": "4.4",
+        "lat": 12.881599999999999,
+        "lng": 80.7483
+      },
+      {
+        "name": "Wellness Resort Puducherry",
+        "desc": "Luxury wellness resort in Puducherry",
+        "rating": "4.4",
+        "lat": 11.041599999999999,
+        "lng": 78.9083
+      },
+      {
+        "name": "Herbal Garden Puducherry",
+        "desc": "Medicinal herb garden in Puducherry",
+        "rating": "4.2",
+        "lat": 11.0316,
+        "lng": 78.8983
+      },
+      {
+        "name": "Forest Bathing Puducherry",
+        "desc": "Therapeutic forest walks in Puducherry",
+        "rating": "4.3",
+        "lat": 11.0216,
+        "lng": 78.8883
+      },
+      {
+        "name": "Hot Spring Puducherry",
+        "desc": "Natural hot spring in Puducherry",
+        "rating": "4.4",
+        "lat": 11.0116,
+        "lng": 78.8783
+      },
+      {
+        "name": "Detox Retreat Puducherry",
+        "desc": "Detox and wellness retreat in Puducherry",
+        "rating": "4.3",
+        "lat": 11.0016,
+        "lng": 78.8683
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Puducherry",
+        "desc": "Main airport of Puducherry in Puducherry",
+        "rating": "4.0",
+        "lat": 12.9416,
+        "lng": 80.8083
+      },
+      {
+        "name": "Railway Station Puducherry",
+        "desc": "Main railway junction in Puducherry",
+        "rating": "3.8",
+        "lat": 12.9516,
+        "lng": 80.81830000000001
+      },
+      {
+        "name": "Bus Terminal Puducherry",
+        "desc": "State bus terminal in Puducherry",
+        "rating": "3.7",
+        "lat": 12.961599999999999,
+        "lng": 80.8283
+      },
+      {
+        "name": "Metro Rail Puducherry",
+        "desc": "Metro rail system in Puducherry",
+        "rating": "4.2",
+        "lat": 12.971599999999999,
+        "lng": 80.8383
+      },
+      {
+        "name": "Highway Puducherry",
+        "desc": "Major national highway through Puducherry",
+        "rating": "4.0",
+        "lat": 12.9816,
+        "lng": 80.84830000000001
+      },
+      {
+        "name": "Port Puducherry",
+        "desc": "Major sea port of Puducherry",
+        "rating": "3.9",
+        "lat": 10.9416,
+        "lng": 78.8083
+      },
+      {
+        "name": "Taxi Stand Puducherry",
+        "desc": "Main cab and taxi hub in Puducherry",
+        "rating": "3.8",
+        "lat": 10.9316,
+        "lng": 78.7983
+      },
+      {
+        "name": "Auto Rickshaw Puducherry",
+        "desc": "Auto rickshaw services across Puducherry",
+        "rating": "3.6",
+        "lat": 10.9216,
+        "lng": 78.7883
+      },
+      {
+        "name": "Cab Services Puducherry",
+        "desc": "Ola and Uber cab services in Puducherry",
+        "rating": "4.0",
+        "lat": 10.9116,
+        "lng": 78.7783
+      },
+      {
+        "name": "Helipad Puducherry",
+        "desc": "Helicopter services in Puducherry",
+        "rating": "4.0",
+        "lat": 10.901599999999998,
+        "lng": 78.7683
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Puducherry",
+        "desc": "Most famous festival of Puducherry",
+        "rating": "4.7",
+        "lat": 13.041599999999999,
+        "lng": 80.9083
+      },
+      {
+        "name": "Cooking Class Puducherry",
+        "desc": "Learn traditional Puducherry cooking techniques",
+        "rating": "4.5",
+        "lat": 13.051599999999999,
+        "lng": 80.9183
+      },
+      {
+        "name": "Village Walk Puducherry",
+        "desc": "Authentic village life experience in Puducherry",
+        "rating": "4.4",
+        "lat": 13.061599999999999,
+        "lng": 80.92830000000001
+      },
+      {
+        "name": "Craft Workshop Puducherry",
+        "desc": "Traditional craft making workshop in Puducherry",
+        "rating": "4.4",
+        "lat": 13.0716,
+        "lng": 80.9383
+      },
+      {
+        "name": "Sunrise Trek Puducherry",
+        "desc": "Early morning sunrise trek in Puducherry",
+        "rating": "4.5",
+        "lat": 13.0816,
+        "lng": 80.9483
+      },
+      {
+        "name": "Local Market Tour Puducherry",
+        "desc": "Guided tour of local markets in Puducherry",
+        "rating": "4.3",
+        "lat": 10.8416,
+        "lng": 78.70830000000001
+      },
+      {
+        "name": "Folk Performance Puducherry",
+        "desc": "Traditional folk art performance of Puducherry",
+        "rating": "4.5",
+        "lat": 10.8316,
+        "lng": 78.6983
+      },
+      {
+        "name": "Farm Stay Puducherry",
+        "desc": "Authentic farm stay experience in Puducherry",
+        "rating": "4.4",
+        "lat": 10.8216,
+        "lng": 78.6883
+      },
+      {
+        "name": "Night Safari Puducherry",
+        "desc": "Night wildlife safari in Puducherry",
+        "rating": "4.4",
+        "lat": 10.811599999999999,
+        "lng": 78.67830000000001
+      },
+      {
+        "name": "Harvest Festival Puducherry",
+        "desc": "Traditional harvest festival of Puducherry",
+        "rating": "4.5",
+        "lat": 10.801599999999999,
+        "lng": 78.6683
+      }
+    ]
+  }
+}

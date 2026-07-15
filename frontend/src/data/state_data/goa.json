@@ -1,0 +1,870 @@
+{
+  "state": "Goa",
+  "capital": "Panaji",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Basilica of Bom Jesus",
+        "desc": "Most famous heritage site in Goa",
+        "rating": "4.6",
+        "lat": 15.2993,
+        "lng": 74.124
+      },
+      {
+        "name": "State Museum Panaji",
+        "desc": "Archaeological museum showcasing Goa history",
+        "rating": "4.2",
+        "lat": 15.3093,
+        "lng": 74.134
+      },
+      {
+        "name": "Old Fort Panaji",
+        "desc": "Historic fort from medieval era in Panaji",
+        "rating": "4.3",
+        "lat": 15.3193,
+        "lng": 74.14399999999999
+      },
+      {
+        "name": "Ancient Temple Goa",
+        "desc": "Famous ancient temple showcasing Goa architecture",
+        "rating": "4.4",
+        "lat": 15.3293,
+        "lng": 74.154
+      },
+      {
+        "name": "Colonial Building Panaji",
+        "desc": "Historic colonial era building in Panaji",
+        "rating": "4.1",
+        "lat": 15.3393,
+        "lng": 74.164
+      },
+      {
+        "name": "Palace Goa",
+        "desc": "Royal palace of former rulers of Goa",
+        "rating": "4.4",
+        "lat": 15.2893,
+        "lng": 74.11399999999999
+      },
+      {
+        "name": "Rock Cut Caves Goa",
+        "desc": "Ancient rock cut monuments in Goa",
+        "rating": "4.3",
+        "lat": 15.279300000000001,
+        "lng": 74.104
+      },
+      {
+        "name": "Heritage Walk Panaji",
+        "desc": "Guided walk through old quarter of Panaji",
+        "rating": "4.3",
+        "lat": 15.269300000000001,
+        "lng": 74.094
+      },
+      {
+        "name": "Memorial Museum Panaji",
+        "desc": "Memorial to freedom fighters of Goa",
+        "rating": "4.1",
+        "lat": 15.259300000000001,
+        "lng": 74.08399999999999
+      },
+      {
+        "name": "Ruins Site Goa",
+        "desc": "Ancient ruins and archaeological findings in Goa",
+        "rating": "4.2",
+        "lat": 15.2493,
+        "lng": 74.074
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Panaji",
+        "desc": "Authentic Goa thali with local specialties",
+        "rating": "4.5",
+        "lat": 15.3993,
+        "lng": 74.22399999999999
+      },
+      {
+        "name": "Street Food Market Panaji",
+        "desc": "Famous street food market in Panaji",
+        "rating": "4.4",
+        "lat": 15.4093,
+        "lng": 74.234
+      },
+      {
+        "name": "Local Sweet Shop Goa",
+        "desc": "Famous traditional sweets unique to Goa",
+        "rating": "4.5",
+        "lat": 15.4193,
+        "lng": 74.244
+      },
+      {
+        "name": "Tribal Cuisine Goa",
+        "desc": "Authentic tribal food of Goa",
+        "rating": "4.4",
+        "lat": 15.429300000000001,
+        "lng": 74.25399999999999
+      },
+      {
+        "name": "Dhaba Goa",
+        "desc": "Famous highway dhaba with Goa specialties",
+        "rating": "4.3",
+        "lat": 15.439300000000001,
+        "lng": 74.264
+      },
+      {
+        "name": "Vegetarian Restaurant Panaji",
+        "desc": "Best pure vegetarian food in Panaji",
+        "rating": "4.3",
+        "lat": 15.199300000000001,
+        "lng": 74.024
+      },
+      {
+        "name": "Biryani House Panaji",
+        "desc": "Best biryani and rice dishes in Panaji",
+        "rating": "4.4",
+        "lat": 15.189300000000001,
+        "lng": 74.014
+      },
+      {
+        "name": "Bakery Cafe Panaji",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 15.179300000000001,
+        "lng": 74.00399999999999
+      },
+      {
+        "name": "Royal Kitchen Goa",
+        "desc": "Restaurant serving royal recipes of Goa",
+        "rating": "4.5",
+        "lat": 15.1693,
+        "lng": 73.994
+      },
+      {
+        "name": "Fish Curry House Goa",
+        "desc": "Traditional Goa style fish preparation",
+        "rating": "4.4",
+        "lat": 15.1593,
+        "lng": 73.984
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Panaji",
+        "desc": "Luxury 5-star Taj hotel in Panaji",
+        "rating": "4.7",
+        "lat": 15.4993,
+        "lng": 74.324
+      },
+      {
+        "name": "Oberoi Resort Goa",
+        "desc": "Luxury resort in scenic location in Goa",
+        "rating": "4.8",
+        "lat": 15.509300000000001,
+        "lng": 74.33399999999999
+      },
+      {
+        "name": "Heritage Hotel Panaji",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 15.519300000000001,
+        "lng": 74.344
+      },
+      {
+        "name": "ITC Hotel Panaji",
+        "desc": "ITC luxury hotel in Panaji",
+        "rating": "4.6",
+        "lat": 15.529300000000001,
+        "lng": 74.354
+      },
+      {
+        "name": "Eco Resort Goa",
+        "desc": "Eco-friendly resort in nature of Goa",
+        "rating": "4.5",
+        "lat": 15.5393,
+        "lng": 74.36399999999999
+      },
+      {
+        "name": "Boutique Hotel Panaji",
+        "desc": "Charming boutique hotel in old quarter of Panaji",
+        "rating": "4.4",
+        "lat": 15.099300000000001,
+        "lng": 73.92399999999999
+      },
+      {
+        "name": "Marriott Panaji",
+        "desc": "International 5-star Marriott hotel in Panaji",
+        "rating": "4.6",
+        "lat": 15.0893,
+        "lng": 73.914
+      },
+      {
+        "name": "Forest Lodge Goa",
+        "desc": "Wildlife lodge near forest of Goa",
+        "rating": "4.4",
+        "lat": 15.0793,
+        "lng": 73.904
+      },
+      {
+        "name": "Homestay Goa",
+        "desc": "Authentic homestay with local family in Goa",
+        "rating": "4.3",
+        "lat": 15.0693,
+        "lng": 73.89399999999999
+      },
+      {
+        "name": "Budget Hotel Panaji",
+        "desc": "Clean comfortable budget stay in Panaji",
+        "rating": "4.0",
+        "lat": 15.0593,
+        "lng": 73.884
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Goa",
+        "desc": "Best panoramic viewpoint in Goa",
+        "rating": "4.5",
+        "lat": 15.599300000000001,
+        "lng": 74.42399999999999
+      },
+      {
+        "name": "Waterfall Goa",
+        "desc": "Most beautiful waterfall in Goa",
+        "rating": "4.5",
+        "lat": 15.609300000000001,
+        "lng": 74.434
+      },
+      {
+        "name": "Lake Goa",
+        "desc": "Scenic lake in Goa with boating",
+        "rating": "4.3",
+        "lat": 15.6193,
+        "lng": 74.44399999999999
+      },
+      {
+        "name": "Hill Station Goa",
+        "desc": "Popular hill station in Goa",
+        "rating": "4.4",
+        "lat": 15.6293,
+        "lng": 74.454
+      },
+      {
+        "name": "National Park Goa",
+        "desc": "Wildlife national park in Goa",
+        "rating": "4.4",
+        "lat": 15.6393,
+        "lng": 74.464
+      },
+      {
+        "name": "Beach Goa",
+        "desc": "Beautiful beach in Goa",
+        "rating": "4.3",
+        "lat": 14.9993,
+        "lng": 73.824
+      },
+      {
+        "name": "Cave System Goa",
+        "desc": "Natural cave system in Goa",
+        "rating": "4.3",
+        "lat": 14.9893,
+        "lng": 73.814
+      },
+      {
+        "name": "Dam Goa",
+        "desc": "Scenic dam and reservoir in Goa",
+        "rating": "4.2",
+        "lat": 14.9793,
+        "lng": 73.804
+      },
+      {
+        "name": "Botanical Garden Panaji",
+        "desc": "Botanical garden with rare plants in Panaji",
+        "rating": "4.2",
+        "lat": 14.9693,
+        "lng": 73.794
+      },
+      {
+        "name": "Zoo Panaji",
+        "desc": "State zoo in Panaji with variety of animals",
+        "rating": "4.1",
+        "lat": 14.9593,
+        "lng": 73.78399999999999
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Panaji",
+        "desc": "Bustling main market of Panaji",
+        "rating": "4.3",
+        "lat": 15.699300000000001,
+        "lng": 74.524
+      },
+      {
+        "name": "Handicraft Market Goa",
+        "desc": "Traditional handicrafts of Goa",
+        "rating": "4.4",
+        "lat": 15.7093,
+        "lng": 74.53399999999999
+      },
+      {
+        "name": "Silk Market Goa",
+        "desc": "Famous silk and textile market of Goa",
+        "rating": "4.4",
+        "lat": 15.7193,
+        "lng": 74.544
+      },
+      {
+        "name": "Tribal Art Market Goa",
+        "desc": "Traditional tribal art and crafts of Goa",
+        "rating": "4.4",
+        "lat": 15.7293,
+        "lng": 74.554
+      },
+      {
+        "name": "Spice Market Goa",
+        "desc": "Aromatic spice market unique to Goa",
+        "rating": "4.3",
+        "lat": 15.7393,
+        "lng": 74.564
+      },
+      {
+        "name": "Mall Panaji",
+        "desc": "Modern shopping mall in Panaji",
+        "rating": "4.2",
+        "lat": 14.8993,
+        "lng": 73.72399999999999
+      },
+      {
+        "name": "Gem Market Goa",
+        "desc": "Precious and semi-precious stones of Goa",
+        "rating": "4.3",
+        "lat": 14.8893,
+        "lng": 73.714
+      },
+      {
+        "name": "Bamboo Craft Goa",
+        "desc": "Traditional bamboo craft market of Goa",
+        "rating": "4.3",
+        "lat": 14.8793,
+        "lng": 73.704
+      },
+      {
+        "name": "Pottery Village Goa",
+        "desc": "Traditional pottery making village in Goa",
+        "rating": "4.3",
+        "lat": 14.8693,
+        "lng": 73.69399999999999
+      },
+      {
+        "name": "Night Market Panaji",
+        "desc": "Evening market in Panaji with local goods",
+        "rating": "4.2",
+        "lat": 14.859300000000001,
+        "lng": 73.684
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Goa",
+        "desc": "Tiger and wildlife reserve in Goa",
+        "rating": "4.5",
+        "lat": 15.7993,
+        "lng": 74.624
+      },
+      {
+        "name": "Bird Sanctuary Goa",
+        "desc": "Migratory bird sanctuary in Goa",
+        "rating": "4.4",
+        "lat": 15.8093,
+        "lng": 74.634
+      },
+      {
+        "name": "Forest Reserve Goa",
+        "desc": "Dense forest reserve of Goa",
+        "rating": "4.4",
+        "lat": 15.8193,
+        "lng": 74.64399999999999
+      },
+      {
+        "name": "River Valley Goa",
+        "desc": "Scenic river valley in Goa",
+        "rating": "4.3",
+        "lat": 15.8293,
+        "lng": 74.654
+      },
+      {
+        "name": "Mountain Peak Goa",
+        "desc": "Highest mountain peak in Goa",
+        "rating": "4.4",
+        "lat": 15.839300000000001,
+        "lng": 74.664
+      },
+      {
+        "name": "Wetland Goa",
+        "desc": "Important wetland ecosystem in Goa",
+        "rating": "4.3",
+        "lat": 14.7993,
+        "lng": 73.624
+      },
+      {
+        "name": "Tea Garden Goa",
+        "desc": "Scenic tea or coffee plantation in Goa",
+        "rating": "4.4",
+        "lat": 14.7893,
+        "lng": 73.61399999999999
+      },
+      {
+        "name": "Organic Farm Goa",
+        "desc": "Organic farming experience in Goa",
+        "rating": "4.3",
+        "lat": 14.779300000000001,
+        "lng": 73.604
+      },
+      {
+        "name": "Sunrise Point Goa",
+        "desc": "Most spectacular sunrise point in Goa",
+        "rating": "4.5",
+        "lat": 14.769300000000001,
+        "lng": 73.594
+      },
+      {
+        "name": "Eco Park Panaji",
+        "desc": "Ecology park in Panaji with rare plants",
+        "rating": "4.1",
+        "lat": 14.7593,
+        "lng": 73.58399999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Goa",
+        "desc": "Most famous temple in Goa",
+        "rating": "4.6",
+        "lat": 15.8993,
+        "lng": 74.72399999999999
+      },
+      {
+        "name": "Mosque Panaji",
+        "desc": "Historic mosque in Panaji",
+        "rating": "4.3",
+        "lat": 15.9093,
+        "lng": 74.734
+      },
+      {
+        "name": "Church Panaji",
+        "desc": "Historic church in Panaji",
+        "rating": "4.3",
+        "lat": 15.9193,
+        "lng": 74.744
+      },
+      {
+        "name": "Gurudwara Goa",
+        "desc": "Important Sikh shrine in Goa",
+        "rating": "4.4",
+        "lat": 15.929300000000001,
+        "lng": 74.75399999999999
+      },
+      {
+        "name": "Buddhist Monastery Goa",
+        "desc": "Ancient Buddhist monastery in Goa",
+        "rating": "4.4",
+        "lat": 15.939300000000001,
+        "lng": 74.764
+      },
+      {
+        "name": "Jain Temple Goa",
+        "desc": "Famous Jain temple in Goa",
+        "rating": "4.4",
+        "lat": 14.699300000000001,
+        "lng": 73.524
+      },
+      {
+        "name": "Dargah Goa",
+        "desc": "Famous Sufi dargah in Goa",
+        "rating": "4.3",
+        "lat": 14.689300000000001,
+        "lng": 73.514
+      },
+      {
+        "name": "Ashram Goa",
+        "desc": "Spiritual ashram in Goa",
+        "rating": "4.4",
+        "lat": 14.679300000000001,
+        "lng": 73.50399999999999
+      },
+      {
+        "name": "Pilgrimage Site Goa",
+        "desc": "Important pilgrimage destination in Goa",
+        "rating": "4.5",
+        "lat": 14.6693,
+        "lng": 73.494
+      },
+      {
+        "name": "Sacred River Ghat Goa",
+        "desc": "Sacred river ghat for rituals in Goa",
+        "rating": "4.3",
+        "lat": 14.6593,
+        "lng": 73.484
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Goa",
+        "desc": "Traditional folk dance performance of Goa",
+        "rating": "4.5",
+        "lat": 15.9993,
+        "lng": 74.824
+      },
+      {
+        "name": "Art Gallery Panaji",
+        "desc": "State art gallery in Panaji",
+        "rating": "4.2",
+        "lat": 16.0093,
+        "lng": 74.83399999999999
+      },
+      {
+        "name": "Cultural Center Panaji",
+        "desc": "Cultural center for arts in Panaji",
+        "rating": "4.3",
+        "lat": 16.0193,
+        "lng": 74.844
+      },
+      {
+        "name": "Music Festival Goa",
+        "desc": "Annual music festival of Goa",
+        "rating": "4.5",
+        "lat": 16.0293,
+        "lng": 74.854
+      },
+      {
+        "name": "Tribal Museum Goa",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 16.0393,
+        "lng": 74.86399999999999
+      },
+      {
+        "name": "Craft Village Goa",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 14.599300000000001,
+        "lng": 73.42399999999999
+      },
+      {
+        "name": "Classical Dance Academy Panaji",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 14.589300000000001,
+        "lng": 73.414
+      },
+      {
+        "name": "Puppet Theatre Goa",
+        "desc": "Traditional puppet theatre of Goa",
+        "rating": "4.4",
+        "lat": 14.5793,
+        "lng": 73.404
+      },
+      {
+        "name": "Weaving Center Goa",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 14.5693,
+        "lng": 73.39399999999999
+      },
+      {
+        "name": "Open Air Theatre Panaji",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 14.5593,
+        "lng": 73.384
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Goa",
+        "desc": "Best trekking trails in Goa",
+        "rating": "4.4",
+        "lat": 16.0993,
+        "lng": 74.92399999999999
+      },
+      {
+        "name": "Rock Climbing Goa",
+        "desc": "Rock climbing spots in Goa",
+        "rating": "4.3",
+        "lat": 16.1093,
+        "lng": 74.934
+      },
+      {
+        "name": "River Rafting Goa",
+        "desc": "White water rafting in rivers of Goa",
+        "rating": "4.5",
+        "lat": 16.1193,
+        "lng": 74.94399999999999
+      },
+      {
+        "name": "Paragliding Goa",
+        "desc": "Paragliding spots in Goa",
+        "rating": "4.4",
+        "lat": 16.1293,
+        "lng": 74.954
+      },
+      {
+        "name": "Camping Goa",
+        "desc": "Camping spots in forests of Goa",
+        "rating": "4.4",
+        "lat": 16.139300000000002,
+        "lng": 74.964
+      },
+      {
+        "name": "Zip Line Goa",
+        "desc": "Zip lining adventure in Goa",
+        "rating": "4.3",
+        "lat": 14.4993,
+        "lng": 73.324
+      },
+      {
+        "name": "Jungle Safari Goa",
+        "desc": "Jeep jungle safari in Goa",
+        "rating": "4.4",
+        "lat": 14.4893,
+        "lng": 73.314
+      },
+      {
+        "name": "Cycling Tour Goa",
+        "desc": "Scenic cycling routes in Goa",
+        "rating": "4.3",
+        "lat": 14.4793,
+        "lng": 73.304
+      },
+      {
+        "name": "Water Sports Goa",
+        "desc": "Water sports activities in Goa",
+        "rating": "4.3",
+        "lat": 14.4693,
+        "lng": 73.294
+      },
+      {
+        "name": "Bungee Jumping Goa",
+        "desc": "Bungee jumping experience in Goa",
+        "rating": "4.3",
+        "lat": 14.4593,
+        "lng": 73.28399999999999
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Goa",
+        "desc": "Traditional Ayurvedic treatments in Goa",
+        "rating": "4.4",
+        "lat": 16.1993,
+        "lng": 75.024
+      },
+      {
+        "name": "Yoga Retreat Goa",
+        "desc": "Yoga and meditation retreat in Goa",
+        "rating": "4.4",
+        "lat": 16.2093,
+        "lng": 75.03399999999999
+      },
+      {
+        "name": "Spa Resort Goa",
+        "desc": "Luxury spa resort in Goa",
+        "rating": "4.5",
+        "lat": 16.2193,
+        "lng": 75.044
+      },
+      {
+        "name": "Naturopathy Center Goa",
+        "desc": "Natural healing center in Goa",
+        "rating": "4.3",
+        "lat": 16.229300000000002,
+        "lng": 75.054
+      },
+      {
+        "name": "Meditation Ashram Goa",
+        "desc": "Peaceful meditation ashram in Goa",
+        "rating": "4.4",
+        "lat": 16.2393,
+        "lng": 75.064
+      },
+      {
+        "name": "Wellness Resort Panaji",
+        "desc": "Luxury wellness resort in Panaji",
+        "rating": "4.4",
+        "lat": 14.3993,
+        "lng": 73.22399999999999
+      },
+      {
+        "name": "Herbal Garden Goa",
+        "desc": "Medicinal herb garden in Goa",
+        "rating": "4.2",
+        "lat": 14.3893,
+        "lng": 73.214
+      },
+      {
+        "name": "Forest Bathing Goa",
+        "desc": "Therapeutic forest walks in Goa",
+        "rating": "4.3",
+        "lat": 14.3793,
+        "lng": 73.204
+      },
+      {
+        "name": "Hot Spring Goa",
+        "desc": "Natural hot spring in Goa",
+        "rating": "4.4",
+        "lat": 14.3693,
+        "lng": 73.19399999999999
+      },
+      {
+        "name": "Detox Retreat Goa",
+        "desc": "Detox and wellness retreat in Goa",
+        "rating": "4.3",
+        "lat": 14.359300000000001,
+        "lng": 73.184
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Panaji",
+        "desc": "Main airport of Goa in Panaji",
+        "rating": "4.0",
+        "lat": 16.299300000000002,
+        "lng": 75.124
+      },
+      {
+        "name": "Railway Station Panaji",
+        "desc": "Main railway junction in Panaji",
+        "rating": "3.8",
+        "lat": 16.3093,
+        "lng": 75.134
+      },
+      {
+        "name": "Bus Terminal Panaji",
+        "desc": "State bus terminal in Panaji",
+        "rating": "3.7",
+        "lat": 16.319300000000002,
+        "lng": 75.14399999999999
+      },
+      {
+        "name": "Metro Rail Panaji",
+        "desc": "Metro rail system in Panaji",
+        "rating": "4.2",
+        "lat": 16.3293,
+        "lng": 75.154
+      },
+      {
+        "name": "Highway Goa",
+        "desc": "Major national highway through Goa",
+        "rating": "4.0",
+        "lat": 16.3393,
+        "lng": 75.164
+      },
+      {
+        "name": "Port Goa",
+        "desc": "Major sea port of Goa",
+        "rating": "3.9",
+        "lat": 14.2993,
+        "lng": 73.124
+      },
+      {
+        "name": "Taxi Stand Panaji",
+        "desc": "Main cab and taxi hub in Panaji",
+        "rating": "3.8",
+        "lat": 14.2893,
+        "lng": 73.11399999999999
+      },
+      {
+        "name": "Auto Rickshaw Panaji",
+        "desc": "Auto rickshaw services across Panaji",
+        "rating": "3.6",
+        "lat": 14.279300000000001,
+        "lng": 73.104
+      },
+      {
+        "name": "Cab Services Panaji",
+        "desc": "Ola and Uber cab services in Panaji",
+        "rating": "4.0",
+        "lat": 14.269300000000001,
+        "lng": 73.094
+      },
+      {
+        "name": "Helipad Goa",
+        "desc": "Helicopter services in Goa",
+        "rating": "4.0",
+        "lat": 14.2593,
+        "lng": 73.08399999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Goa",
+        "desc": "Most famous festival of Goa",
+        "rating": "4.7",
+        "lat": 16.3993,
+        "lng": 75.22399999999999
+      },
+      {
+        "name": "Cooking Class Goa",
+        "desc": "Learn traditional Goa cooking techniques",
+        "rating": "4.5",
+        "lat": 16.4093,
+        "lng": 75.234
+      },
+      {
+        "name": "Village Walk Goa",
+        "desc": "Authentic village life experience in Goa",
+        "rating": "4.4",
+        "lat": 16.4193,
+        "lng": 75.244
+      },
+      {
+        "name": "Craft Workshop Goa",
+        "desc": "Traditional craft making workshop in Goa",
+        "rating": "4.4",
+        "lat": 16.4293,
+        "lng": 75.25399999999999
+      },
+      {
+        "name": "Sunrise Trek Goa",
+        "desc": "Early morning sunrise trek in Goa",
+        "rating": "4.5",
+        "lat": 16.4393,
+        "lng": 75.264
+      },
+      {
+        "name": "Local Market Tour Panaji",
+        "desc": "Guided tour of local markets in Panaji",
+        "rating": "4.3",
+        "lat": 14.199300000000001,
+        "lng": 73.024
+      },
+      {
+        "name": "Folk Performance Goa",
+        "desc": "Traditional folk art performance of Goa",
+        "rating": "4.5",
+        "lat": 14.189300000000001,
+        "lng": 73.014
+      },
+      {
+        "name": "Farm Stay Goa",
+        "desc": "Authentic farm stay experience in Goa",
+        "rating": "4.4",
+        "lat": 14.179300000000001,
+        "lng": 73.00399999999999
+      },
+      {
+        "name": "Night Safari Goa",
+        "desc": "Night wildlife safari in Goa",
+        "rating": "4.4",
+        "lat": 14.1693,
+        "lng": 72.994
+      },
+      {
+        "name": "Harvest Festival Goa",
+        "desc": "Traditional harvest festival of Goa",
+        "rating": "4.5",
+        "lat": 14.1593,
+        "lng": 72.984
+      }
+    ]
+  }
+}

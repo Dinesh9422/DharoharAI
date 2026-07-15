@@ -1,0 +1,870 @@
+{
+  "state": "Andhra Pradesh",
+  "capital": "Vijayawada",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Tirupati Balaji Temple",
+        "desc": "Most famous heritage site in Andhra Pradesh",
+        "rating": "4.6",
+        "lat": 15.9129,
+        "lng": 79.74
+      },
+      {
+        "name": "State Museum Vijayawada",
+        "desc": "Archaeological museum showcasing Andhra Pradesh history",
+        "rating": "4.2",
+        "lat": 15.9229,
+        "lng": 79.75
+      },
+      {
+        "name": "Old Fort Vijayawada",
+        "desc": "Historic fort from medieval era in Vijayawada",
+        "rating": "4.3",
+        "lat": 15.9329,
+        "lng": 79.75999999999999
+      },
+      {
+        "name": "Ancient Temple Andhra Pradesh",
+        "desc": "Famous ancient temple showcasing Andhra Pradesh architecture",
+        "rating": "4.4",
+        "lat": 15.9429,
+        "lng": 79.77
+      },
+      {
+        "name": "Colonial Building Vijayawada",
+        "desc": "Historic colonial era building in Vijayawada",
+        "rating": "4.1",
+        "lat": 15.9529,
+        "lng": 79.78
+      },
+      {
+        "name": "Palace Andhra Pradesh",
+        "desc": "Royal palace of former rulers of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 15.9029,
+        "lng": 79.72999999999999
+      },
+      {
+        "name": "Rock Cut Caves Andhra Pradesh",
+        "desc": "Ancient rock cut monuments in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.892900000000001,
+        "lng": 79.72
+      },
+      {
+        "name": "Heritage Walk Vijayawada",
+        "desc": "Guided walk through old quarter of Vijayawada",
+        "rating": "4.3",
+        "lat": 15.882900000000001,
+        "lng": 79.71
+      },
+      {
+        "name": "Memorial Museum Vijayawada",
+        "desc": "Memorial to freedom fighters of Andhra Pradesh",
+        "rating": "4.1",
+        "lat": 15.872900000000001,
+        "lng": 79.69999999999999
+      },
+      {
+        "name": "Ruins Site Andhra Pradesh",
+        "desc": "Ancient ruins and archaeological findings in Andhra Pradesh",
+        "rating": "4.2",
+        "lat": 15.8629,
+        "lng": 79.69
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Vijayawada",
+        "desc": "Authentic Andhra Pradesh thali with local specialties",
+        "rating": "4.5",
+        "lat": 16.012900000000002,
+        "lng": 79.83999999999999
+      },
+      {
+        "name": "Street Food Market Vijayawada",
+        "desc": "Famous street food market in Vijayawada",
+        "rating": "4.4",
+        "lat": 16.0229,
+        "lng": 79.85
+      },
+      {
+        "name": "Local Sweet Shop Andhra Pradesh",
+        "desc": "Famous traditional sweets unique to Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.0329,
+        "lng": 79.86
+      },
+      {
+        "name": "Tribal Cuisine Andhra Pradesh",
+        "desc": "Authentic tribal food of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.0429,
+        "lng": 79.86999999999999
+      },
+      {
+        "name": "Dhaba Andhra Pradesh",
+        "desc": "Famous highway dhaba with Andhra Pradesh specialties",
+        "rating": "4.3",
+        "lat": 16.0529,
+        "lng": 79.88
+      },
+      {
+        "name": "Vegetarian Restaurant Vijayawada",
+        "desc": "Best pure vegetarian food in Vijayawada",
+        "rating": "4.3",
+        "lat": 15.8129,
+        "lng": 79.64
+      },
+      {
+        "name": "Biryani House Vijayawada",
+        "desc": "Best biryani and rice dishes in Vijayawada",
+        "rating": "4.4",
+        "lat": 15.802900000000001,
+        "lng": 79.63
+      },
+      {
+        "name": "Bakery Cafe Vijayawada",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 15.792900000000001,
+        "lng": 79.61999999999999
+      },
+      {
+        "name": "Royal Kitchen Andhra Pradesh",
+        "desc": "Restaurant serving royal recipes of Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 15.7829,
+        "lng": 79.61
+      },
+      {
+        "name": "Fish Curry House Andhra Pradesh",
+        "desc": "Traditional Andhra Pradesh style fish preparation",
+        "rating": "4.4",
+        "lat": 15.7729,
+        "lng": 79.6
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Vijayawada",
+        "desc": "Luxury 5-star Taj hotel in Vijayawada",
+        "rating": "4.7",
+        "lat": 16.1129,
+        "lng": 79.94
+      },
+      {
+        "name": "Oberoi Resort Andhra Pradesh",
+        "desc": "Luxury resort in scenic location in Andhra Pradesh",
+        "rating": "4.8",
+        "lat": 16.1229,
+        "lng": 79.94999999999999
+      },
+      {
+        "name": "Heritage Hotel Vijayawada",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 16.1329,
+        "lng": 79.96
+      },
+      {
+        "name": "ITC Hotel Vijayawada",
+        "desc": "ITC luxury hotel in Vijayawada",
+        "rating": "4.6",
+        "lat": 16.1429,
+        "lng": 79.97
+      },
+      {
+        "name": "Eco Resort Andhra Pradesh",
+        "desc": "Eco-friendly resort in nature of Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.1529,
+        "lng": 79.97999999999999
+      },
+      {
+        "name": "Boutique Hotel Vijayawada",
+        "desc": "Charming boutique hotel in old quarter of Vijayawada",
+        "rating": "4.4",
+        "lat": 15.712900000000001,
+        "lng": 79.53999999999999
+      },
+      {
+        "name": "Marriott Vijayawada",
+        "desc": "International 5-star Marriott hotel in Vijayawada",
+        "rating": "4.6",
+        "lat": 15.7029,
+        "lng": 79.53
+      },
+      {
+        "name": "Forest Lodge Andhra Pradesh",
+        "desc": "Wildlife lodge near forest of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 15.6929,
+        "lng": 79.52
+      },
+      {
+        "name": "Homestay Andhra Pradesh",
+        "desc": "Authentic homestay with local family in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.6829,
+        "lng": 79.50999999999999
+      },
+      {
+        "name": "Budget Hotel Vijayawada",
+        "desc": "Clean comfortable budget stay in Vijayawada",
+        "rating": "4.0",
+        "lat": 15.6729,
+        "lng": 79.5
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Andhra Pradesh",
+        "desc": "Best panoramic viewpoint in Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.2129,
+        "lng": 80.03999999999999
+      },
+      {
+        "name": "Waterfall Andhra Pradesh",
+        "desc": "Most beautiful waterfall in Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.2229,
+        "lng": 80.05
+      },
+      {
+        "name": "Lake Andhra Pradesh",
+        "desc": "Scenic lake in Andhra Pradesh with boating",
+        "rating": "4.3",
+        "lat": 16.2329,
+        "lng": 80.05999999999999
+      },
+      {
+        "name": "Hill Station Andhra Pradesh",
+        "desc": "Popular hill station in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.2429,
+        "lng": 80.07
+      },
+      {
+        "name": "National Park Andhra Pradesh",
+        "desc": "Wildlife national park in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.2529,
+        "lng": 80.08
+      },
+      {
+        "name": "Beach Andhra Pradesh",
+        "desc": "Beautiful beach in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.6129,
+        "lng": 79.44
+      },
+      {
+        "name": "Cave System Andhra Pradesh",
+        "desc": "Natural cave system in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.6029,
+        "lng": 79.42999999999999
+      },
+      {
+        "name": "Dam Andhra Pradesh",
+        "desc": "Scenic dam and reservoir in Andhra Pradesh",
+        "rating": "4.2",
+        "lat": 15.5929,
+        "lng": 79.42
+      },
+      {
+        "name": "Botanical Garden Vijayawada",
+        "desc": "Botanical garden with rare plants in Vijayawada",
+        "rating": "4.2",
+        "lat": 15.5829,
+        "lng": 79.41
+      },
+      {
+        "name": "Zoo Vijayawada",
+        "desc": "State zoo in Vijayawada with variety of animals",
+        "rating": "4.1",
+        "lat": 15.5729,
+        "lng": 79.39999999999999
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Vijayawada",
+        "desc": "Bustling main market of Vijayawada",
+        "rating": "4.3",
+        "lat": 16.3129,
+        "lng": 80.14
+      },
+      {
+        "name": "Handicraft Market Andhra Pradesh",
+        "desc": "Traditional handicrafts of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.3229,
+        "lng": 80.14999999999999
+      },
+      {
+        "name": "Silk Market Andhra Pradesh",
+        "desc": "Famous silk and textile market of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.332900000000002,
+        "lng": 80.16
+      },
+      {
+        "name": "Tribal Art Market Andhra Pradesh",
+        "desc": "Traditional tribal art and crafts of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.3429,
+        "lng": 80.17
+      },
+      {
+        "name": "Spice Market Andhra Pradesh",
+        "desc": "Aromatic spice market unique to Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 16.3529,
+        "lng": 80.17999999999999
+      },
+      {
+        "name": "Mall Vijayawada",
+        "desc": "Modern shopping mall in Vijayawada",
+        "rating": "4.2",
+        "lat": 15.5129,
+        "lng": 79.33999999999999
+      },
+      {
+        "name": "Gem Market Andhra Pradesh",
+        "desc": "Precious and semi-precious stones of Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.5029,
+        "lng": 79.33
+      },
+      {
+        "name": "Bamboo Craft Andhra Pradesh",
+        "desc": "Traditional bamboo craft market of Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.4929,
+        "lng": 79.32
+      },
+      {
+        "name": "Pottery Village Andhra Pradesh",
+        "desc": "Traditional pottery making village in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.4829,
+        "lng": 79.30999999999999
+      },
+      {
+        "name": "Night Market Vijayawada",
+        "desc": "Evening market in Vijayawada with local goods",
+        "rating": "4.2",
+        "lat": 15.472900000000001,
+        "lng": 79.3
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Andhra Pradesh",
+        "desc": "Tiger and wildlife reserve in Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.4129,
+        "lng": 80.24
+      },
+      {
+        "name": "Bird Sanctuary Andhra Pradesh",
+        "desc": "Migratory bird sanctuary in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.422900000000002,
+        "lng": 80.25
+      },
+      {
+        "name": "Forest Reserve Andhra Pradesh",
+        "desc": "Dense forest reserve of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.4329,
+        "lng": 80.25999999999999
+      },
+      {
+        "name": "River Valley Andhra Pradesh",
+        "desc": "Scenic river valley in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 16.4429,
+        "lng": 80.27
+      },
+      {
+        "name": "Mountain Peak Andhra Pradesh",
+        "desc": "Highest mountain peak in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.4529,
+        "lng": 80.28
+      },
+      {
+        "name": "Wetland Andhra Pradesh",
+        "desc": "Important wetland ecosystem in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.4129,
+        "lng": 79.24
+      },
+      {
+        "name": "Tea Garden Andhra Pradesh",
+        "desc": "Scenic tea or coffee plantation in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 15.4029,
+        "lng": 79.22999999999999
+      },
+      {
+        "name": "Organic Farm Andhra Pradesh",
+        "desc": "Organic farming experience in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.392900000000001,
+        "lng": 79.22
+      },
+      {
+        "name": "Sunrise Point Andhra Pradesh",
+        "desc": "Most spectacular sunrise point in Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 15.382900000000001,
+        "lng": 79.21
+      },
+      {
+        "name": "Eco Park Vijayawada",
+        "desc": "Ecology park in Vijayawada with rare plants",
+        "rating": "4.1",
+        "lat": 15.372900000000001,
+        "lng": 79.19999999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Andhra Pradesh",
+        "desc": "Most famous temple in Andhra Pradesh",
+        "rating": "4.6",
+        "lat": 16.512900000000002,
+        "lng": 80.33999999999999
+      },
+      {
+        "name": "Mosque Vijayawada",
+        "desc": "Historic mosque in Vijayawada",
+        "rating": "4.3",
+        "lat": 16.5229,
+        "lng": 80.35
+      },
+      {
+        "name": "Church Vijayawada",
+        "desc": "Historic church in Vijayawada",
+        "rating": "4.3",
+        "lat": 16.5329,
+        "lng": 80.36
+      },
+      {
+        "name": "Gurudwara Andhra Pradesh",
+        "desc": "Important Sikh shrine in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.5429,
+        "lng": 80.36999999999999
+      },
+      {
+        "name": "Buddhist Monastery Andhra Pradesh",
+        "desc": "Ancient Buddhist monastery in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.5529,
+        "lng": 80.38
+      },
+      {
+        "name": "Jain Temple Andhra Pradesh",
+        "desc": "Famous Jain temple in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 15.3129,
+        "lng": 79.14
+      },
+      {
+        "name": "Dargah Andhra Pradesh",
+        "desc": "Famous Sufi dargah in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.302900000000001,
+        "lng": 79.13
+      },
+      {
+        "name": "Ashram Andhra Pradesh",
+        "desc": "Spiritual ashram in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 15.292900000000001,
+        "lng": 79.11999999999999
+      },
+      {
+        "name": "Pilgrimage Site Andhra Pradesh",
+        "desc": "Important pilgrimage destination in Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 15.2829,
+        "lng": 79.11
+      },
+      {
+        "name": "Sacred River Ghat Andhra Pradesh",
+        "desc": "Sacred river ghat for rituals in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.2729,
+        "lng": 79.1
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Andhra Pradesh",
+        "desc": "Traditional folk dance performance of Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.6129,
+        "lng": 80.44
+      },
+      {
+        "name": "Art Gallery Vijayawada",
+        "desc": "State art gallery in Vijayawada",
+        "rating": "4.2",
+        "lat": 16.6229,
+        "lng": 80.44999999999999
+      },
+      {
+        "name": "Cultural Center Vijayawada",
+        "desc": "Cultural center for arts in Vijayawada",
+        "rating": "4.3",
+        "lat": 16.6329,
+        "lng": 80.46
+      },
+      {
+        "name": "Music Festival Andhra Pradesh",
+        "desc": "Annual music festival of Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.6429,
+        "lng": 80.47
+      },
+      {
+        "name": "Tribal Museum Andhra Pradesh",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 16.6529,
+        "lng": 80.47999999999999
+      },
+      {
+        "name": "Craft Village Andhra Pradesh",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 15.212900000000001,
+        "lng": 79.03999999999999
+      },
+      {
+        "name": "Classical Dance Academy Vijayawada",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 15.2029,
+        "lng": 79.03
+      },
+      {
+        "name": "Puppet Theatre Andhra Pradesh",
+        "desc": "Traditional puppet theatre of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 15.1929,
+        "lng": 79.02
+      },
+      {
+        "name": "Weaving Center Andhra Pradesh",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 15.1829,
+        "lng": 79.00999999999999
+      },
+      {
+        "name": "Open Air Theatre Vijayawada",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 15.1729,
+        "lng": 79.0
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Andhra Pradesh",
+        "desc": "Best trekking trails in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.7129,
+        "lng": 80.53999999999999
+      },
+      {
+        "name": "Rock Climbing Andhra Pradesh",
+        "desc": "Rock climbing spots in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 16.7229,
+        "lng": 80.55
+      },
+      {
+        "name": "River Rafting Andhra Pradesh",
+        "desc": "White water rafting in rivers of Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.7329,
+        "lng": 80.55999999999999
+      },
+      {
+        "name": "Paragliding Andhra Pradesh",
+        "desc": "Paragliding spots in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.7429,
+        "lng": 80.57
+      },
+      {
+        "name": "Camping Andhra Pradesh",
+        "desc": "Camping spots in forests of Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.7529,
+        "lng": 80.58
+      },
+      {
+        "name": "Zip Line Andhra Pradesh",
+        "desc": "Zip lining adventure in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.1129,
+        "lng": 78.94
+      },
+      {
+        "name": "Jungle Safari Andhra Pradesh",
+        "desc": "Jeep jungle safari in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 15.1029,
+        "lng": 78.92999999999999
+      },
+      {
+        "name": "Cycling Tour Andhra Pradesh",
+        "desc": "Scenic cycling routes in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.0929,
+        "lng": 78.92
+      },
+      {
+        "name": "Water Sports Andhra Pradesh",
+        "desc": "Water sports activities in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.0829,
+        "lng": 78.91
+      },
+      {
+        "name": "Bungee Jumping Andhra Pradesh",
+        "desc": "Bungee jumping experience in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 15.0729,
+        "lng": 78.89999999999999
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Andhra Pradesh",
+        "desc": "Traditional Ayurvedic treatments in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.8129,
+        "lng": 80.64
+      },
+      {
+        "name": "Yoga Retreat Andhra Pradesh",
+        "desc": "Yoga and meditation retreat in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.8229,
+        "lng": 80.64999999999999
+      },
+      {
+        "name": "Spa Resort Andhra Pradesh",
+        "desc": "Luxury spa resort in Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 16.832900000000002,
+        "lng": 80.66
+      },
+      {
+        "name": "Naturopathy Center Andhra Pradesh",
+        "desc": "Natural healing center in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 16.8429,
+        "lng": 80.67
+      },
+      {
+        "name": "Meditation Ashram Andhra Pradesh",
+        "desc": "Peaceful meditation ashram in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 16.8529,
+        "lng": 80.67999999999999
+      },
+      {
+        "name": "Wellness Resort Vijayawada",
+        "desc": "Luxury wellness resort in Vijayawada",
+        "rating": "4.4",
+        "lat": 15.0129,
+        "lng": 78.83999999999999
+      },
+      {
+        "name": "Herbal Garden Andhra Pradesh",
+        "desc": "Medicinal herb garden in Andhra Pradesh",
+        "rating": "4.2",
+        "lat": 15.0029,
+        "lng": 78.83
+      },
+      {
+        "name": "Forest Bathing Andhra Pradesh",
+        "desc": "Therapeutic forest walks in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 14.9929,
+        "lng": 78.82
+      },
+      {
+        "name": "Hot Spring Andhra Pradesh",
+        "desc": "Natural hot spring in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 14.9829,
+        "lng": 78.80999999999999
+      },
+      {
+        "name": "Detox Retreat Andhra Pradesh",
+        "desc": "Detox and wellness retreat in Andhra Pradesh",
+        "rating": "4.3",
+        "lat": 14.972900000000001,
+        "lng": 78.8
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Vijayawada",
+        "desc": "Main airport of Andhra Pradesh in Vijayawada",
+        "rating": "4.0",
+        "lat": 16.9129,
+        "lng": 80.74
+      },
+      {
+        "name": "Railway Station Vijayawada",
+        "desc": "Main railway junction in Vijayawada",
+        "rating": "3.8",
+        "lat": 16.922900000000002,
+        "lng": 80.75
+      },
+      {
+        "name": "Bus Terminal Vijayawada",
+        "desc": "State bus terminal in Vijayawada",
+        "rating": "3.7",
+        "lat": 16.9329,
+        "lng": 80.75999999999999
+      },
+      {
+        "name": "Metro Rail Vijayawada",
+        "desc": "Metro rail system in Vijayawada",
+        "rating": "4.2",
+        "lat": 16.9429,
+        "lng": 80.77
+      },
+      {
+        "name": "Highway Andhra Pradesh",
+        "desc": "Major national highway through Andhra Pradesh",
+        "rating": "4.0",
+        "lat": 16.9529,
+        "lng": 80.78
+      },
+      {
+        "name": "Port Andhra Pradesh",
+        "desc": "Major sea port of Andhra Pradesh",
+        "rating": "3.9",
+        "lat": 14.9129,
+        "lng": 78.74
+      },
+      {
+        "name": "Taxi Stand Vijayawada",
+        "desc": "Main cab and taxi hub in Vijayawada",
+        "rating": "3.8",
+        "lat": 14.9029,
+        "lng": 78.72999999999999
+      },
+      {
+        "name": "Auto Rickshaw Vijayawada",
+        "desc": "Auto rickshaw services across Vijayawada",
+        "rating": "3.6",
+        "lat": 14.892900000000001,
+        "lng": 78.72
+      },
+      {
+        "name": "Cab Services Vijayawada",
+        "desc": "Ola and Uber cab services in Vijayawada",
+        "rating": "4.0",
+        "lat": 14.882900000000001,
+        "lng": 78.71
+      },
+      {
+        "name": "Helipad Andhra Pradesh",
+        "desc": "Helicopter services in Andhra Pradesh",
+        "rating": "4.0",
+        "lat": 14.872900000000001,
+        "lng": 78.69999999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Andhra Pradesh",
+        "desc": "Most famous festival of Andhra Pradesh",
+        "rating": "4.7",
+        "lat": 17.012900000000002,
+        "lng": 80.83999999999999
+      },
+      {
+        "name": "Cooking Class Andhra Pradesh",
+        "desc": "Learn traditional Andhra Pradesh cooking techniques",
+        "rating": "4.5",
+        "lat": 17.0229,
+        "lng": 80.85
+      },
+      {
+        "name": "Village Walk Andhra Pradesh",
+        "desc": "Authentic village life experience in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 17.0329,
+        "lng": 80.86
+      },
+      {
+        "name": "Craft Workshop Andhra Pradesh",
+        "desc": "Traditional craft making workshop in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 17.0429,
+        "lng": 80.86999999999999
+      },
+      {
+        "name": "Sunrise Trek Andhra Pradesh",
+        "desc": "Early morning sunrise trek in Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 17.0529,
+        "lng": 80.88
+      },
+      {
+        "name": "Local Market Tour Vijayawada",
+        "desc": "Guided tour of local markets in Vijayawada",
+        "rating": "4.3",
+        "lat": 14.8129,
+        "lng": 78.64
+      },
+      {
+        "name": "Folk Performance Andhra Pradesh",
+        "desc": "Traditional folk art performance of Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 14.802900000000001,
+        "lng": 78.63
+      },
+      {
+        "name": "Farm Stay Andhra Pradesh",
+        "desc": "Authentic farm stay experience in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 14.7929,
+        "lng": 78.61999999999999
+      },
+      {
+        "name": "Night Safari Andhra Pradesh",
+        "desc": "Night wildlife safari in Andhra Pradesh",
+        "rating": "4.4",
+        "lat": 14.782900000000001,
+        "lng": 78.61
+      },
+      {
+        "name": "Harvest Festival Andhra Pradesh",
+        "desc": "Traditional harvest festival of Andhra Pradesh",
+        "rating": "4.5",
+        "lat": 14.7729,
+        "lng": 78.6
+      }
+    ]
+  }
+}

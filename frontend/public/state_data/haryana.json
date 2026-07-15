@@ -1,0 +1,870 @@
+{
+  "state": "Haryana",
+  "capital": "Chandigarh",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Kurukshetra Brahma Sarovar",
+        "desc": "Most famous heritage site in Haryana",
+        "rating": "4.6",
+        "lat": 29.0588,
+        "lng": 76.0856
+      },
+      {
+        "name": "State Museum Chandigarh",
+        "desc": "Archaeological museum showcasing Haryana history",
+        "rating": "4.2",
+        "lat": 29.068800000000003,
+        "lng": 76.0956
+      },
+      {
+        "name": "Old Fort Chandigarh",
+        "desc": "Historic fort from medieval era in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.0788,
+        "lng": 76.1056
+      },
+      {
+        "name": "Ancient Temple Haryana",
+        "desc": "Famous ancient temple showcasing Haryana architecture",
+        "rating": "4.4",
+        "lat": 29.088800000000003,
+        "lng": 76.1156
+      },
+      {
+        "name": "Colonial Building Chandigarh",
+        "desc": "Historic colonial era building in Chandigarh",
+        "rating": "4.1",
+        "lat": 29.0988,
+        "lng": 76.1256
+      },
+      {
+        "name": "Palace Haryana",
+        "desc": "Royal palace of former rulers of Haryana",
+        "rating": "4.4",
+        "lat": 29.0488,
+        "lng": 76.0756
+      },
+      {
+        "name": "Rock Cut Caves Haryana",
+        "desc": "Ancient rock cut monuments in Haryana",
+        "rating": "4.3",
+        "lat": 29.038800000000002,
+        "lng": 76.0656
+      },
+      {
+        "name": "Heritage Walk Chandigarh",
+        "desc": "Guided walk through old quarter of Chandigarh",
+        "rating": "4.3",
+        "lat": 29.0288,
+        "lng": 76.0556
+      },
+      {
+        "name": "Memorial Museum Chandigarh",
+        "desc": "Memorial to freedom fighters of Haryana",
+        "rating": "4.1",
+        "lat": 29.018800000000002,
+        "lng": 76.0456
+      },
+      {
+        "name": "Ruins Site Haryana",
+        "desc": "Ancient ruins and archaeological findings in Haryana",
+        "rating": "4.2",
+        "lat": 29.0088,
+        "lng": 76.0356
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Chandigarh",
+        "desc": "Authentic Haryana thali with local specialties",
+        "rating": "4.5",
+        "lat": 29.158800000000003,
+        "lng": 76.1856
+      },
+      {
+        "name": "Street Food Market Chandigarh",
+        "desc": "Famous street food market in Chandigarh",
+        "rating": "4.4",
+        "lat": 29.1688,
+        "lng": 76.1956
+      },
+      {
+        "name": "Local Sweet Shop Haryana",
+        "desc": "Famous traditional sweets unique to Haryana",
+        "rating": "4.5",
+        "lat": 29.178800000000003,
+        "lng": 76.2056
+      },
+      {
+        "name": "Tribal Cuisine Haryana",
+        "desc": "Authentic tribal food of Haryana",
+        "rating": "4.4",
+        "lat": 29.1888,
+        "lng": 76.2156
+      },
+      {
+        "name": "Dhaba Haryana",
+        "desc": "Famous highway dhaba with Haryana specialties",
+        "rating": "4.3",
+        "lat": 29.198800000000002,
+        "lng": 76.2256
+      },
+      {
+        "name": "Vegetarian Restaurant Chandigarh",
+        "desc": "Best pure vegetarian food in Chandigarh",
+        "rating": "4.3",
+        "lat": 28.9588,
+        "lng": 75.9856
+      },
+      {
+        "name": "Biryani House Chandigarh",
+        "desc": "Best biryani and rice dishes in Chandigarh",
+        "rating": "4.4",
+        "lat": 28.948800000000002,
+        "lng": 75.9756
+      },
+      {
+        "name": "Bakery Cafe Chandigarh",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 28.9388,
+        "lng": 75.9656
+      },
+      {
+        "name": "Royal Kitchen Haryana",
+        "desc": "Restaurant serving royal recipes of Haryana",
+        "rating": "4.5",
+        "lat": 28.928800000000003,
+        "lng": 75.9556
+      },
+      {
+        "name": "Fish Curry House Haryana",
+        "desc": "Traditional Haryana style fish preparation",
+        "rating": "4.4",
+        "lat": 28.9188,
+        "lng": 75.9456
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Chandigarh",
+        "desc": "Luxury 5-star Taj hotel in Chandigarh",
+        "rating": "4.7",
+        "lat": 29.2588,
+        "lng": 76.2856
+      },
+      {
+        "name": "Oberoi Resort Haryana",
+        "desc": "Luxury resort in scenic location in Haryana",
+        "rating": "4.8",
+        "lat": 29.268800000000002,
+        "lng": 76.2956
+      },
+      {
+        "name": "Heritage Hotel Chandigarh",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 29.2788,
+        "lng": 76.3056
+      },
+      {
+        "name": "ITC Hotel Chandigarh",
+        "desc": "ITC luxury hotel in Chandigarh",
+        "rating": "4.6",
+        "lat": 29.288800000000002,
+        "lng": 76.3156
+      },
+      {
+        "name": "Eco Resort Haryana",
+        "desc": "Eco-friendly resort in nature of Haryana",
+        "rating": "4.5",
+        "lat": 29.2988,
+        "lng": 76.3256
+      },
+      {
+        "name": "Boutique Hotel Chandigarh",
+        "desc": "Charming boutique hotel in old quarter of Chandigarh",
+        "rating": "4.4",
+        "lat": 28.858800000000002,
+        "lng": 75.8856
+      },
+      {
+        "name": "Marriott Chandigarh",
+        "desc": "International 5-star Marriott hotel in Chandigarh",
+        "rating": "4.6",
+        "lat": 28.8488,
+        "lng": 75.8756
+      },
+      {
+        "name": "Forest Lodge Haryana",
+        "desc": "Wildlife lodge near forest of Haryana",
+        "rating": "4.4",
+        "lat": 28.838800000000003,
+        "lng": 75.8656
+      },
+      {
+        "name": "Homestay Haryana",
+        "desc": "Authentic homestay with local family in Haryana",
+        "rating": "4.3",
+        "lat": 28.8288,
+        "lng": 75.8556
+      },
+      {
+        "name": "Budget Hotel Chandigarh",
+        "desc": "Clean comfortable budget stay in Chandigarh",
+        "rating": "4.0",
+        "lat": 28.818800000000003,
+        "lng": 75.8456
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Haryana",
+        "desc": "Best panoramic viewpoint in Haryana",
+        "rating": "4.5",
+        "lat": 29.358800000000002,
+        "lng": 76.3856
+      },
+      {
+        "name": "Waterfall Haryana",
+        "desc": "Most beautiful waterfall in Haryana",
+        "rating": "4.5",
+        "lat": 29.3688,
+        "lng": 76.3956
+      },
+      {
+        "name": "Lake Haryana",
+        "desc": "Scenic lake in Haryana with boating",
+        "rating": "4.3",
+        "lat": 29.378800000000002,
+        "lng": 76.40559999999999
+      },
+      {
+        "name": "Hill Station Haryana",
+        "desc": "Popular hill station in Haryana",
+        "rating": "4.4",
+        "lat": 29.3888,
+        "lng": 76.4156
+      },
+      {
+        "name": "National Park Haryana",
+        "desc": "Wildlife national park in Haryana",
+        "rating": "4.4",
+        "lat": 29.3988,
+        "lng": 76.4256
+      },
+      {
+        "name": "Beach Haryana",
+        "desc": "Beautiful beach in Haryana",
+        "rating": "4.3",
+        "lat": 28.7588,
+        "lng": 75.7856
+      },
+      {
+        "name": "Cave System Haryana",
+        "desc": "Natural cave system in Haryana",
+        "rating": "4.3",
+        "lat": 28.748800000000003,
+        "lng": 75.7756
+      },
+      {
+        "name": "Dam Haryana",
+        "desc": "Scenic dam and reservoir in Haryana",
+        "rating": "4.2",
+        "lat": 28.7388,
+        "lng": 75.7656
+      },
+      {
+        "name": "Botanical Garden Chandigarh",
+        "desc": "Botanical garden with rare plants in Chandigarh",
+        "rating": "4.2",
+        "lat": 28.728800000000003,
+        "lng": 75.7556
+      },
+      {
+        "name": "Zoo Chandigarh",
+        "desc": "State zoo in Chandigarh with variety of animals",
+        "rating": "4.1",
+        "lat": 28.7188,
+        "lng": 75.7456
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Chandigarh",
+        "desc": "Bustling main market of Chandigarh",
+        "rating": "4.3",
+        "lat": 29.4588,
+        "lng": 76.4856
+      },
+      {
+        "name": "Handicraft Market Haryana",
+        "desc": "Traditional handicrafts of Haryana",
+        "rating": "4.4",
+        "lat": 29.4688,
+        "lng": 76.4956
+      },
+      {
+        "name": "Silk Market Haryana",
+        "desc": "Famous silk and textile market of Haryana",
+        "rating": "4.4",
+        "lat": 29.478800000000003,
+        "lng": 76.5056
+      },
+      {
+        "name": "Tribal Art Market Haryana",
+        "desc": "Traditional tribal art and crafts of Haryana",
+        "rating": "4.4",
+        "lat": 29.4888,
+        "lng": 76.5156
+      },
+      {
+        "name": "Spice Market Haryana",
+        "desc": "Aromatic spice market unique to Haryana",
+        "rating": "4.3",
+        "lat": 29.498800000000003,
+        "lng": 76.5256
+      },
+      {
+        "name": "Mall Chandigarh",
+        "desc": "Modern shopping mall in Chandigarh",
+        "rating": "4.2",
+        "lat": 28.658800000000003,
+        "lng": 75.6856
+      },
+      {
+        "name": "Gem Market Haryana",
+        "desc": "Precious and semi-precious stones of Haryana",
+        "rating": "4.3",
+        "lat": 28.6488,
+        "lng": 75.6756
+      },
+      {
+        "name": "Bamboo Craft Haryana",
+        "desc": "Traditional bamboo craft market of Haryana",
+        "rating": "4.3",
+        "lat": 28.6388,
+        "lng": 75.6656
+      },
+      {
+        "name": "Pottery Village Haryana",
+        "desc": "Traditional pottery making village in Haryana",
+        "rating": "4.3",
+        "lat": 28.628800000000002,
+        "lng": 75.65559999999999
+      },
+      {
+        "name": "Night Market Chandigarh",
+        "desc": "Evening market in Chandigarh with local goods",
+        "rating": "4.2",
+        "lat": 28.6188,
+        "lng": 75.6456
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Haryana",
+        "desc": "Tiger and wildlife reserve in Haryana",
+        "rating": "4.5",
+        "lat": 29.5588,
+        "lng": 76.5856
+      },
+      {
+        "name": "Bird Sanctuary Haryana",
+        "desc": "Migratory bird sanctuary in Haryana",
+        "rating": "4.4",
+        "lat": 29.568800000000003,
+        "lng": 76.5956
+      },
+      {
+        "name": "Forest Reserve Haryana",
+        "desc": "Dense forest reserve of Haryana",
+        "rating": "4.4",
+        "lat": 29.5788,
+        "lng": 76.6056
+      },
+      {
+        "name": "River Valley Haryana",
+        "desc": "Scenic river valley in Haryana",
+        "rating": "4.3",
+        "lat": 29.588800000000003,
+        "lng": 76.6156
+      },
+      {
+        "name": "Mountain Peak Haryana",
+        "desc": "Highest mountain peak in Haryana",
+        "rating": "4.4",
+        "lat": 29.5988,
+        "lng": 76.6256
+      },
+      {
+        "name": "Wetland Haryana",
+        "desc": "Important wetland ecosystem in Haryana",
+        "rating": "4.3",
+        "lat": 28.5588,
+        "lng": 75.5856
+      },
+      {
+        "name": "Tea Garden Haryana",
+        "desc": "Scenic tea or coffee plantation in Haryana",
+        "rating": "4.4",
+        "lat": 28.5488,
+        "lng": 75.5756
+      },
+      {
+        "name": "Organic Farm Haryana",
+        "desc": "Organic farming experience in Haryana",
+        "rating": "4.3",
+        "lat": 28.538800000000002,
+        "lng": 75.5656
+      },
+      {
+        "name": "Sunrise Point Haryana",
+        "desc": "Most spectacular sunrise point in Haryana",
+        "rating": "4.5",
+        "lat": 28.5288,
+        "lng": 75.5556
+      },
+      {
+        "name": "Eco Park Chandigarh",
+        "desc": "Ecology park in Chandigarh with rare plants",
+        "rating": "4.1",
+        "lat": 28.518800000000002,
+        "lng": 75.5456
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Haryana",
+        "desc": "Most famous temple in Haryana",
+        "rating": "4.6",
+        "lat": 29.658800000000003,
+        "lng": 76.6856
+      },
+      {
+        "name": "Mosque Chandigarh",
+        "desc": "Historic mosque in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.6688,
+        "lng": 76.6956
+      },
+      {
+        "name": "Church Chandigarh",
+        "desc": "Historic church in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.678800000000003,
+        "lng": 76.7056
+      },
+      {
+        "name": "Gurudwara Haryana",
+        "desc": "Important Sikh shrine in Haryana",
+        "rating": "4.4",
+        "lat": 29.6888,
+        "lng": 76.7156
+      },
+      {
+        "name": "Buddhist Monastery Haryana",
+        "desc": "Ancient Buddhist monastery in Haryana",
+        "rating": "4.4",
+        "lat": 29.698800000000002,
+        "lng": 76.7256
+      },
+      {
+        "name": "Jain Temple Haryana",
+        "desc": "Famous Jain temple in Haryana",
+        "rating": "4.4",
+        "lat": 28.4588,
+        "lng": 75.4856
+      },
+      {
+        "name": "Dargah Haryana",
+        "desc": "Famous Sufi dargah in Haryana",
+        "rating": "4.3",
+        "lat": 28.448800000000002,
+        "lng": 75.4756
+      },
+      {
+        "name": "Ashram Haryana",
+        "desc": "Spiritual ashram in Haryana",
+        "rating": "4.4",
+        "lat": 28.4388,
+        "lng": 75.4656
+      },
+      {
+        "name": "Pilgrimage Site Haryana",
+        "desc": "Important pilgrimage destination in Haryana",
+        "rating": "4.5",
+        "lat": 28.428800000000003,
+        "lng": 75.4556
+      },
+      {
+        "name": "Sacred River Ghat Haryana",
+        "desc": "Sacred river ghat for rituals in Haryana",
+        "rating": "4.3",
+        "lat": 28.4188,
+        "lng": 75.4456
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Haryana",
+        "desc": "Traditional folk dance performance of Haryana",
+        "rating": "4.5",
+        "lat": 29.7588,
+        "lng": 76.7856
+      },
+      {
+        "name": "Art Gallery Chandigarh",
+        "desc": "State art gallery in Chandigarh",
+        "rating": "4.2",
+        "lat": 29.768800000000002,
+        "lng": 76.7956
+      },
+      {
+        "name": "Cultural Center Chandigarh",
+        "desc": "Cultural center for arts in Chandigarh",
+        "rating": "4.3",
+        "lat": 29.7788,
+        "lng": 76.8056
+      },
+      {
+        "name": "Music Festival Haryana",
+        "desc": "Annual music festival of Haryana",
+        "rating": "4.5",
+        "lat": 29.788800000000002,
+        "lng": 76.8156
+      },
+      {
+        "name": "Tribal Museum Haryana",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 29.7988,
+        "lng": 76.8256
+      },
+      {
+        "name": "Craft Village Haryana",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 28.358800000000002,
+        "lng": 75.3856
+      },
+      {
+        "name": "Classical Dance Academy Chandigarh",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 28.3488,
+        "lng": 75.3756
+      },
+      {
+        "name": "Puppet Theatre Haryana",
+        "desc": "Traditional puppet theatre of Haryana",
+        "rating": "4.4",
+        "lat": 28.338800000000003,
+        "lng": 75.3656
+      },
+      {
+        "name": "Weaving Center Haryana",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 28.3288,
+        "lng": 75.3556
+      },
+      {
+        "name": "Open Air Theatre Chandigarh",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 28.318800000000003,
+        "lng": 75.3456
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Haryana",
+        "desc": "Best trekking trails in Haryana",
+        "rating": "4.4",
+        "lat": 29.858800000000002,
+        "lng": 76.8856
+      },
+      {
+        "name": "Rock Climbing Haryana",
+        "desc": "Rock climbing spots in Haryana",
+        "rating": "4.3",
+        "lat": 29.8688,
+        "lng": 76.8956
+      },
+      {
+        "name": "River Rafting Haryana",
+        "desc": "White water rafting in rivers of Haryana",
+        "rating": "4.5",
+        "lat": 29.878800000000002,
+        "lng": 76.90559999999999
+      },
+      {
+        "name": "Paragliding Haryana",
+        "desc": "Paragliding spots in Haryana",
+        "rating": "4.4",
+        "lat": 29.8888,
+        "lng": 76.9156
+      },
+      {
+        "name": "Camping Haryana",
+        "desc": "Camping spots in forests of Haryana",
+        "rating": "4.4",
+        "lat": 29.8988,
+        "lng": 76.9256
+      },
+      {
+        "name": "Zip Line Haryana",
+        "desc": "Zip lining adventure in Haryana",
+        "rating": "4.3",
+        "lat": 28.2588,
+        "lng": 75.2856
+      },
+      {
+        "name": "Jungle Safari Haryana",
+        "desc": "Jeep jungle safari in Haryana",
+        "rating": "4.4",
+        "lat": 28.248800000000003,
+        "lng": 75.2756
+      },
+      {
+        "name": "Cycling Tour Haryana",
+        "desc": "Scenic cycling routes in Haryana",
+        "rating": "4.3",
+        "lat": 28.2388,
+        "lng": 75.2656
+      },
+      {
+        "name": "Water Sports Haryana",
+        "desc": "Water sports activities in Haryana",
+        "rating": "4.3",
+        "lat": 28.228800000000003,
+        "lng": 75.2556
+      },
+      {
+        "name": "Bungee Jumping Haryana",
+        "desc": "Bungee jumping experience in Haryana",
+        "rating": "4.3",
+        "lat": 28.2188,
+        "lng": 75.2456
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Haryana",
+        "desc": "Traditional Ayurvedic treatments in Haryana",
+        "rating": "4.4",
+        "lat": 29.9588,
+        "lng": 76.9856
+      },
+      {
+        "name": "Yoga Retreat Haryana",
+        "desc": "Yoga and meditation retreat in Haryana",
+        "rating": "4.4",
+        "lat": 29.9688,
+        "lng": 76.9956
+      },
+      {
+        "name": "Spa Resort Haryana",
+        "desc": "Luxury spa resort in Haryana",
+        "rating": "4.5",
+        "lat": 29.978800000000003,
+        "lng": 77.0056
+      },
+      {
+        "name": "Naturopathy Center Haryana",
+        "desc": "Natural healing center in Haryana",
+        "rating": "4.3",
+        "lat": 29.9888,
+        "lng": 77.0156
+      },
+      {
+        "name": "Meditation Ashram Haryana",
+        "desc": "Peaceful meditation ashram in Haryana",
+        "rating": "4.4",
+        "lat": 29.998800000000003,
+        "lng": 77.0256
+      },
+      {
+        "name": "Wellness Resort Chandigarh",
+        "desc": "Luxury wellness resort in Chandigarh",
+        "rating": "4.4",
+        "lat": 28.158800000000003,
+        "lng": 75.1856
+      },
+      {
+        "name": "Herbal Garden Haryana",
+        "desc": "Medicinal herb garden in Haryana",
+        "rating": "4.2",
+        "lat": 28.1488,
+        "lng": 75.1756
+      },
+      {
+        "name": "Forest Bathing Haryana",
+        "desc": "Therapeutic forest walks in Haryana",
+        "rating": "4.3",
+        "lat": 28.1388,
+        "lng": 75.1656
+      },
+      {
+        "name": "Hot Spring Haryana",
+        "desc": "Natural hot spring in Haryana",
+        "rating": "4.4",
+        "lat": 28.128800000000002,
+        "lng": 75.15559999999999
+      },
+      {
+        "name": "Detox Retreat Haryana",
+        "desc": "Detox and wellness retreat in Haryana",
+        "rating": "4.3",
+        "lat": 28.1188,
+        "lng": 75.1456
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Chandigarh",
+        "desc": "Main airport of Haryana in Chandigarh",
+        "rating": "4.0",
+        "lat": 30.0588,
+        "lng": 77.0856
+      },
+      {
+        "name": "Railway Station Chandigarh",
+        "desc": "Main railway junction in Chandigarh",
+        "rating": "3.8",
+        "lat": 30.068800000000003,
+        "lng": 77.0956
+      },
+      {
+        "name": "Bus Terminal Chandigarh",
+        "desc": "State bus terminal in Chandigarh",
+        "rating": "3.7",
+        "lat": 30.0788,
+        "lng": 77.1056
+      },
+      {
+        "name": "Metro Rail Chandigarh",
+        "desc": "Metro rail system in Chandigarh",
+        "rating": "4.2",
+        "lat": 30.088800000000003,
+        "lng": 77.1156
+      },
+      {
+        "name": "Highway Haryana",
+        "desc": "Major national highway through Haryana",
+        "rating": "4.0",
+        "lat": 30.0988,
+        "lng": 77.1256
+      },
+      {
+        "name": "Port Haryana",
+        "desc": "Major sea port of Haryana",
+        "rating": "3.9",
+        "lat": 28.0588,
+        "lng": 75.0856
+      },
+      {
+        "name": "Taxi Stand Chandigarh",
+        "desc": "Main cab and taxi hub in Chandigarh",
+        "rating": "3.8",
+        "lat": 28.0488,
+        "lng": 75.0756
+      },
+      {
+        "name": "Auto Rickshaw Chandigarh",
+        "desc": "Auto rickshaw services across Chandigarh",
+        "rating": "3.6",
+        "lat": 28.038800000000002,
+        "lng": 75.0656
+      },
+      {
+        "name": "Cab Services Chandigarh",
+        "desc": "Ola and Uber cab services in Chandigarh",
+        "rating": "4.0",
+        "lat": 28.0288,
+        "lng": 75.0556
+      },
+      {
+        "name": "Helipad Haryana",
+        "desc": "Helicopter services in Haryana",
+        "rating": "4.0",
+        "lat": 28.018800000000002,
+        "lng": 75.0456
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Haryana",
+        "desc": "Most famous festival of Haryana",
+        "rating": "4.7",
+        "lat": 30.158800000000003,
+        "lng": 77.1856
+      },
+      {
+        "name": "Cooking Class Haryana",
+        "desc": "Learn traditional Haryana cooking techniques",
+        "rating": "4.5",
+        "lat": 30.1688,
+        "lng": 77.1956
+      },
+      {
+        "name": "Village Walk Haryana",
+        "desc": "Authentic village life experience in Haryana",
+        "rating": "4.4",
+        "lat": 30.178800000000003,
+        "lng": 77.2056
+      },
+      {
+        "name": "Craft Workshop Haryana",
+        "desc": "Traditional craft making workshop in Haryana",
+        "rating": "4.4",
+        "lat": 30.1888,
+        "lng": 77.2156
+      },
+      {
+        "name": "Sunrise Trek Haryana",
+        "desc": "Early morning sunrise trek in Haryana",
+        "rating": "4.5",
+        "lat": 30.198800000000002,
+        "lng": 77.2256
+      },
+      {
+        "name": "Local Market Tour Chandigarh",
+        "desc": "Guided tour of local markets in Chandigarh",
+        "rating": "4.3",
+        "lat": 27.9588,
+        "lng": 74.9856
+      },
+      {
+        "name": "Folk Performance Haryana",
+        "desc": "Traditional folk art performance of Haryana",
+        "rating": "4.5",
+        "lat": 27.948800000000002,
+        "lng": 74.9756
+      },
+      {
+        "name": "Farm Stay Haryana",
+        "desc": "Authentic farm stay experience in Haryana",
+        "rating": "4.4",
+        "lat": 27.9388,
+        "lng": 74.9656
+      },
+      {
+        "name": "Night Safari Haryana",
+        "desc": "Night wildlife safari in Haryana",
+        "rating": "4.4",
+        "lat": 27.928800000000003,
+        "lng": 74.9556
+      },
+      {
+        "name": "Harvest Festival Haryana",
+        "desc": "Traditional harvest festival of Haryana",
+        "rating": "4.5",
+        "lat": 27.9188,
+        "lng": 74.9456
+      }
+    ]
+  }
+}

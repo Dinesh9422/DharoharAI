@@ -1,0 +1,870 @@
+{
+  "state": "Lakshadweep",
+  "capital": "Kavaratti",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Agatti Island Beach",
+        "desc": "Most famous heritage site in Lakshadweep",
+        "rating": "4.6",
+        "lat": 10.5667,
+        "lng": 72.6417
+      },
+      {
+        "name": "State Museum Kavaratti",
+        "desc": "Archaeological museum showcasing Lakshadweep history",
+        "rating": "4.2",
+        "lat": 10.5767,
+        "lng": 72.6517
+      },
+      {
+        "name": "Old Fort Kavaratti",
+        "desc": "Historic fort from medieval era in Kavaratti",
+        "rating": "4.3",
+        "lat": 10.5867,
+        "lng": 72.6617
+      },
+      {
+        "name": "Ancient Temple Lakshadweep",
+        "desc": "Famous ancient temple showcasing Lakshadweep architecture",
+        "rating": "4.4",
+        "lat": 10.5967,
+        "lng": 72.6717
+      },
+      {
+        "name": "Colonial Building Kavaratti",
+        "desc": "Historic colonial era building in Kavaratti",
+        "rating": "4.1",
+        "lat": 10.6067,
+        "lng": 72.6817
+      },
+      {
+        "name": "Palace Lakshadweep",
+        "desc": "Royal palace of former rulers of Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.556700000000001,
+        "lng": 72.6317
+      },
+      {
+        "name": "Rock Cut Caves Lakshadweep",
+        "desc": "Ancient rock cut monuments in Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.546700000000001,
+        "lng": 72.6217
+      },
+      {
+        "name": "Heritage Walk Kavaratti",
+        "desc": "Guided walk through old quarter of Kavaratti",
+        "rating": "4.3",
+        "lat": 10.536700000000002,
+        "lng": 72.6117
+      },
+      {
+        "name": "Memorial Museum Kavaratti",
+        "desc": "Memorial to freedom fighters of Lakshadweep",
+        "rating": "4.1",
+        "lat": 10.526700000000002,
+        "lng": 72.6017
+      },
+      {
+        "name": "Ruins Site Lakshadweep",
+        "desc": "Ancient ruins and archaeological findings in Lakshadweep",
+        "rating": "4.2",
+        "lat": 10.5167,
+        "lng": 72.5917
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Kavaratti",
+        "desc": "Authentic Lakshadweep thali with local specialties",
+        "rating": "4.5",
+        "lat": 10.6667,
+        "lng": 72.7417
+      },
+      {
+        "name": "Street Food Market Kavaratti",
+        "desc": "Famous street food market in Kavaratti",
+        "rating": "4.4",
+        "lat": 10.6767,
+        "lng": 72.7517
+      },
+      {
+        "name": "Local Sweet Shop Lakshadweep",
+        "desc": "Famous traditional sweets unique to Lakshadweep",
+        "rating": "4.5",
+        "lat": 10.6867,
+        "lng": 72.7617
+      },
+      {
+        "name": "Tribal Cuisine Lakshadweep",
+        "desc": "Authentic tribal food of Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.696700000000002,
+        "lng": 72.7717
+      },
+      {
+        "name": "Dhaba Lakshadweep",
+        "desc": "Famous highway dhaba with Lakshadweep specialties",
+        "rating": "4.3",
+        "lat": 10.706700000000001,
+        "lng": 72.7817
+      },
+      {
+        "name": "Vegetarian Restaurant Kavaratti",
+        "desc": "Best pure vegetarian food in Kavaratti",
+        "rating": "4.3",
+        "lat": 10.466700000000001,
+        "lng": 72.5417
+      },
+      {
+        "name": "Biryani House Kavaratti",
+        "desc": "Best biryani and rice dishes in Kavaratti",
+        "rating": "4.4",
+        "lat": 10.456700000000001,
+        "lng": 72.5317
+      },
+      {
+        "name": "Bakery Cafe Kavaratti",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 10.446700000000002,
+        "lng": 72.5217
+      },
+      {
+        "name": "Royal Kitchen Lakshadweep",
+        "desc": "Restaurant serving royal recipes of Lakshadweep",
+        "rating": "4.5",
+        "lat": 10.4367,
+        "lng": 72.5117
+      },
+      {
+        "name": "Fish Curry House Lakshadweep",
+        "desc": "Traditional Lakshadweep style fish preparation",
+        "rating": "4.4",
+        "lat": 10.4267,
+        "lng": 72.5017
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Kavaratti",
+        "desc": "Luxury 5-star Taj hotel in Kavaratti",
+        "rating": "4.7",
+        "lat": 10.7667,
+        "lng": 72.8417
+      },
+      {
+        "name": "Oberoi Resort Lakshadweep",
+        "desc": "Luxury resort in scenic location in Lakshadweep",
+        "rating": "4.8",
+        "lat": 10.776700000000002,
+        "lng": 72.8517
+      },
+      {
+        "name": "Heritage Hotel Kavaratti",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 10.786700000000002,
+        "lng": 72.8617
+      },
+      {
+        "name": "ITC Hotel Kavaratti",
+        "desc": "ITC luxury hotel in Kavaratti",
+        "rating": "4.6",
+        "lat": 10.796700000000001,
+        "lng": 72.8717
+      },
+      {
+        "name": "Eco Resort Lakshadweep",
+        "desc": "Eco-friendly resort in nature of Lakshadweep",
+        "rating": "4.5",
+        "lat": 10.806700000000001,
+        "lng": 72.8817
+      },
+      {
+        "name": "Boutique Hotel Kavaratti",
+        "desc": "Charming boutique hotel in old quarter of Kavaratti",
+        "rating": "4.4",
+        "lat": 10.366700000000002,
+        "lng": 72.4417
+      },
+      {
+        "name": "Marriott Kavaratti",
+        "desc": "International 5-star Marriott hotel in Kavaratti",
+        "rating": "4.6",
+        "lat": 10.3567,
+        "lng": 72.4317
+      },
+      {
+        "name": "Forest Lodge Lakshadweep",
+        "desc": "Wildlife lodge near forest of Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.3467,
+        "lng": 72.4217
+      },
+      {
+        "name": "Homestay Lakshadweep",
+        "desc": "Authentic homestay with local family in Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.3367,
+        "lng": 72.4117
+      },
+      {
+        "name": "Budget Hotel Kavaratti",
+        "desc": "Clean comfortable budget stay in Kavaratti",
+        "rating": "4.0",
+        "lat": 10.3267,
+        "lng": 72.4017
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Lakshadweep",
+        "desc": "Best panoramic viewpoint in Lakshadweep",
+        "rating": "4.5",
+        "lat": 10.866700000000002,
+        "lng": 72.9417
+      },
+      {
+        "name": "Waterfall Lakshadweep",
+        "desc": "Most beautiful waterfall in Lakshadweep",
+        "rating": "4.5",
+        "lat": 10.876700000000001,
+        "lng": 72.9517
+      },
+      {
+        "name": "Lake Lakshadweep",
+        "desc": "Scenic lake in Lakshadweep with boating",
+        "rating": "4.3",
+        "lat": 10.886700000000001,
+        "lng": 72.9617
+      },
+      {
+        "name": "Hill Station Lakshadweep",
+        "desc": "Popular hill station in Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.896700000000001,
+        "lng": 72.9717
+      },
+      {
+        "name": "National Park Lakshadweep",
+        "desc": "Wildlife national park in Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.9067,
+        "lng": 72.9817
+      },
+      {
+        "name": "Beach Lakshadweep",
+        "desc": "Beautiful beach in Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.2667,
+        "lng": 72.3417
+      },
+      {
+        "name": "Cave System Lakshadweep",
+        "desc": "Natural cave system in Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.2567,
+        "lng": 72.3317
+      },
+      {
+        "name": "Dam Lakshadweep",
+        "desc": "Scenic dam and reservoir in Lakshadweep",
+        "rating": "4.2",
+        "lat": 10.2467,
+        "lng": 72.3217
+      },
+      {
+        "name": "Botanical Garden Kavaratti",
+        "desc": "Botanical garden with rare plants in Kavaratti",
+        "rating": "4.2",
+        "lat": 10.2367,
+        "lng": 72.3117
+      },
+      {
+        "name": "Zoo Kavaratti",
+        "desc": "State zoo in Kavaratti with variety of animals",
+        "rating": "4.1",
+        "lat": 10.226700000000001,
+        "lng": 72.3017
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Kavaratti",
+        "desc": "Bustling main market of Kavaratti",
+        "rating": "4.3",
+        "lat": 10.966700000000001,
+        "lng": 73.0417
+      },
+      {
+        "name": "Handicraft Market Lakshadweep",
+        "desc": "Traditional handicrafts of Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.976700000000001,
+        "lng": 73.0517
+      },
+      {
+        "name": "Silk Market Lakshadweep",
+        "desc": "Famous silk and textile market of Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.9867,
+        "lng": 73.0617
+      },
+      {
+        "name": "Tribal Art Market Lakshadweep",
+        "desc": "Traditional tribal art and crafts of Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.9967,
+        "lng": 73.0717
+      },
+      {
+        "name": "Spice Market Lakshadweep",
+        "desc": "Aromatic spice market unique to Lakshadweep",
+        "rating": "4.3",
+        "lat": 11.0067,
+        "lng": 73.0817
+      },
+      {
+        "name": "Mall Kavaratti",
+        "desc": "Modern shopping mall in Kavaratti",
+        "rating": "4.2",
+        "lat": 10.1667,
+        "lng": 72.2417
+      },
+      {
+        "name": "Gem Market Lakshadweep",
+        "desc": "Precious and semi-precious stones of Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.1567,
+        "lng": 72.2317
+      },
+      {
+        "name": "Bamboo Craft Lakshadweep",
+        "desc": "Traditional bamboo craft market of Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.146700000000001,
+        "lng": 72.2217
+      },
+      {
+        "name": "Pottery Village Lakshadweep",
+        "desc": "Traditional pottery making village in Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.136700000000001,
+        "lng": 72.2117
+      },
+      {
+        "name": "Night Market Kavaratti",
+        "desc": "Evening market in Kavaratti with local goods",
+        "rating": "4.2",
+        "lat": 10.126700000000001,
+        "lng": 72.2017
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Lakshadweep",
+        "desc": "Tiger and wildlife reserve in Lakshadweep",
+        "rating": "4.5",
+        "lat": 11.0667,
+        "lng": 73.1417
+      },
+      {
+        "name": "Bird Sanctuary Lakshadweep",
+        "desc": "Migratory bird sanctuary in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.0767,
+        "lng": 73.1517
+      },
+      {
+        "name": "Forest Reserve Lakshadweep",
+        "desc": "Dense forest reserve of Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.0867,
+        "lng": 73.1617
+      },
+      {
+        "name": "River Valley Lakshadweep",
+        "desc": "Scenic river valley in Lakshadweep",
+        "rating": "4.3",
+        "lat": 11.0967,
+        "lng": 73.1717
+      },
+      {
+        "name": "Mountain Peak Lakshadweep",
+        "desc": "Highest mountain peak in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.1067,
+        "lng": 73.1817
+      },
+      {
+        "name": "Wetland Lakshadweep",
+        "desc": "Important wetland ecosystem in Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.0667,
+        "lng": 72.1417
+      },
+      {
+        "name": "Tea Garden Lakshadweep",
+        "desc": "Scenic tea or coffee plantation in Lakshadweep",
+        "rating": "4.4",
+        "lat": 10.056700000000001,
+        "lng": 72.1317
+      },
+      {
+        "name": "Organic Farm Lakshadweep",
+        "desc": "Organic farming experience in Lakshadweep",
+        "rating": "4.3",
+        "lat": 10.046700000000001,
+        "lng": 72.1217
+      },
+      {
+        "name": "Sunrise Point Lakshadweep",
+        "desc": "Most spectacular sunrise point in Lakshadweep",
+        "rating": "4.5",
+        "lat": 10.036700000000002,
+        "lng": 72.1117
+      },
+      {
+        "name": "Eco Park Kavaratti",
+        "desc": "Ecology park in Kavaratti with rare plants",
+        "rating": "4.1",
+        "lat": 10.026700000000002,
+        "lng": 72.1017
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Lakshadweep",
+        "desc": "Most famous temple in Lakshadweep",
+        "rating": "4.6",
+        "lat": 11.1667,
+        "lng": 73.2417
+      },
+      {
+        "name": "Mosque Kavaratti",
+        "desc": "Historic mosque in Kavaratti",
+        "rating": "4.3",
+        "lat": 11.1767,
+        "lng": 73.2517
+      },
+      {
+        "name": "Church Kavaratti",
+        "desc": "Historic church in Kavaratti",
+        "rating": "4.3",
+        "lat": 11.1867,
+        "lng": 73.2617
+      },
+      {
+        "name": "Gurudwara Lakshadweep",
+        "desc": "Important Sikh shrine in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.196700000000002,
+        "lng": 73.2717
+      },
+      {
+        "name": "Buddhist Monastery Lakshadweep",
+        "desc": "Ancient Buddhist monastery in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.206700000000001,
+        "lng": 73.2817
+      },
+      {
+        "name": "Jain Temple Lakshadweep",
+        "desc": "Famous Jain temple in Lakshadweep",
+        "rating": "4.4",
+        "lat": 9.966700000000001,
+        "lng": 72.0417
+      },
+      {
+        "name": "Dargah Lakshadweep",
+        "desc": "Famous Sufi dargah in Lakshadweep",
+        "rating": "4.3",
+        "lat": 9.956700000000001,
+        "lng": 72.0317
+      },
+      {
+        "name": "Ashram Lakshadweep",
+        "desc": "Spiritual ashram in Lakshadweep",
+        "rating": "4.4",
+        "lat": 9.946700000000002,
+        "lng": 72.0217
+      },
+      {
+        "name": "Pilgrimage Site Lakshadweep",
+        "desc": "Important pilgrimage destination in Lakshadweep",
+        "rating": "4.5",
+        "lat": 9.9367,
+        "lng": 72.0117
+      },
+      {
+        "name": "Sacred River Ghat Lakshadweep",
+        "desc": "Sacred river ghat for rituals in Lakshadweep",
+        "rating": "4.3",
+        "lat": 9.9267,
+        "lng": 72.0017
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Lakshadweep",
+        "desc": "Traditional folk dance performance of Lakshadweep",
+        "rating": "4.5",
+        "lat": 11.2667,
+        "lng": 73.3417
+      },
+      {
+        "name": "Art Gallery Kavaratti",
+        "desc": "State art gallery in Kavaratti",
+        "rating": "4.2",
+        "lat": 11.276700000000002,
+        "lng": 73.3517
+      },
+      {
+        "name": "Cultural Center Kavaratti",
+        "desc": "Cultural center for arts in Kavaratti",
+        "rating": "4.3",
+        "lat": 11.286700000000002,
+        "lng": 73.3617
+      },
+      {
+        "name": "Music Festival Lakshadweep",
+        "desc": "Annual music festival of Lakshadweep",
+        "rating": "4.5",
+        "lat": 11.296700000000001,
+        "lng": 73.3717
+      },
+      {
+        "name": "Tribal Museum Lakshadweep",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 11.306700000000001,
+        "lng": 73.3817
+      },
+      {
+        "name": "Craft Village Lakshadweep",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 9.866700000000002,
+        "lng": 71.9417
+      },
+      {
+        "name": "Classical Dance Academy Kavaratti",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 9.8567,
+        "lng": 71.9317
+      },
+      {
+        "name": "Puppet Theatre Lakshadweep",
+        "desc": "Traditional puppet theatre of Lakshadweep",
+        "rating": "4.4",
+        "lat": 9.8467,
+        "lng": 71.9217
+      },
+      {
+        "name": "Weaving Center Lakshadweep",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 9.8367,
+        "lng": 71.9117
+      },
+      {
+        "name": "Open Air Theatre Kavaratti",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 9.8267,
+        "lng": 71.9017
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Lakshadweep",
+        "desc": "Best trekking trails in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.366700000000002,
+        "lng": 73.4417
+      },
+      {
+        "name": "Rock Climbing Lakshadweep",
+        "desc": "Rock climbing spots in Lakshadweep",
+        "rating": "4.3",
+        "lat": 11.376700000000001,
+        "lng": 73.4517
+      },
+      {
+        "name": "River Rafting Lakshadweep",
+        "desc": "White water rafting in rivers of Lakshadweep",
+        "rating": "4.5",
+        "lat": 11.386700000000001,
+        "lng": 73.4617
+      },
+      {
+        "name": "Paragliding Lakshadweep",
+        "desc": "Paragliding spots in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.396700000000001,
+        "lng": 73.4717
+      },
+      {
+        "name": "Camping Lakshadweep",
+        "desc": "Camping spots in forests of Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.4067,
+        "lng": 73.4817
+      },
+      {
+        "name": "Zip Line Lakshadweep",
+        "desc": "Zip lining adventure in Lakshadweep",
+        "rating": "4.3",
+        "lat": 9.7667,
+        "lng": 71.8417
+      },
+      {
+        "name": "Jungle Safari Lakshadweep",
+        "desc": "Jeep jungle safari in Lakshadweep",
+        "rating": "4.4",
+        "lat": 9.7567,
+        "lng": 71.8317
+      },
+      {
+        "name": "Cycling Tour Lakshadweep",
+        "desc": "Scenic cycling routes in Lakshadweep",
+        "rating": "4.3",
+        "lat": 9.7467,
+        "lng": 71.8217
+      },
+      {
+        "name": "Water Sports Lakshadweep",
+        "desc": "Water sports activities in Lakshadweep",
+        "rating": "4.3",
+        "lat": 9.7367,
+        "lng": 71.8117
+      },
+      {
+        "name": "Bungee Jumping Lakshadweep",
+        "desc": "Bungee jumping experience in Lakshadweep",
+        "rating": "4.3",
+        "lat": 9.726700000000001,
+        "lng": 71.8017
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Lakshadweep",
+        "desc": "Traditional Ayurvedic treatments in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.466700000000001,
+        "lng": 73.5417
+      },
+      {
+        "name": "Yoga Retreat Lakshadweep",
+        "desc": "Yoga and meditation retreat in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.476700000000001,
+        "lng": 73.5517
+      },
+      {
+        "name": "Spa Resort Lakshadweep",
+        "desc": "Luxury spa resort in Lakshadweep",
+        "rating": "4.5",
+        "lat": 11.4867,
+        "lng": 73.5617
+      },
+      {
+        "name": "Naturopathy Center Lakshadweep",
+        "desc": "Natural healing center in Lakshadweep",
+        "rating": "4.3",
+        "lat": 11.4967,
+        "lng": 73.5717
+      },
+      {
+        "name": "Meditation Ashram Lakshadweep",
+        "desc": "Peaceful meditation ashram in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.5067,
+        "lng": 73.5817
+      },
+      {
+        "name": "Wellness Resort Kavaratti",
+        "desc": "Luxury wellness resort in Kavaratti",
+        "rating": "4.4",
+        "lat": 9.6667,
+        "lng": 71.7417
+      },
+      {
+        "name": "Herbal Garden Lakshadweep",
+        "desc": "Medicinal herb garden in Lakshadweep",
+        "rating": "4.2",
+        "lat": 9.6567,
+        "lng": 71.7317
+      },
+      {
+        "name": "Forest Bathing Lakshadweep",
+        "desc": "Therapeutic forest walks in Lakshadweep",
+        "rating": "4.3",
+        "lat": 9.646700000000001,
+        "lng": 71.7217
+      },
+      {
+        "name": "Hot Spring Lakshadweep",
+        "desc": "Natural hot spring in Lakshadweep",
+        "rating": "4.4",
+        "lat": 9.636700000000001,
+        "lng": 71.7117
+      },
+      {
+        "name": "Detox Retreat Lakshadweep",
+        "desc": "Detox and wellness retreat in Lakshadweep",
+        "rating": "4.3",
+        "lat": 9.626700000000001,
+        "lng": 71.7017
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Kavaratti",
+        "desc": "Main airport of Lakshadweep in Kavaratti",
+        "rating": "4.0",
+        "lat": 11.5667,
+        "lng": 73.6417
+      },
+      {
+        "name": "Railway Station Kavaratti",
+        "desc": "Main railway junction in Kavaratti",
+        "rating": "3.8",
+        "lat": 11.5767,
+        "lng": 73.6517
+      },
+      {
+        "name": "Bus Terminal Kavaratti",
+        "desc": "State bus terminal in Kavaratti",
+        "rating": "3.7",
+        "lat": 11.5867,
+        "lng": 73.6617
+      },
+      {
+        "name": "Metro Rail Kavaratti",
+        "desc": "Metro rail system in Kavaratti",
+        "rating": "4.2",
+        "lat": 11.5967,
+        "lng": 73.6717
+      },
+      {
+        "name": "Highway Lakshadweep",
+        "desc": "Major national highway through Lakshadweep",
+        "rating": "4.0",
+        "lat": 11.6067,
+        "lng": 73.6817
+      },
+      {
+        "name": "Port Lakshadweep",
+        "desc": "Major sea port of Lakshadweep",
+        "rating": "3.9",
+        "lat": 9.5667,
+        "lng": 71.6417
+      },
+      {
+        "name": "Taxi Stand Kavaratti",
+        "desc": "Main cab and taxi hub in Kavaratti",
+        "rating": "3.8",
+        "lat": 9.556700000000001,
+        "lng": 71.6317
+      },
+      {
+        "name": "Auto Rickshaw Kavaratti",
+        "desc": "Auto rickshaw services across Kavaratti",
+        "rating": "3.6",
+        "lat": 9.546700000000001,
+        "lng": 71.6217
+      },
+      {
+        "name": "Cab Services Kavaratti",
+        "desc": "Ola and Uber cab services in Kavaratti",
+        "rating": "4.0",
+        "lat": 9.536700000000002,
+        "lng": 71.6117
+      },
+      {
+        "name": "Helipad Lakshadweep",
+        "desc": "Helicopter services in Lakshadweep",
+        "rating": "4.0",
+        "lat": 9.526700000000002,
+        "lng": 71.6017
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Lakshadweep",
+        "desc": "Most famous festival of Lakshadweep",
+        "rating": "4.7",
+        "lat": 11.6667,
+        "lng": 73.7417
+      },
+      {
+        "name": "Cooking Class Lakshadweep",
+        "desc": "Learn traditional Lakshadweep cooking techniques",
+        "rating": "4.5",
+        "lat": 11.6767,
+        "lng": 73.7517
+      },
+      {
+        "name": "Village Walk Lakshadweep",
+        "desc": "Authentic village life experience in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.686700000000002,
+        "lng": 73.7617
+      },
+      {
+        "name": "Craft Workshop Lakshadweep",
+        "desc": "Traditional craft making workshop in Lakshadweep",
+        "rating": "4.4",
+        "lat": 11.6967,
+        "lng": 73.7717
+      },
+      {
+        "name": "Sunrise Trek Lakshadweep",
+        "desc": "Early morning sunrise trek in Lakshadweep",
+        "rating": "4.5",
+        "lat": 11.706700000000001,
+        "lng": 73.7817
+      },
+      {
+        "name": "Local Market Tour Kavaratti",
+        "desc": "Guided tour of local markets in Kavaratti",
+        "rating": "4.3",
+        "lat": 9.466700000000001,
+        "lng": 71.5417
+      },
+      {
+        "name": "Folk Performance Lakshadweep",
+        "desc": "Traditional folk art performance of Lakshadweep",
+        "rating": "4.5",
+        "lat": 9.456700000000001,
+        "lng": 71.5317
+      },
+      {
+        "name": "Farm Stay Lakshadweep",
+        "desc": "Authentic farm stay experience in Lakshadweep",
+        "rating": "4.4",
+        "lat": 9.4467,
+        "lng": 71.5217
+      },
+      {
+        "name": "Night Safari Lakshadweep",
+        "desc": "Night wildlife safari in Lakshadweep",
+        "rating": "4.4",
+        "lat": 9.436700000000002,
+        "lng": 71.5117
+      },
+      {
+        "name": "Harvest Festival Lakshadweep",
+        "desc": "Traditional harvest festival of Lakshadweep",
+        "rating": "4.5",
+        "lat": 9.4267,
+        "lng": 71.5017
+      }
+    ]
+  }
+}

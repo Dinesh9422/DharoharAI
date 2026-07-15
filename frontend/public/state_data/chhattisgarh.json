@@ -1,0 +1,870 @@
+{
+  "state": "Chhattisgarh",
+  "capital": "Raipur",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Chitrakote Waterfalls",
+        "desc": "Most famous heritage site in Chhattisgarh",
+        "rating": "4.6",
+        "lat": 21.2787,
+        "lng": 81.8661
+      },
+      {
+        "name": "State Museum Raipur",
+        "desc": "Archaeological museum showcasing Chhattisgarh history",
+        "rating": "4.2",
+        "lat": 21.288700000000002,
+        "lng": 81.87610000000001
+      },
+      {
+        "name": "Old Fort Raipur",
+        "desc": "Historic fort from medieval era in Raipur",
+        "rating": "4.3",
+        "lat": 21.2987,
+        "lng": 81.8861
+      },
+      {
+        "name": "Ancient Temple Chhattisgarh",
+        "desc": "Famous ancient temple showcasing Chhattisgarh architecture",
+        "rating": "4.4",
+        "lat": 21.3087,
+        "lng": 81.8961
+      },
+      {
+        "name": "Colonial Building Raipur",
+        "desc": "Historic colonial era building in Raipur",
+        "rating": "4.1",
+        "lat": 21.3187,
+        "lng": 81.90610000000001
+      },
+      {
+        "name": "Palace Chhattisgarh",
+        "desc": "Royal palace of former rulers of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.2687,
+        "lng": 81.8561
+      },
+      {
+        "name": "Rock Cut Caves Chhattisgarh",
+        "desc": "Ancient rock cut monuments in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 21.2587,
+        "lng": 81.8461
+      },
+      {
+        "name": "Heritage Walk Raipur",
+        "desc": "Guided walk through old quarter of Raipur",
+        "rating": "4.3",
+        "lat": 21.2487,
+        "lng": 81.8361
+      },
+      {
+        "name": "Memorial Museum Raipur",
+        "desc": "Memorial to freedom fighters of Chhattisgarh",
+        "rating": "4.1",
+        "lat": 21.2387,
+        "lng": 81.8261
+      },
+      {
+        "name": "Ruins Site Chhattisgarh",
+        "desc": "Ancient ruins and archaeological findings in Chhattisgarh",
+        "rating": "4.2",
+        "lat": 21.2287,
+        "lng": 81.8161
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Raipur",
+        "desc": "Authentic Chhattisgarh thali with local specialties",
+        "rating": "4.5",
+        "lat": 21.378700000000002,
+        "lng": 81.9661
+      },
+      {
+        "name": "Street Food Market Raipur",
+        "desc": "Famous street food market in Raipur",
+        "rating": "4.4",
+        "lat": 21.3887,
+        "lng": 81.9761
+      },
+      {
+        "name": "Local Sweet Shop Chhattisgarh",
+        "desc": "Famous traditional sweets unique to Chhattisgarh",
+        "rating": "4.5",
+        "lat": 21.3987,
+        "lng": 81.98610000000001
+      },
+      {
+        "name": "Tribal Cuisine Chhattisgarh",
+        "desc": "Authentic tribal food of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.4087,
+        "lng": 81.9961
+      },
+      {
+        "name": "Dhaba Chhattisgarh",
+        "desc": "Famous highway dhaba with Chhattisgarh specialties",
+        "rating": "4.3",
+        "lat": 21.4187,
+        "lng": 82.0061
+      },
+      {
+        "name": "Vegetarian Restaurant Raipur",
+        "desc": "Best pure vegetarian food in Raipur",
+        "rating": "4.3",
+        "lat": 21.1787,
+        "lng": 81.76610000000001
+      },
+      {
+        "name": "Biryani House Raipur",
+        "desc": "Best biryani and rice dishes in Raipur",
+        "rating": "4.4",
+        "lat": 21.1687,
+        "lng": 81.7561
+      },
+      {
+        "name": "Bakery Cafe Raipur",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 21.1587,
+        "lng": 81.7461
+      },
+      {
+        "name": "Royal Kitchen Chhattisgarh",
+        "desc": "Restaurant serving royal recipes of Chhattisgarh",
+        "rating": "4.5",
+        "lat": 21.1487,
+        "lng": 81.73610000000001
+      },
+      {
+        "name": "Fish Curry House Chhattisgarh",
+        "desc": "Traditional Chhattisgarh style fish preparation",
+        "rating": "4.4",
+        "lat": 21.1387,
+        "lng": 81.7261
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Raipur",
+        "desc": "Luxury 5-star Taj hotel in Raipur",
+        "rating": "4.7",
+        "lat": 21.4787,
+        "lng": 82.0661
+      },
+      {
+        "name": "Oberoi Resort Chhattisgarh",
+        "desc": "Luxury resort in scenic location in Chhattisgarh",
+        "rating": "4.8",
+        "lat": 21.4887,
+        "lng": 82.0761
+      },
+      {
+        "name": "Heritage Hotel Raipur",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 21.4987,
+        "lng": 82.0861
+      },
+      {
+        "name": "ITC Hotel Raipur",
+        "desc": "ITC luxury hotel in Raipur",
+        "rating": "4.6",
+        "lat": 21.5087,
+        "lng": 82.0961
+      },
+      {
+        "name": "Eco Resort Chhattisgarh",
+        "desc": "Eco-friendly resort in nature of Chhattisgarh",
+        "rating": "4.5",
+        "lat": 21.5187,
+        "lng": 82.1061
+      },
+      {
+        "name": "Boutique Hotel Raipur",
+        "desc": "Charming boutique hotel in old quarter of Raipur",
+        "rating": "4.4",
+        "lat": 21.0787,
+        "lng": 81.6661
+      },
+      {
+        "name": "Marriott Raipur",
+        "desc": "International 5-star Marriott hotel in Raipur",
+        "rating": "4.6",
+        "lat": 21.0687,
+        "lng": 81.65610000000001
+      },
+      {
+        "name": "Forest Lodge Chhattisgarh",
+        "desc": "Wildlife lodge near forest of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.0587,
+        "lng": 81.6461
+      },
+      {
+        "name": "Homestay Chhattisgarh",
+        "desc": "Authentic homestay with local family in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 21.0487,
+        "lng": 81.6361
+      },
+      {
+        "name": "Budget Hotel Raipur",
+        "desc": "Clean comfortable budget stay in Raipur",
+        "rating": "4.0",
+        "lat": 21.038700000000002,
+        "lng": 81.62610000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Chhattisgarh",
+        "desc": "Best panoramic viewpoint in Chhattisgarh",
+        "rating": "4.5",
+        "lat": 21.5787,
+        "lng": 82.1661
+      },
+      {
+        "name": "Waterfall Chhattisgarh",
+        "desc": "Most beautiful waterfall in Chhattisgarh",
+        "rating": "4.5",
+        "lat": 21.5887,
+        "lng": 82.1761
+      },
+      {
+        "name": "Lake Chhattisgarh",
+        "desc": "Scenic lake in Chhattisgarh with boating",
+        "rating": "4.3",
+        "lat": 21.5987,
+        "lng": 82.1861
+      },
+      {
+        "name": "Hill Station Chhattisgarh",
+        "desc": "Popular hill station in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.6087,
+        "lng": 82.1961
+      },
+      {
+        "name": "National Park Chhattisgarh",
+        "desc": "Wildlife national park in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.6187,
+        "lng": 82.2061
+      },
+      {
+        "name": "Beach Chhattisgarh",
+        "desc": "Beautiful beach in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.9787,
+        "lng": 81.5661
+      },
+      {
+        "name": "Cave System Chhattisgarh",
+        "desc": "Natural cave system in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.968700000000002,
+        "lng": 81.5561
+      },
+      {
+        "name": "Dam Chhattisgarh",
+        "desc": "Scenic dam and reservoir in Chhattisgarh",
+        "rating": "4.2",
+        "lat": 20.9587,
+        "lng": 81.54610000000001
+      },
+      {
+        "name": "Botanical Garden Raipur",
+        "desc": "Botanical garden with rare plants in Raipur",
+        "rating": "4.2",
+        "lat": 20.948700000000002,
+        "lng": 81.5361
+      },
+      {
+        "name": "Zoo Raipur",
+        "desc": "State zoo in Raipur with variety of animals",
+        "rating": "4.1",
+        "lat": 20.9387,
+        "lng": 81.5261
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Raipur",
+        "desc": "Bustling main market of Raipur",
+        "rating": "4.3",
+        "lat": 21.6787,
+        "lng": 82.26610000000001
+      },
+      {
+        "name": "Handicraft Market Chhattisgarh",
+        "desc": "Traditional handicrafts of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.6887,
+        "lng": 82.2761
+      },
+      {
+        "name": "Silk Market Chhattisgarh",
+        "desc": "Famous silk and textile market of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.698700000000002,
+        "lng": 82.2861
+      },
+      {
+        "name": "Tribal Art Market Chhattisgarh",
+        "desc": "Traditional tribal art and crafts of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.7087,
+        "lng": 82.29610000000001
+      },
+      {
+        "name": "Spice Market Chhattisgarh",
+        "desc": "Aromatic spice market unique to Chhattisgarh",
+        "rating": "4.3",
+        "lat": 21.718700000000002,
+        "lng": 82.3061
+      },
+      {
+        "name": "Mall Raipur",
+        "desc": "Modern shopping mall in Raipur",
+        "rating": "4.2",
+        "lat": 20.878700000000002,
+        "lng": 81.4661
+      },
+      {
+        "name": "Gem Market Chhattisgarh",
+        "desc": "Precious and semi-precious stones of Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.8687,
+        "lng": 81.4561
+      },
+      {
+        "name": "Bamboo Craft Chhattisgarh",
+        "desc": "Traditional bamboo craft market of Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.8587,
+        "lng": 81.4461
+      },
+      {
+        "name": "Pottery Village Chhattisgarh",
+        "desc": "Traditional pottery making village in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.8487,
+        "lng": 81.4361
+      },
+      {
+        "name": "Night Market Raipur",
+        "desc": "Evening market in Raipur with local goods",
+        "rating": "4.2",
+        "lat": 20.8387,
+        "lng": 81.4261
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Chhattisgarh",
+        "desc": "Tiger and wildlife reserve in Chhattisgarh",
+        "rating": "4.5",
+        "lat": 21.7787,
+        "lng": 82.3661
+      },
+      {
+        "name": "Bird Sanctuary Chhattisgarh",
+        "desc": "Migratory bird sanctuary in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.788700000000002,
+        "lng": 82.37610000000001
+      },
+      {
+        "name": "Forest Reserve Chhattisgarh",
+        "desc": "Dense forest reserve of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.7987,
+        "lng": 82.3861
+      },
+      {
+        "name": "River Valley Chhattisgarh",
+        "desc": "Scenic river valley in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 21.8087,
+        "lng": 82.3961
+      },
+      {
+        "name": "Mountain Peak Chhattisgarh",
+        "desc": "Highest mountain peak in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.8187,
+        "lng": 82.40610000000001
+      },
+      {
+        "name": "Wetland Chhattisgarh",
+        "desc": "Important wetland ecosystem in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.7787,
+        "lng": 81.3661
+      },
+      {
+        "name": "Tea Garden Chhattisgarh",
+        "desc": "Scenic tea or coffee plantation in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 20.7687,
+        "lng": 81.3561
+      },
+      {
+        "name": "Organic Farm Chhattisgarh",
+        "desc": "Organic farming experience in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.7587,
+        "lng": 81.3461
+      },
+      {
+        "name": "Sunrise Point Chhattisgarh",
+        "desc": "Most spectacular sunrise point in Chhattisgarh",
+        "rating": "4.5",
+        "lat": 20.7487,
+        "lng": 81.3361
+      },
+      {
+        "name": "Eco Park Raipur",
+        "desc": "Ecology park in Raipur with rare plants",
+        "rating": "4.1",
+        "lat": 20.7387,
+        "lng": 81.3261
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Chhattisgarh",
+        "desc": "Most famous temple in Chhattisgarh",
+        "rating": "4.6",
+        "lat": 21.878700000000002,
+        "lng": 82.4661
+      },
+      {
+        "name": "Mosque Raipur",
+        "desc": "Historic mosque in Raipur",
+        "rating": "4.3",
+        "lat": 21.8887,
+        "lng": 82.4761
+      },
+      {
+        "name": "Church Raipur",
+        "desc": "Historic church in Raipur",
+        "rating": "4.3",
+        "lat": 21.8987,
+        "lng": 82.48610000000001
+      },
+      {
+        "name": "Gurudwara Chhattisgarh",
+        "desc": "Important Sikh shrine in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.9087,
+        "lng": 82.4961
+      },
+      {
+        "name": "Buddhist Monastery Chhattisgarh",
+        "desc": "Ancient Buddhist monastery in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 21.9187,
+        "lng": 82.5061
+      },
+      {
+        "name": "Jain Temple Chhattisgarh",
+        "desc": "Famous Jain temple in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 20.6787,
+        "lng": 81.26610000000001
+      },
+      {
+        "name": "Dargah Chhattisgarh",
+        "desc": "Famous Sufi dargah in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.6687,
+        "lng": 81.2561
+      },
+      {
+        "name": "Ashram Chhattisgarh",
+        "desc": "Spiritual ashram in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 20.6587,
+        "lng": 81.2461
+      },
+      {
+        "name": "Pilgrimage Site Chhattisgarh",
+        "desc": "Important pilgrimage destination in Chhattisgarh",
+        "rating": "4.5",
+        "lat": 20.6487,
+        "lng": 81.23610000000001
+      },
+      {
+        "name": "Sacred River Ghat Chhattisgarh",
+        "desc": "Sacred river ghat for rituals in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.6387,
+        "lng": 81.2261
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Chhattisgarh",
+        "desc": "Traditional folk dance performance of Chhattisgarh",
+        "rating": "4.5",
+        "lat": 21.9787,
+        "lng": 82.5661
+      },
+      {
+        "name": "Art Gallery Raipur",
+        "desc": "State art gallery in Raipur",
+        "rating": "4.2",
+        "lat": 21.9887,
+        "lng": 82.5761
+      },
+      {
+        "name": "Cultural Center Raipur",
+        "desc": "Cultural center for arts in Raipur",
+        "rating": "4.3",
+        "lat": 21.9987,
+        "lng": 82.5861
+      },
+      {
+        "name": "Music Festival Chhattisgarh",
+        "desc": "Annual music festival of Chhattisgarh",
+        "rating": "4.5",
+        "lat": 22.0087,
+        "lng": 82.5961
+      },
+      {
+        "name": "Tribal Museum Chhattisgarh",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 22.0187,
+        "lng": 82.6061
+      },
+      {
+        "name": "Craft Village Chhattisgarh",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 20.5787,
+        "lng": 81.1661
+      },
+      {
+        "name": "Classical Dance Academy Raipur",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 20.5687,
+        "lng": 81.15610000000001
+      },
+      {
+        "name": "Puppet Theatre Chhattisgarh",
+        "desc": "Traditional puppet theatre of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 20.5587,
+        "lng": 81.1461
+      },
+      {
+        "name": "Weaving Center Chhattisgarh",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 20.5487,
+        "lng": 81.1361
+      },
+      {
+        "name": "Open Air Theatre Raipur",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 20.538700000000002,
+        "lng": 81.12610000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Chhattisgarh",
+        "desc": "Best trekking trails in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 22.0787,
+        "lng": 82.6661
+      },
+      {
+        "name": "Rock Climbing Chhattisgarh",
+        "desc": "Rock climbing spots in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 22.0887,
+        "lng": 82.6761
+      },
+      {
+        "name": "River Rafting Chhattisgarh",
+        "desc": "White water rafting in rivers of Chhattisgarh",
+        "rating": "4.5",
+        "lat": 22.0987,
+        "lng": 82.6861
+      },
+      {
+        "name": "Paragliding Chhattisgarh",
+        "desc": "Paragliding spots in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 22.1087,
+        "lng": 82.6961
+      },
+      {
+        "name": "Camping Chhattisgarh",
+        "desc": "Camping spots in forests of Chhattisgarh",
+        "rating": "4.4",
+        "lat": 22.1187,
+        "lng": 82.7061
+      },
+      {
+        "name": "Zip Line Chhattisgarh",
+        "desc": "Zip lining adventure in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.4787,
+        "lng": 81.0661
+      },
+      {
+        "name": "Jungle Safari Chhattisgarh",
+        "desc": "Jeep jungle safari in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 20.468700000000002,
+        "lng": 81.0561
+      },
+      {
+        "name": "Cycling Tour Chhattisgarh",
+        "desc": "Scenic cycling routes in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.4587,
+        "lng": 81.04610000000001
+      },
+      {
+        "name": "Water Sports Chhattisgarh",
+        "desc": "Water sports activities in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.448700000000002,
+        "lng": 81.0361
+      },
+      {
+        "name": "Bungee Jumping Chhattisgarh",
+        "desc": "Bungee jumping experience in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.4387,
+        "lng": 81.0261
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Chhattisgarh",
+        "desc": "Traditional Ayurvedic treatments in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 22.1787,
+        "lng": 82.76610000000001
+      },
+      {
+        "name": "Yoga Retreat Chhattisgarh",
+        "desc": "Yoga and meditation retreat in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 22.1887,
+        "lng": 82.7761
+      },
+      {
+        "name": "Spa Resort Chhattisgarh",
+        "desc": "Luxury spa resort in Chhattisgarh",
+        "rating": "4.5",
+        "lat": 22.198700000000002,
+        "lng": 82.7861
+      },
+      {
+        "name": "Naturopathy Center Chhattisgarh",
+        "desc": "Natural healing center in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 22.2087,
+        "lng": 82.79610000000001
+      },
+      {
+        "name": "Meditation Ashram Chhattisgarh",
+        "desc": "Peaceful meditation ashram in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 22.218700000000002,
+        "lng": 82.8061
+      },
+      {
+        "name": "Wellness Resort Raipur",
+        "desc": "Luxury wellness resort in Raipur",
+        "rating": "4.4",
+        "lat": 20.378700000000002,
+        "lng": 80.9661
+      },
+      {
+        "name": "Herbal Garden Chhattisgarh",
+        "desc": "Medicinal herb garden in Chhattisgarh",
+        "rating": "4.2",
+        "lat": 20.3687,
+        "lng": 80.9561
+      },
+      {
+        "name": "Forest Bathing Chhattisgarh",
+        "desc": "Therapeutic forest walks in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.3587,
+        "lng": 80.9461
+      },
+      {
+        "name": "Hot Spring Chhattisgarh",
+        "desc": "Natural hot spring in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 20.3487,
+        "lng": 80.9361
+      },
+      {
+        "name": "Detox Retreat Chhattisgarh",
+        "desc": "Detox and wellness retreat in Chhattisgarh",
+        "rating": "4.3",
+        "lat": 20.3387,
+        "lng": 80.9261
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Raipur",
+        "desc": "Main airport of Chhattisgarh in Raipur",
+        "rating": "4.0",
+        "lat": 22.2787,
+        "lng": 82.8661
+      },
+      {
+        "name": "Railway Station Raipur",
+        "desc": "Main railway junction in Raipur",
+        "rating": "3.8",
+        "lat": 22.288700000000002,
+        "lng": 82.87610000000001
+      },
+      {
+        "name": "Bus Terminal Raipur",
+        "desc": "State bus terminal in Raipur",
+        "rating": "3.7",
+        "lat": 22.2987,
+        "lng": 82.8861
+      },
+      {
+        "name": "Metro Rail Raipur",
+        "desc": "Metro rail system in Raipur",
+        "rating": "4.2",
+        "lat": 22.3087,
+        "lng": 82.8961
+      },
+      {
+        "name": "Highway Chhattisgarh",
+        "desc": "Major national highway through Chhattisgarh",
+        "rating": "4.0",
+        "lat": 22.3187,
+        "lng": 82.90610000000001
+      },
+      {
+        "name": "Port Chhattisgarh",
+        "desc": "Major sea port of Chhattisgarh",
+        "rating": "3.9",
+        "lat": 20.2787,
+        "lng": 80.8661
+      },
+      {
+        "name": "Taxi Stand Raipur",
+        "desc": "Main cab and taxi hub in Raipur",
+        "rating": "3.8",
+        "lat": 20.2687,
+        "lng": 80.8561
+      },
+      {
+        "name": "Auto Rickshaw Raipur",
+        "desc": "Auto rickshaw services across Raipur",
+        "rating": "3.6",
+        "lat": 20.2587,
+        "lng": 80.8461
+      },
+      {
+        "name": "Cab Services Raipur",
+        "desc": "Ola and Uber cab services in Raipur",
+        "rating": "4.0",
+        "lat": 20.2487,
+        "lng": 80.8361
+      },
+      {
+        "name": "Helipad Chhattisgarh",
+        "desc": "Helicopter services in Chhattisgarh",
+        "rating": "4.0",
+        "lat": 20.2387,
+        "lng": 80.8261
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Chhattisgarh",
+        "desc": "Most famous festival of Chhattisgarh",
+        "rating": "4.7",
+        "lat": 22.378700000000002,
+        "lng": 82.9661
+      },
+      {
+        "name": "Cooking Class Chhattisgarh",
+        "desc": "Learn traditional Chhattisgarh cooking techniques",
+        "rating": "4.5",
+        "lat": 22.3887,
+        "lng": 82.9761
+      },
+      {
+        "name": "Village Walk Chhattisgarh",
+        "desc": "Authentic village life experience in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 22.3987,
+        "lng": 82.98610000000001
+      },
+      {
+        "name": "Craft Workshop Chhattisgarh",
+        "desc": "Traditional craft making workshop in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 22.4087,
+        "lng": 82.9961
+      },
+      {
+        "name": "Sunrise Trek Chhattisgarh",
+        "desc": "Early morning sunrise trek in Chhattisgarh",
+        "rating": "4.5",
+        "lat": 22.4187,
+        "lng": 83.0061
+      },
+      {
+        "name": "Local Market Tour Raipur",
+        "desc": "Guided tour of local markets in Raipur",
+        "rating": "4.3",
+        "lat": 20.1787,
+        "lng": 80.76610000000001
+      },
+      {
+        "name": "Folk Performance Chhattisgarh",
+        "desc": "Traditional folk art performance of Chhattisgarh",
+        "rating": "4.5",
+        "lat": 20.1687,
+        "lng": 80.7561
+      },
+      {
+        "name": "Farm Stay Chhattisgarh",
+        "desc": "Authentic farm stay experience in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 20.1587,
+        "lng": 80.7461
+      },
+      {
+        "name": "Night Safari Chhattisgarh",
+        "desc": "Night wildlife safari in Chhattisgarh",
+        "rating": "4.4",
+        "lat": 20.1487,
+        "lng": 80.73610000000001
+      },
+      {
+        "name": "Harvest Festival Chhattisgarh",
+        "desc": "Traditional harvest festival of Chhattisgarh",
+        "rating": "4.5",
+        "lat": 20.1387,
+        "lng": 80.7261
+      }
+    ]
+  }
+}

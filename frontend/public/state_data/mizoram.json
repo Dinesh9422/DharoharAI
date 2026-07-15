@@ -1,0 +1,870 @@
+{
+  "state": "Mizoram",
+  "capital": "Aizawl",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Vantawng Falls",
+        "desc": "Most famous heritage site in Mizoram",
+        "rating": "4.6",
+        "lat": 23.1645,
+        "lng": 92.9376
+      },
+      {
+        "name": "State Museum Aizawl",
+        "desc": "Archaeological museum showcasing Mizoram history",
+        "rating": "4.2",
+        "lat": 23.174500000000002,
+        "lng": 92.94760000000001
+      },
+      {
+        "name": "Old Fort Aizawl",
+        "desc": "Historic fort from medieval era in Aizawl",
+        "rating": "4.3",
+        "lat": 23.1845,
+        "lng": 92.9576
+      },
+      {
+        "name": "Ancient Temple Mizoram",
+        "desc": "Famous ancient temple showcasing Mizoram architecture",
+        "rating": "4.4",
+        "lat": 23.1945,
+        "lng": 92.9676
+      },
+      {
+        "name": "Colonial Building Aizawl",
+        "desc": "Historic colonial era building in Aizawl",
+        "rating": "4.1",
+        "lat": 23.2045,
+        "lng": 92.97760000000001
+      },
+      {
+        "name": "Palace Mizoram",
+        "desc": "Royal palace of former rulers of Mizoram",
+        "rating": "4.4",
+        "lat": 23.1545,
+        "lng": 92.9276
+      },
+      {
+        "name": "Rock Cut Caves Mizoram",
+        "desc": "Ancient rock cut monuments in Mizoram",
+        "rating": "4.3",
+        "lat": 23.1445,
+        "lng": 92.91760000000001
+      },
+      {
+        "name": "Heritage Walk Aizawl",
+        "desc": "Guided walk through old quarter of Aizawl",
+        "rating": "4.3",
+        "lat": 23.1345,
+        "lng": 92.9076
+      },
+      {
+        "name": "Memorial Museum Aizawl",
+        "desc": "Memorial to freedom fighters of Mizoram",
+        "rating": "4.1",
+        "lat": 23.1245,
+        "lng": 92.8976
+      },
+      {
+        "name": "Ruins Site Mizoram",
+        "desc": "Ancient ruins and archaeological findings in Mizoram",
+        "rating": "4.2",
+        "lat": 23.1145,
+        "lng": 92.8876
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Aizawl",
+        "desc": "Authentic Mizoram thali with local specialties",
+        "rating": "4.5",
+        "lat": 23.2645,
+        "lng": 93.0376
+      },
+      {
+        "name": "Street Food Market Aizawl",
+        "desc": "Famous street food market in Aizawl",
+        "rating": "4.4",
+        "lat": 23.2745,
+        "lng": 93.0476
+      },
+      {
+        "name": "Local Sweet Shop Mizoram",
+        "desc": "Famous traditional sweets unique to Mizoram",
+        "rating": "4.5",
+        "lat": 23.2845,
+        "lng": 93.05760000000001
+      },
+      {
+        "name": "Tribal Cuisine Mizoram",
+        "desc": "Authentic tribal food of Mizoram",
+        "rating": "4.4",
+        "lat": 23.2945,
+        "lng": 93.0676
+      },
+      {
+        "name": "Dhaba Mizoram",
+        "desc": "Famous highway dhaba with Mizoram specialties",
+        "rating": "4.3",
+        "lat": 23.3045,
+        "lng": 93.0776
+      },
+      {
+        "name": "Vegetarian Restaurant Aizawl",
+        "desc": "Best pure vegetarian food in Aizawl",
+        "rating": "4.3",
+        "lat": 23.0645,
+        "lng": 92.83760000000001
+      },
+      {
+        "name": "Biryani House Aizawl",
+        "desc": "Best biryani and rice dishes in Aizawl",
+        "rating": "4.4",
+        "lat": 23.0545,
+        "lng": 92.8276
+      },
+      {
+        "name": "Bakery Cafe Aizawl",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 23.0445,
+        "lng": 92.8176
+      },
+      {
+        "name": "Royal Kitchen Mizoram",
+        "desc": "Restaurant serving royal recipes of Mizoram",
+        "rating": "4.5",
+        "lat": 23.0345,
+        "lng": 92.80760000000001
+      },
+      {
+        "name": "Fish Curry House Mizoram",
+        "desc": "Traditional Mizoram style fish preparation",
+        "rating": "4.4",
+        "lat": 23.0245,
+        "lng": 92.7976
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Aizawl",
+        "desc": "Luxury 5-star Taj hotel in Aizawl",
+        "rating": "4.7",
+        "lat": 23.3645,
+        "lng": 93.1376
+      },
+      {
+        "name": "Oberoi Resort Mizoram",
+        "desc": "Luxury resort in scenic location in Mizoram",
+        "rating": "4.8",
+        "lat": 23.3745,
+        "lng": 93.1476
+      },
+      {
+        "name": "Heritage Hotel Aizawl",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 23.3845,
+        "lng": 93.1576
+      },
+      {
+        "name": "ITC Hotel Aizawl",
+        "desc": "ITC luxury hotel in Aizawl",
+        "rating": "4.6",
+        "lat": 23.3945,
+        "lng": 93.16760000000001
+      },
+      {
+        "name": "Eco Resort Mizoram",
+        "desc": "Eco-friendly resort in nature of Mizoram",
+        "rating": "4.5",
+        "lat": 23.4045,
+        "lng": 93.1776
+      },
+      {
+        "name": "Boutique Hotel Aizawl",
+        "desc": "Charming boutique hotel in old quarter of Aizawl",
+        "rating": "4.4",
+        "lat": 22.9645,
+        "lng": 92.7376
+      },
+      {
+        "name": "Marriott Aizawl",
+        "desc": "International 5-star Marriott hotel in Aizawl",
+        "rating": "4.6",
+        "lat": 22.9545,
+        "lng": 92.72760000000001
+      },
+      {
+        "name": "Forest Lodge Mizoram",
+        "desc": "Wildlife lodge near forest of Mizoram",
+        "rating": "4.4",
+        "lat": 22.9445,
+        "lng": 92.7176
+      },
+      {
+        "name": "Homestay Mizoram",
+        "desc": "Authentic homestay with local family in Mizoram",
+        "rating": "4.3",
+        "lat": 22.9345,
+        "lng": 92.7076
+      },
+      {
+        "name": "Budget Hotel Aizawl",
+        "desc": "Clean comfortable budget stay in Aizawl",
+        "rating": "4.0",
+        "lat": 22.924500000000002,
+        "lng": 92.69760000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Mizoram",
+        "desc": "Best panoramic viewpoint in Mizoram",
+        "rating": "4.5",
+        "lat": 23.4645,
+        "lng": 93.2376
+      },
+      {
+        "name": "Waterfall Mizoram",
+        "desc": "Most beautiful waterfall in Mizoram",
+        "rating": "4.5",
+        "lat": 23.4745,
+        "lng": 93.2476
+      },
+      {
+        "name": "Lake Mizoram",
+        "desc": "Scenic lake in Mizoram with boating",
+        "rating": "4.3",
+        "lat": 23.4845,
+        "lng": 93.2576
+      },
+      {
+        "name": "Hill Station Mizoram",
+        "desc": "Popular hill station in Mizoram",
+        "rating": "4.4",
+        "lat": 23.4945,
+        "lng": 93.2676
+      },
+      {
+        "name": "National Park Mizoram",
+        "desc": "Wildlife national park in Mizoram",
+        "rating": "4.4",
+        "lat": 23.5045,
+        "lng": 93.2776
+      },
+      {
+        "name": "Beach Mizoram",
+        "desc": "Beautiful beach in Mizoram",
+        "rating": "4.3",
+        "lat": 22.8645,
+        "lng": 92.6376
+      },
+      {
+        "name": "Cave System Mizoram",
+        "desc": "Natural cave system in Mizoram",
+        "rating": "4.3",
+        "lat": 22.8545,
+        "lng": 92.6276
+      },
+      {
+        "name": "Dam Mizoram",
+        "desc": "Scenic dam and reservoir in Mizoram",
+        "rating": "4.2",
+        "lat": 22.8445,
+        "lng": 92.61760000000001
+      },
+      {
+        "name": "Botanical Garden Aizawl",
+        "desc": "Botanical garden with rare plants in Aizawl",
+        "rating": "4.2",
+        "lat": 22.834500000000002,
+        "lng": 92.6076
+      },
+      {
+        "name": "Zoo Aizawl",
+        "desc": "State zoo in Aizawl with variety of animals",
+        "rating": "4.1",
+        "lat": 22.8245,
+        "lng": 92.5976
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Aizawl",
+        "desc": "Bustling main market of Aizawl",
+        "rating": "4.3",
+        "lat": 23.5645,
+        "lng": 93.33760000000001
+      },
+      {
+        "name": "Handicraft Market Mizoram",
+        "desc": "Traditional handicrafts of Mizoram",
+        "rating": "4.4",
+        "lat": 23.5745,
+        "lng": 93.3476
+      },
+      {
+        "name": "Silk Market Mizoram",
+        "desc": "Famous silk and textile market of Mizoram",
+        "rating": "4.4",
+        "lat": 23.584500000000002,
+        "lng": 93.3576
+      },
+      {
+        "name": "Tribal Art Market Mizoram",
+        "desc": "Traditional tribal art and crafts of Mizoram",
+        "rating": "4.4",
+        "lat": 23.5945,
+        "lng": 93.36760000000001
+      },
+      {
+        "name": "Spice Market Mizoram",
+        "desc": "Aromatic spice market unique to Mizoram",
+        "rating": "4.3",
+        "lat": 23.6045,
+        "lng": 93.3776
+      },
+      {
+        "name": "Mall Aizawl",
+        "desc": "Modern shopping mall in Aizawl",
+        "rating": "4.2",
+        "lat": 22.7645,
+        "lng": 92.5376
+      },
+      {
+        "name": "Gem Market Mizoram",
+        "desc": "Precious and semi-precious stones of Mizoram",
+        "rating": "4.3",
+        "lat": 22.7545,
+        "lng": 92.5276
+      },
+      {
+        "name": "Bamboo Craft Mizoram",
+        "desc": "Traditional bamboo craft market of Mizoram",
+        "rating": "4.3",
+        "lat": 22.7445,
+        "lng": 92.5176
+      },
+      {
+        "name": "Pottery Village Mizoram",
+        "desc": "Traditional pottery making village in Mizoram",
+        "rating": "4.3",
+        "lat": 22.7345,
+        "lng": 92.5076
+      },
+      {
+        "name": "Night Market Aizawl",
+        "desc": "Evening market in Aizawl with local goods",
+        "rating": "4.2",
+        "lat": 22.7245,
+        "lng": 92.4976
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Mizoram",
+        "desc": "Tiger and wildlife reserve in Mizoram",
+        "rating": "4.5",
+        "lat": 23.6645,
+        "lng": 93.4376
+      },
+      {
+        "name": "Bird Sanctuary Mizoram",
+        "desc": "Migratory bird sanctuary in Mizoram",
+        "rating": "4.4",
+        "lat": 23.674500000000002,
+        "lng": 93.44760000000001
+      },
+      {
+        "name": "Forest Reserve Mizoram",
+        "desc": "Dense forest reserve of Mizoram",
+        "rating": "4.4",
+        "lat": 23.6845,
+        "lng": 93.4576
+      },
+      {
+        "name": "River Valley Mizoram",
+        "desc": "Scenic river valley in Mizoram",
+        "rating": "4.3",
+        "lat": 23.6945,
+        "lng": 93.4676
+      },
+      {
+        "name": "Mountain Peak Mizoram",
+        "desc": "Highest mountain peak in Mizoram",
+        "rating": "4.4",
+        "lat": 23.7045,
+        "lng": 93.47760000000001
+      },
+      {
+        "name": "Wetland Mizoram",
+        "desc": "Important wetland ecosystem in Mizoram",
+        "rating": "4.3",
+        "lat": 22.6645,
+        "lng": 92.4376
+      },
+      {
+        "name": "Tea Garden Mizoram",
+        "desc": "Scenic tea or coffee plantation in Mizoram",
+        "rating": "4.4",
+        "lat": 22.6545,
+        "lng": 92.4276
+      },
+      {
+        "name": "Organic Farm Mizoram",
+        "desc": "Organic farming experience in Mizoram",
+        "rating": "4.3",
+        "lat": 22.6445,
+        "lng": 92.41760000000001
+      },
+      {
+        "name": "Sunrise Point Mizoram",
+        "desc": "Most spectacular sunrise point in Mizoram",
+        "rating": "4.5",
+        "lat": 22.6345,
+        "lng": 92.4076
+      },
+      {
+        "name": "Eco Park Aizawl",
+        "desc": "Ecology park in Aizawl with rare plants",
+        "rating": "4.1",
+        "lat": 22.6245,
+        "lng": 92.3976
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Mizoram",
+        "desc": "Most famous temple in Mizoram",
+        "rating": "4.6",
+        "lat": 23.7645,
+        "lng": 93.5376
+      },
+      {
+        "name": "Mosque Aizawl",
+        "desc": "Historic mosque in Aizawl",
+        "rating": "4.3",
+        "lat": 23.7745,
+        "lng": 93.5476
+      },
+      {
+        "name": "Church Aizawl",
+        "desc": "Historic church in Aizawl",
+        "rating": "4.3",
+        "lat": 23.7845,
+        "lng": 93.55760000000001
+      },
+      {
+        "name": "Gurudwara Mizoram",
+        "desc": "Important Sikh shrine in Mizoram",
+        "rating": "4.4",
+        "lat": 23.7945,
+        "lng": 93.5676
+      },
+      {
+        "name": "Buddhist Monastery Mizoram",
+        "desc": "Ancient Buddhist monastery in Mizoram",
+        "rating": "4.4",
+        "lat": 23.8045,
+        "lng": 93.5776
+      },
+      {
+        "name": "Jain Temple Mizoram",
+        "desc": "Famous Jain temple in Mizoram",
+        "rating": "4.4",
+        "lat": 22.5645,
+        "lng": 92.33760000000001
+      },
+      {
+        "name": "Dargah Mizoram",
+        "desc": "Famous Sufi dargah in Mizoram",
+        "rating": "4.3",
+        "lat": 22.5545,
+        "lng": 92.3276
+      },
+      {
+        "name": "Ashram Mizoram",
+        "desc": "Spiritual ashram in Mizoram",
+        "rating": "4.4",
+        "lat": 22.5445,
+        "lng": 92.3176
+      },
+      {
+        "name": "Pilgrimage Site Mizoram",
+        "desc": "Important pilgrimage destination in Mizoram",
+        "rating": "4.5",
+        "lat": 22.5345,
+        "lng": 92.30760000000001
+      },
+      {
+        "name": "Sacred River Ghat Mizoram",
+        "desc": "Sacred river ghat for rituals in Mizoram",
+        "rating": "4.3",
+        "lat": 22.5245,
+        "lng": 92.2976
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Mizoram",
+        "desc": "Traditional folk dance performance of Mizoram",
+        "rating": "4.5",
+        "lat": 23.8645,
+        "lng": 93.6376
+      },
+      {
+        "name": "Art Gallery Aizawl",
+        "desc": "State art gallery in Aizawl",
+        "rating": "4.2",
+        "lat": 23.8745,
+        "lng": 93.6476
+      },
+      {
+        "name": "Cultural Center Aizawl",
+        "desc": "Cultural center for arts in Aizawl",
+        "rating": "4.3",
+        "lat": 23.8845,
+        "lng": 93.6576
+      },
+      {
+        "name": "Music Festival Mizoram",
+        "desc": "Annual music festival of Mizoram",
+        "rating": "4.5",
+        "lat": 23.8945,
+        "lng": 93.66760000000001
+      },
+      {
+        "name": "Tribal Museum Mizoram",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 23.9045,
+        "lng": 93.6776
+      },
+      {
+        "name": "Craft Village Mizoram",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 22.4645,
+        "lng": 92.2376
+      },
+      {
+        "name": "Classical Dance Academy Aizawl",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 22.4545,
+        "lng": 92.22760000000001
+      },
+      {
+        "name": "Puppet Theatre Mizoram",
+        "desc": "Traditional puppet theatre of Mizoram",
+        "rating": "4.4",
+        "lat": 22.4445,
+        "lng": 92.2176
+      },
+      {
+        "name": "Weaving Center Mizoram",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 22.4345,
+        "lng": 92.2076
+      },
+      {
+        "name": "Open Air Theatre Aizawl",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 22.424500000000002,
+        "lng": 92.19760000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Mizoram",
+        "desc": "Best trekking trails in Mizoram",
+        "rating": "4.4",
+        "lat": 23.9645,
+        "lng": 93.7376
+      },
+      {
+        "name": "Rock Climbing Mizoram",
+        "desc": "Rock climbing spots in Mizoram",
+        "rating": "4.3",
+        "lat": 23.9745,
+        "lng": 93.7476
+      },
+      {
+        "name": "River Rafting Mizoram",
+        "desc": "White water rafting in rivers of Mizoram",
+        "rating": "4.5",
+        "lat": 23.9845,
+        "lng": 93.7576
+      },
+      {
+        "name": "Paragliding Mizoram",
+        "desc": "Paragliding spots in Mizoram",
+        "rating": "4.4",
+        "lat": 23.9945,
+        "lng": 93.7676
+      },
+      {
+        "name": "Camping Mizoram",
+        "desc": "Camping spots in forests of Mizoram",
+        "rating": "4.4",
+        "lat": 24.0045,
+        "lng": 93.7776
+      },
+      {
+        "name": "Zip Line Mizoram",
+        "desc": "Zip lining adventure in Mizoram",
+        "rating": "4.3",
+        "lat": 22.3645,
+        "lng": 92.1376
+      },
+      {
+        "name": "Jungle Safari Mizoram",
+        "desc": "Jeep jungle safari in Mizoram",
+        "rating": "4.4",
+        "lat": 22.3545,
+        "lng": 92.1276
+      },
+      {
+        "name": "Cycling Tour Mizoram",
+        "desc": "Scenic cycling routes in Mizoram",
+        "rating": "4.3",
+        "lat": 22.3445,
+        "lng": 92.11760000000001
+      },
+      {
+        "name": "Water Sports Mizoram",
+        "desc": "Water sports activities in Mizoram",
+        "rating": "4.3",
+        "lat": 22.334500000000002,
+        "lng": 92.1076
+      },
+      {
+        "name": "Bungee Jumping Mizoram",
+        "desc": "Bungee jumping experience in Mizoram",
+        "rating": "4.3",
+        "lat": 22.3245,
+        "lng": 92.0976
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Mizoram",
+        "desc": "Traditional Ayurvedic treatments in Mizoram",
+        "rating": "4.4",
+        "lat": 24.0645,
+        "lng": 93.83760000000001
+      },
+      {
+        "name": "Yoga Retreat Mizoram",
+        "desc": "Yoga and meditation retreat in Mizoram",
+        "rating": "4.4",
+        "lat": 24.0745,
+        "lng": 93.8476
+      },
+      {
+        "name": "Spa Resort Mizoram",
+        "desc": "Luxury spa resort in Mizoram",
+        "rating": "4.5",
+        "lat": 24.084500000000002,
+        "lng": 93.8576
+      },
+      {
+        "name": "Naturopathy Center Mizoram",
+        "desc": "Natural healing center in Mizoram",
+        "rating": "4.3",
+        "lat": 24.0945,
+        "lng": 93.86760000000001
+      },
+      {
+        "name": "Meditation Ashram Mizoram",
+        "desc": "Peaceful meditation ashram in Mizoram",
+        "rating": "4.4",
+        "lat": 24.1045,
+        "lng": 93.8776
+      },
+      {
+        "name": "Wellness Resort Aizawl",
+        "desc": "Luxury wellness resort in Aizawl",
+        "rating": "4.4",
+        "lat": 22.2645,
+        "lng": 92.0376
+      },
+      {
+        "name": "Herbal Garden Mizoram",
+        "desc": "Medicinal herb garden in Mizoram",
+        "rating": "4.2",
+        "lat": 22.2545,
+        "lng": 92.0276
+      },
+      {
+        "name": "Forest Bathing Mizoram",
+        "desc": "Therapeutic forest walks in Mizoram",
+        "rating": "4.3",
+        "lat": 22.2445,
+        "lng": 92.0176
+      },
+      {
+        "name": "Hot Spring Mizoram",
+        "desc": "Natural hot spring in Mizoram",
+        "rating": "4.4",
+        "lat": 22.2345,
+        "lng": 92.0076
+      },
+      {
+        "name": "Detox Retreat Mizoram",
+        "desc": "Detox and wellness retreat in Mizoram",
+        "rating": "4.3",
+        "lat": 22.2245,
+        "lng": 91.9976
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Aizawl",
+        "desc": "Main airport of Mizoram in Aizawl",
+        "rating": "4.0",
+        "lat": 24.1645,
+        "lng": 93.9376
+      },
+      {
+        "name": "Railway Station Aizawl",
+        "desc": "Main railway junction in Aizawl",
+        "rating": "3.8",
+        "lat": 24.174500000000002,
+        "lng": 93.94760000000001
+      },
+      {
+        "name": "Bus Terminal Aizawl",
+        "desc": "State bus terminal in Aizawl",
+        "rating": "3.7",
+        "lat": 24.1845,
+        "lng": 93.9576
+      },
+      {
+        "name": "Metro Rail Aizawl",
+        "desc": "Metro rail system in Aizawl",
+        "rating": "4.2",
+        "lat": 24.1945,
+        "lng": 93.9676
+      },
+      {
+        "name": "Highway Mizoram",
+        "desc": "Major national highway through Mizoram",
+        "rating": "4.0",
+        "lat": 24.2045,
+        "lng": 93.97760000000001
+      },
+      {
+        "name": "Port Mizoram",
+        "desc": "Major sea port of Mizoram",
+        "rating": "3.9",
+        "lat": 22.1645,
+        "lng": 91.9376
+      },
+      {
+        "name": "Taxi Stand Aizawl",
+        "desc": "Main cab and taxi hub in Aizawl",
+        "rating": "3.8",
+        "lat": 22.1545,
+        "lng": 91.9276
+      },
+      {
+        "name": "Auto Rickshaw Aizawl",
+        "desc": "Auto rickshaw services across Aizawl",
+        "rating": "3.6",
+        "lat": 22.1445,
+        "lng": 91.91760000000001
+      },
+      {
+        "name": "Cab Services Aizawl",
+        "desc": "Ola and Uber cab services in Aizawl",
+        "rating": "4.0",
+        "lat": 22.1345,
+        "lng": 91.9076
+      },
+      {
+        "name": "Helipad Mizoram",
+        "desc": "Helicopter services in Mizoram",
+        "rating": "4.0",
+        "lat": 22.1245,
+        "lng": 91.8976
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Mizoram",
+        "desc": "Most famous festival of Mizoram",
+        "rating": "4.7",
+        "lat": 24.2645,
+        "lng": 94.0376
+      },
+      {
+        "name": "Cooking Class Mizoram",
+        "desc": "Learn traditional Mizoram cooking techniques",
+        "rating": "4.5",
+        "lat": 24.2745,
+        "lng": 94.0476
+      },
+      {
+        "name": "Village Walk Mizoram",
+        "desc": "Authentic village life experience in Mizoram",
+        "rating": "4.4",
+        "lat": 24.2845,
+        "lng": 94.05760000000001
+      },
+      {
+        "name": "Craft Workshop Mizoram",
+        "desc": "Traditional craft making workshop in Mizoram",
+        "rating": "4.4",
+        "lat": 24.2945,
+        "lng": 94.0676
+      },
+      {
+        "name": "Sunrise Trek Mizoram",
+        "desc": "Early morning sunrise trek in Mizoram",
+        "rating": "4.5",
+        "lat": 24.3045,
+        "lng": 94.0776
+      },
+      {
+        "name": "Local Market Tour Aizawl",
+        "desc": "Guided tour of local markets in Aizawl",
+        "rating": "4.3",
+        "lat": 22.0645,
+        "lng": 91.83760000000001
+      },
+      {
+        "name": "Folk Performance Mizoram",
+        "desc": "Traditional folk art performance of Mizoram",
+        "rating": "4.5",
+        "lat": 22.0545,
+        "lng": 91.8276
+      },
+      {
+        "name": "Farm Stay Mizoram",
+        "desc": "Authentic farm stay experience in Mizoram",
+        "rating": "4.4",
+        "lat": 22.0445,
+        "lng": 91.8176
+      },
+      {
+        "name": "Night Safari Mizoram",
+        "desc": "Night wildlife safari in Mizoram",
+        "rating": "4.4",
+        "lat": 22.0345,
+        "lng": 91.80760000000001
+      },
+      {
+        "name": "Harvest Festival Mizoram",
+        "desc": "Traditional harvest festival of Mizoram",
+        "rating": "4.5",
+        "lat": 22.0245,
+        "lng": 91.7976
+      }
+    ]
+  }
+}

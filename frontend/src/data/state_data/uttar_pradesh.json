@@ -1,0 +1,870 @@
+{
+  "state": "Uttar Pradesh",
+  "capital": "Lucknow",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Taj Mahal Agra",
+        "desc": "Most famous heritage site in Uttar Pradesh",
+        "rating": "4.6",
+        "lat": 26.8467,
+        "lng": 80.9462
+      },
+      {
+        "name": "State Museum Lucknow",
+        "desc": "Archaeological museum showcasing Uttar Pradesh history",
+        "rating": "4.2",
+        "lat": 26.8567,
+        "lng": 80.95620000000001
+      },
+      {
+        "name": "Old Fort Lucknow",
+        "desc": "Historic fort from medieval era in Lucknow",
+        "rating": "4.3",
+        "lat": 26.866699999999998,
+        "lng": 80.9662
+      },
+      {
+        "name": "Ancient Temple Uttar Pradesh",
+        "desc": "Famous ancient temple showcasing Uttar Pradesh architecture",
+        "rating": "4.4",
+        "lat": 26.8767,
+        "lng": 80.9762
+      },
+      {
+        "name": "Colonial Building Lucknow",
+        "desc": "Historic colonial era building in Lucknow",
+        "rating": "4.1",
+        "lat": 26.886699999999998,
+        "lng": 80.98620000000001
+      },
+      {
+        "name": "Palace Uttar Pradesh",
+        "desc": "Royal palace of former rulers of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 26.836699999999997,
+        "lng": 80.9362
+      },
+      {
+        "name": "Rock Cut Caves Uttar Pradesh",
+        "desc": "Ancient rock cut monuments in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.8267,
+        "lng": 80.92620000000001
+      },
+      {
+        "name": "Heritage Walk Lucknow",
+        "desc": "Guided walk through old quarter of Lucknow",
+        "rating": "4.3",
+        "lat": 26.816699999999997,
+        "lng": 80.9162
+      },
+      {
+        "name": "Memorial Museum Lucknow",
+        "desc": "Memorial to freedom fighters of Uttar Pradesh",
+        "rating": "4.1",
+        "lat": 26.8067,
+        "lng": 80.9062
+      },
+      {
+        "name": "Ruins Site Uttar Pradesh",
+        "desc": "Ancient ruins and archaeological findings in Uttar Pradesh",
+        "rating": "4.2",
+        "lat": 26.796699999999998,
+        "lng": 80.89620000000001
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Lucknow",
+        "desc": "Authentic Uttar Pradesh thali with local specialties",
+        "rating": "4.5",
+        "lat": 26.9467,
+        "lng": 81.0462
+      },
+      {
+        "name": "Street Food Market Lucknow",
+        "desc": "Famous street food market in Lucknow",
+        "rating": "4.4",
+        "lat": 26.956699999999998,
+        "lng": 81.0562
+      },
+      {
+        "name": "Local Sweet Shop Uttar Pradesh",
+        "desc": "Famous traditional sweets unique to Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 26.9667,
+        "lng": 81.06620000000001
+      },
+      {
+        "name": "Tribal Cuisine Uttar Pradesh",
+        "desc": "Authentic tribal food of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 26.976699999999997,
+        "lng": 81.0762
+      },
+      {
+        "name": "Dhaba Uttar Pradesh",
+        "desc": "Famous highway dhaba with Uttar Pradesh specialties",
+        "rating": "4.3",
+        "lat": 26.9867,
+        "lng": 81.0862
+      },
+      {
+        "name": "Vegetarian Restaurant Lucknow",
+        "desc": "Best pure vegetarian food in Lucknow",
+        "rating": "4.3",
+        "lat": 26.746699999999997,
+        "lng": 80.84620000000001
+      },
+      {
+        "name": "Biryani House Lucknow",
+        "desc": "Best biryani and rice dishes in Lucknow",
+        "rating": "4.4",
+        "lat": 26.7367,
+        "lng": 80.8362
+      },
+      {
+        "name": "Bakery Cafe Lucknow",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 26.726699999999997,
+        "lng": 80.8262
+      },
+      {
+        "name": "Royal Kitchen Uttar Pradesh",
+        "desc": "Restaurant serving royal recipes of Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 26.7167,
+        "lng": 80.81620000000001
+      },
+      {
+        "name": "Fish Curry House Uttar Pradesh",
+        "desc": "Traditional Uttar Pradesh style fish preparation",
+        "rating": "4.4",
+        "lat": 26.706699999999998,
+        "lng": 80.8062
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Lucknow",
+        "desc": "Luxury 5-star Taj hotel in Lucknow",
+        "rating": "4.7",
+        "lat": 27.046699999999998,
+        "lng": 81.14620000000001
+      },
+      {
+        "name": "Oberoi Resort Uttar Pradesh",
+        "desc": "Luxury resort in scenic location in Uttar Pradesh",
+        "rating": "4.8",
+        "lat": 27.0567,
+        "lng": 81.1562
+      },
+      {
+        "name": "Heritage Hotel Lucknow",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 27.066699999999997,
+        "lng": 81.1662
+      },
+      {
+        "name": "ITC Hotel Lucknow",
+        "desc": "ITC luxury hotel in Lucknow",
+        "rating": "4.6",
+        "lat": 27.0767,
+        "lng": 81.17620000000001
+      },
+      {
+        "name": "Eco Resort Uttar Pradesh",
+        "desc": "Eco-friendly resort in nature of Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.086699999999997,
+        "lng": 81.1862
+      },
+      {
+        "name": "Boutique Hotel Lucknow",
+        "desc": "Charming boutique hotel in old quarter of Lucknow",
+        "rating": "4.4",
+        "lat": 26.6467,
+        "lng": 80.7462
+      },
+      {
+        "name": "Marriott Lucknow",
+        "desc": "International 5-star Marriott hotel in Lucknow",
+        "rating": "4.6",
+        "lat": 26.636699999999998,
+        "lng": 80.73620000000001
+      },
+      {
+        "name": "Forest Lodge Uttar Pradesh",
+        "desc": "Wildlife lodge near forest of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 26.6267,
+        "lng": 80.7262
+      },
+      {
+        "name": "Homestay Uttar Pradesh",
+        "desc": "Authentic homestay with local family in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.616699999999998,
+        "lng": 80.7162
+      },
+      {
+        "name": "Budget Hotel Lucknow",
+        "desc": "Clean comfortable budget stay in Lucknow",
+        "rating": "4.0",
+        "lat": 26.6067,
+        "lng": 80.70620000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Uttar Pradesh",
+        "desc": "Best panoramic viewpoint in Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.1467,
+        "lng": 81.2462
+      },
+      {
+        "name": "Waterfall Uttar Pradesh",
+        "desc": "Most beautiful waterfall in Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.156699999999997,
+        "lng": 81.2562
+      },
+      {
+        "name": "Lake Uttar Pradesh",
+        "desc": "Scenic lake in Uttar Pradesh with boating",
+        "rating": "4.3",
+        "lat": 27.1667,
+        "lng": 81.2662
+      },
+      {
+        "name": "Hill Station Uttar Pradesh",
+        "desc": "Popular hill station in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.176699999999997,
+        "lng": 81.2762
+      },
+      {
+        "name": "National Park Uttar Pradesh",
+        "desc": "Wildlife national park in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.1867,
+        "lng": 81.28620000000001
+      },
+      {
+        "name": "Beach Uttar Pradesh",
+        "desc": "Beautiful beach in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.546699999999998,
+        "lng": 80.64620000000001
+      },
+      {
+        "name": "Cave System Uttar Pradesh",
+        "desc": "Natural cave system in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.5367,
+        "lng": 80.6362
+      },
+      {
+        "name": "Dam Uttar Pradesh",
+        "desc": "Scenic dam and reservoir in Uttar Pradesh",
+        "rating": "4.2",
+        "lat": 26.526699999999998,
+        "lng": 80.62620000000001
+      },
+      {
+        "name": "Botanical Garden Lucknow",
+        "desc": "Botanical garden with rare plants in Lucknow",
+        "rating": "4.2",
+        "lat": 26.5167,
+        "lng": 80.6162
+      },
+      {
+        "name": "Zoo Lucknow",
+        "desc": "State zoo in Lucknow with variety of animals",
+        "rating": "4.1",
+        "lat": 26.5067,
+        "lng": 80.6062
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Lucknow",
+        "desc": "Bustling main market of Lucknow",
+        "rating": "4.3",
+        "lat": 27.246699999999997,
+        "lng": 81.34620000000001
+      },
+      {
+        "name": "Handicraft Market Uttar Pradesh",
+        "desc": "Traditional handicrafts of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.2567,
+        "lng": 81.3562
+      },
+      {
+        "name": "Silk Market Uttar Pradesh",
+        "desc": "Famous silk and textile market of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.2667,
+        "lng": 81.3662
+      },
+      {
+        "name": "Tribal Art Market Uttar Pradesh",
+        "desc": "Traditional tribal art and crafts of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.276699999999998,
+        "lng": 81.37620000000001
+      },
+      {
+        "name": "Spice Market Uttar Pradesh",
+        "desc": "Aromatic spice market unique to Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 27.2867,
+        "lng": 81.3862
+      },
+      {
+        "name": "Mall Lucknow",
+        "desc": "Modern shopping mall in Lucknow",
+        "rating": "4.2",
+        "lat": 26.4467,
+        "lng": 80.5462
+      },
+      {
+        "name": "Gem Market Uttar Pradesh",
+        "desc": "Precious and semi-precious stones of Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.4367,
+        "lng": 80.53620000000001
+      },
+      {
+        "name": "Bamboo Craft Uttar Pradesh",
+        "desc": "Traditional bamboo craft market of Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.426699999999997,
+        "lng": 80.5262
+      },
+      {
+        "name": "Pottery Village Uttar Pradesh",
+        "desc": "Traditional pottery making village in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.4167,
+        "lng": 80.5162
+      },
+      {
+        "name": "Night Market Lucknow",
+        "desc": "Evening market in Lucknow with local goods",
+        "rating": "4.2",
+        "lat": 26.406699999999997,
+        "lng": 80.5062
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Uttar Pradesh",
+        "desc": "Tiger and wildlife reserve in Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.3467,
+        "lng": 81.4462
+      },
+      {
+        "name": "Bird Sanctuary Uttar Pradesh",
+        "desc": "Migratory bird sanctuary in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.3567,
+        "lng": 81.45620000000001
+      },
+      {
+        "name": "Forest Reserve Uttar Pradesh",
+        "desc": "Dense forest reserve of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.366699999999998,
+        "lng": 81.4662
+      },
+      {
+        "name": "River Valley Uttar Pradesh",
+        "desc": "Scenic river valley in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 27.3767,
+        "lng": 81.4762
+      },
+      {
+        "name": "Mountain Peak Uttar Pradesh",
+        "desc": "Highest mountain peak in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.386699999999998,
+        "lng": 81.48620000000001
+      },
+      {
+        "name": "Wetland Uttar Pradesh",
+        "desc": "Important wetland ecosystem in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.3467,
+        "lng": 80.4462
+      },
+      {
+        "name": "Tea Garden Uttar Pradesh",
+        "desc": "Scenic tea or coffee plantation in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 26.336699999999997,
+        "lng": 80.4362
+      },
+      {
+        "name": "Organic Farm Uttar Pradesh",
+        "desc": "Organic farming experience in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.3267,
+        "lng": 80.42620000000001
+      },
+      {
+        "name": "Sunrise Point Uttar Pradesh",
+        "desc": "Most spectacular sunrise point in Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 26.316699999999997,
+        "lng": 80.4162
+      },
+      {
+        "name": "Eco Park Lucknow",
+        "desc": "Ecology park in Lucknow with rare plants",
+        "rating": "4.1",
+        "lat": 26.3067,
+        "lng": 80.4062
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Uttar Pradesh",
+        "desc": "Most famous temple in Uttar Pradesh",
+        "rating": "4.6",
+        "lat": 27.4467,
+        "lng": 81.5462
+      },
+      {
+        "name": "Mosque Lucknow",
+        "desc": "Historic mosque in Lucknow",
+        "rating": "4.3",
+        "lat": 27.456699999999998,
+        "lng": 81.5562
+      },
+      {
+        "name": "Church Lucknow",
+        "desc": "Historic church in Lucknow",
+        "rating": "4.3",
+        "lat": 27.4667,
+        "lng": 81.56620000000001
+      },
+      {
+        "name": "Gurudwara Uttar Pradesh",
+        "desc": "Important Sikh shrine in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.476699999999997,
+        "lng": 81.5762
+      },
+      {
+        "name": "Buddhist Monastery Uttar Pradesh",
+        "desc": "Ancient Buddhist monastery in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.4867,
+        "lng": 81.5862
+      },
+      {
+        "name": "Jain Temple Uttar Pradesh",
+        "desc": "Famous Jain temple in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 26.246699999999997,
+        "lng": 80.34620000000001
+      },
+      {
+        "name": "Dargah Uttar Pradesh",
+        "desc": "Famous Sufi dargah in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.2367,
+        "lng": 80.3362
+      },
+      {
+        "name": "Ashram Uttar Pradesh",
+        "desc": "Spiritual ashram in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 26.226699999999997,
+        "lng": 80.3262
+      },
+      {
+        "name": "Pilgrimage Site Uttar Pradesh",
+        "desc": "Important pilgrimage destination in Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 26.2167,
+        "lng": 80.31620000000001
+      },
+      {
+        "name": "Sacred River Ghat Uttar Pradesh",
+        "desc": "Sacred river ghat for rituals in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.206699999999998,
+        "lng": 80.3062
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Uttar Pradesh",
+        "desc": "Traditional folk dance performance of Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.546699999999998,
+        "lng": 81.64620000000001
+      },
+      {
+        "name": "Art Gallery Lucknow",
+        "desc": "State art gallery in Lucknow",
+        "rating": "4.2",
+        "lat": 27.5567,
+        "lng": 81.6562
+      },
+      {
+        "name": "Cultural Center Lucknow",
+        "desc": "Cultural center for arts in Lucknow",
+        "rating": "4.3",
+        "lat": 27.566699999999997,
+        "lng": 81.6662
+      },
+      {
+        "name": "Music Festival Uttar Pradesh",
+        "desc": "Annual music festival of Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.5767,
+        "lng": 81.67620000000001
+      },
+      {
+        "name": "Tribal Museum Uttar Pradesh",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 27.586699999999997,
+        "lng": 81.6862
+      },
+      {
+        "name": "Craft Village Uttar Pradesh",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 26.1467,
+        "lng": 80.2462
+      },
+      {
+        "name": "Classical Dance Academy Lucknow",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 26.136699999999998,
+        "lng": 80.23620000000001
+      },
+      {
+        "name": "Puppet Theatre Uttar Pradesh",
+        "desc": "Traditional puppet theatre of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 26.1267,
+        "lng": 80.2262
+      },
+      {
+        "name": "Weaving Center Uttar Pradesh",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 26.116699999999998,
+        "lng": 80.2162
+      },
+      {
+        "name": "Open Air Theatre Lucknow",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 26.1067,
+        "lng": 80.20620000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Uttar Pradesh",
+        "desc": "Best trekking trails in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.6467,
+        "lng": 81.7462
+      },
+      {
+        "name": "Rock Climbing Uttar Pradesh",
+        "desc": "Rock climbing spots in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 27.656699999999997,
+        "lng": 81.7562
+      },
+      {
+        "name": "River Rafting Uttar Pradesh",
+        "desc": "White water rafting in rivers of Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.6667,
+        "lng": 81.7662
+      },
+      {
+        "name": "Paragliding Uttar Pradesh",
+        "desc": "Paragliding spots in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.676699999999997,
+        "lng": 81.7762
+      },
+      {
+        "name": "Camping Uttar Pradesh",
+        "desc": "Camping spots in forests of Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.6867,
+        "lng": 81.78620000000001
+      },
+      {
+        "name": "Zip Line Uttar Pradesh",
+        "desc": "Zip lining adventure in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.046699999999998,
+        "lng": 80.14620000000001
+      },
+      {
+        "name": "Jungle Safari Uttar Pradesh",
+        "desc": "Jeep jungle safari in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 26.0367,
+        "lng": 80.1362
+      },
+      {
+        "name": "Cycling Tour Uttar Pradesh",
+        "desc": "Scenic cycling routes in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.026699999999998,
+        "lng": 80.12620000000001
+      },
+      {
+        "name": "Water Sports Uttar Pradesh",
+        "desc": "Water sports activities in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.0167,
+        "lng": 80.1162
+      },
+      {
+        "name": "Bungee Jumping Uttar Pradesh",
+        "desc": "Bungee jumping experience in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 26.0067,
+        "lng": 80.1062
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Uttar Pradesh",
+        "desc": "Traditional Ayurvedic treatments in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.746699999999997,
+        "lng": 81.84620000000001
+      },
+      {
+        "name": "Yoga Retreat Uttar Pradesh",
+        "desc": "Yoga and meditation retreat in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.7567,
+        "lng": 81.8562
+      },
+      {
+        "name": "Spa Resort Uttar Pradesh",
+        "desc": "Luxury spa resort in Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.7667,
+        "lng": 81.8662
+      },
+      {
+        "name": "Naturopathy Center Uttar Pradesh",
+        "desc": "Natural healing center in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 27.776699999999998,
+        "lng": 81.87620000000001
+      },
+      {
+        "name": "Meditation Ashram Uttar Pradesh",
+        "desc": "Peaceful meditation ashram in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.7867,
+        "lng": 81.8862
+      },
+      {
+        "name": "Wellness Resort Lucknow",
+        "desc": "Luxury wellness resort in Lucknow",
+        "rating": "4.4",
+        "lat": 25.9467,
+        "lng": 80.0462
+      },
+      {
+        "name": "Herbal Garden Uttar Pradesh",
+        "desc": "Medicinal herb garden in Uttar Pradesh",
+        "rating": "4.2",
+        "lat": 25.9367,
+        "lng": 80.03620000000001
+      },
+      {
+        "name": "Forest Bathing Uttar Pradesh",
+        "desc": "Therapeutic forest walks in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 25.926699999999997,
+        "lng": 80.0262
+      },
+      {
+        "name": "Hot Spring Uttar Pradesh",
+        "desc": "Natural hot spring in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 25.9167,
+        "lng": 80.0162
+      },
+      {
+        "name": "Detox Retreat Uttar Pradesh",
+        "desc": "Detox and wellness retreat in Uttar Pradesh",
+        "rating": "4.3",
+        "lat": 25.906699999999997,
+        "lng": 80.0062
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Lucknow",
+        "desc": "Main airport of Uttar Pradesh in Lucknow",
+        "rating": "4.0",
+        "lat": 27.8467,
+        "lng": 81.9462
+      },
+      {
+        "name": "Railway Station Lucknow",
+        "desc": "Main railway junction in Lucknow",
+        "rating": "3.8",
+        "lat": 27.8567,
+        "lng": 81.95620000000001
+      },
+      {
+        "name": "Bus Terminal Lucknow",
+        "desc": "State bus terminal in Lucknow",
+        "rating": "3.7",
+        "lat": 27.866699999999998,
+        "lng": 81.9662
+      },
+      {
+        "name": "Metro Rail Lucknow",
+        "desc": "Metro rail system in Lucknow",
+        "rating": "4.2",
+        "lat": 27.8767,
+        "lng": 81.9762
+      },
+      {
+        "name": "Highway Uttar Pradesh",
+        "desc": "Major national highway through Uttar Pradesh",
+        "rating": "4.0",
+        "lat": 27.886699999999998,
+        "lng": 81.98620000000001
+      },
+      {
+        "name": "Port Uttar Pradesh",
+        "desc": "Major sea port of Uttar Pradesh",
+        "rating": "3.9",
+        "lat": 25.8467,
+        "lng": 79.9462
+      },
+      {
+        "name": "Taxi Stand Lucknow",
+        "desc": "Main cab and taxi hub in Lucknow",
+        "rating": "3.8",
+        "lat": 25.836699999999997,
+        "lng": 79.9362
+      },
+      {
+        "name": "Auto Rickshaw Lucknow",
+        "desc": "Auto rickshaw services across Lucknow",
+        "rating": "3.6",
+        "lat": 25.8267,
+        "lng": 79.92620000000001
+      },
+      {
+        "name": "Cab Services Lucknow",
+        "desc": "Ola and Uber cab services in Lucknow",
+        "rating": "4.0",
+        "lat": 25.816699999999997,
+        "lng": 79.9162
+      },
+      {
+        "name": "Helipad Uttar Pradesh",
+        "desc": "Helicopter services in Uttar Pradesh",
+        "rating": "4.0",
+        "lat": 25.8067,
+        "lng": 79.9062
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Uttar Pradesh",
+        "desc": "Most famous festival of Uttar Pradesh",
+        "rating": "4.7",
+        "lat": 27.9467,
+        "lng": 82.0462
+      },
+      {
+        "name": "Cooking Class Uttar Pradesh",
+        "desc": "Learn traditional Uttar Pradesh cooking techniques",
+        "rating": "4.5",
+        "lat": 27.956699999999998,
+        "lng": 82.0562
+      },
+      {
+        "name": "Village Walk Uttar Pradesh",
+        "desc": "Authentic village life experience in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.9667,
+        "lng": 82.06620000000001
+      },
+      {
+        "name": "Craft Workshop Uttar Pradesh",
+        "desc": "Traditional craft making workshop in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 27.976699999999997,
+        "lng": 82.0762
+      },
+      {
+        "name": "Sunrise Trek Uttar Pradesh",
+        "desc": "Early morning sunrise trek in Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 27.9867,
+        "lng": 82.0862
+      },
+      {
+        "name": "Local Market Tour Lucknow",
+        "desc": "Guided tour of local markets in Lucknow",
+        "rating": "4.3",
+        "lat": 25.746699999999997,
+        "lng": 79.84620000000001
+      },
+      {
+        "name": "Folk Performance Uttar Pradesh",
+        "desc": "Traditional folk art performance of Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 25.7367,
+        "lng": 79.8362
+      },
+      {
+        "name": "Farm Stay Uttar Pradesh",
+        "desc": "Authentic farm stay experience in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 25.726699999999997,
+        "lng": 79.8262
+      },
+      {
+        "name": "Night Safari Uttar Pradesh",
+        "desc": "Night wildlife safari in Uttar Pradesh",
+        "rating": "4.4",
+        "lat": 25.7167,
+        "lng": 79.81620000000001
+      },
+      {
+        "name": "Harvest Festival Uttar Pradesh",
+        "desc": "Traditional harvest festival of Uttar Pradesh",
+        "rating": "4.5",
+        "lat": 25.706699999999998,
+        "lng": 79.8062
+      }
+    ]
+  }
+}

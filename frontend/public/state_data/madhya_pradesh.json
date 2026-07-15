@@ -1,0 +1,870 @@
+{
+  "state": "Madhya Pradesh",
+  "capital": "Bhopal",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Khajuraho Temples",
+        "desc": "Most famous heritage site in Madhya Pradesh",
+        "rating": "4.6",
+        "lat": 22.9734,
+        "lng": 78.6569
+      },
+      {
+        "name": "State Museum Bhopal",
+        "desc": "Archaeological museum showcasing Madhya Pradesh history",
+        "rating": "4.2",
+        "lat": 22.983400000000003,
+        "lng": 78.6669
+      },
+      {
+        "name": "Old Fort Bhopal",
+        "desc": "Historic fort from medieval era in Bhopal",
+        "rating": "4.3",
+        "lat": 22.9934,
+        "lng": 78.67689999999999
+      },
+      {
+        "name": "Ancient Temple Madhya Pradesh",
+        "desc": "Famous ancient temple showcasing Madhya Pradesh architecture",
+        "rating": "4.4",
+        "lat": 23.003400000000003,
+        "lng": 78.6869
+      },
+      {
+        "name": "Colonial Building Bhopal",
+        "desc": "Historic colonial era building in Bhopal",
+        "rating": "4.1",
+        "lat": 23.0134,
+        "lng": 78.6969
+      },
+      {
+        "name": "Palace Madhya Pradesh",
+        "desc": "Royal palace of former rulers of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 22.9634,
+        "lng": 78.64689999999999
+      },
+      {
+        "name": "Rock Cut Caves Madhya Pradesh",
+        "desc": "Ancient rock cut monuments in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.953400000000002,
+        "lng": 78.6369
+      },
+      {
+        "name": "Heritage Walk Bhopal",
+        "desc": "Guided walk through old quarter of Bhopal",
+        "rating": "4.3",
+        "lat": 22.9434,
+        "lng": 78.62689999999999
+      },
+      {
+        "name": "Memorial Museum Bhopal",
+        "desc": "Memorial to freedom fighters of Madhya Pradesh",
+        "rating": "4.1",
+        "lat": 22.933400000000002,
+        "lng": 78.61689999999999
+      },
+      {
+        "name": "Ruins Site Madhya Pradesh",
+        "desc": "Ancient ruins and archaeological findings in Madhya Pradesh",
+        "rating": "4.2",
+        "lat": 22.9234,
+        "lng": 78.6069
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Bhopal",
+        "desc": "Authentic Madhya Pradesh thali with local specialties",
+        "rating": "4.5",
+        "lat": 23.073400000000003,
+        "lng": 78.75689999999999
+      },
+      {
+        "name": "Street Food Market Bhopal",
+        "desc": "Famous street food market in Bhopal",
+        "rating": "4.4",
+        "lat": 23.0834,
+        "lng": 78.76689999999999
+      },
+      {
+        "name": "Local Sweet Shop Madhya Pradesh",
+        "desc": "Famous traditional sweets unique to Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.093400000000003,
+        "lng": 78.7769
+      },
+      {
+        "name": "Tribal Cuisine Madhya Pradesh",
+        "desc": "Authentic tribal food of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.1034,
+        "lng": 78.78689999999999
+      },
+      {
+        "name": "Dhaba Madhya Pradesh",
+        "desc": "Famous highway dhaba with Madhya Pradesh specialties",
+        "rating": "4.3",
+        "lat": 23.113400000000002,
+        "lng": 78.7969
+      },
+      {
+        "name": "Vegetarian Restaurant Bhopal",
+        "desc": "Best pure vegetarian food in Bhopal",
+        "rating": "4.3",
+        "lat": 22.8734,
+        "lng": 78.5569
+      },
+      {
+        "name": "Biryani House Bhopal",
+        "desc": "Best biryani and rice dishes in Bhopal",
+        "rating": "4.4",
+        "lat": 22.863400000000002,
+        "lng": 78.5469
+      },
+      {
+        "name": "Bakery Cafe Bhopal",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 22.8534,
+        "lng": 78.53689999999999
+      },
+      {
+        "name": "Royal Kitchen Madhya Pradesh",
+        "desc": "Restaurant serving royal recipes of Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 22.843400000000003,
+        "lng": 78.5269
+      },
+      {
+        "name": "Fish Curry House Madhya Pradesh",
+        "desc": "Traditional Madhya Pradesh style fish preparation",
+        "rating": "4.4",
+        "lat": 22.8334,
+        "lng": 78.51689999999999
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Bhopal",
+        "desc": "Luxury 5-star Taj hotel in Bhopal",
+        "rating": "4.7",
+        "lat": 23.1734,
+        "lng": 78.8569
+      },
+      {
+        "name": "Oberoi Resort Madhya Pradesh",
+        "desc": "Luxury resort in scenic location in Madhya Pradesh",
+        "rating": "4.8",
+        "lat": 23.183400000000002,
+        "lng": 78.86689999999999
+      },
+      {
+        "name": "Heritage Hotel Bhopal",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 23.1934,
+        "lng": 78.87689999999999
+      },
+      {
+        "name": "ITC Hotel Bhopal",
+        "desc": "ITC luxury hotel in Bhopal",
+        "rating": "4.6",
+        "lat": 23.203400000000002,
+        "lng": 78.8869
+      },
+      {
+        "name": "Eco Resort Madhya Pradesh",
+        "desc": "Eco-friendly resort in nature of Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.2134,
+        "lng": 78.89689999999999
+      },
+      {
+        "name": "Boutique Hotel Bhopal",
+        "desc": "Charming boutique hotel in old quarter of Bhopal",
+        "rating": "4.4",
+        "lat": 22.773400000000002,
+        "lng": 78.45689999999999
+      },
+      {
+        "name": "Marriott Bhopal",
+        "desc": "International 5-star Marriott hotel in Bhopal",
+        "rating": "4.6",
+        "lat": 22.7634,
+        "lng": 78.4469
+      },
+      {
+        "name": "Forest Lodge Madhya Pradesh",
+        "desc": "Wildlife lodge near forest of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 22.753400000000003,
+        "lng": 78.4369
+      },
+      {
+        "name": "Homestay Madhya Pradesh",
+        "desc": "Authentic homestay with local family in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.7434,
+        "lng": 78.42689999999999
+      },
+      {
+        "name": "Budget Hotel Bhopal",
+        "desc": "Clean comfortable budget stay in Bhopal",
+        "rating": "4.0",
+        "lat": 22.733400000000003,
+        "lng": 78.4169
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Madhya Pradesh",
+        "desc": "Best panoramic viewpoint in Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.273400000000002,
+        "lng": 78.95689999999999
+      },
+      {
+        "name": "Waterfall Madhya Pradesh",
+        "desc": "Most beautiful waterfall in Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.2834,
+        "lng": 78.9669
+      },
+      {
+        "name": "Lake Madhya Pradesh",
+        "desc": "Scenic lake in Madhya Pradesh with boating",
+        "rating": "4.3",
+        "lat": 23.293400000000002,
+        "lng": 78.97689999999999
+      },
+      {
+        "name": "Hill Station Madhya Pradesh",
+        "desc": "Popular hill station in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.3034,
+        "lng": 78.98689999999999
+      },
+      {
+        "name": "National Park Madhya Pradesh",
+        "desc": "Wildlife national park in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.3134,
+        "lng": 78.9969
+      },
+      {
+        "name": "Beach Madhya Pradesh",
+        "desc": "Beautiful beach in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.6734,
+        "lng": 78.3569
+      },
+      {
+        "name": "Cave System Madhya Pradesh",
+        "desc": "Natural cave system in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.663400000000003,
+        "lng": 78.34689999999999
+      },
+      {
+        "name": "Dam Madhya Pradesh",
+        "desc": "Scenic dam and reservoir in Madhya Pradesh",
+        "rating": "4.2",
+        "lat": 22.6534,
+        "lng": 78.3369
+      },
+      {
+        "name": "Botanical Garden Bhopal",
+        "desc": "Botanical garden with rare plants in Bhopal",
+        "rating": "4.2",
+        "lat": 22.643400000000003,
+        "lng": 78.3269
+      },
+      {
+        "name": "Zoo Bhopal",
+        "desc": "State zoo in Bhopal with variety of animals",
+        "rating": "4.1",
+        "lat": 22.6334,
+        "lng": 78.31689999999999
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Bhopal",
+        "desc": "Bustling main market of Bhopal",
+        "rating": "4.3",
+        "lat": 23.3734,
+        "lng": 79.0569
+      },
+      {
+        "name": "Handicraft Market Madhya Pradesh",
+        "desc": "Traditional handicrafts of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.3834,
+        "lng": 79.06689999999999
+      },
+      {
+        "name": "Silk Market Madhya Pradesh",
+        "desc": "Famous silk and textile market of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.393400000000003,
+        "lng": 79.0769
+      },
+      {
+        "name": "Tribal Art Market Madhya Pradesh",
+        "desc": "Traditional tribal art and crafts of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.4034,
+        "lng": 79.0869
+      },
+      {
+        "name": "Spice Market Madhya Pradesh",
+        "desc": "Aromatic spice market unique to Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 23.413400000000003,
+        "lng": 79.09689999999999
+      },
+      {
+        "name": "Mall Bhopal",
+        "desc": "Modern shopping mall in Bhopal",
+        "rating": "4.2",
+        "lat": 22.573400000000003,
+        "lng": 78.25689999999999
+      },
+      {
+        "name": "Gem Market Madhya Pradesh",
+        "desc": "Precious and semi-precious stones of Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.5634,
+        "lng": 78.2469
+      },
+      {
+        "name": "Bamboo Craft Madhya Pradesh",
+        "desc": "Traditional bamboo craft market of Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.5534,
+        "lng": 78.23689999999999
+      },
+      {
+        "name": "Pottery Village Madhya Pradesh",
+        "desc": "Traditional pottery making village in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.543400000000002,
+        "lng": 78.22689999999999
+      },
+      {
+        "name": "Night Market Bhopal",
+        "desc": "Evening market in Bhopal with local goods",
+        "rating": "4.2",
+        "lat": 22.5334,
+        "lng": 78.2169
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Madhya Pradesh",
+        "desc": "Tiger and wildlife reserve in Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.4734,
+        "lng": 79.1569
+      },
+      {
+        "name": "Bird Sanctuary Madhya Pradesh",
+        "desc": "Migratory bird sanctuary in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.483400000000003,
+        "lng": 79.1669
+      },
+      {
+        "name": "Forest Reserve Madhya Pradesh",
+        "desc": "Dense forest reserve of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.4934,
+        "lng": 79.17689999999999
+      },
+      {
+        "name": "River Valley Madhya Pradesh",
+        "desc": "Scenic river valley in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 23.503400000000003,
+        "lng": 79.1869
+      },
+      {
+        "name": "Mountain Peak Madhya Pradesh",
+        "desc": "Highest mountain peak in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.5134,
+        "lng": 79.1969
+      },
+      {
+        "name": "Wetland Madhya Pradesh",
+        "desc": "Important wetland ecosystem in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.4734,
+        "lng": 78.1569
+      },
+      {
+        "name": "Tea Garden Madhya Pradesh",
+        "desc": "Scenic tea or coffee plantation in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 22.4634,
+        "lng": 78.14689999999999
+      },
+      {
+        "name": "Organic Farm Madhya Pradesh",
+        "desc": "Organic farming experience in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.453400000000002,
+        "lng": 78.1369
+      },
+      {
+        "name": "Sunrise Point Madhya Pradesh",
+        "desc": "Most spectacular sunrise point in Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 22.4434,
+        "lng": 78.12689999999999
+      },
+      {
+        "name": "Eco Park Bhopal",
+        "desc": "Ecology park in Bhopal with rare plants",
+        "rating": "4.1",
+        "lat": 22.433400000000002,
+        "lng": 78.11689999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Madhya Pradesh",
+        "desc": "Most famous temple in Madhya Pradesh",
+        "rating": "4.6",
+        "lat": 23.573400000000003,
+        "lng": 79.25689999999999
+      },
+      {
+        "name": "Mosque Bhopal",
+        "desc": "Historic mosque in Bhopal",
+        "rating": "4.3",
+        "lat": 23.5834,
+        "lng": 79.26689999999999
+      },
+      {
+        "name": "Church Bhopal",
+        "desc": "Historic church in Bhopal",
+        "rating": "4.3",
+        "lat": 23.593400000000003,
+        "lng": 79.2769
+      },
+      {
+        "name": "Gurudwara Madhya Pradesh",
+        "desc": "Important Sikh shrine in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.6034,
+        "lng": 79.28689999999999
+      },
+      {
+        "name": "Buddhist Monastery Madhya Pradesh",
+        "desc": "Ancient Buddhist monastery in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.613400000000002,
+        "lng": 79.2969
+      },
+      {
+        "name": "Jain Temple Madhya Pradesh",
+        "desc": "Famous Jain temple in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 22.3734,
+        "lng": 78.0569
+      },
+      {
+        "name": "Dargah Madhya Pradesh",
+        "desc": "Famous Sufi dargah in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.363400000000002,
+        "lng": 78.0469
+      },
+      {
+        "name": "Ashram Madhya Pradesh",
+        "desc": "Spiritual ashram in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 22.3534,
+        "lng": 78.03689999999999
+      },
+      {
+        "name": "Pilgrimage Site Madhya Pradesh",
+        "desc": "Important pilgrimage destination in Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 22.343400000000003,
+        "lng": 78.0269
+      },
+      {
+        "name": "Sacred River Ghat Madhya Pradesh",
+        "desc": "Sacred river ghat for rituals in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.3334,
+        "lng": 78.01689999999999
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Madhya Pradesh",
+        "desc": "Traditional folk dance performance of Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.6734,
+        "lng": 79.3569
+      },
+      {
+        "name": "Art Gallery Bhopal",
+        "desc": "State art gallery in Bhopal",
+        "rating": "4.2",
+        "lat": 23.683400000000002,
+        "lng": 79.36689999999999
+      },
+      {
+        "name": "Cultural Center Bhopal",
+        "desc": "Cultural center for arts in Bhopal",
+        "rating": "4.3",
+        "lat": 23.6934,
+        "lng": 79.37689999999999
+      },
+      {
+        "name": "Music Festival Madhya Pradesh",
+        "desc": "Annual music festival of Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.703400000000002,
+        "lng": 79.3869
+      },
+      {
+        "name": "Tribal Museum Madhya Pradesh",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 23.7134,
+        "lng": 79.39689999999999
+      },
+      {
+        "name": "Craft Village Madhya Pradesh",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 22.273400000000002,
+        "lng": 77.95689999999999
+      },
+      {
+        "name": "Classical Dance Academy Bhopal",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 22.2634,
+        "lng": 77.9469
+      },
+      {
+        "name": "Puppet Theatre Madhya Pradesh",
+        "desc": "Traditional puppet theatre of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 22.253400000000003,
+        "lng": 77.9369
+      },
+      {
+        "name": "Weaving Center Madhya Pradesh",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 22.2434,
+        "lng": 77.92689999999999
+      },
+      {
+        "name": "Open Air Theatre Bhopal",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 22.233400000000003,
+        "lng": 77.9169
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Madhya Pradesh",
+        "desc": "Best trekking trails in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.773400000000002,
+        "lng": 79.45689999999999
+      },
+      {
+        "name": "Rock Climbing Madhya Pradesh",
+        "desc": "Rock climbing spots in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 23.7834,
+        "lng": 79.4669
+      },
+      {
+        "name": "River Rafting Madhya Pradesh",
+        "desc": "White water rafting in rivers of Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.793400000000002,
+        "lng": 79.47689999999999
+      },
+      {
+        "name": "Paragliding Madhya Pradesh",
+        "desc": "Paragliding spots in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.8034,
+        "lng": 79.48689999999999
+      },
+      {
+        "name": "Camping Madhya Pradesh",
+        "desc": "Camping spots in forests of Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.8134,
+        "lng": 79.4969
+      },
+      {
+        "name": "Zip Line Madhya Pradesh",
+        "desc": "Zip lining adventure in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.1734,
+        "lng": 77.8569
+      },
+      {
+        "name": "Jungle Safari Madhya Pradesh",
+        "desc": "Jeep jungle safari in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 22.163400000000003,
+        "lng": 77.84689999999999
+      },
+      {
+        "name": "Cycling Tour Madhya Pradesh",
+        "desc": "Scenic cycling routes in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.1534,
+        "lng": 77.8369
+      },
+      {
+        "name": "Water Sports Madhya Pradesh",
+        "desc": "Water sports activities in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.143400000000003,
+        "lng": 77.8269
+      },
+      {
+        "name": "Bungee Jumping Madhya Pradesh",
+        "desc": "Bungee jumping experience in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.1334,
+        "lng": 77.81689999999999
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Madhya Pradesh",
+        "desc": "Traditional Ayurvedic treatments in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.8734,
+        "lng": 79.5569
+      },
+      {
+        "name": "Yoga Retreat Madhya Pradesh",
+        "desc": "Yoga and meditation retreat in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.8834,
+        "lng": 79.56689999999999
+      },
+      {
+        "name": "Spa Resort Madhya Pradesh",
+        "desc": "Luxury spa resort in Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 23.893400000000003,
+        "lng": 79.5769
+      },
+      {
+        "name": "Naturopathy Center Madhya Pradesh",
+        "desc": "Natural healing center in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 23.9034,
+        "lng": 79.5869
+      },
+      {
+        "name": "Meditation Ashram Madhya Pradesh",
+        "desc": "Peaceful meditation ashram in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 23.913400000000003,
+        "lng": 79.59689999999999
+      },
+      {
+        "name": "Wellness Resort Bhopal",
+        "desc": "Luxury wellness resort in Bhopal",
+        "rating": "4.4",
+        "lat": 22.073400000000003,
+        "lng": 77.75689999999999
+      },
+      {
+        "name": "Herbal Garden Madhya Pradesh",
+        "desc": "Medicinal herb garden in Madhya Pradesh",
+        "rating": "4.2",
+        "lat": 22.0634,
+        "lng": 77.7469
+      },
+      {
+        "name": "Forest Bathing Madhya Pradesh",
+        "desc": "Therapeutic forest walks in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.0534,
+        "lng": 77.73689999999999
+      },
+      {
+        "name": "Hot Spring Madhya Pradesh",
+        "desc": "Natural hot spring in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 22.043400000000002,
+        "lng": 77.72689999999999
+      },
+      {
+        "name": "Detox Retreat Madhya Pradesh",
+        "desc": "Detox and wellness retreat in Madhya Pradesh",
+        "rating": "4.3",
+        "lat": 22.0334,
+        "lng": 77.7169
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Bhopal",
+        "desc": "Main airport of Madhya Pradesh in Bhopal",
+        "rating": "4.0",
+        "lat": 23.9734,
+        "lng": 79.6569
+      },
+      {
+        "name": "Railway Station Bhopal",
+        "desc": "Main railway junction in Bhopal",
+        "rating": "3.8",
+        "lat": 23.983400000000003,
+        "lng": 79.6669
+      },
+      {
+        "name": "Bus Terminal Bhopal",
+        "desc": "State bus terminal in Bhopal",
+        "rating": "3.7",
+        "lat": 23.9934,
+        "lng": 79.67689999999999
+      },
+      {
+        "name": "Metro Rail Bhopal",
+        "desc": "Metro rail system in Bhopal",
+        "rating": "4.2",
+        "lat": 24.003400000000003,
+        "lng": 79.6869
+      },
+      {
+        "name": "Highway Madhya Pradesh",
+        "desc": "Major national highway through Madhya Pradesh",
+        "rating": "4.0",
+        "lat": 24.0134,
+        "lng": 79.6969
+      },
+      {
+        "name": "Port Madhya Pradesh",
+        "desc": "Major sea port of Madhya Pradesh",
+        "rating": "3.9",
+        "lat": 21.9734,
+        "lng": 77.6569
+      },
+      {
+        "name": "Taxi Stand Bhopal",
+        "desc": "Main cab and taxi hub in Bhopal",
+        "rating": "3.8",
+        "lat": 21.9634,
+        "lng": 77.64689999999999
+      },
+      {
+        "name": "Auto Rickshaw Bhopal",
+        "desc": "Auto rickshaw services across Bhopal",
+        "rating": "3.6",
+        "lat": 21.953400000000002,
+        "lng": 77.6369
+      },
+      {
+        "name": "Cab Services Bhopal",
+        "desc": "Ola and Uber cab services in Bhopal",
+        "rating": "4.0",
+        "lat": 21.9434,
+        "lng": 77.62689999999999
+      },
+      {
+        "name": "Helipad Madhya Pradesh",
+        "desc": "Helicopter services in Madhya Pradesh",
+        "rating": "4.0",
+        "lat": 21.933400000000002,
+        "lng": 77.61689999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Madhya Pradesh",
+        "desc": "Most famous festival of Madhya Pradesh",
+        "rating": "4.7",
+        "lat": 24.073400000000003,
+        "lng": 79.75689999999999
+      },
+      {
+        "name": "Cooking Class Madhya Pradesh",
+        "desc": "Learn traditional Madhya Pradesh cooking techniques",
+        "rating": "4.5",
+        "lat": 24.0834,
+        "lng": 79.76689999999999
+      },
+      {
+        "name": "Village Walk Madhya Pradesh",
+        "desc": "Authentic village life experience in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 24.093400000000003,
+        "lng": 79.7769
+      },
+      {
+        "name": "Craft Workshop Madhya Pradesh",
+        "desc": "Traditional craft making workshop in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 24.1034,
+        "lng": 79.78689999999999
+      },
+      {
+        "name": "Sunrise Trek Madhya Pradesh",
+        "desc": "Early morning sunrise trek in Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 24.113400000000002,
+        "lng": 79.7969
+      },
+      {
+        "name": "Local Market Tour Bhopal",
+        "desc": "Guided tour of local markets in Bhopal",
+        "rating": "4.3",
+        "lat": 21.8734,
+        "lng": 77.5569
+      },
+      {
+        "name": "Folk Performance Madhya Pradesh",
+        "desc": "Traditional folk art performance of Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 21.863400000000002,
+        "lng": 77.5469
+      },
+      {
+        "name": "Farm Stay Madhya Pradesh",
+        "desc": "Authentic farm stay experience in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 21.8534,
+        "lng": 77.53689999999999
+      },
+      {
+        "name": "Night Safari Madhya Pradesh",
+        "desc": "Night wildlife safari in Madhya Pradesh",
+        "rating": "4.4",
+        "lat": 21.843400000000003,
+        "lng": 77.5269
+      },
+      {
+        "name": "Harvest Festival Madhya Pradesh",
+        "desc": "Traditional harvest festival of Madhya Pradesh",
+        "rating": "4.5",
+        "lat": 21.8334,
+        "lng": 77.51689999999999
+      }
+    ]
+  }
+}

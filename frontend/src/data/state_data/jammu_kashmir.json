@@ -1,0 +1,870 @@
+{
+  "state": "Jammu and Kashmir",
+  "capital": "Srinagar",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Dal Lake Srinagar",
+        "desc": "Most famous heritage site in Jammu and Kashmir",
+        "rating": "4.6",
+        "lat": 33.7782,
+        "lng": 76.5762
+      },
+      {
+        "name": "State Museum Srinagar",
+        "desc": "Archaeological museum showcasing Jammu and Kashmir history",
+        "rating": "4.2",
+        "lat": 33.788199999999996,
+        "lng": 76.5862
+      },
+      {
+        "name": "Old Fort Srinagar",
+        "desc": "Historic fort from medieval era in Srinagar",
+        "rating": "4.3",
+        "lat": 33.7982,
+        "lng": 76.5962
+      },
+      {
+        "name": "Ancient Temple Jammu and Kashmir",
+        "desc": "Famous ancient temple showcasing Jammu and Kashmir architecture",
+        "rating": "4.4",
+        "lat": 33.8082,
+        "lng": 76.6062
+      },
+      {
+        "name": "Colonial Building Srinagar",
+        "desc": "Historic colonial era building in Srinagar",
+        "rating": "4.1",
+        "lat": 33.8182,
+        "lng": 76.6162
+      },
+      {
+        "name": "Palace Jammu and Kashmir",
+        "desc": "Royal palace of former rulers of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 33.7682,
+        "lng": 76.5662
+      },
+      {
+        "name": "Rock Cut Caves Jammu and Kashmir",
+        "desc": "Ancient rock cut monuments in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.758199999999995,
+        "lng": 76.5562
+      },
+      {
+        "name": "Heritage Walk Srinagar",
+        "desc": "Guided walk through old quarter of Srinagar",
+        "rating": "4.3",
+        "lat": 33.7482,
+        "lng": 76.5462
+      },
+      {
+        "name": "Memorial Museum Srinagar",
+        "desc": "Memorial to freedom fighters of Jammu and Kashmir",
+        "rating": "4.1",
+        "lat": 33.7382,
+        "lng": 76.5362
+      },
+      {
+        "name": "Ruins Site Jammu and Kashmir",
+        "desc": "Ancient ruins and archaeological findings in Jammu and Kashmir",
+        "rating": "4.2",
+        "lat": 33.7282,
+        "lng": 76.5262
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Srinagar",
+        "desc": "Authentic Jammu and Kashmir thali with local specialties",
+        "rating": "4.5",
+        "lat": 33.8782,
+        "lng": 76.6762
+      },
+      {
+        "name": "Street Food Market Srinagar",
+        "desc": "Famous street food market in Srinagar",
+        "rating": "4.4",
+        "lat": 33.8882,
+        "lng": 76.6862
+      },
+      {
+        "name": "Local Sweet Shop Jammu and Kashmir",
+        "desc": "Famous traditional sweets unique to Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 33.898199999999996,
+        "lng": 76.6962
+      },
+      {
+        "name": "Tribal Cuisine Jammu and Kashmir",
+        "desc": "Authentic tribal food of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 33.9082,
+        "lng": 76.7062
+      },
+      {
+        "name": "Dhaba Jammu and Kashmir",
+        "desc": "Famous highway dhaba with Jammu and Kashmir specialties",
+        "rating": "4.3",
+        "lat": 33.9182,
+        "lng": 76.7162
+      },
+      {
+        "name": "Vegetarian Restaurant Srinagar",
+        "desc": "Best pure vegetarian food in Srinagar",
+        "rating": "4.3",
+        "lat": 33.6782,
+        "lng": 76.4762
+      },
+      {
+        "name": "Biryani House Srinagar",
+        "desc": "Best biryani and rice dishes in Srinagar",
+        "rating": "4.4",
+        "lat": 33.6682,
+        "lng": 76.4662
+      },
+      {
+        "name": "Bakery Cafe Srinagar",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 33.6582,
+        "lng": 76.4562
+      },
+      {
+        "name": "Royal Kitchen Jammu and Kashmir",
+        "desc": "Restaurant serving royal recipes of Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 33.648199999999996,
+        "lng": 76.4462
+      },
+      {
+        "name": "Fish Curry House Jammu and Kashmir",
+        "desc": "Traditional Jammu and Kashmir style fish preparation",
+        "rating": "4.4",
+        "lat": 33.6382,
+        "lng": 76.4362
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Srinagar",
+        "desc": "Luxury 5-star Taj hotel in Srinagar",
+        "rating": "4.7",
+        "lat": 33.9782,
+        "lng": 76.7762
+      },
+      {
+        "name": "Oberoi Resort Jammu and Kashmir",
+        "desc": "Luxury resort in scenic location in Jammu and Kashmir",
+        "rating": "4.8",
+        "lat": 33.9882,
+        "lng": 76.7862
+      },
+      {
+        "name": "Heritage Hotel Srinagar",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 33.9982,
+        "lng": 76.7962
+      },
+      {
+        "name": "ITC Hotel Srinagar",
+        "desc": "ITC luxury hotel in Srinagar",
+        "rating": "4.6",
+        "lat": 34.008199999999995,
+        "lng": 76.8062
+      },
+      {
+        "name": "Eco Resort Jammu and Kashmir",
+        "desc": "Eco-friendly resort in nature of Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.0182,
+        "lng": 76.8162
+      },
+      {
+        "name": "Boutique Hotel Srinagar",
+        "desc": "Charming boutique hotel in old quarter of Srinagar",
+        "rating": "4.4",
+        "lat": 33.578199999999995,
+        "lng": 76.3762
+      },
+      {
+        "name": "Marriott Srinagar",
+        "desc": "International 5-star Marriott hotel in Srinagar",
+        "rating": "4.6",
+        "lat": 33.5682,
+        "lng": 76.3662
+      },
+      {
+        "name": "Forest Lodge Jammu and Kashmir",
+        "desc": "Wildlife lodge near forest of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 33.5582,
+        "lng": 76.3562
+      },
+      {
+        "name": "Homestay Jammu and Kashmir",
+        "desc": "Authentic homestay with local family in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.5482,
+        "lng": 76.3462
+      },
+      {
+        "name": "Budget Hotel Srinagar",
+        "desc": "Clean comfortable budget stay in Srinagar",
+        "rating": "4.0",
+        "lat": 33.538199999999996,
+        "lng": 76.3362
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Jammu and Kashmir",
+        "desc": "Best panoramic viewpoint in Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.078199999999995,
+        "lng": 76.8762
+      },
+      {
+        "name": "Waterfall Jammu and Kashmir",
+        "desc": "Most beautiful waterfall in Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.0882,
+        "lng": 76.8862
+      },
+      {
+        "name": "Lake Jammu and Kashmir",
+        "desc": "Scenic lake in Jammu and Kashmir with boating",
+        "rating": "4.3",
+        "lat": 34.0982,
+        "lng": 76.8962
+      },
+      {
+        "name": "Hill Station Jammu and Kashmir",
+        "desc": "Popular hill station in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.1082,
+        "lng": 76.9062
+      },
+      {
+        "name": "National Park Jammu and Kashmir",
+        "desc": "Wildlife national park in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.1182,
+        "lng": 76.9162
+      },
+      {
+        "name": "Beach Jammu and Kashmir",
+        "desc": "Beautiful beach in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.4782,
+        "lng": 76.2762
+      },
+      {
+        "name": "Cave System Jammu and Kashmir",
+        "desc": "Natural cave system in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.468199999999996,
+        "lng": 76.2662
+      },
+      {
+        "name": "Dam Jammu and Kashmir",
+        "desc": "Scenic dam and reservoir in Jammu and Kashmir",
+        "rating": "4.2",
+        "lat": 33.4582,
+        "lng": 76.2562
+      },
+      {
+        "name": "Botanical Garden Srinagar",
+        "desc": "Botanical garden with rare plants in Srinagar",
+        "rating": "4.2",
+        "lat": 33.4482,
+        "lng": 76.2462
+      },
+      {
+        "name": "Zoo Srinagar",
+        "desc": "State zoo in Srinagar with variety of animals",
+        "rating": "4.1",
+        "lat": 33.438199999999995,
+        "lng": 76.2362
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Srinagar",
+        "desc": "Bustling main market of Srinagar",
+        "rating": "4.3",
+        "lat": 34.1782,
+        "lng": 76.9762
+      },
+      {
+        "name": "Handicraft Market Jammu and Kashmir",
+        "desc": "Traditional handicrafts of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.188199999999995,
+        "lng": 76.9862
+      },
+      {
+        "name": "Silk Market Jammu and Kashmir",
+        "desc": "Famous silk and textile market of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.1982,
+        "lng": 76.9962
+      },
+      {
+        "name": "Tribal Art Market Jammu and Kashmir",
+        "desc": "Traditional tribal art and crafts of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.2082,
+        "lng": 77.0062
+      },
+      {
+        "name": "Spice Market Jammu and Kashmir",
+        "desc": "Aromatic spice market unique to Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 34.218199999999996,
+        "lng": 77.0162
+      },
+      {
+        "name": "Mall Srinagar",
+        "desc": "Modern shopping mall in Srinagar",
+        "rating": "4.2",
+        "lat": 33.3782,
+        "lng": 76.1762
+      },
+      {
+        "name": "Gem Market Jammu and Kashmir",
+        "desc": "Precious and semi-precious stones of Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.3682,
+        "lng": 76.1662
+      },
+      {
+        "name": "Bamboo Craft Jammu and Kashmir",
+        "desc": "Traditional bamboo craft market of Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.3582,
+        "lng": 76.1562
+      },
+      {
+        "name": "Pottery Village Jammu and Kashmir",
+        "desc": "Traditional pottery making village in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.3482,
+        "lng": 76.1462
+      },
+      {
+        "name": "Night Market Srinagar",
+        "desc": "Evening market in Srinagar with local goods",
+        "rating": "4.2",
+        "lat": 33.3382,
+        "lng": 76.1362
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Jammu and Kashmir",
+        "desc": "Tiger and wildlife reserve in Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.2782,
+        "lng": 77.0762
+      },
+      {
+        "name": "Bird Sanctuary Jammu and Kashmir",
+        "desc": "Migratory bird sanctuary in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.288199999999996,
+        "lng": 77.0862
+      },
+      {
+        "name": "Forest Reserve Jammu and Kashmir",
+        "desc": "Dense forest reserve of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.2982,
+        "lng": 77.0962
+      },
+      {
+        "name": "River Valley Jammu and Kashmir",
+        "desc": "Scenic river valley in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 34.3082,
+        "lng": 77.1062
+      },
+      {
+        "name": "Mountain Peak Jammu and Kashmir",
+        "desc": "Highest mountain peak in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.3182,
+        "lng": 77.1162
+      },
+      {
+        "name": "Wetland Jammu and Kashmir",
+        "desc": "Important wetland ecosystem in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.2782,
+        "lng": 76.0762
+      },
+      {
+        "name": "Tea Garden Jammu and Kashmir",
+        "desc": "Scenic tea or coffee plantation in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 33.2682,
+        "lng": 76.0662
+      },
+      {
+        "name": "Organic Farm Jammu and Kashmir",
+        "desc": "Organic farming experience in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.258199999999995,
+        "lng": 76.0562
+      },
+      {
+        "name": "Sunrise Point Jammu and Kashmir",
+        "desc": "Most spectacular sunrise point in Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 33.2482,
+        "lng": 76.0462
+      },
+      {
+        "name": "Eco Park Srinagar",
+        "desc": "Ecology park in Srinagar with rare plants",
+        "rating": "4.1",
+        "lat": 33.2382,
+        "lng": 76.0362
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Jammu and Kashmir",
+        "desc": "Most famous temple in Jammu and Kashmir",
+        "rating": "4.6",
+        "lat": 34.3782,
+        "lng": 77.1762
+      },
+      {
+        "name": "Mosque Srinagar",
+        "desc": "Historic mosque in Srinagar",
+        "rating": "4.3",
+        "lat": 34.3882,
+        "lng": 77.1862
+      },
+      {
+        "name": "Church Srinagar",
+        "desc": "Historic church in Srinagar",
+        "rating": "4.3",
+        "lat": 34.398199999999996,
+        "lng": 77.1962
+      },
+      {
+        "name": "Gurudwara Jammu and Kashmir",
+        "desc": "Important Sikh shrine in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.4082,
+        "lng": 77.2062
+      },
+      {
+        "name": "Buddhist Monastery Jammu and Kashmir",
+        "desc": "Ancient Buddhist monastery in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.4182,
+        "lng": 77.2162
+      },
+      {
+        "name": "Jain Temple Jammu and Kashmir",
+        "desc": "Famous Jain temple in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 33.1782,
+        "lng": 75.9762
+      },
+      {
+        "name": "Dargah Jammu and Kashmir",
+        "desc": "Famous Sufi dargah in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.1682,
+        "lng": 75.9662
+      },
+      {
+        "name": "Ashram Jammu and Kashmir",
+        "desc": "Spiritual ashram in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 33.1582,
+        "lng": 75.9562
+      },
+      {
+        "name": "Pilgrimage Site Jammu and Kashmir",
+        "desc": "Important pilgrimage destination in Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 33.148199999999996,
+        "lng": 75.9462
+      },
+      {
+        "name": "Sacred River Ghat Jammu and Kashmir",
+        "desc": "Sacred river ghat for rituals in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 33.1382,
+        "lng": 75.9362
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Jammu and Kashmir",
+        "desc": "Traditional folk dance performance of Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.4782,
+        "lng": 77.2762
+      },
+      {
+        "name": "Art Gallery Srinagar",
+        "desc": "State art gallery in Srinagar",
+        "rating": "4.2",
+        "lat": 34.4882,
+        "lng": 77.2862
+      },
+      {
+        "name": "Cultural Center Srinagar",
+        "desc": "Cultural center for arts in Srinagar",
+        "rating": "4.3",
+        "lat": 34.4982,
+        "lng": 77.2962
+      },
+      {
+        "name": "Music Festival Jammu and Kashmir",
+        "desc": "Annual music festival of Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.508199999999995,
+        "lng": 77.3062
+      },
+      {
+        "name": "Tribal Museum Jammu and Kashmir",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 34.5182,
+        "lng": 77.3162
+      },
+      {
+        "name": "Craft Village Jammu and Kashmir",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 33.078199999999995,
+        "lng": 75.8762
+      },
+      {
+        "name": "Classical Dance Academy Srinagar",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 33.0682,
+        "lng": 75.8662
+      },
+      {
+        "name": "Puppet Theatre Jammu and Kashmir",
+        "desc": "Traditional puppet theatre of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 33.0582,
+        "lng": 75.8562
+      },
+      {
+        "name": "Weaving Center Jammu and Kashmir",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 33.0482,
+        "lng": 75.8462
+      },
+      {
+        "name": "Open Air Theatre Srinagar",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 33.038199999999996,
+        "lng": 75.8362
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Jammu and Kashmir",
+        "desc": "Best trekking trails in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.578199999999995,
+        "lng": 77.3762
+      },
+      {
+        "name": "Rock Climbing Jammu and Kashmir",
+        "desc": "Rock climbing spots in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 34.5882,
+        "lng": 77.3862
+      },
+      {
+        "name": "River Rafting Jammu and Kashmir",
+        "desc": "White water rafting in rivers of Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.5982,
+        "lng": 77.3962
+      },
+      {
+        "name": "Paragliding Jammu and Kashmir",
+        "desc": "Paragliding spots in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.6082,
+        "lng": 77.4062
+      },
+      {
+        "name": "Camping Jammu and Kashmir",
+        "desc": "Camping spots in forests of Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.6182,
+        "lng": 77.4162
+      },
+      {
+        "name": "Zip Line Jammu and Kashmir",
+        "desc": "Zip lining adventure in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 32.9782,
+        "lng": 75.7762
+      },
+      {
+        "name": "Jungle Safari Jammu and Kashmir",
+        "desc": "Jeep jungle safari in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 32.968199999999996,
+        "lng": 75.7662
+      },
+      {
+        "name": "Cycling Tour Jammu and Kashmir",
+        "desc": "Scenic cycling routes in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 32.9582,
+        "lng": 75.7562
+      },
+      {
+        "name": "Water Sports Jammu and Kashmir",
+        "desc": "Water sports activities in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 32.9482,
+        "lng": 75.7462
+      },
+      {
+        "name": "Bungee Jumping Jammu and Kashmir",
+        "desc": "Bungee jumping experience in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 32.938199999999995,
+        "lng": 75.7362
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Jammu and Kashmir",
+        "desc": "Traditional Ayurvedic treatments in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.6782,
+        "lng": 77.4762
+      },
+      {
+        "name": "Yoga Retreat Jammu and Kashmir",
+        "desc": "Yoga and meditation retreat in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.688199999999995,
+        "lng": 77.4862
+      },
+      {
+        "name": "Spa Resort Jammu and Kashmir",
+        "desc": "Luxury spa resort in Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.6982,
+        "lng": 77.4962
+      },
+      {
+        "name": "Naturopathy Center Jammu and Kashmir",
+        "desc": "Natural healing center in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 34.7082,
+        "lng": 77.5062
+      },
+      {
+        "name": "Meditation Ashram Jammu and Kashmir",
+        "desc": "Peaceful meditation ashram in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.718199999999996,
+        "lng": 77.5162
+      },
+      {
+        "name": "Wellness Resort Srinagar",
+        "desc": "Luxury wellness resort in Srinagar",
+        "rating": "4.4",
+        "lat": 32.8782,
+        "lng": 75.6762
+      },
+      {
+        "name": "Herbal Garden Jammu and Kashmir",
+        "desc": "Medicinal herb garden in Jammu and Kashmir",
+        "rating": "4.2",
+        "lat": 32.8682,
+        "lng": 75.6662
+      },
+      {
+        "name": "Forest Bathing Jammu and Kashmir",
+        "desc": "Therapeutic forest walks in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 32.8582,
+        "lng": 75.6562
+      },
+      {
+        "name": "Hot Spring Jammu and Kashmir",
+        "desc": "Natural hot spring in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 32.8482,
+        "lng": 75.6462
+      },
+      {
+        "name": "Detox Retreat Jammu and Kashmir",
+        "desc": "Detox and wellness retreat in Jammu and Kashmir",
+        "rating": "4.3",
+        "lat": 32.8382,
+        "lng": 75.6362
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Srinagar",
+        "desc": "Main airport of Jammu and Kashmir in Srinagar",
+        "rating": "4.0",
+        "lat": 34.7782,
+        "lng": 77.5762
+      },
+      {
+        "name": "Railway Station Srinagar",
+        "desc": "Main railway junction in Srinagar",
+        "rating": "3.8",
+        "lat": 34.788199999999996,
+        "lng": 77.5862
+      },
+      {
+        "name": "Bus Terminal Srinagar",
+        "desc": "State bus terminal in Srinagar",
+        "rating": "3.7",
+        "lat": 34.7982,
+        "lng": 77.5962
+      },
+      {
+        "name": "Metro Rail Srinagar",
+        "desc": "Metro rail system in Srinagar",
+        "rating": "4.2",
+        "lat": 34.8082,
+        "lng": 77.6062
+      },
+      {
+        "name": "Highway Jammu and Kashmir",
+        "desc": "Major national highway through Jammu and Kashmir",
+        "rating": "4.0",
+        "lat": 34.8182,
+        "lng": 77.6162
+      },
+      {
+        "name": "Port Jammu and Kashmir",
+        "desc": "Major sea port of Jammu and Kashmir",
+        "rating": "3.9",
+        "lat": 32.7782,
+        "lng": 75.5762
+      },
+      {
+        "name": "Taxi Stand Srinagar",
+        "desc": "Main cab and taxi hub in Srinagar",
+        "rating": "3.8",
+        "lat": 32.7682,
+        "lng": 75.5662
+      },
+      {
+        "name": "Auto Rickshaw Srinagar",
+        "desc": "Auto rickshaw services across Srinagar",
+        "rating": "3.6",
+        "lat": 32.758199999999995,
+        "lng": 75.5562
+      },
+      {
+        "name": "Cab Services Srinagar",
+        "desc": "Ola and Uber cab services in Srinagar",
+        "rating": "4.0",
+        "lat": 32.7482,
+        "lng": 75.5462
+      },
+      {
+        "name": "Helipad Jammu and Kashmir",
+        "desc": "Helicopter services in Jammu and Kashmir",
+        "rating": "4.0",
+        "lat": 32.7382,
+        "lng": 75.5362
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Jammu and Kashmir",
+        "desc": "Most famous festival of Jammu and Kashmir",
+        "rating": "4.7",
+        "lat": 34.8782,
+        "lng": 77.6762
+      },
+      {
+        "name": "Cooking Class Jammu and Kashmir",
+        "desc": "Learn traditional Jammu and Kashmir cooking techniques",
+        "rating": "4.5",
+        "lat": 34.8882,
+        "lng": 77.6862
+      },
+      {
+        "name": "Village Walk Jammu and Kashmir",
+        "desc": "Authentic village life experience in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.898199999999996,
+        "lng": 77.6962
+      },
+      {
+        "name": "Craft Workshop Jammu and Kashmir",
+        "desc": "Traditional craft making workshop in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 34.9082,
+        "lng": 77.7062
+      },
+      {
+        "name": "Sunrise Trek Jammu and Kashmir",
+        "desc": "Early morning sunrise trek in Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 34.9182,
+        "lng": 77.7162
+      },
+      {
+        "name": "Local Market Tour Srinagar",
+        "desc": "Guided tour of local markets in Srinagar",
+        "rating": "4.3",
+        "lat": 32.6782,
+        "lng": 75.4762
+      },
+      {
+        "name": "Folk Performance Jammu and Kashmir",
+        "desc": "Traditional folk art performance of Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 32.6682,
+        "lng": 75.4662
+      },
+      {
+        "name": "Farm Stay Jammu and Kashmir",
+        "desc": "Authentic farm stay experience in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 32.6582,
+        "lng": 75.4562
+      },
+      {
+        "name": "Night Safari Jammu and Kashmir",
+        "desc": "Night wildlife safari in Jammu and Kashmir",
+        "rating": "4.4",
+        "lat": 32.648199999999996,
+        "lng": 75.4462
+      },
+      {
+        "name": "Harvest Festival Jammu and Kashmir",
+        "desc": "Traditional harvest festival of Jammu and Kashmir",
+        "rating": "4.5",
+        "lat": 32.6382,
+        "lng": 75.4362
+      }
+    ]
+  }
+}

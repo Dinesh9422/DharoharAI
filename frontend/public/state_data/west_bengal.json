@@ -1,0 +1,870 @@
+{
+  "state": "West Bengal",
+  "capital": "Kolkata",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Victoria Memorial Kolkata",
+        "desc": "Most famous heritage site in West Bengal",
+        "rating": "4.6",
+        "lat": 22.9868,
+        "lng": 87.855
+      },
+      {
+        "name": "State Museum Kolkata",
+        "desc": "Archaeological museum showcasing West Bengal history",
+        "rating": "4.2",
+        "lat": 22.9968,
+        "lng": 87.86500000000001
+      },
+      {
+        "name": "Old Fort Kolkata",
+        "desc": "Historic fort from medieval era in Kolkata",
+        "rating": "4.3",
+        "lat": 23.0068,
+        "lng": 87.875
+      },
+      {
+        "name": "Ancient Temple West Bengal",
+        "desc": "Famous ancient temple showcasing West Bengal architecture",
+        "rating": "4.4",
+        "lat": 23.0168,
+        "lng": 87.885
+      },
+      {
+        "name": "Colonial Building Kolkata",
+        "desc": "Historic colonial era building in Kolkata",
+        "rating": "4.1",
+        "lat": 23.026799999999998,
+        "lng": 87.89500000000001
+      },
+      {
+        "name": "Palace West Bengal",
+        "desc": "Royal palace of former rulers of West Bengal",
+        "rating": "4.4",
+        "lat": 22.976799999999997,
+        "lng": 87.845
+      },
+      {
+        "name": "Rock Cut Caves West Bengal",
+        "desc": "Ancient rock cut monuments in West Bengal",
+        "rating": "4.3",
+        "lat": 22.9668,
+        "lng": 87.83500000000001
+      },
+      {
+        "name": "Heritage Walk Kolkata",
+        "desc": "Guided walk through old quarter of Kolkata",
+        "rating": "4.3",
+        "lat": 22.956799999999998,
+        "lng": 87.825
+      },
+      {
+        "name": "Memorial Museum Kolkata",
+        "desc": "Memorial to freedom fighters of West Bengal",
+        "rating": "4.1",
+        "lat": 22.9468,
+        "lng": 87.815
+      },
+      {
+        "name": "Ruins Site West Bengal",
+        "desc": "Ancient ruins and archaeological findings in West Bengal",
+        "rating": "4.2",
+        "lat": 22.936799999999998,
+        "lng": 87.805
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Kolkata",
+        "desc": "Authentic West Bengal thali with local specialties",
+        "rating": "4.5",
+        "lat": 23.0868,
+        "lng": 87.955
+      },
+      {
+        "name": "Street Food Market Kolkata",
+        "desc": "Famous street food market in Kolkata",
+        "rating": "4.4",
+        "lat": 23.096799999999998,
+        "lng": 87.965
+      },
+      {
+        "name": "Local Sweet Shop West Bengal",
+        "desc": "Famous traditional sweets unique to West Bengal",
+        "rating": "4.5",
+        "lat": 23.1068,
+        "lng": 87.97500000000001
+      },
+      {
+        "name": "Tribal Cuisine West Bengal",
+        "desc": "Authentic tribal food of West Bengal",
+        "rating": "4.4",
+        "lat": 23.116799999999998,
+        "lng": 87.985
+      },
+      {
+        "name": "Dhaba West Bengal",
+        "desc": "Famous highway dhaba with West Bengal specialties",
+        "rating": "4.3",
+        "lat": 23.1268,
+        "lng": 87.995
+      },
+      {
+        "name": "Vegetarian Restaurant Kolkata",
+        "desc": "Best pure vegetarian food in Kolkata",
+        "rating": "4.3",
+        "lat": 22.886799999999997,
+        "lng": 87.75500000000001
+      },
+      {
+        "name": "Biryani House Kolkata",
+        "desc": "Best biryani and rice dishes in Kolkata",
+        "rating": "4.4",
+        "lat": 22.8768,
+        "lng": 87.745
+      },
+      {
+        "name": "Bakery Cafe Kolkata",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 22.866799999999998,
+        "lng": 87.735
+      },
+      {
+        "name": "Royal Kitchen West Bengal",
+        "desc": "Restaurant serving royal recipes of West Bengal",
+        "rating": "4.5",
+        "lat": 22.8568,
+        "lng": 87.72500000000001
+      },
+      {
+        "name": "Fish Curry House West Bengal",
+        "desc": "Traditional West Bengal style fish preparation",
+        "rating": "4.4",
+        "lat": 22.846799999999998,
+        "lng": 87.715
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Kolkata",
+        "desc": "Luxury 5-star Taj hotel in Kolkata",
+        "rating": "4.7",
+        "lat": 23.186799999999998,
+        "lng": 88.055
+      },
+      {
+        "name": "Oberoi Resort West Bengal",
+        "desc": "Luxury resort in scenic location in West Bengal",
+        "rating": "4.8",
+        "lat": 23.1968,
+        "lng": 88.065
+      },
+      {
+        "name": "Heritage Hotel Kolkata",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 23.206799999999998,
+        "lng": 88.075
+      },
+      {
+        "name": "ITC Hotel Kolkata",
+        "desc": "ITC luxury hotel in Kolkata",
+        "rating": "4.6",
+        "lat": 23.2168,
+        "lng": 88.08500000000001
+      },
+      {
+        "name": "Eco Resort West Bengal",
+        "desc": "Eco-friendly resort in nature of West Bengal",
+        "rating": "4.5",
+        "lat": 23.226799999999997,
+        "lng": 88.095
+      },
+      {
+        "name": "Boutique Hotel Kolkata",
+        "desc": "Charming boutique hotel in old quarter of Kolkata",
+        "rating": "4.4",
+        "lat": 22.7868,
+        "lng": 87.655
+      },
+      {
+        "name": "Marriott Kolkata",
+        "desc": "International 5-star Marriott hotel in Kolkata",
+        "rating": "4.6",
+        "lat": 22.776799999999998,
+        "lng": 87.64500000000001
+      },
+      {
+        "name": "Forest Lodge West Bengal",
+        "desc": "Wildlife lodge near forest of West Bengal",
+        "rating": "4.4",
+        "lat": 22.7668,
+        "lng": 87.635
+      },
+      {
+        "name": "Homestay West Bengal",
+        "desc": "Authentic homestay with local family in West Bengal",
+        "rating": "4.3",
+        "lat": 22.7568,
+        "lng": 87.625
+      },
+      {
+        "name": "Budget Hotel Kolkata",
+        "desc": "Clean comfortable budget stay in Kolkata",
+        "rating": "4.0",
+        "lat": 22.7468,
+        "lng": 87.61500000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint West Bengal",
+        "desc": "Best panoramic viewpoint in West Bengal",
+        "rating": "4.5",
+        "lat": 23.2868,
+        "lng": 88.155
+      },
+      {
+        "name": "Waterfall West Bengal",
+        "desc": "Most beautiful waterfall in West Bengal",
+        "rating": "4.5",
+        "lat": 23.296799999999998,
+        "lng": 88.165
+      },
+      {
+        "name": "Lake West Bengal",
+        "desc": "Scenic lake in West Bengal with boating",
+        "rating": "4.3",
+        "lat": 23.3068,
+        "lng": 88.175
+      },
+      {
+        "name": "Hill Station West Bengal",
+        "desc": "Popular hill station in West Bengal",
+        "rating": "4.4",
+        "lat": 23.316799999999997,
+        "lng": 88.185
+      },
+      {
+        "name": "National Park West Bengal",
+        "desc": "Wildlife national park in West Bengal",
+        "rating": "4.4",
+        "lat": 23.3268,
+        "lng": 88.19500000000001
+      },
+      {
+        "name": "Beach West Bengal",
+        "desc": "Beautiful beach in West Bengal",
+        "rating": "4.3",
+        "lat": 22.686799999999998,
+        "lng": 87.555
+      },
+      {
+        "name": "Cave System West Bengal",
+        "desc": "Natural cave system in West Bengal",
+        "rating": "4.3",
+        "lat": 22.6768,
+        "lng": 87.545
+      },
+      {
+        "name": "Dam West Bengal",
+        "desc": "Scenic dam and reservoir in West Bengal",
+        "rating": "4.2",
+        "lat": 22.6668,
+        "lng": 87.53500000000001
+      },
+      {
+        "name": "Botanical Garden Kolkata",
+        "desc": "Botanical garden with rare plants in Kolkata",
+        "rating": "4.2",
+        "lat": 22.6568,
+        "lng": 87.525
+      },
+      {
+        "name": "Zoo Kolkata",
+        "desc": "State zoo in Kolkata with variety of animals",
+        "rating": "4.1",
+        "lat": 22.6468,
+        "lng": 87.515
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Kolkata",
+        "desc": "Bustling main market of Kolkata",
+        "rating": "4.3",
+        "lat": 23.386799999999997,
+        "lng": 88.25500000000001
+      },
+      {
+        "name": "Handicraft Market West Bengal",
+        "desc": "Traditional handicrafts of West Bengal",
+        "rating": "4.4",
+        "lat": 23.3968,
+        "lng": 88.265
+      },
+      {
+        "name": "Silk Market West Bengal",
+        "desc": "Famous silk and textile market of West Bengal",
+        "rating": "4.4",
+        "lat": 23.4068,
+        "lng": 88.275
+      },
+      {
+        "name": "Tribal Art Market West Bengal",
+        "desc": "Traditional tribal art and crafts of West Bengal",
+        "rating": "4.4",
+        "lat": 23.4168,
+        "lng": 88.28500000000001
+      },
+      {
+        "name": "Spice Market West Bengal",
+        "desc": "Aromatic spice market unique to West Bengal",
+        "rating": "4.3",
+        "lat": 23.4268,
+        "lng": 88.295
+      },
+      {
+        "name": "Mall Kolkata",
+        "desc": "Modern shopping mall in Kolkata",
+        "rating": "4.2",
+        "lat": 22.5868,
+        "lng": 87.455
+      },
+      {
+        "name": "Gem Market West Bengal",
+        "desc": "Precious and semi-precious stones of West Bengal",
+        "rating": "4.3",
+        "lat": 22.5768,
+        "lng": 87.44500000000001
+      },
+      {
+        "name": "Bamboo Craft West Bengal",
+        "desc": "Traditional bamboo craft market of West Bengal",
+        "rating": "4.3",
+        "lat": 22.566799999999997,
+        "lng": 87.435
+      },
+      {
+        "name": "Pottery Village West Bengal",
+        "desc": "Traditional pottery making village in West Bengal",
+        "rating": "4.3",
+        "lat": 22.5568,
+        "lng": 87.425
+      },
+      {
+        "name": "Night Market Kolkata",
+        "desc": "Evening market in Kolkata with local goods",
+        "rating": "4.2",
+        "lat": 22.546799999999998,
+        "lng": 87.415
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve West Bengal",
+        "desc": "Tiger and wildlife reserve in West Bengal",
+        "rating": "4.5",
+        "lat": 23.4868,
+        "lng": 88.355
+      },
+      {
+        "name": "Bird Sanctuary West Bengal",
+        "desc": "Migratory bird sanctuary in West Bengal",
+        "rating": "4.4",
+        "lat": 23.4968,
+        "lng": 88.36500000000001
+      },
+      {
+        "name": "Forest Reserve West Bengal",
+        "desc": "Dense forest reserve of West Bengal",
+        "rating": "4.4",
+        "lat": 23.5068,
+        "lng": 88.375
+      },
+      {
+        "name": "River Valley West Bengal",
+        "desc": "Scenic river valley in West Bengal",
+        "rating": "4.3",
+        "lat": 23.5168,
+        "lng": 88.385
+      },
+      {
+        "name": "Mountain Peak West Bengal",
+        "desc": "Highest mountain peak in West Bengal",
+        "rating": "4.4",
+        "lat": 23.526799999999998,
+        "lng": 88.39500000000001
+      },
+      {
+        "name": "Wetland West Bengal",
+        "desc": "Important wetland ecosystem in West Bengal",
+        "rating": "4.3",
+        "lat": 22.4868,
+        "lng": 87.355
+      },
+      {
+        "name": "Tea Garden West Bengal",
+        "desc": "Scenic tea or coffee plantation in West Bengal",
+        "rating": "4.4",
+        "lat": 22.476799999999997,
+        "lng": 87.345
+      },
+      {
+        "name": "Organic Farm West Bengal",
+        "desc": "Organic farming experience in West Bengal",
+        "rating": "4.3",
+        "lat": 22.4668,
+        "lng": 87.33500000000001
+      },
+      {
+        "name": "Sunrise Point West Bengal",
+        "desc": "Most spectacular sunrise point in West Bengal",
+        "rating": "4.5",
+        "lat": 22.456799999999998,
+        "lng": 87.325
+      },
+      {
+        "name": "Eco Park Kolkata",
+        "desc": "Ecology park in Kolkata with rare plants",
+        "rating": "4.1",
+        "lat": 22.4468,
+        "lng": 87.315
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple West Bengal",
+        "desc": "Most famous temple in West Bengal",
+        "rating": "4.6",
+        "lat": 23.5868,
+        "lng": 88.455
+      },
+      {
+        "name": "Mosque Kolkata",
+        "desc": "Historic mosque in Kolkata",
+        "rating": "4.3",
+        "lat": 23.596799999999998,
+        "lng": 88.465
+      },
+      {
+        "name": "Church Kolkata",
+        "desc": "Historic church in Kolkata",
+        "rating": "4.3",
+        "lat": 23.6068,
+        "lng": 88.47500000000001
+      },
+      {
+        "name": "Gurudwara West Bengal",
+        "desc": "Important Sikh shrine in West Bengal",
+        "rating": "4.4",
+        "lat": 23.616799999999998,
+        "lng": 88.485
+      },
+      {
+        "name": "Buddhist Monastery West Bengal",
+        "desc": "Ancient Buddhist monastery in West Bengal",
+        "rating": "4.4",
+        "lat": 23.6268,
+        "lng": 88.495
+      },
+      {
+        "name": "Jain Temple West Bengal",
+        "desc": "Famous Jain temple in West Bengal",
+        "rating": "4.4",
+        "lat": 22.386799999999997,
+        "lng": 87.25500000000001
+      },
+      {
+        "name": "Dargah West Bengal",
+        "desc": "Famous Sufi dargah in West Bengal",
+        "rating": "4.3",
+        "lat": 22.3768,
+        "lng": 87.245
+      },
+      {
+        "name": "Ashram West Bengal",
+        "desc": "Spiritual ashram in West Bengal",
+        "rating": "4.4",
+        "lat": 22.366799999999998,
+        "lng": 87.235
+      },
+      {
+        "name": "Pilgrimage Site West Bengal",
+        "desc": "Important pilgrimage destination in West Bengal",
+        "rating": "4.5",
+        "lat": 22.3568,
+        "lng": 87.22500000000001
+      },
+      {
+        "name": "Sacred River Ghat West Bengal",
+        "desc": "Sacred river ghat for rituals in West Bengal",
+        "rating": "4.3",
+        "lat": 22.346799999999998,
+        "lng": 87.215
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance West Bengal",
+        "desc": "Traditional folk dance performance of West Bengal",
+        "rating": "4.5",
+        "lat": 23.686799999999998,
+        "lng": 88.555
+      },
+      {
+        "name": "Art Gallery Kolkata",
+        "desc": "State art gallery in Kolkata",
+        "rating": "4.2",
+        "lat": 23.6968,
+        "lng": 88.565
+      },
+      {
+        "name": "Cultural Center Kolkata",
+        "desc": "Cultural center for arts in Kolkata",
+        "rating": "4.3",
+        "lat": 23.706799999999998,
+        "lng": 88.575
+      },
+      {
+        "name": "Music Festival West Bengal",
+        "desc": "Annual music festival of West Bengal",
+        "rating": "4.5",
+        "lat": 23.7168,
+        "lng": 88.58500000000001
+      },
+      {
+        "name": "Tribal Museum West Bengal",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 23.726799999999997,
+        "lng": 88.595
+      },
+      {
+        "name": "Craft Village West Bengal",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 22.2868,
+        "lng": 87.155
+      },
+      {
+        "name": "Classical Dance Academy Kolkata",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 22.276799999999998,
+        "lng": 87.14500000000001
+      },
+      {
+        "name": "Puppet Theatre West Bengal",
+        "desc": "Traditional puppet theatre of West Bengal",
+        "rating": "4.4",
+        "lat": 22.2668,
+        "lng": 87.135
+      },
+      {
+        "name": "Weaving Center West Bengal",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 22.2568,
+        "lng": 87.125
+      },
+      {
+        "name": "Open Air Theatre Kolkata",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 22.2468,
+        "lng": 87.11500000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking West Bengal",
+        "desc": "Best trekking trails in West Bengal",
+        "rating": "4.4",
+        "lat": 23.7868,
+        "lng": 88.655
+      },
+      {
+        "name": "Rock Climbing West Bengal",
+        "desc": "Rock climbing spots in West Bengal",
+        "rating": "4.3",
+        "lat": 23.796799999999998,
+        "lng": 88.665
+      },
+      {
+        "name": "River Rafting West Bengal",
+        "desc": "White water rafting in rivers of West Bengal",
+        "rating": "4.5",
+        "lat": 23.8068,
+        "lng": 88.675
+      },
+      {
+        "name": "Paragliding West Bengal",
+        "desc": "Paragliding spots in West Bengal",
+        "rating": "4.4",
+        "lat": 23.816799999999997,
+        "lng": 88.685
+      },
+      {
+        "name": "Camping West Bengal",
+        "desc": "Camping spots in forests of West Bengal",
+        "rating": "4.4",
+        "lat": 23.8268,
+        "lng": 88.69500000000001
+      },
+      {
+        "name": "Zip Line West Bengal",
+        "desc": "Zip lining adventure in West Bengal",
+        "rating": "4.3",
+        "lat": 22.186799999999998,
+        "lng": 87.055
+      },
+      {
+        "name": "Jungle Safari West Bengal",
+        "desc": "Jeep jungle safari in West Bengal",
+        "rating": "4.4",
+        "lat": 22.1768,
+        "lng": 87.045
+      },
+      {
+        "name": "Cycling Tour West Bengal",
+        "desc": "Scenic cycling routes in West Bengal",
+        "rating": "4.3",
+        "lat": 22.1668,
+        "lng": 87.03500000000001
+      },
+      {
+        "name": "Water Sports West Bengal",
+        "desc": "Water sports activities in West Bengal",
+        "rating": "4.3",
+        "lat": 22.1568,
+        "lng": 87.025
+      },
+      {
+        "name": "Bungee Jumping West Bengal",
+        "desc": "Bungee jumping experience in West Bengal",
+        "rating": "4.3",
+        "lat": 22.1468,
+        "lng": 87.015
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center West Bengal",
+        "desc": "Traditional Ayurvedic treatments in West Bengal",
+        "rating": "4.4",
+        "lat": 23.886799999999997,
+        "lng": 88.75500000000001
+      },
+      {
+        "name": "Yoga Retreat West Bengal",
+        "desc": "Yoga and meditation retreat in West Bengal",
+        "rating": "4.4",
+        "lat": 23.8968,
+        "lng": 88.765
+      },
+      {
+        "name": "Spa Resort West Bengal",
+        "desc": "Luxury spa resort in West Bengal",
+        "rating": "4.5",
+        "lat": 23.9068,
+        "lng": 88.775
+      },
+      {
+        "name": "Naturopathy Center West Bengal",
+        "desc": "Natural healing center in West Bengal",
+        "rating": "4.3",
+        "lat": 23.9168,
+        "lng": 88.78500000000001
+      },
+      {
+        "name": "Meditation Ashram West Bengal",
+        "desc": "Peaceful meditation ashram in West Bengal",
+        "rating": "4.4",
+        "lat": 23.9268,
+        "lng": 88.795
+      },
+      {
+        "name": "Wellness Resort Kolkata",
+        "desc": "Luxury wellness resort in Kolkata",
+        "rating": "4.4",
+        "lat": 22.0868,
+        "lng": 86.955
+      },
+      {
+        "name": "Herbal Garden West Bengal",
+        "desc": "Medicinal herb garden in West Bengal",
+        "rating": "4.2",
+        "lat": 22.0768,
+        "lng": 86.94500000000001
+      },
+      {
+        "name": "Forest Bathing West Bengal",
+        "desc": "Therapeutic forest walks in West Bengal",
+        "rating": "4.3",
+        "lat": 22.066799999999997,
+        "lng": 86.935
+      },
+      {
+        "name": "Hot Spring West Bengal",
+        "desc": "Natural hot spring in West Bengal",
+        "rating": "4.4",
+        "lat": 22.0568,
+        "lng": 86.925
+      },
+      {
+        "name": "Detox Retreat West Bengal",
+        "desc": "Detox and wellness retreat in West Bengal",
+        "rating": "4.3",
+        "lat": 22.046799999999998,
+        "lng": 86.915
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Kolkata",
+        "desc": "Main airport of West Bengal in Kolkata",
+        "rating": "4.0",
+        "lat": 23.9868,
+        "lng": 88.855
+      },
+      {
+        "name": "Railway Station Kolkata",
+        "desc": "Main railway junction in Kolkata",
+        "rating": "3.8",
+        "lat": 23.9968,
+        "lng": 88.86500000000001
+      },
+      {
+        "name": "Bus Terminal Kolkata",
+        "desc": "State bus terminal in Kolkata",
+        "rating": "3.7",
+        "lat": 24.0068,
+        "lng": 88.875
+      },
+      {
+        "name": "Metro Rail Kolkata",
+        "desc": "Metro rail system in Kolkata",
+        "rating": "4.2",
+        "lat": 24.0168,
+        "lng": 88.885
+      },
+      {
+        "name": "Highway West Bengal",
+        "desc": "Major national highway through West Bengal",
+        "rating": "4.0",
+        "lat": 24.026799999999998,
+        "lng": 88.89500000000001
+      },
+      {
+        "name": "Port West Bengal",
+        "desc": "Major sea port of West Bengal",
+        "rating": "3.9",
+        "lat": 21.9868,
+        "lng": 86.855
+      },
+      {
+        "name": "Taxi Stand Kolkata",
+        "desc": "Main cab and taxi hub in Kolkata",
+        "rating": "3.8",
+        "lat": 21.976799999999997,
+        "lng": 86.845
+      },
+      {
+        "name": "Auto Rickshaw Kolkata",
+        "desc": "Auto rickshaw services across Kolkata",
+        "rating": "3.6",
+        "lat": 21.9668,
+        "lng": 86.83500000000001
+      },
+      {
+        "name": "Cab Services Kolkata",
+        "desc": "Ola and Uber cab services in Kolkata",
+        "rating": "4.0",
+        "lat": 21.956799999999998,
+        "lng": 86.825
+      },
+      {
+        "name": "Helipad West Bengal",
+        "desc": "Helicopter services in West Bengal",
+        "rating": "4.0",
+        "lat": 21.9468,
+        "lng": 86.815
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival West Bengal",
+        "desc": "Most famous festival of West Bengal",
+        "rating": "4.7",
+        "lat": 24.0868,
+        "lng": 88.955
+      },
+      {
+        "name": "Cooking Class West Bengal",
+        "desc": "Learn traditional West Bengal cooking techniques",
+        "rating": "4.5",
+        "lat": 24.096799999999998,
+        "lng": 88.965
+      },
+      {
+        "name": "Village Walk West Bengal",
+        "desc": "Authentic village life experience in West Bengal",
+        "rating": "4.4",
+        "lat": 24.1068,
+        "lng": 88.97500000000001
+      },
+      {
+        "name": "Craft Workshop West Bengal",
+        "desc": "Traditional craft making workshop in West Bengal",
+        "rating": "4.4",
+        "lat": 24.116799999999998,
+        "lng": 88.985
+      },
+      {
+        "name": "Sunrise Trek West Bengal",
+        "desc": "Early morning sunrise trek in West Bengal",
+        "rating": "4.5",
+        "lat": 24.1268,
+        "lng": 88.995
+      },
+      {
+        "name": "Local Market Tour Kolkata",
+        "desc": "Guided tour of local markets in Kolkata",
+        "rating": "4.3",
+        "lat": 21.886799999999997,
+        "lng": 86.75500000000001
+      },
+      {
+        "name": "Folk Performance West Bengal",
+        "desc": "Traditional folk art performance of West Bengal",
+        "rating": "4.5",
+        "lat": 21.8768,
+        "lng": 86.745
+      },
+      {
+        "name": "Farm Stay West Bengal",
+        "desc": "Authentic farm stay experience in West Bengal",
+        "rating": "4.4",
+        "lat": 21.866799999999998,
+        "lng": 86.735
+      },
+      {
+        "name": "Night Safari West Bengal",
+        "desc": "Night wildlife safari in West Bengal",
+        "rating": "4.4",
+        "lat": 21.8568,
+        "lng": 86.72500000000001
+      },
+      {
+        "name": "Harvest Festival West Bengal",
+        "desc": "Traditional harvest festival of West Bengal",
+        "rating": "4.5",
+        "lat": 21.846799999999998,
+        "lng": 86.715
+      }
+    ]
+  }
+}

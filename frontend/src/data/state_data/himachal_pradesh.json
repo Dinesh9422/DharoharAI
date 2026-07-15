@@ -1,0 +1,870 @@
+{
+  "state": "Himachal Pradesh",
+  "capital": "Shimla",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Hadimba Temple Manali",
+        "desc": "Most famous heritage site in Himachal Pradesh",
+        "rating": "4.6",
+        "lat": 31.1048,
+        "lng": 77.1734
+      },
+      {
+        "name": "State Museum Shimla",
+        "desc": "Archaeological museum showcasing Himachal Pradesh history",
+        "rating": "4.2",
+        "lat": 31.114800000000002,
+        "lng": 77.1834
+      },
+      {
+        "name": "Old Fort Shimla",
+        "desc": "Historic fort from medieval era in Shimla",
+        "rating": "4.3",
+        "lat": 31.1248,
+        "lng": 77.1934
+      },
+      {
+        "name": "Ancient Temple Himachal Pradesh",
+        "desc": "Famous ancient temple showcasing Himachal Pradesh architecture",
+        "rating": "4.4",
+        "lat": 31.134800000000002,
+        "lng": 77.2034
+      },
+      {
+        "name": "Colonial Building Shimla",
+        "desc": "Historic colonial era building in Shimla",
+        "rating": "4.1",
+        "lat": 31.1448,
+        "lng": 77.21340000000001
+      },
+      {
+        "name": "Palace Himachal Pradesh",
+        "desc": "Royal palace of former rulers of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.0948,
+        "lng": 77.1634
+      },
+      {
+        "name": "Rock Cut Caves Himachal Pradesh",
+        "desc": "Ancient rock cut monuments in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 31.0848,
+        "lng": 77.1534
+      },
+      {
+        "name": "Heritage Walk Shimla",
+        "desc": "Guided walk through old quarter of Shimla",
+        "rating": "4.3",
+        "lat": 31.0748,
+        "lng": 77.1434
+      },
+      {
+        "name": "Memorial Museum Shimla",
+        "desc": "Memorial to freedom fighters of Himachal Pradesh",
+        "rating": "4.1",
+        "lat": 31.0648,
+        "lng": 77.1334
+      },
+      {
+        "name": "Ruins Site Himachal Pradesh",
+        "desc": "Ancient ruins and archaeological findings in Himachal Pradesh",
+        "rating": "4.2",
+        "lat": 31.0548,
+        "lng": 77.1234
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Shimla",
+        "desc": "Authentic Himachal Pradesh thali with local specialties",
+        "rating": "4.5",
+        "lat": 31.204800000000002,
+        "lng": 77.2734
+      },
+      {
+        "name": "Street Food Market Shimla",
+        "desc": "Famous street food market in Shimla",
+        "rating": "4.4",
+        "lat": 31.2148,
+        "lng": 77.2834
+      },
+      {
+        "name": "Local Sweet Shop Himachal Pradesh",
+        "desc": "Famous traditional sweets unique to Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 31.224800000000002,
+        "lng": 77.2934
+      },
+      {
+        "name": "Tribal Cuisine Himachal Pradesh",
+        "desc": "Authentic tribal food of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.2348,
+        "lng": 77.3034
+      },
+      {
+        "name": "Dhaba Himachal Pradesh",
+        "desc": "Famous highway dhaba with Himachal Pradesh specialties",
+        "rating": "4.3",
+        "lat": 31.2448,
+        "lng": 77.3134
+      },
+      {
+        "name": "Vegetarian Restaurant Shimla",
+        "desc": "Best pure vegetarian food in Shimla",
+        "rating": "4.3",
+        "lat": 31.0048,
+        "lng": 77.0734
+      },
+      {
+        "name": "Biryani House Shimla",
+        "desc": "Best biryani and rice dishes in Shimla",
+        "rating": "4.4",
+        "lat": 30.9948,
+        "lng": 77.0634
+      },
+      {
+        "name": "Bakery Cafe Shimla",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 30.9848,
+        "lng": 77.0534
+      },
+      {
+        "name": "Royal Kitchen Himachal Pradesh",
+        "desc": "Restaurant serving royal recipes of Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 30.974800000000002,
+        "lng": 77.0434
+      },
+      {
+        "name": "Fish Curry House Himachal Pradesh",
+        "desc": "Traditional Himachal Pradesh style fish preparation",
+        "rating": "4.4",
+        "lat": 30.9648,
+        "lng": 77.0334
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Shimla",
+        "desc": "Luxury 5-star Taj hotel in Shimla",
+        "rating": "4.7",
+        "lat": 31.3048,
+        "lng": 77.3734
+      },
+      {
+        "name": "Oberoi Resort Himachal Pradesh",
+        "desc": "Luxury resort in scenic location in Himachal Pradesh",
+        "rating": "4.8",
+        "lat": 31.3148,
+        "lng": 77.3834
+      },
+      {
+        "name": "Heritage Hotel Shimla",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 31.3248,
+        "lng": 77.3934
+      },
+      {
+        "name": "ITC Hotel Shimla",
+        "desc": "ITC luxury hotel in Shimla",
+        "rating": "4.6",
+        "lat": 31.3348,
+        "lng": 77.4034
+      },
+      {
+        "name": "Eco Resort Himachal Pradesh",
+        "desc": "Eco-friendly resort in nature of Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 31.3448,
+        "lng": 77.4134
+      },
+      {
+        "name": "Boutique Hotel Shimla",
+        "desc": "Charming boutique hotel in old quarter of Shimla",
+        "rating": "4.4",
+        "lat": 30.9048,
+        "lng": 76.9734
+      },
+      {
+        "name": "Marriott Shimla",
+        "desc": "International 5-star Marriott hotel in Shimla",
+        "rating": "4.6",
+        "lat": 30.8948,
+        "lng": 76.96340000000001
+      },
+      {
+        "name": "Forest Lodge Himachal Pradesh",
+        "desc": "Wildlife lodge near forest of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 30.884800000000002,
+        "lng": 76.9534
+      },
+      {
+        "name": "Homestay Himachal Pradesh",
+        "desc": "Authentic homestay with local family in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.8748,
+        "lng": 76.9434
+      },
+      {
+        "name": "Budget Hotel Shimla",
+        "desc": "Clean comfortable budget stay in Shimla",
+        "rating": "4.0",
+        "lat": 30.864800000000002,
+        "lng": 76.9334
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Himachal Pradesh",
+        "desc": "Best panoramic viewpoint in Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 31.4048,
+        "lng": 77.4734
+      },
+      {
+        "name": "Waterfall Himachal Pradesh",
+        "desc": "Most beautiful waterfall in Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 31.4148,
+        "lng": 77.4834
+      },
+      {
+        "name": "Lake Himachal Pradesh",
+        "desc": "Scenic lake in Himachal Pradesh with boating",
+        "rating": "4.3",
+        "lat": 31.4248,
+        "lng": 77.4934
+      },
+      {
+        "name": "Hill Station Himachal Pradesh",
+        "desc": "Popular hill station in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.4348,
+        "lng": 77.5034
+      },
+      {
+        "name": "National Park Himachal Pradesh",
+        "desc": "Wildlife national park in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.4448,
+        "lng": 77.5134
+      },
+      {
+        "name": "Beach Himachal Pradesh",
+        "desc": "Beautiful beach in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.8048,
+        "lng": 76.8734
+      },
+      {
+        "name": "Cave System Himachal Pradesh",
+        "desc": "Natural cave system in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.794800000000002,
+        "lng": 76.8634
+      },
+      {
+        "name": "Dam Himachal Pradesh",
+        "desc": "Scenic dam and reservoir in Himachal Pradesh",
+        "rating": "4.2",
+        "lat": 30.7848,
+        "lng": 76.85340000000001
+      },
+      {
+        "name": "Botanical Garden Shimla",
+        "desc": "Botanical garden with rare plants in Shimla",
+        "rating": "4.2",
+        "lat": 30.774800000000003,
+        "lng": 76.8434
+      },
+      {
+        "name": "Zoo Shimla",
+        "desc": "State zoo in Shimla with variety of animals",
+        "rating": "4.1",
+        "lat": 30.7648,
+        "lng": 76.8334
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Shimla",
+        "desc": "Bustling main market of Shimla",
+        "rating": "4.3",
+        "lat": 31.5048,
+        "lng": 77.5734
+      },
+      {
+        "name": "Handicraft Market Himachal Pradesh",
+        "desc": "Traditional handicrafts of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.5148,
+        "lng": 77.5834
+      },
+      {
+        "name": "Silk Market Himachal Pradesh",
+        "desc": "Famous silk and textile market of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.524800000000003,
+        "lng": 77.5934
+      },
+      {
+        "name": "Tribal Art Market Himachal Pradesh",
+        "desc": "Traditional tribal art and crafts of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.5348,
+        "lng": 77.60340000000001
+      },
+      {
+        "name": "Spice Market Himachal Pradesh",
+        "desc": "Aromatic spice market unique to Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 31.544800000000002,
+        "lng": 77.6134
+      },
+      {
+        "name": "Mall Shimla",
+        "desc": "Modern shopping mall in Shimla",
+        "rating": "4.2",
+        "lat": 30.704800000000002,
+        "lng": 76.7734
+      },
+      {
+        "name": "Gem Market Himachal Pradesh",
+        "desc": "Precious and semi-precious stones of Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.6948,
+        "lng": 76.7634
+      },
+      {
+        "name": "Bamboo Craft Himachal Pradesh",
+        "desc": "Traditional bamboo craft market of Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.6848,
+        "lng": 76.7534
+      },
+      {
+        "name": "Pottery Village Himachal Pradesh",
+        "desc": "Traditional pottery making village in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.6748,
+        "lng": 76.7434
+      },
+      {
+        "name": "Night Market Shimla",
+        "desc": "Evening market in Shimla with local goods",
+        "rating": "4.2",
+        "lat": 30.6648,
+        "lng": 76.7334
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Himachal Pradesh",
+        "desc": "Tiger and wildlife reserve in Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 31.6048,
+        "lng": 77.6734
+      },
+      {
+        "name": "Bird Sanctuary Himachal Pradesh",
+        "desc": "Migratory bird sanctuary in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.614800000000002,
+        "lng": 77.6834
+      },
+      {
+        "name": "Forest Reserve Himachal Pradesh",
+        "desc": "Dense forest reserve of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.6248,
+        "lng": 77.6934
+      },
+      {
+        "name": "River Valley Himachal Pradesh",
+        "desc": "Scenic river valley in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 31.634800000000002,
+        "lng": 77.7034
+      },
+      {
+        "name": "Mountain Peak Himachal Pradesh",
+        "desc": "Highest mountain peak in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.6448,
+        "lng": 77.71340000000001
+      },
+      {
+        "name": "Wetland Himachal Pradesh",
+        "desc": "Important wetland ecosystem in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.6048,
+        "lng": 76.6734
+      },
+      {
+        "name": "Tea Garden Himachal Pradesh",
+        "desc": "Scenic tea or coffee plantation in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 30.5948,
+        "lng": 76.6634
+      },
+      {
+        "name": "Organic Farm Himachal Pradesh",
+        "desc": "Organic farming experience in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.5848,
+        "lng": 76.6534
+      },
+      {
+        "name": "Sunrise Point Himachal Pradesh",
+        "desc": "Most spectacular sunrise point in Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 30.5748,
+        "lng": 76.6434
+      },
+      {
+        "name": "Eco Park Shimla",
+        "desc": "Ecology park in Shimla with rare plants",
+        "rating": "4.1",
+        "lat": 30.5648,
+        "lng": 76.6334
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Himachal Pradesh",
+        "desc": "Most famous temple in Himachal Pradesh",
+        "rating": "4.6",
+        "lat": 31.704800000000002,
+        "lng": 77.7734
+      },
+      {
+        "name": "Mosque Shimla",
+        "desc": "Historic mosque in Shimla",
+        "rating": "4.3",
+        "lat": 31.7148,
+        "lng": 77.7834
+      },
+      {
+        "name": "Church Shimla",
+        "desc": "Historic church in Shimla",
+        "rating": "4.3",
+        "lat": 31.724800000000002,
+        "lng": 77.7934
+      },
+      {
+        "name": "Gurudwara Himachal Pradesh",
+        "desc": "Important Sikh shrine in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.7348,
+        "lng": 77.8034
+      },
+      {
+        "name": "Buddhist Monastery Himachal Pradesh",
+        "desc": "Ancient Buddhist monastery in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.7448,
+        "lng": 77.8134
+      },
+      {
+        "name": "Jain Temple Himachal Pradesh",
+        "desc": "Famous Jain temple in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 30.5048,
+        "lng": 76.5734
+      },
+      {
+        "name": "Dargah Himachal Pradesh",
+        "desc": "Famous Sufi dargah in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.4948,
+        "lng": 76.5634
+      },
+      {
+        "name": "Ashram Himachal Pradesh",
+        "desc": "Spiritual ashram in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 30.4848,
+        "lng": 76.5534
+      },
+      {
+        "name": "Pilgrimage Site Himachal Pradesh",
+        "desc": "Important pilgrimage destination in Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 30.474800000000002,
+        "lng": 76.5434
+      },
+      {
+        "name": "Sacred River Ghat Himachal Pradesh",
+        "desc": "Sacred river ghat for rituals in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.4648,
+        "lng": 76.5334
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Himachal Pradesh",
+        "desc": "Traditional folk dance performance of Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 31.8048,
+        "lng": 77.8734
+      },
+      {
+        "name": "Art Gallery Shimla",
+        "desc": "State art gallery in Shimla",
+        "rating": "4.2",
+        "lat": 31.8148,
+        "lng": 77.8834
+      },
+      {
+        "name": "Cultural Center Shimla",
+        "desc": "Cultural center for arts in Shimla",
+        "rating": "4.3",
+        "lat": 31.8248,
+        "lng": 77.8934
+      },
+      {
+        "name": "Music Festival Himachal Pradesh",
+        "desc": "Annual music festival of Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 31.8348,
+        "lng": 77.9034
+      },
+      {
+        "name": "Tribal Museum Himachal Pradesh",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 31.8448,
+        "lng": 77.9134
+      },
+      {
+        "name": "Craft Village Himachal Pradesh",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 30.4048,
+        "lng": 76.4734
+      },
+      {
+        "name": "Classical Dance Academy Shimla",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 30.3948,
+        "lng": 76.46340000000001
+      },
+      {
+        "name": "Puppet Theatre Himachal Pradesh",
+        "desc": "Traditional puppet theatre of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 30.384800000000002,
+        "lng": 76.4534
+      },
+      {
+        "name": "Weaving Center Himachal Pradesh",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 30.3748,
+        "lng": 76.4434
+      },
+      {
+        "name": "Open Air Theatre Shimla",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 30.364800000000002,
+        "lng": 76.4334
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Himachal Pradesh",
+        "desc": "Best trekking trails in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.9048,
+        "lng": 77.9734
+      },
+      {
+        "name": "Rock Climbing Himachal Pradesh",
+        "desc": "Rock climbing spots in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 31.9148,
+        "lng": 77.9834
+      },
+      {
+        "name": "River Rafting Himachal Pradesh",
+        "desc": "White water rafting in rivers of Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 31.9248,
+        "lng": 77.9934
+      },
+      {
+        "name": "Paragliding Himachal Pradesh",
+        "desc": "Paragliding spots in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.9348,
+        "lng": 78.0034
+      },
+      {
+        "name": "Camping Himachal Pradesh",
+        "desc": "Camping spots in forests of Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 31.9448,
+        "lng": 78.0134
+      },
+      {
+        "name": "Zip Line Himachal Pradesh",
+        "desc": "Zip lining adventure in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.3048,
+        "lng": 76.3734
+      },
+      {
+        "name": "Jungle Safari Himachal Pradesh",
+        "desc": "Jeep jungle safari in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 30.294800000000002,
+        "lng": 76.3634
+      },
+      {
+        "name": "Cycling Tour Himachal Pradesh",
+        "desc": "Scenic cycling routes in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.2848,
+        "lng": 76.35340000000001
+      },
+      {
+        "name": "Water Sports Himachal Pradesh",
+        "desc": "Water sports activities in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.274800000000003,
+        "lng": 76.3434
+      },
+      {
+        "name": "Bungee Jumping Himachal Pradesh",
+        "desc": "Bungee jumping experience in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.2648,
+        "lng": 76.3334
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Himachal Pradesh",
+        "desc": "Traditional Ayurvedic treatments in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 32.0048,
+        "lng": 78.0734
+      },
+      {
+        "name": "Yoga Retreat Himachal Pradesh",
+        "desc": "Yoga and meditation retreat in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 32.0148,
+        "lng": 78.0834
+      },
+      {
+        "name": "Spa Resort Himachal Pradesh",
+        "desc": "Luxury spa resort in Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 32.0248,
+        "lng": 78.0934
+      },
+      {
+        "name": "Naturopathy Center Himachal Pradesh",
+        "desc": "Natural healing center in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 32.034800000000004,
+        "lng": 78.10340000000001
+      },
+      {
+        "name": "Meditation Ashram Himachal Pradesh",
+        "desc": "Peaceful meditation ashram in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 32.0448,
+        "lng": 78.1134
+      },
+      {
+        "name": "Wellness Resort Shimla",
+        "desc": "Luxury wellness resort in Shimla",
+        "rating": "4.4",
+        "lat": 30.204800000000002,
+        "lng": 76.2734
+      },
+      {
+        "name": "Herbal Garden Himachal Pradesh",
+        "desc": "Medicinal herb garden in Himachal Pradesh",
+        "rating": "4.2",
+        "lat": 30.1948,
+        "lng": 76.2634
+      },
+      {
+        "name": "Forest Bathing Himachal Pradesh",
+        "desc": "Therapeutic forest walks in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.1848,
+        "lng": 76.2534
+      },
+      {
+        "name": "Hot Spring Himachal Pradesh",
+        "desc": "Natural hot spring in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 30.1748,
+        "lng": 76.2434
+      },
+      {
+        "name": "Detox Retreat Himachal Pradesh",
+        "desc": "Detox and wellness retreat in Himachal Pradesh",
+        "rating": "4.3",
+        "lat": 30.1648,
+        "lng": 76.2334
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Shimla",
+        "desc": "Main airport of Himachal Pradesh in Shimla",
+        "rating": "4.0",
+        "lat": 32.1048,
+        "lng": 78.1734
+      },
+      {
+        "name": "Railway Station Shimla",
+        "desc": "Main railway junction in Shimla",
+        "rating": "3.8",
+        "lat": 32.1148,
+        "lng": 78.1834
+      },
+      {
+        "name": "Bus Terminal Shimla",
+        "desc": "State bus terminal in Shimla",
+        "rating": "3.7",
+        "lat": 32.1248,
+        "lng": 78.1934
+      },
+      {
+        "name": "Metro Rail Shimla",
+        "desc": "Metro rail system in Shimla",
+        "rating": "4.2",
+        "lat": 32.1348,
+        "lng": 78.2034
+      },
+      {
+        "name": "Highway Himachal Pradesh",
+        "desc": "Major national highway through Himachal Pradesh",
+        "rating": "4.0",
+        "lat": 32.144800000000004,
+        "lng": 78.21340000000001
+      },
+      {
+        "name": "Port Himachal Pradesh",
+        "desc": "Major sea port of Himachal Pradesh",
+        "rating": "3.9",
+        "lat": 30.1048,
+        "lng": 76.1734
+      },
+      {
+        "name": "Taxi Stand Shimla",
+        "desc": "Main cab and taxi hub in Shimla",
+        "rating": "3.8",
+        "lat": 30.0948,
+        "lng": 76.1634
+      },
+      {
+        "name": "Auto Rickshaw Shimla",
+        "desc": "Auto rickshaw services across Shimla",
+        "rating": "3.6",
+        "lat": 30.0848,
+        "lng": 76.1534
+      },
+      {
+        "name": "Cab Services Shimla",
+        "desc": "Ola and Uber cab services in Shimla",
+        "rating": "4.0",
+        "lat": 30.0748,
+        "lng": 76.1434
+      },
+      {
+        "name": "Helipad Himachal Pradesh",
+        "desc": "Helicopter services in Himachal Pradesh",
+        "rating": "4.0",
+        "lat": 30.0648,
+        "lng": 76.1334
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Himachal Pradesh",
+        "desc": "Most famous festival of Himachal Pradesh",
+        "rating": "4.7",
+        "lat": 32.2048,
+        "lng": 78.2734
+      },
+      {
+        "name": "Cooking Class Himachal Pradesh",
+        "desc": "Learn traditional Himachal Pradesh cooking techniques",
+        "rating": "4.5",
+        "lat": 32.214800000000004,
+        "lng": 78.2834
+      },
+      {
+        "name": "Village Walk Himachal Pradesh",
+        "desc": "Authentic village life experience in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 32.2248,
+        "lng": 78.2934
+      },
+      {
+        "name": "Craft Workshop Himachal Pradesh",
+        "desc": "Traditional craft making workshop in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 32.2348,
+        "lng": 78.3034
+      },
+      {
+        "name": "Sunrise Trek Himachal Pradesh",
+        "desc": "Early morning sunrise trek in Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 32.2448,
+        "lng": 78.3134
+      },
+      {
+        "name": "Local Market Tour Shimla",
+        "desc": "Guided tour of local markets in Shimla",
+        "rating": "4.3",
+        "lat": 30.0048,
+        "lng": 76.0734
+      },
+      {
+        "name": "Folk Performance Himachal Pradesh",
+        "desc": "Traditional folk art performance of Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 29.9948,
+        "lng": 76.0634
+      },
+      {
+        "name": "Farm Stay Himachal Pradesh",
+        "desc": "Authentic farm stay experience in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.9848,
+        "lng": 76.0534
+      },
+      {
+        "name": "Night Safari Himachal Pradesh",
+        "desc": "Night wildlife safari in Himachal Pradesh",
+        "rating": "4.4",
+        "lat": 29.974800000000002,
+        "lng": 76.0434
+      },
+      {
+        "name": "Harvest Festival Himachal Pradesh",
+        "desc": "Traditional harvest festival of Himachal Pradesh",
+        "rating": "4.5",
+        "lat": 29.9648,
+        "lng": 76.0334
+      }
+    ]
+  }
+}

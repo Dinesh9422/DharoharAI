@@ -1,0 +1,870 @@
+{
+  "state": "Dadra and Nagar Haveli",
+  "capital": "Silvassa",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Tribal Museum Silvassa",
+        "desc": "Most famous heritage site in Dadra and Nagar Haveli",
+        "rating": "4.6",
+        "lat": 20.1809,
+        "lng": 73.0169
+      },
+      {
+        "name": "State Museum Silvassa",
+        "desc": "Archaeological museum showcasing Dadra and Nagar Haveli history",
+        "rating": "4.2",
+        "lat": 20.190900000000003,
+        "lng": 73.02690000000001
+      },
+      {
+        "name": "Old Fort Silvassa",
+        "desc": "Historic fort from medieval era in Silvassa",
+        "rating": "4.3",
+        "lat": 20.2009,
+        "lng": 73.0369
+      },
+      {
+        "name": "Ancient Temple Dadra and Nagar Haveli",
+        "desc": "Famous ancient temple showcasing Dadra and Nagar Haveli architecture",
+        "rating": "4.4",
+        "lat": 20.210900000000002,
+        "lng": 73.04690000000001
+      },
+      {
+        "name": "Colonial Building Silvassa",
+        "desc": "Historic colonial era building in Silvassa",
+        "rating": "4.1",
+        "lat": 20.2209,
+        "lng": 73.05690000000001
+      },
+      {
+        "name": "Palace Dadra and Nagar Haveli",
+        "desc": "Royal palace of former rulers of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.1709,
+        "lng": 73.0069
+      },
+      {
+        "name": "Rock Cut Caves Dadra and Nagar Haveli",
+        "desc": "Ancient rock cut monuments in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 20.1609,
+        "lng": 72.99690000000001
+      },
+      {
+        "name": "Heritage Walk Silvassa",
+        "desc": "Guided walk through old quarter of Silvassa",
+        "rating": "4.3",
+        "lat": 20.1509,
+        "lng": 72.9869
+      },
+      {
+        "name": "Memorial Museum Silvassa",
+        "desc": "Memorial to freedom fighters of Dadra and Nagar Haveli",
+        "rating": "4.1",
+        "lat": 20.140900000000002,
+        "lng": 72.9769
+      },
+      {
+        "name": "Ruins Site Dadra and Nagar Haveli",
+        "desc": "Ancient ruins and archaeological findings in Dadra and Nagar Haveli",
+        "rating": "4.2",
+        "lat": 20.1309,
+        "lng": 72.96690000000001
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Silvassa",
+        "desc": "Authentic Dadra and Nagar Haveli thali with local specialties",
+        "rating": "4.5",
+        "lat": 20.280900000000003,
+        "lng": 73.1169
+      },
+      {
+        "name": "Street Food Market Silvassa",
+        "desc": "Famous street food market in Silvassa",
+        "rating": "4.4",
+        "lat": 20.2909,
+        "lng": 73.1269
+      },
+      {
+        "name": "Local Sweet Shop Dadra and Nagar Haveli",
+        "desc": "Famous traditional sweets unique to Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 20.300900000000002,
+        "lng": 73.13690000000001
+      },
+      {
+        "name": "Tribal Cuisine Dadra and Nagar Haveli",
+        "desc": "Authentic tribal food of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.3109,
+        "lng": 73.1469
+      },
+      {
+        "name": "Dhaba Dadra and Nagar Haveli",
+        "desc": "Famous highway dhaba with Dadra and Nagar Haveli specialties",
+        "rating": "4.3",
+        "lat": 20.3209,
+        "lng": 73.15690000000001
+      },
+      {
+        "name": "Vegetarian Restaurant Silvassa",
+        "desc": "Best pure vegetarian food in Silvassa",
+        "rating": "4.3",
+        "lat": 20.0809,
+        "lng": 72.91690000000001
+      },
+      {
+        "name": "Biryani House Silvassa",
+        "desc": "Best biryani and rice dishes in Silvassa",
+        "rating": "4.4",
+        "lat": 20.0709,
+        "lng": 72.90690000000001
+      },
+      {
+        "name": "Bakery Cafe Silvassa",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 20.0609,
+        "lng": 72.8969
+      },
+      {
+        "name": "Royal Kitchen Dadra and Nagar Haveli",
+        "desc": "Restaurant serving royal recipes of Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 20.050900000000002,
+        "lng": 72.88690000000001
+      },
+      {
+        "name": "Fish Curry House Dadra and Nagar Haveli",
+        "desc": "Traditional Dadra and Nagar Haveli style fish preparation",
+        "rating": "4.4",
+        "lat": 20.0409,
+        "lng": 72.8769
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Silvassa",
+        "desc": "Luxury 5-star Taj hotel in Silvassa",
+        "rating": "4.7",
+        "lat": 20.3809,
+        "lng": 73.21690000000001
+      },
+      {
+        "name": "Oberoi Resort Dadra and Nagar Haveli",
+        "desc": "Luxury resort in scenic location in Dadra and Nagar Haveli",
+        "rating": "4.8",
+        "lat": 20.390900000000002,
+        "lng": 73.2269
+      },
+      {
+        "name": "Heritage Hotel Silvassa",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 20.4009,
+        "lng": 73.2369
+      },
+      {
+        "name": "ITC Hotel Silvassa",
+        "desc": "ITC luxury hotel in Silvassa",
+        "rating": "4.6",
+        "lat": 20.4109,
+        "lng": 73.24690000000001
+      },
+      {
+        "name": "Eco Resort Dadra and Nagar Haveli",
+        "desc": "Eco-friendly resort in nature of Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 20.4209,
+        "lng": 73.2569
+      },
+      {
+        "name": "Boutique Hotel Silvassa",
+        "desc": "Charming boutique hotel in old quarter of Silvassa",
+        "rating": "4.4",
+        "lat": 19.980900000000002,
+        "lng": 72.8169
+      },
+      {
+        "name": "Marriott Silvassa",
+        "desc": "International 5-star Marriott hotel in Silvassa",
+        "rating": "4.6",
+        "lat": 19.9709,
+        "lng": 72.80690000000001
+      },
+      {
+        "name": "Forest Lodge Dadra and Nagar Haveli",
+        "desc": "Wildlife lodge near forest of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.960900000000002,
+        "lng": 72.79690000000001
+      },
+      {
+        "name": "Homestay Dadra and Nagar Haveli",
+        "desc": "Authentic homestay with local family in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.9509,
+        "lng": 72.7869
+      },
+      {
+        "name": "Budget Hotel Silvassa",
+        "desc": "Clean comfortable budget stay in Silvassa",
+        "rating": "4.0",
+        "lat": 19.940900000000003,
+        "lng": 72.77690000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Dadra and Nagar Haveli",
+        "desc": "Best panoramic viewpoint in Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 20.480900000000002,
+        "lng": 73.3169
+      },
+      {
+        "name": "Waterfall Dadra and Nagar Haveli",
+        "desc": "Most beautiful waterfall in Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 20.4909,
+        "lng": 73.32690000000001
+      },
+      {
+        "name": "Lake Dadra and Nagar Haveli",
+        "desc": "Scenic lake in Dadra and Nagar Haveli with boating",
+        "rating": "4.3",
+        "lat": 20.5009,
+        "lng": 73.3369
+      },
+      {
+        "name": "Hill Station Dadra and Nagar Haveli",
+        "desc": "Popular hill station in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.5109,
+        "lng": 73.3469
+      },
+      {
+        "name": "National Park Dadra and Nagar Haveli",
+        "desc": "Wildlife national park in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.5209,
+        "lng": 73.35690000000001
+      },
+      {
+        "name": "Beach Dadra and Nagar Haveli",
+        "desc": "Beautiful beach in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.8809,
+        "lng": 72.71690000000001
+      },
+      {
+        "name": "Cave System Dadra and Nagar Haveli",
+        "desc": "Natural cave system in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.870900000000002,
+        "lng": 72.7069
+      },
+      {
+        "name": "Dam Dadra and Nagar Haveli",
+        "desc": "Scenic dam and reservoir in Dadra and Nagar Haveli",
+        "rating": "4.2",
+        "lat": 19.8609,
+        "lng": 72.69690000000001
+      },
+      {
+        "name": "Botanical Garden Silvassa",
+        "desc": "Botanical garden with rare plants in Silvassa",
+        "rating": "4.2",
+        "lat": 19.850900000000003,
+        "lng": 72.68690000000001
+      },
+      {
+        "name": "Zoo Silvassa",
+        "desc": "State zoo in Silvassa with variety of animals",
+        "rating": "4.1",
+        "lat": 19.8409,
+        "lng": 72.6769
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Silvassa",
+        "desc": "Bustling main market of Silvassa",
+        "rating": "4.3",
+        "lat": 20.5809,
+        "lng": 73.41690000000001
+      },
+      {
+        "name": "Handicraft Market Dadra and Nagar Haveli",
+        "desc": "Traditional handicrafts of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.5909,
+        "lng": 73.4269
+      },
+      {
+        "name": "Silk Market Dadra and Nagar Haveli",
+        "desc": "Famous silk and textile market of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.600900000000003,
+        "lng": 73.43690000000001
+      },
+      {
+        "name": "Tribal Art Market Dadra and Nagar Haveli",
+        "desc": "Traditional tribal art and crafts of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.6109,
+        "lng": 73.44690000000001
+      },
+      {
+        "name": "Spice Market Dadra and Nagar Haveli",
+        "desc": "Aromatic spice market unique to Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 20.620900000000002,
+        "lng": 73.4569
+      },
+      {
+        "name": "Mall Silvassa",
+        "desc": "Modern shopping mall in Silvassa",
+        "rating": "4.2",
+        "lat": 19.780900000000003,
+        "lng": 72.6169
+      },
+      {
+        "name": "Gem Market Dadra and Nagar Haveli",
+        "desc": "Precious and semi-precious stones of Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.7709,
+        "lng": 72.60690000000001
+      },
+      {
+        "name": "Bamboo Craft Dadra and Nagar Haveli",
+        "desc": "Traditional bamboo craft market of Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.7609,
+        "lng": 72.5969
+      },
+      {
+        "name": "Pottery Village Dadra and Nagar Haveli",
+        "desc": "Traditional pottery making village in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.7509,
+        "lng": 72.5869
+      },
+      {
+        "name": "Night Market Silvassa",
+        "desc": "Evening market in Silvassa with local goods",
+        "rating": "4.2",
+        "lat": 19.7409,
+        "lng": 72.57690000000001
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Dadra and Nagar Haveli",
+        "desc": "Tiger and wildlife reserve in Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 20.6809,
+        "lng": 73.5169
+      },
+      {
+        "name": "Bird Sanctuary Dadra and Nagar Haveli",
+        "desc": "Migratory bird sanctuary in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.690900000000003,
+        "lng": 73.52690000000001
+      },
+      {
+        "name": "Forest Reserve Dadra and Nagar Haveli",
+        "desc": "Dense forest reserve of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.7009,
+        "lng": 73.5369
+      },
+      {
+        "name": "River Valley Dadra and Nagar Haveli",
+        "desc": "Scenic river valley in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 20.710900000000002,
+        "lng": 73.54690000000001
+      },
+      {
+        "name": "Mountain Peak Dadra and Nagar Haveli",
+        "desc": "Highest mountain peak in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.7209,
+        "lng": 73.55690000000001
+      },
+      {
+        "name": "Wetland Dadra and Nagar Haveli",
+        "desc": "Important wetland ecosystem in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.6809,
+        "lng": 72.5169
+      },
+      {
+        "name": "Tea Garden Dadra and Nagar Haveli",
+        "desc": "Scenic tea or coffee plantation in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.6709,
+        "lng": 72.5069
+      },
+      {
+        "name": "Organic Farm Dadra and Nagar Haveli",
+        "desc": "Organic farming experience in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.6609,
+        "lng": 72.49690000000001
+      },
+      {
+        "name": "Sunrise Point Dadra and Nagar Haveli",
+        "desc": "Most spectacular sunrise point in Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 19.6509,
+        "lng": 72.4869
+      },
+      {
+        "name": "Eco Park Silvassa",
+        "desc": "Ecology park in Silvassa with rare plants",
+        "rating": "4.1",
+        "lat": 19.640900000000002,
+        "lng": 72.4769
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Dadra and Nagar Haveli",
+        "desc": "Most famous temple in Dadra and Nagar Haveli",
+        "rating": "4.6",
+        "lat": 20.780900000000003,
+        "lng": 73.6169
+      },
+      {
+        "name": "Mosque Silvassa",
+        "desc": "Historic mosque in Silvassa",
+        "rating": "4.3",
+        "lat": 20.7909,
+        "lng": 73.6269
+      },
+      {
+        "name": "Church Silvassa",
+        "desc": "Historic church in Silvassa",
+        "rating": "4.3",
+        "lat": 20.800900000000002,
+        "lng": 73.63690000000001
+      },
+      {
+        "name": "Gurudwara Dadra and Nagar Haveli",
+        "desc": "Important Sikh shrine in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.8109,
+        "lng": 73.6469
+      },
+      {
+        "name": "Buddhist Monastery Dadra and Nagar Haveli",
+        "desc": "Ancient Buddhist monastery in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.8209,
+        "lng": 73.65690000000001
+      },
+      {
+        "name": "Jain Temple Dadra and Nagar Haveli",
+        "desc": "Famous Jain temple in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.5809,
+        "lng": 72.41690000000001
+      },
+      {
+        "name": "Dargah Dadra and Nagar Haveli",
+        "desc": "Famous Sufi dargah in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.5709,
+        "lng": 72.40690000000001
+      },
+      {
+        "name": "Ashram Dadra and Nagar Haveli",
+        "desc": "Spiritual ashram in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.5609,
+        "lng": 72.3969
+      },
+      {
+        "name": "Pilgrimage Site Dadra and Nagar Haveli",
+        "desc": "Important pilgrimage destination in Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 19.550900000000002,
+        "lng": 72.38690000000001
+      },
+      {
+        "name": "Sacred River Ghat Dadra and Nagar Haveli",
+        "desc": "Sacred river ghat for rituals in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.5409,
+        "lng": 72.3769
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Dadra and Nagar Haveli",
+        "desc": "Traditional folk dance performance of Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 20.8809,
+        "lng": 73.71690000000001
+      },
+      {
+        "name": "Art Gallery Silvassa",
+        "desc": "State art gallery in Silvassa",
+        "rating": "4.2",
+        "lat": 20.890900000000002,
+        "lng": 73.7269
+      },
+      {
+        "name": "Cultural Center Silvassa",
+        "desc": "Cultural center for arts in Silvassa",
+        "rating": "4.3",
+        "lat": 20.9009,
+        "lng": 73.7369
+      },
+      {
+        "name": "Music Festival Dadra and Nagar Haveli",
+        "desc": "Annual music festival of Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 20.9109,
+        "lng": 73.74690000000001
+      },
+      {
+        "name": "Tribal Museum Dadra and Nagar Haveli",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 20.9209,
+        "lng": 73.7569
+      },
+      {
+        "name": "Craft Village Dadra and Nagar Haveli",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 19.480900000000002,
+        "lng": 72.3169
+      },
+      {
+        "name": "Classical Dance Academy Silvassa",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 19.4709,
+        "lng": 72.30690000000001
+      },
+      {
+        "name": "Puppet Theatre Dadra and Nagar Haveli",
+        "desc": "Traditional puppet theatre of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.460900000000002,
+        "lng": 72.29690000000001
+      },
+      {
+        "name": "Weaving Center Dadra and Nagar Haveli",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 19.4509,
+        "lng": 72.2869
+      },
+      {
+        "name": "Open Air Theatre Silvassa",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 19.440900000000003,
+        "lng": 72.27690000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Dadra and Nagar Haveli",
+        "desc": "Best trekking trails in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 20.980900000000002,
+        "lng": 73.8169
+      },
+      {
+        "name": "Rock Climbing Dadra and Nagar Haveli",
+        "desc": "Rock climbing spots in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 20.9909,
+        "lng": 73.82690000000001
+      },
+      {
+        "name": "River Rafting Dadra and Nagar Haveli",
+        "desc": "White water rafting in rivers of Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 21.0009,
+        "lng": 73.8369
+      },
+      {
+        "name": "Paragliding Dadra and Nagar Haveli",
+        "desc": "Paragliding spots in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 21.0109,
+        "lng": 73.8469
+      },
+      {
+        "name": "Camping Dadra and Nagar Haveli",
+        "desc": "Camping spots in forests of Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 21.0209,
+        "lng": 73.85690000000001
+      },
+      {
+        "name": "Zip Line Dadra and Nagar Haveli",
+        "desc": "Zip lining adventure in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.3809,
+        "lng": 72.21690000000001
+      },
+      {
+        "name": "Jungle Safari Dadra and Nagar Haveli",
+        "desc": "Jeep jungle safari in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.370900000000002,
+        "lng": 72.2069
+      },
+      {
+        "name": "Cycling Tour Dadra and Nagar Haveli",
+        "desc": "Scenic cycling routes in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.3609,
+        "lng": 72.19690000000001
+      },
+      {
+        "name": "Water Sports Dadra and Nagar Haveli",
+        "desc": "Water sports activities in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.350900000000003,
+        "lng": 72.18690000000001
+      },
+      {
+        "name": "Bungee Jumping Dadra and Nagar Haveli",
+        "desc": "Bungee jumping experience in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.3409,
+        "lng": 72.1769
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Dadra and Nagar Haveli",
+        "desc": "Traditional Ayurvedic treatments in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 21.0809,
+        "lng": 73.91690000000001
+      },
+      {
+        "name": "Yoga Retreat Dadra and Nagar Haveli",
+        "desc": "Yoga and meditation retreat in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 21.0909,
+        "lng": 73.9269
+      },
+      {
+        "name": "Spa Resort Dadra and Nagar Haveli",
+        "desc": "Luxury spa resort in Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 21.100900000000003,
+        "lng": 73.93690000000001
+      },
+      {
+        "name": "Naturopathy Center Dadra and Nagar Haveli",
+        "desc": "Natural healing center in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 21.1109,
+        "lng": 73.94690000000001
+      },
+      {
+        "name": "Meditation Ashram Dadra and Nagar Haveli",
+        "desc": "Peaceful meditation ashram in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 21.120900000000002,
+        "lng": 73.9569
+      },
+      {
+        "name": "Wellness Resort Silvassa",
+        "desc": "Luxury wellness resort in Silvassa",
+        "rating": "4.4",
+        "lat": 19.280900000000003,
+        "lng": 72.1169
+      },
+      {
+        "name": "Herbal Garden Dadra and Nagar Haveli",
+        "desc": "Medicinal herb garden in Dadra and Nagar Haveli",
+        "rating": "4.2",
+        "lat": 19.2709,
+        "lng": 72.10690000000001
+      },
+      {
+        "name": "Forest Bathing Dadra and Nagar Haveli",
+        "desc": "Therapeutic forest walks in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.2609,
+        "lng": 72.0969
+      },
+      {
+        "name": "Hot Spring Dadra and Nagar Haveli",
+        "desc": "Natural hot spring in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.2509,
+        "lng": 72.0869
+      },
+      {
+        "name": "Detox Retreat Dadra and Nagar Haveli",
+        "desc": "Detox and wellness retreat in Dadra and Nagar Haveli",
+        "rating": "4.3",
+        "lat": 19.2409,
+        "lng": 72.07690000000001
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Silvassa",
+        "desc": "Main airport of Dadra and Nagar Haveli in Silvassa",
+        "rating": "4.0",
+        "lat": 21.1809,
+        "lng": 74.0169
+      },
+      {
+        "name": "Railway Station Silvassa",
+        "desc": "Main railway junction in Silvassa",
+        "rating": "3.8",
+        "lat": 21.190900000000003,
+        "lng": 74.02690000000001
+      },
+      {
+        "name": "Bus Terminal Silvassa",
+        "desc": "State bus terminal in Silvassa",
+        "rating": "3.7",
+        "lat": 21.2009,
+        "lng": 74.0369
+      },
+      {
+        "name": "Metro Rail Silvassa",
+        "desc": "Metro rail system in Silvassa",
+        "rating": "4.2",
+        "lat": 21.210900000000002,
+        "lng": 74.04690000000001
+      },
+      {
+        "name": "Highway Dadra and Nagar Haveli",
+        "desc": "Major national highway through Dadra and Nagar Haveli",
+        "rating": "4.0",
+        "lat": 21.2209,
+        "lng": 74.05690000000001
+      },
+      {
+        "name": "Port Dadra and Nagar Haveli",
+        "desc": "Major sea port of Dadra and Nagar Haveli",
+        "rating": "3.9",
+        "lat": 19.1809,
+        "lng": 72.0169
+      },
+      {
+        "name": "Taxi Stand Silvassa",
+        "desc": "Main cab and taxi hub in Silvassa",
+        "rating": "3.8",
+        "lat": 19.1709,
+        "lng": 72.0069
+      },
+      {
+        "name": "Auto Rickshaw Silvassa",
+        "desc": "Auto rickshaw services across Silvassa",
+        "rating": "3.6",
+        "lat": 19.1609,
+        "lng": 71.99690000000001
+      },
+      {
+        "name": "Cab Services Silvassa",
+        "desc": "Ola and Uber cab services in Silvassa",
+        "rating": "4.0",
+        "lat": 19.1509,
+        "lng": 71.9869
+      },
+      {
+        "name": "Helipad Dadra and Nagar Haveli",
+        "desc": "Helicopter services in Dadra and Nagar Haveli",
+        "rating": "4.0",
+        "lat": 19.140900000000002,
+        "lng": 71.9769
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Dadra and Nagar Haveli",
+        "desc": "Most famous festival of Dadra and Nagar Haveli",
+        "rating": "4.7",
+        "lat": 21.280900000000003,
+        "lng": 74.1169
+      },
+      {
+        "name": "Cooking Class Dadra and Nagar Haveli",
+        "desc": "Learn traditional Dadra and Nagar Haveli cooking techniques",
+        "rating": "4.5",
+        "lat": 21.2909,
+        "lng": 74.1269
+      },
+      {
+        "name": "Village Walk Dadra and Nagar Haveli",
+        "desc": "Authentic village life experience in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 21.300900000000002,
+        "lng": 74.13690000000001
+      },
+      {
+        "name": "Craft Workshop Dadra and Nagar Haveli",
+        "desc": "Traditional craft making workshop in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 21.3109,
+        "lng": 74.1469
+      },
+      {
+        "name": "Sunrise Trek Dadra and Nagar Haveli",
+        "desc": "Early morning sunrise trek in Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 21.3209,
+        "lng": 74.15690000000001
+      },
+      {
+        "name": "Local Market Tour Silvassa",
+        "desc": "Guided tour of local markets in Silvassa",
+        "rating": "4.3",
+        "lat": 19.0809,
+        "lng": 71.91690000000001
+      },
+      {
+        "name": "Folk Performance Dadra and Nagar Haveli",
+        "desc": "Traditional folk art performance of Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 19.0709,
+        "lng": 71.90690000000001
+      },
+      {
+        "name": "Farm Stay Dadra and Nagar Haveli",
+        "desc": "Authentic farm stay experience in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.0609,
+        "lng": 71.8969
+      },
+      {
+        "name": "Night Safari Dadra and Nagar Haveli",
+        "desc": "Night wildlife safari in Dadra and Nagar Haveli",
+        "rating": "4.4",
+        "lat": 19.050900000000002,
+        "lng": 71.88690000000001
+      },
+      {
+        "name": "Harvest Festival Dadra and Nagar Haveli",
+        "desc": "Traditional harvest festival of Dadra and Nagar Haveli",
+        "rating": "4.5",
+        "lat": 19.0409,
+        "lng": 71.8769
+      }
+    ]
+  }
+}

@@ -1,0 +1,870 @@
+{
+  "state": "Tamil Nadu",
+  "capital": "Chennai",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Brihadeeswarar Temple Thanjavur",
+        "desc": "Most famous heritage site in Tamil Nadu",
+        "rating": "4.6",
+        "lat": 11.1271,
+        "lng": 78.6569
+      },
+      {
+        "name": "State Museum Chennai",
+        "desc": "Archaeological museum showcasing Tamil Nadu history",
+        "rating": "4.2",
+        "lat": 11.1371,
+        "lng": 78.6669
+      },
+      {
+        "name": "Old Fort Chennai",
+        "desc": "Historic fort from medieval era in Chennai",
+        "rating": "4.3",
+        "lat": 11.1471,
+        "lng": 78.67689999999999
+      },
+      {
+        "name": "Ancient Temple Tamil Nadu",
+        "desc": "Famous ancient temple showcasing Tamil Nadu architecture",
+        "rating": "4.4",
+        "lat": 11.1571,
+        "lng": 78.6869
+      },
+      {
+        "name": "Colonial Building Chennai",
+        "desc": "Historic colonial era building in Chennai",
+        "rating": "4.1",
+        "lat": 11.1671,
+        "lng": 78.6969
+      },
+      {
+        "name": "Palace Tamil Nadu",
+        "desc": "Royal palace of former rulers of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.1171,
+        "lng": 78.64689999999999
+      },
+      {
+        "name": "Rock Cut Caves Tamil Nadu",
+        "desc": "Ancient rock cut monuments in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 11.1071,
+        "lng": 78.6369
+      },
+      {
+        "name": "Heritage Walk Chennai",
+        "desc": "Guided walk through old quarter of Chennai",
+        "rating": "4.3",
+        "lat": 11.097100000000001,
+        "lng": 78.62689999999999
+      },
+      {
+        "name": "Memorial Museum Chennai",
+        "desc": "Memorial to freedom fighters of Tamil Nadu",
+        "rating": "4.1",
+        "lat": 11.087100000000001,
+        "lng": 78.61689999999999
+      },
+      {
+        "name": "Ruins Site Tamil Nadu",
+        "desc": "Ancient ruins and archaeological findings in Tamil Nadu",
+        "rating": "4.2",
+        "lat": 11.0771,
+        "lng": 78.6069
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Chennai",
+        "desc": "Authentic Tamil Nadu thali with local specialties",
+        "rating": "4.5",
+        "lat": 11.2271,
+        "lng": 78.75689999999999
+      },
+      {
+        "name": "Street Food Market Chennai",
+        "desc": "Famous street food market in Chennai",
+        "rating": "4.4",
+        "lat": 11.2371,
+        "lng": 78.76689999999999
+      },
+      {
+        "name": "Local Sweet Shop Tamil Nadu",
+        "desc": "Famous traditional sweets unique to Tamil Nadu",
+        "rating": "4.5",
+        "lat": 11.2471,
+        "lng": 78.7769
+      },
+      {
+        "name": "Tribal Cuisine Tamil Nadu",
+        "desc": "Authentic tribal food of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.257100000000001,
+        "lng": 78.78689999999999
+      },
+      {
+        "name": "Dhaba Tamil Nadu",
+        "desc": "Famous highway dhaba with Tamil Nadu specialties",
+        "rating": "4.3",
+        "lat": 11.267100000000001,
+        "lng": 78.7969
+      },
+      {
+        "name": "Vegetarian Restaurant Chennai",
+        "desc": "Best pure vegetarian food in Chennai",
+        "rating": "4.3",
+        "lat": 11.0271,
+        "lng": 78.5569
+      },
+      {
+        "name": "Biryani House Chennai",
+        "desc": "Best biryani and rice dishes in Chennai",
+        "rating": "4.4",
+        "lat": 11.017100000000001,
+        "lng": 78.5469
+      },
+      {
+        "name": "Bakery Cafe Chennai",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 11.007100000000001,
+        "lng": 78.53689999999999
+      },
+      {
+        "name": "Royal Kitchen Tamil Nadu",
+        "desc": "Restaurant serving royal recipes of Tamil Nadu",
+        "rating": "4.5",
+        "lat": 10.9971,
+        "lng": 78.5269
+      },
+      {
+        "name": "Fish Curry House Tamil Nadu",
+        "desc": "Traditional Tamil Nadu style fish preparation",
+        "rating": "4.4",
+        "lat": 10.9871,
+        "lng": 78.51689999999999
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Chennai",
+        "desc": "Luxury 5-star Taj hotel in Chennai",
+        "rating": "4.7",
+        "lat": 11.3271,
+        "lng": 78.8569
+      },
+      {
+        "name": "Oberoi Resort Tamil Nadu",
+        "desc": "Luxury resort in scenic location in Tamil Nadu",
+        "rating": "4.8",
+        "lat": 11.337100000000001,
+        "lng": 78.86689999999999
+      },
+      {
+        "name": "Heritage Hotel Chennai",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 11.347100000000001,
+        "lng": 78.87689999999999
+      },
+      {
+        "name": "ITC Hotel Chennai",
+        "desc": "ITC luxury hotel in Chennai",
+        "rating": "4.6",
+        "lat": 11.3571,
+        "lng": 78.8869
+      },
+      {
+        "name": "Eco Resort Tamil Nadu",
+        "desc": "Eco-friendly resort in nature of Tamil Nadu",
+        "rating": "4.5",
+        "lat": 11.3671,
+        "lng": 78.89689999999999
+      },
+      {
+        "name": "Boutique Hotel Chennai",
+        "desc": "Charming boutique hotel in old quarter of Chennai",
+        "rating": "4.4",
+        "lat": 10.927100000000001,
+        "lng": 78.45689999999999
+      },
+      {
+        "name": "Marriott Chennai",
+        "desc": "International 5-star Marriott hotel in Chennai",
+        "rating": "4.6",
+        "lat": 10.9171,
+        "lng": 78.4469
+      },
+      {
+        "name": "Forest Lodge Tamil Nadu",
+        "desc": "Wildlife lodge near forest of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 10.9071,
+        "lng": 78.4369
+      },
+      {
+        "name": "Homestay Tamil Nadu",
+        "desc": "Authentic homestay with local family in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.8971,
+        "lng": 78.42689999999999
+      },
+      {
+        "name": "Budget Hotel Chennai",
+        "desc": "Clean comfortable budget stay in Chennai",
+        "rating": "4.0",
+        "lat": 10.8871,
+        "lng": 78.4169
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Tamil Nadu",
+        "desc": "Best panoramic viewpoint in Tamil Nadu",
+        "rating": "4.5",
+        "lat": 11.427100000000001,
+        "lng": 78.95689999999999
+      },
+      {
+        "name": "Waterfall Tamil Nadu",
+        "desc": "Most beautiful waterfall in Tamil Nadu",
+        "rating": "4.5",
+        "lat": 11.437100000000001,
+        "lng": 78.9669
+      },
+      {
+        "name": "Lake Tamil Nadu",
+        "desc": "Scenic lake in Tamil Nadu with boating",
+        "rating": "4.3",
+        "lat": 11.4471,
+        "lng": 78.97689999999999
+      },
+      {
+        "name": "Hill Station Tamil Nadu",
+        "desc": "Popular hill station in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.4571,
+        "lng": 78.98689999999999
+      },
+      {
+        "name": "National Park Tamil Nadu",
+        "desc": "Wildlife national park in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.4671,
+        "lng": 78.9969
+      },
+      {
+        "name": "Beach Tamil Nadu",
+        "desc": "Beautiful beach in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.8271,
+        "lng": 78.3569
+      },
+      {
+        "name": "Cave System Tamil Nadu",
+        "desc": "Natural cave system in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.8171,
+        "lng": 78.34689999999999
+      },
+      {
+        "name": "Dam Tamil Nadu",
+        "desc": "Scenic dam and reservoir in Tamil Nadu",
+        "rating": "4.2",
+        "lat": 10.8071,
+        "lng": 78.3369
+      },
+      {
+        "name": "Botanical Garden Chennai",
+        "desc": "Botanical garden with rare plants in Chennai",
+        "rating": "4.2",
+        "lat": 10.7971,
+        "lng": 78.3269
+      },
+      {
+        "name": "Zoo Chennai",
+        "desc": "State zoo in Chennai with variety of animals",
+        "rating": "4.1",
+        "lat": 10.7871,
+        "lng": 78.31689999999999
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Chennai",
+        "desc": "Bustling main market of Chennai",
+        "rating": "4.3",
+        "lat": 11.5271,
+        "lng": 79.0569
+      },
+      {
+        "name": "Handicraft Market Tamil Nadu",
+        "desc": "Traditional handicrafts of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.5371,
+        "lng": 79.06689999999999
+      },
+      {
+        "name": "Silk Market Tamil Nadu",
+        "desc": "Famous silk and textile market of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.5471,
+        "lng": 79.0769
+      },
+      {
+        "name": "Tribal Art Market Tamil Nadu",
+        "desc": "Traditional tribal art and crafts of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.5571,
+        "lng": 79.0869
+      },
+      {
+        "name": "Spice Market Tamil Nadu",
+        "desc": "Aromatic spice market unique to Tamil Nadu",
+        "rating": "4.3",
+        "lat": 11.5671,
+        "lng": 79.09689999999999
+      },
+      {
+        "name": "Mall Chennai",
+        "desc": "Modern shopping mall in Chennai",
+        "rating": "4.2",
+        "lat": 10.7271,
+        "lng": 78.25689999999999
+      },
+      {
+        "name": "Gem Market Tamil Nadu",
+        "desc": "Precious and semi-precious stones of Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.7171,
+        "lng": 78.2469
+      },
+      {
+        "name": "Bamboo Craft Tamil Nadu",
+        "desc": "Traditional bamboo craft market of Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.7071,
+        "lng": 78.23689999999999
+      },
+      {
+        "name": "Pottery Village Tamil Nadu",
+        "desc": "Traditional pottery making village in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.6971,
+        "lng": 78.22689999999999
+      },
+      {
+        "name": "Night Market Chennai",
+        "desc": "Evening market in Chennai with local goods",
+        "rating": "4.2",
+        "lat": 10.687100000000001,
+        "lng": 78.2169
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Tamil Nadu",
+        "desc": "Tiger and wildlife reserve in Tamil Nadu",
+        "rating": "4.5",
+        "lat": 11.6271,
+        "lng": 79.1569
+      },
+      {
+        "name": "Bird Sanctuary Tamil Nadu",
+        "desc": "Migratory bird sanctuary in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.6371,
+        "lng": 79.1669
+      },
+      {
+        "name": "Forest Reserve Tamil Nadu",
+        "desc": "Dense forest reserve of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.6471,
+        "lng": 79.17689999999999
+      },
+      {
+        "name": "River Valley Tamil Nadu",
+        "desc": "Scenic river valley in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 11.6571,
+        "lng": 79.1869
+      },
+      {
+        "name": "Mountain Peak Tamil Nadu",
+        "desc": "Highest mountain peak in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.667100000000001,
+        "lng": 79.1969
+      },
+      {
+        "name": "Wetland Tamil Nadu",
+        "desc": "Important wetland ecosystem in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.6271,
+        "lng": 78.1569
+      },
+      {
+        "name": "Tea Garden Tamil Nadu",
+        "desc": "Scenic tea or coffee plantation in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 10.6171,
+        "lng": 78.14689999999999
+      },
+      {
+        "name": "Organic Farm Tamil Nadu",
+        "desc": "Organic farming experience in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.6071,
+        "lng": 78.1369
+      },
+      {
+        "name": "Sunrise Point Tamil Nadu",
+        "desc": "Most spectacular sunrise point in Tamil Nadu",
+        "rating": "4.5",
+        "lat": 10.597100000000001,
+        "lng": 78.12689999999999
+      },
+      {
+        "name": "Eco Park Chennai",
+        "desc": "Ecology park in Chennai with rare plants",
+        "rating": "4.1",
+        "lat": 10.5871,
+        "lng": 78.11689999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Tamil Nadu",
+        "desc": "Most famous temple in Tamil Nadu",
+        "rating": "4.6",
+        "lat": 11.7271,
+        "lng": 79.25689999999999
+      },
+      {
+        "name": "Mosque Chennai",
+        "desc": "Historic mosque in Chennai",
+        "rating": "4.3",
+        "lat": 11.7371,
+        "lng": 79.26689999999999
+      },
+      {
+        "name": "Church Chennai",
+        "desc": "Historic church in Chennai",
+        "rating": "4.3",
+        "lat": 11.7471,
+        "lng": 79.2769
+      },
+      {
+        "name": "Gurudwara Tamil Nadu",
+        "desc": "Important Sikh shrine in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.757100000000001,
+        "lng": 79.28689999999999
+      },
+      {
+        "name": "Buddhist Monastery Tamil Nadu",
+        "desc": "Ancient Buddhist monastery in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.767100000000001,
+        "lng": 79.2969
+      },
+      {
+        "name": "Jain Temple Tamil Nadu",
+        "desc": "Famous Jain temple in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 10.5271,
+        "lng": 78.0569
+      },
+      {
+        "name": "Dargah Tamil Nadu",
+        "desc": "Famous Sufi dargah in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.517100000000001,
+        "lng": 78.0469
+      },
+      {
+        "name": "Ashram Tamil Nadu",
+        "desc": "Spiritual ashram in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 10.507100000000001,
+        "lng": 78.03689999999999
+      },
+      {
+        "name": "Pilgrimage Site Tamil Nadu",
+        "desc": "Important pilgrimage destination in Tamil Nadu",
+        "rating": "4.5",
+        "lat": 10.4971,
+        "lng": 78.0269
+      },
+      {
+        "name": "Sacred River Ghat Tamil Nadu",
+        "desc": "Sacred river ghat for rituals in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.4871,
+        "lng": 78.01689999999999
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Tamil Nadu",
+        "desc": "Traditional folk dance performance of Tamil Nadu",
+        "rating": "4.5",
+        "lat": 11.8271,
+        "lng": 79.3569
+      },
+      {
+        "name": "Art Gallery Chennai",
+        "desc": "State art gallery in Chennai",
+        "rating": "4.2",
+        "lat": 11.8371,
+        "lng": 79.36689999999999
+      },
+      {
+        "name": "Cultural Center Chennai",
+        "desc": "Cultural center for arts in Chennai",
+        "rating": "4.3",
+        "lat": 11.847100000000001,
+        "lng": 79.37689999999999
+      },
+      {
+        "name": "Music Festival Tamil Nadu",
+        "desc": "Annual music festival of Tamil Nadu",
+        "rating": "4.5",
+        "lat": 11.8571,
+        "lng": 79.3869
+      },
+      {
+        "name": "Tribal Museum Tamil Nadu",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 11.8671,
+        "lng": 79.39689999999999
+      },
+      {
+        "name": "Craft Village Tamil Nadu",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 10.427100000000001,
+        "lng": 77.95689999999999
+      },
+      {
+        "name": "Classical Dance Academy Chennai",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 10.417100000000001,
+        "lng": 77.9469
+      },
+      {
+        "name": "Puppet Theatre Tamil Nadu",
+        "desc": "Traditional puppet theatre of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 10.4071,
+        "lng": 77.9369
+      },
+      {
+        "name": "Weaving Center Tamil Nadu",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 10.3971,
+        "lng": 77.92689999999999
+      },
+      {
+        "name": "Open Air Theatre Chennai",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 10.3871,
+        "lng": 77.9169
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Tamil Nadu",
+        "desc": "Best trekking trails in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.927100000000001,
+        "lng": 79.45689999999999
+      },
+      {
+        "name": "Rock Climbing Tamil Nadu",
+        "desc": "Rock climbing spots in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 11.937100000000001,
+        "lng": 79.4669
+      },
+      {
+        "name": "River Rafting Tamil Nadu",
+        "desc": "White water rafting in rivers of Tamil Nadu",
+        "rating": "4.5",
+        "lat": 11.9471,
+        "lng": 79.47689999999999
+      },
+      {
+        "name": "Paragliding Tamil Nadu",
+        "desc": "Paragliding spots in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.9571,
+        "lng": 79.48689999999999
+      },
+      {
+        "name": "Camping Tamil Nadu",
+        "desc": "Camping spots in forests of Tamil Nadu",
+        "rating": "4.4",
+        "lat": 11.9671,
+        "lng": 79.4969
+      },
+      {
+        "name": "Zip Line Tamil Nadu",
+        "desc": "Zip lining adventure in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.3271,
+        "lng": 77.8569
+      },
+      {
+        "name": "Jungle Safari Tamil Nadu",
+        "desc": "Jeep jungle safari in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 10.3171,
+        "lng": 77.84689999999999
+      },
+      {
+        "name": "Cycling Tour Tamil Nadu",
+        "desc": "Scenic cycling routes in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.3071,
+        "lng": 77.8369
+      },
+      {
+        "name": "Water Sports Tamil Nadu",
+        "desc": "Water sports activities in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.2971,
+        "lng": 77.8269
+      },
+      {
+        "name": "Bungee Jumping Tamil Nadu",
+        "desc": "Bungee jumping experience in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.2871,
+        "lng": 77.81689999999999
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Tamil Nadu",
+        "desc": "Traditional Ayurvedic treatments in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 12.0271,
+        "lng": 79.5569
+      },
+      {
+        "name": "Yoga Retreat Tamil Nadu",
+        "desc": "Yoga and meditation retreat in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 12.0371,
+        "lng": 79.56689999999999
+      },
+      {
+        "name": "Spa Resort Tamil Nadu",
+        "desc": "Luxury spa resort in Tamil Nadu",
+        "rating": "4.5",
+        "lat": 12.0471,
+        "lng": 79.5769
+      },
+      {
+        "name": "Naturopathy Center Tamil Nadu",
+        "desc": "Natural healing center in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 12.0571,
+        "lng": 79.5869
+      },
+      {
+        "name": "Meditation Ashram Tamil Nadu",
+        "desc": "Peaceful meditation ashram in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 12.0671,
+        "lng": 79.59689999999999
+      },
+      {
+        "name": "Wellness Resort Chennai",
+        "desc": "Luxury wellness resort in Chennai",
+        "rating": "4.4",
+        "lat": 10.2271,
+        "lng": 77.75689999999999
+      },
+      {
+        "name": "Herbal Garden Tamil Nadu",
+        "desc": "Medicinal herb garden in Tamil Nadu",
+        "rating": "4.2",
+        "lat": 10.2171,
+        "lng": 77.7469
+      },
+      {
+        "name": "Forest Bathing Tamil Nadu",
+        "desc": "Therapeutic forest walks in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.2071,
+        "lng": 77.73689999999999
+      },
+      {
+        "name": "Hot Spring Tamil Nadu",
+        "desc": "Natural hot spring in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 10.1971,
+        "lng": 77.72689999999999
+      },
+      {
+        "name": "Detox Retreat Tamil Nadu",
+        "desc": "Detox and wellness retreat in Tamil Nadu",
+        "rating": "4.3",
+        "lat": 10.187100000000001,
+        "lng": 77.7169
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Chennai",
+        "desc": "Main airport of Tamil Nadu in Chennai",
+        "rating": "4.0",
+        "lat": 12.1271,
+        "lng": 79.6569
+      },
+      {
+        "name": "Railway Station Chennai",
+        "desc": "Main railway junction in Chennai",
+        "rating": "3.8",
+        "lat": 12.1371,
+        "lng": 79.6669
+      },
+      {
+        "name": "Bus Terminal Chennai",
+        "desc": "State bus terminal in Chennai",
+        "rating": "3.7",
+        "lat": 12.1471,
+        "lng": 79.67689999999999
+      },
+      {
+        "name": "Metro Rail Chennai",
+        "desc": "Metro rail system in Chennai",
+        "rating": "4.2",
+        "lat": 12.1571,
+        "lng": 79.6869
+      },
+      {
+        "name": "Highway Tamil Nadu",
+        "desc": "Major national highway through Tamil Nadu",
+        "rating": "4.0",
+        "lat": 12.167100000000001,
+        "lng": 79.6969
+      },
+      {
+        "name": "Port Tamil Nadu",
+        "desc": "Major sea port of Tamil Nadu",
+        "rating": "3.9",
+        "lat": 10.1271,
+        "lng": 77.6569
+      },
+      {
+        "name": "Taxi Stand Chennai",
+        "desc": "Main cab and taxi hub in Chennai",
+        "rating": "3.8",
+        "lat": 10.1171,
+        "lng": 77.64689999999999
+      },
+      {
+        "name": "Auto Rickshaw Chennai",
+        "desc": "Auto rickshaw services across Chennai",
+        "rating": "3.6",
+        "lat": 10.1071,
+        "lng": 77.6369
+      },
+      {
+        "name": "Cab Services Chennai",
+        "desc": "Ola and Uber cab services in Chennai",
+        "rating": "4.0",
+        "lat": 10.097100000000001,
+        "lng": 77.62689999999999
+      },
+      {
+        "name": "Helipad Tamil Nadu",
+        "desc": "Helicopter services in Tamil Nadu",
+        "rating": "4.0",
+        "lat": 10.0871,
+        "lng": 77.61689999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Tamil Nadu",
+        "desc": "Most famous festival of Tamil Nadu",
+        "rating": "4.7",
+        "lat": 12.2271,
+        "lng": 79.75689999999999
+      },
+      {
+        "name": "Cooking Class Tamil Nadu",
+        "desc": "Learn traditional Tamil Nadu cooking techniques",
+        "rating": "4.5",
+        "lat": 12.2371,
+        "lng": 79.76689999999999
+      },
+      {
+        "name": "Village Walk Tamil Nadu",
+        "desc": "Authentic village life experience in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 12.2471,
+        "lng": 79.7769
+      },
+      {
+        "name": "Craft Workshop Tamil Nadu",
+        "desc": "Traditional craft making workshop in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 12.257100000000001,
+        "lng": 79.78689999999999
+      },
+      {
+        "name": "Sunrise Trek Tamil Nadu",
+        "desc": "Early morning sunrise trek in Tamil Nadu",
+        "rating": "4.5",
+        "lat": 12.267100000000001,
+        "lng": 79.7969
+      },
+      {
+        "name": "Local Market Tour Chennai",
+        "desc": "Guided tour of local markets in Chennai",
+        "rating": "4.3",
+        "lat": 10.0271,
+        "lng": 77.5569
+      },
+      {
+        "name": "Folk Performance Tamil Nadu",
+        "desc": "Traditional folk art performance of Tamil Nadu",
+        "rating": "4.5",
+        "lat": 10.017100000000001,
+        "lng": 77.5469
+      },
+      {
+        "name": "Farm Stay Tamil Nadu",
+        "desc": "Authentic farm stay experience in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 10.007100000000001,
+        "lng": 77.53689999999999
+      },
+      {
+        "name": "Night Safari Tamil Nadu",
+        "desc": "Night wildlife safari in Tamil Nadu",
+        "rating": "4.4",
+        "lat": 9.9971,
+        "lng": 77.5269
+      },
+      {
+        "name": "Harvest Festival Tamil Nadu",
+        "desc": "Traditional harvest festival of Tamil Nadu",
+        "rating": "4.5",
+        "lat": 9.9871,
+        "lng": 77.51689999999999
+      }
+    ]
+  }
+}

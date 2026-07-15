@@ -1,0 +1,870 @@
+{
+  "state": "Manipur",
+  "capital": "Imphal",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Loktak Lake",
+        "desc": "Most famous heritage site in Manipur",
+        "rating": "4.6",
+        "lat": 24.6637,
+        "lng": 93.9063
+      },
+      {
+        "name": "State Museum Imphal",
+        "desc": "Archaeological museum showcasing Manipur history",
+        "rating": "4.2",
+        "lat": 24.6737,
+        "lng": 93.9163
+      },
+      {
+        "name": "Old Fort Imphal",
+        "desc": "Historic fort from medieval era in Imphal",
+        "rating": "4.3",
+        "lat": 24.683699999999998,
+        "lng": 93.9263
+      },
+      {
+        "name": "Ancient Temple Manipur",
+        "desc": "Famous ancient temple showcasing Manipur architecture",
+        "rating": "4.4",
+        "lat": 24.6937,
+        "lng": 93.9363
+      },
+      {
+        "name": "Colonial Building Imphal",
+        "desc": "Historic colonial era building in Imphal",
+        "rating": "4.1",
+        "lat": 24.703699999999998,
+        "lng": 93.94630000000001
+      },
+      {
+        "name": "Palace Manipur",
+        "desc": "Royal palace of former rulers of Manipur",
+        "rating": "4.4",
+        "lat": 24.653699999999997,
+        "lng": 93.8963
+      },
+      {
+        "name": "Rock Cut Caves Manipur",
+        "desc": "Ancient rock cut monuments in Manipur",
+        "rating": "4.3",
+        "lat": 24.6437,
+        "lng": 93.8863
+      },
+      {
+        "name": "Heritage Walk Imphal",
+        "desc": "Guided walk through old quarter of Imphal",
+        "rating": "4.3",
+        "lat": 24.633699999999997,
+        "lng": 93.8763
+      },
+      {
+        "name": "Memorial Museum Imphal",
+        "desc": "Memorial to freedom fighters of Manipur",
+        "rating": "4.1",
+        "lat": 24.6237,
+        "lng": 93.8663
+      },
+      {
+        "name": "Ruins Site Manipur",
+        "desc": "Ancient ruins and archaeological findings in Manipur",
+        "rating": "4.2",
+        "lat": 24.613699999999998,
+        "lng": 93.8563
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Imphal",
+        "desc": "Authentic Manipur thali with local specialties",
+        "rating": "4.5",
+        "lat": 24.7637,
+        "lng": 94.0063
+      },
+      {
+        "name": "Street Food Market Imphal",
+        "desc": "Famous street food market in Imphal",
+        "rating": "4.4",
+        "lat": 24.773699999999998,
+        "lng": 94.0163
+      },
+      {
+        "name": "Local Sweet Shop Manipur",
+        "desc": "Famous traditional sweets unique to Manipur",
+        "rating": "4.5",
+        "lat": 24.7837,
+        "lng": 94.0263
+      },
+      {
+        "name": "Tribal Cuisine Manipur",
+        "desc": "Authentic tribal food of Manipur",
+        "rating": "4.4",
+        "lat": 24.793699999999998,
+        "lng": 94.0363
+      },
+      {
+        "name": "Dhaba Manipur",
+        "desc": "Famous highway dhaba with Manipur specialties",
+        "rating": "4.3",
+        "lat": 24.8037,
+        "lng": 94.0463
+      },
+      {
+        "name": "Vegetarian Restaurant Imphal",
+        "desc": "Best pure vegetarian food in Imphal",
+        "rating": "4.3",
+        "lat": 24.563699999999997,
+        "lng": 93.80630000000001
+      },
+      {
+        "name": "Biryani House Imphal",
+        "desc": "Best biryani and rice dishes in Imphal",
+        "rating": "4.4",
+        "lat": 24.5537,
+        "lng": 93.7963
+      },
+      {
+        "name": "Bakery Cafe Imphal",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 24.543699999999998,
+        "lng": 93.7863
+      },
+      {
+        "name": "Royal Kitchen Manipur",
+        "desc": "Restaurant serving royal recipes of Manipur",
+        "rating": "4.5",
+        "lat": 24.5337,
+        "lng": 93.7763
+      },
+      {
+        "name": "Fish Curry House Manipur",
+        "desc": "Traditional Manipur style fish preparation",
+        "rating": "4.4",
+        "lat": 24.523699999999998,
+        "lng": 93.7663
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Imphal",
+        "desc": "Luxury 5-star Taj hotel in Imphal",
+        "rating": "4.7",
+        "lat": 24.863699999999998,
+        "lng": 94.1063
+      },
+      {
+        "name": "Oberoi Resort Manipur",
+        "desc": "Luxury resort in scenic location in Manipur",
+        "rating": "4.8",
+        "lat": 24.8737,
+        "lng": 94.1163
+      },
+      {
+        "name": "Heritage Hotel Imphal",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 24.883699999999997,
+        "lng": 94.1263
+      },
+      {
+        "name": "ITC Hotel Imphal",
+        "desc": "ITC luxury hotel in Imphal",
+        "rating": "4.6",
+        "lat": 24.8937,
+        "lng": 94.1363
+      },
+      {
+        "name": "Eco Resort Manipur",
+        "desc": "Eco-friendly resort in nature of Manipur",
+        "rating": "4.5",
+        "lat": 24.903699999999997,
+        "lng": 94.1463
+      },
+      {
+        "name": "Boutique Hotel Imphal",
+        "desc": "Charming boutique hotel in old quarter of Imphal",
+        "rating": "4.4",
+        "lat": 24.4637,
+        "lng": 93.7063
+      },
+      {
+        "name": "Marriott Imphal",
+        "desc": "International 5-star Marriott hotel in Imphal",
+        "rating": "4.6",
+        "lat": 24.453699999999998,
+        "lng": 93.69630000000001
+      },
+      {
+        "name": "Forest Lodge Manipur",
+        "desc": "Wildlife lodge near forest of Manipur",
+        "rating": "4.4",
+        "lat": 24.4437,
+        "lng": 93.6863
+      },
+      {
+        "name": "Homestay Manipur",
+        "desc": "Authentic homestay with local family in Manipur",
+        "rating": "4.3",
+        "lat": 24.433699999999998,
+        "lng": 93.6763
+      },
+      {
+        "name": "Budget Hotel Imphal",
+        "desc": "Clean comfortable budget stay in Imphal",
+        "rating": "4.0",
+        "lat": 24.4237,
+        "lng": 93.6663
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Manipur",
+        "desc": "Best panoramic viewpoint in Manipur",
+        "rating": "4.5",
+        "lat": 24.9637,
+        "lng": 94.2063
+      },
+      {
+        "name": "Waterfall Manipur",
+        "desc": "Most beautiful waterfall in Manipur",
+        "rating": "4.5",
+        "lat": 24.973699999999997,
+        "lng": 94.2163
+      },
+      {
+        "name": "Lake Manipur",
+        "desc": "Scenic lake in Manipur with boating",
+        "rating": "4.3",
+        "lat": 24.9837,
+        "lng": 94.2263
+      },
+      {
+        "name": "Hill Station Manipur",
+        "desc": "Popular hill station in Manipur",
+        "rating": "4.4",
+        "lat": 24.993699999999997,
+        "lng": 94.2363
+      },
+      {
+        "name": "National Park Manipur",
+        "desc": "Wildlife national park in Manipur",
+        "rating": "4.4",
+        "lat": 25.0037,
+        "lng": 94.2463
+      },
+      {
+        "name": "Beach Manipur",
+        "desc": "Beautiful beach in Manipur",
+        "rating": "4.3",
+        "lat": 24.363699999999998,
+        "lng": 93.6063
+      },
+      {
+        "name": "Cave System Manipur",
+        "desc": "Natural cave system in Manipur",
+        "rating": "4.3",
+        "lat": 24.3537,
+        "lng": 93.5963
+      },
+      {
+        "name": "Dam Manipur",
+        "desc": "Scenic dam and reservoir in Manipur",
+        "rating": "4.2",
+        "lat": 24.3437,
+        "lng": 93.58630000000001
+      },
+      {
+        "name": "Botanical Garden Imphal",
+        "desc": "Botanical garden with rare plants in Imphal",
+        "rating": "4.2",
+        "lat": 24.3337,
+        "lng": 93.5763
+      },
+      {
+        "name": "Zoo Imphal",
+        "desc": "State zoo in Imphal with variety of animals",
+        "rating": "4.1",
+        "lat": 24.3237,
+        "lng": 93.5663
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Imphal",
+        "desc": "Bustling main market of Imphal",
+        "rating": "4.3",
+        "lat": 25.063699999999997,
+        "lng": 94.30630000000001
+      },
+      {
+        "name": "Handicraft Market Manipur",
+        "desc": "Traditional handicrafts of Manipur",
+        "rating": "4.4",
+        "lat": 25.0737,
+        "lng": 94.3163
+      },
+      {
+        "name": "Silk Market Manipur",
+        "desc": "Famous silk and textile market of Manipur",
+        "rating": "4.4",
+        "lat": 25.0837,
+        "lng": 94.3263
+      },
+      {
+        "name": "Tribal Art Market Manipur",
+        "desc": "Traditional tribal art and crafts of Manipur",
+        "rating": "4.4",
+        "lat": 25.0937,
+        "lng": 94.33630000000001
+      },
+      {
+        "name": "Spice Market Manipur",
+        "desc": "Aromatic spice market unique to Manipur",
+        "rating": "4.3",
+        "lat": 25.1037,
+        "lng": 94.3463
+      },
+      {
+        "name": "Mall Imphal",
+        "desc": "Modern shopping mall in Imphal",
+        "rating": "4.2",
+        "lat": 24.2637,
+        "lng": 93.5063
+      },
+      {
+        "name": "Gem Market Manipur",
+        "desc": "Precious and semi-precious stones of Manipur",
+        "rating": "4.3",
+        "lat": 24.2537,
+        "lng": 93.4963
+      },
+      {
+        "name": "Bamboo Craft Manipur",
+        "desc": "Traditional bamboo craft market of Manipur",
+        "rating": "4.3",
+        "lat": 24.243699999999997,
+        "lng": 93.4863
+      },
+      {
+        "name": "Pottery Village Manipur",
+        "desc": "Traditional pottery making village in Manipur",
+        "rating": "4.3",
+        "lat": 24.2337,
+        "lng": 93.4763
+      },
+      {
+        "name": "Night Market Imphal",
+        "desc": "Evening market in Imphal with local goods",
+        "rating": "4.2",
+        "lat": 24.223699999999997,
+        "lng": 93.4663
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Manipur",
+        "desc": "Tiger and wildlife reserve in Manipur",
+        "rating": "4.5",
+        "lat": 25.1637,
+        "lng": 94.4063
+      },
+      {
+        "name": "Bird Sanctuary Manipur",
+        "desc": "Migratory bird sanctuary in Manipur",
+        "rating": "4.4",
+        "lat": 25.1737,
+        "lng": 94.4163
+      },
+      {
+        "name": "Forest Reserve Manipur",
+        "desc": "Dense forest reserve of Manipur",
+        "rating": "4.4",
+        "lat": 25.183699999999998,
+        "lng": 94.4263
+      },
+      {
+        "name": "River Valley Manipur",
+        "desc": "Scenic river valley in Manipur",
+        "rating": "4.3",
+        "lat": 25.1937,
+        "lng": 94.4363
+      },
+      {
+        "name": "Mountain Peak Manipur",
+        "desc": "Highest mountain peak in Manipur",
+        "rating": "4.4",
+        "lat": 25.203699999999998,
+        "lng": 94.44630000000001
+      },
+      {
+        "name": "Wetland Manipur",
+        "desc": "Important wetland ecosystem in Manipur",
+        "rating": "4.3",
+        "lat": 24.1637,
+        "lng": 93.4063
+      },
+      {
+        "name": "Tea Garden Manipur",
+        "desc": "Scenic tea or coffee plantation in Manipur",
+        "rating": "4.4",
+        "lat": 24.153699999999997,
+        "lng": 93.3963
+      },
+      {
+        "name": "Organic Farm Manipur",
+        "desc": "Organic farming experience in Manipur",
+        "rating": "4.3",
+        "lat": 24.1437,
+        "lng": 93.3863
+      },
+      {
+        "name": "Sunrise Point Manipur",
+        "desc": "Most spectacular sunrise point in Manipur",
+        "rating": "4.5",
+        "lat": 24.133699999999997,
+        "lng": 93.3763
+      },
+      {
+        "name": "Eco Park Imphal",
+        "desc": "Ecology park in Imphal with rare plants",
+        "rating": "4.1",
+        "lat": 24.1237,
+        "lng": 93.3663
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Manipur",
+        "desc": "Most famous temple in Manipur",
+        "rating": "4.6",
+        "lat": 25.2637,
+        "lng": 94.5063
+      },
+      {
+        "name": "Mosque Imphal",
+        "desc": "Historic mosque in Imphal",
+        "rating": "4.3",
+        "lat": 25.273699999999998,
+        "lng": 94.5163
+      },
+      {
+        "name": "Church Imphal",
+        "desc": "Historic church in Imphal",
+        "rating": "4.3",
+        "lat": 25.2837,
+        "lng": 94.5263
+      },
+      {
+        "name": "Gurudwara Manipur",
+        "desc": "Important Sikh shrine in Manipur",
+        "rating": "4.4",
+        "lat": 25.293699999999998,
+        "lng": 94.5363
+      },
+      {
+        "name": "Buddhist Monastery Manipur",
+        "desc": "Ancient Buddhist monastery in Manipur",
+        "rating": "4.4",
+        "lat": 25.3037,
+        "lng": 94.5463
+      },
+      {
+        "name": "Jain Temple Manipur",
+        "desc": "Famous Jain temple in Manipur",
+        "rating": "4.4",
+        "lat": 24.063699999999997,
+        "lng": 93.30630000000001
+      },
+      {
+        "name": "Dargah Manipur",
+        "desc": "Famous Sufi dargah in Manipur",
+        "rating": "4.3",
+        "lat": 24.0537,
+        "lng": 93.2963
+      },
+      {
+        "name": "Ashram Manipur",
+        "desc": "Spiritual ashram in Manipur",
+        "rating": "4.4",
+        "lat": 24.043699999999998,
+        "lng": 93.2863
+      },
+      {
+        "name": "Pilgrimage Site Manipur",
+        "desc": "Important pilgrimage destination in Manipur",
+        "rating": "4.5",
+        "lat": 24.0337,
+        "lng": 93.2763
+      },
+      {
+        "name": "Sacred River Ghat Manipur",
+        "desc": "Sacred river ghat for rituals in Manipur",
+        "rating": "4.3",
+        "lat": 24.023699999999998,
+        "lng": 93.2663
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Manipur",
+        "desc": "Traditional folk dance performance of Manipur",
+        "rating": "4.5",
+        "lat": 25.363699999999998,
+        "lng": 94.6063
+      },
+      {
+        "name": "Art Gallery Imphal",
+        "desc": "State art gallery in Imphal",
+        "rating": "4.2",
+        "lat": 25.3737,
+        "lng": 94.6163
+      },
+      {
+        "name": "Cultural Center Imphal",
+        "desc": "Cultural center for arts in Imphal",
+        "rating": "4.3",
+        "lat": 25.383699999999997,
+        "lng": 94.6263
+      },
+      {
+        "name": "Music Festival Manipur",
+        "desc": "Annual music festival of Manipur",
+        "rating": "4.5",
+        "lat": 25.3937,
+        "lng": 94.6363
+      },
+      {
+        "name": "Tribal Museum Manipur",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 25.403699999999997,
+        "lng": 94.6463
+      },
+      {
+        "name": "Craft Village Manipur",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 23.9637,
+        "lng": 93.2063
+      },
+      {
+        "name": "Classical Dance Academy Imphal",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 23.953699999999998,
+        "lng": 93.19630000000001
+      },
+      {
+        "name": "Puppet Theatre Manipur",
+        "desc": "Traditional puppet theatre of Manipur",
+        "rating": "4.4",
+        "lat": 23.9437,
+        "lng": 93.1863
+      },
+      {
+        "name": "Weaving Center Manipur",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 23.933699999999998,
+        "lng": 93.1763
+      },
+      {
+        "name": "Open Air Theatre Imphal",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 23.9237,
+        "lng": 93.1663
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Manipur",
+        "desc": "Best trekking trails in Manipur",
+        "rating": "4.4",
+        "lat": 25.4637,
+        "lng": 94.7063
+      },
+      {
+        "name": "Rock Climbing Manipur",
+        "desc": "Rock climbing spots in Manipur",
+        "rating": "4.3",
+        "lat": 25.473699999999997,
+        "lng": 94.7163
+      },
+      {
+        "name": "River Rafting Manipur",
+        "desc": "White water rafting in rivers of Manipur",
+        "rating": "4.5",
+        "lat": 25.4837,
+        "lng": 94.7263
+      },
+      {
+        "name": "Paragliding Manipur",
+        "desc": "Paragliding spots in Manipur",
+        "rating": "4.4",
+        "lat": 25.493699999999997,
+        "lng": 94.7363
+      },
+      {
+        "name": "Camping Manipur",
+        "desc": "Camping spots in forests of Manipur",
+        "rating": "4.4",
+        "lat": 25.5037,
+        "lng": 94.7463
+      },
+      {
+        "name": "Zip Line Manipur",
+        "desc": "Zip lining adventure in Manipur",
+        "rating": "4.3",
+        "lat": 23.863699999999998,
+        "lng": 93.1063
+      },
+      {
+        "name": "Jungle Safari Manipur",
+        "desc": "Jeep jungle safari in Manipur",
+        "rating": "4.4",
+        "lat": 23.8537,
+        "lng": 93.0963
+      },
+      {
+        "name": "Cycling Tour Manipur",
+        "desc": "Scenic cycling routes in Manipur",
+        "rating": "4.3",
+        "lat": 23.8437,
+        "lng": 93.08630000000001
+      },
+      {
+        "name": "Water Sports Manipur",
+        "desc": "Water sports activities in Manipur",
+        "rating": "4.3",
+        "lat": 23.8337,
+        "lng": 93.0763
+      },
+      {
+        "name": "Bungee Jumping Manipur",
+        "desc": "Bungee jumping experience in Manipur",
+        "rating": "4.3",
+        "lat": 23.8237,
+        "lng": 93.0663
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Manipur",
+        "desc": "Traditional Ayurvedic treatments in Manipur",
+        "rating": "4.4",
+        "lat": 25.563699999999997,
+        "lng": 94.80630000000001
+      },
+      {
+        "name": "Yoga Retreat Manipur",
+        "desc": "Yoga and meditation retreat in Manipur",
+        "rating": "4.4",
+        "lat": 25.5737,
+        "lng": 94.8163
+      },
+      {
+        "name": "Spa Resort Manipur",
+        "desc": "Luxury spa resort in Manipur",
+        "rating": "4.5",
+        "lat": 25.5837,
+        "lng": 94.8263
+      },
+      {
+        "name": "Naturopathy Center Manipur",
+        "desc": "Natural healing center in Manipur",
+        "rating": "4.3",
+        "lat": 25.5937,
+        "lng": 94.83630000000001
+      },
+      {
+        "name": "Meditation Ashram Manipur",
+        "desc": "Peaceful meditation ashram in Manipur",
+        "rating": "4.4",
+        "lat": 25.6037,
+        "lng": 94.8463
+      },
+      {
+        "name": "Wellness Resort Imphal",
+        "desc": "Luxury wellness resort in Imphal",
+        "rating": "4.4",
+        "lat": 23.7637,
+        "lng": 93.0063
+      },
+      {
+        "name": "Herbal Garden Manipur",
+        "desc": "Medicinal herb garden in Manipur",
+        "rating": "4.2",
+        "lat": 23.7537,
+        "lng": 92.9963
+      },
+      {
+        "name": "Forest Bathing Manipur",
+        "desc": "Therapeutic forest walks in Manipur",
+        "rating": "4.3",
+        "lat": 23.743699999999997,
+        "lng": 92.9863
+      },
+      {
+        "name": "Hot Spring Manipur",
+        "desc": "Natural hot spring in Manipur",
+        "rating": "4.4",
+        "lat": 23.7337,
+        "lng": 92.9763
+      },
+      {
+        "name": "Detox Retreat Manipur",
+        "desc": "Detox and wellness retreat in Manipur",
+        "rating": "4.3",
+        "lat": 23.723699999999997,
+        "lng": 92.9663
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Imphal",
+        "desc": "Main airport of Manipur in Imphal",
+        "rating": "4.0",
+        "lat": 25.6637,
+        "lng": 94.9063
+      },
+      {
+        "name": "Railway Station Imphal",
+        "desc": "Main railway junction in Imphal",
+        "rating": "3.8",
+        "lat": 25.6737,
+        "lng": 94.9163
+      },
+      {
+        "name": "Bus Terminal Imphal",
+        "desc": "State bus terminal in Imphal",
+        "rating": "3.7",
+        "lat": 25.683699999999998,
+        "lng": 94.9263
+      },
+      {
+        "name": "Metro Rail Imphal",
+        "desc": "Metro rail system in Imphal",
+        "rating": "4.2",
+        "lat": 25.6937,
+        "lng": 94.9363
+      },
+      {
+        "name": "Highway Manipur",
+        "desc": "Major national highway through Manipur",
+        "rating": "4.0",
+        "lat": 25.703699999999998,
+        "lng": 94.94630000000001
+      },
+      {
+        "name": "Port Manipur",
+        "desc": "Major sea port of Manipur",
+        "rating": "3.9",
+        "lat": 23.6637,
+        "lng": 92.9063
+      },
+      {
+        "name": "Taxi Stand Imphal",
+        "desc": "Main cab and taxi hub in Imphal",
+        "rating": "3.8",
+        "lat": 23.653699999999997,
+        "lng": 92.8963
+      },
+      {
+        "name": "Auto Rickshaw Imphal",
+        "desc": "Auto rickshaw services across Imphal",
+        "rating": "3.6",
+        "lat": 23.6437,
+        "lng": 92.8863
+      },
+      {
+        "name": "Cab Services Imphal",
+        "desc": "Ola and Uber cab services in Imphal",
+        "rating": "4.0",
+        "lat": 23.633699999999997,
+        "lng": 92.8763
+      },
+      {
+        "name": "Helipad Manipur",
+        "desc": "Helicopter services in Manipur",
+        "rating": "4.0",
+        "lat": 23.6237,
+        "lng": 92.8663
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Manipur",
+        "desc": "Most famous festival of Manipur",
+        "rating": "4.7",
+        "lat": 25.7637,
+        "lng": 95.0063
+      },
+      {
+        "name": "Cooking Class Manipur",
+        "desc": "Learn traditional Manipur cooking techniques",
+        "rating": "4.5",
+        "lat": 25.773699999999998,
+        "lng": 95.0163
+      },
+      {
+        "name": "Village Walk Manipur",
+        "desc": "Authentic village life experience in Manipur",
+        "rating": "4.4",
+        "lat": 25.7837,
+        "lng": 95.0263
+      },
+      {
+        "name": "Craft Workshop Manipur",
+        "desc": "Traditional craft making workshop in Manipur",
+        "rating": "4.4",
+        "lat": 25.793699999999998,
+        "lng": 95.0363
+      },
+      {
+        "name": "Sunrise Trek Manipur",
+        "desc": "Early morning sunrise trek in Manipur",
+        "rating": "4.5",
+        "lat": 25.8037,
+        "lng": 95.0463
+      },
+      {
+        "name": "Local Market Tour Imphal",
+        "desc": "Guided tour of local markets in Imphal",
+        "rating": "4.3",
+        "lat": 23.563699999999997,
+        "lng": 92.80630000000001
+      },
+      {
+        "name": "Folk Performance Manipur",
+        "desc": "Traditional folk art performance of Manipur",
+        "rating": "4.5",
+        "lat": 23.5537,
+        "lng": 92.7963
+      },
+      {
+        "name": "Farm Stay Manipur",
+        "desc": "Authentic farm stay experience in Manipur",
+        "rating": "4.4",
+        "lat": 23.543699999999998,
+        "lng": 92.7863
+      },
+      {
+        "name": "Night Safari Manipur",
+        "desc": "Night wildlife safari in Manipur",
+        "rating": "4.4",
+        "lat": 23.5337,
+        "lng": 92.7763
+      },
+      {
+        "name": "Harvest Festival Manipur",
+        "desc": "Traditional harvest festival of Manipur",
+        "rating": "4.5",
+        "lat": 23.523699999999998,
+        "lng": 92.7663
+      }
+    ]
+  }
+}

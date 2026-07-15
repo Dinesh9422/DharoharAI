@@ -1,0 +1,870 @@
+{
+  "state": "Odisha",
+  "capital": "Bhubaneswar",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Konark Sun Temple",
+        "desc": "Most famous heritage site in Odisha",
+        "rating": "4.6",
+        "lat": 20.9517,
+        "lng": 85.0985
+      },
+      {
+        "name": "State Museum Bhubaneswar",
+        "desc": "Archaeological museum showcasing Odisha history",
+        "rating": "4.2",
+        "lat": 20.9617,
+        "lng": 85.1085
+      },
+      {
+        "name": "Old Fort Bhubaneswar",
+        "desc": "Historic fort from medieval era in Bhubaneswar",
+        "rating": "4.3",
+        "lat": 20.9717,
+        "lng": 85.1185
+      },
+      {
+        "name": "Ancient Temple Odisha",
+        "desc": "Famous ancient temple showcasing Odisha architecture",
+        "rating": "4.4",
+        "lat": 20.9817,
+        "lng": 85.1285
+      },
+      {
+        "name": "Colonial Building Bhubaneswar",
+        "desc": "Historic colonial era building in Bhubaneswar",
+        "rating": "4.1",
+        "lat": 20.991699999999998,
+        "lng": 85.13850000000001
+      },
+      {
+        "name": "Palace Odisha",
+        "desc": "Royal palace of former rulers of Odisha",
+        "rating": "4.4",
+        "lat": 20.941699999999997,
+        "lng": 85.0885
+      },
+      {
+        "name": "Rock Cut Caves Odisha",
+        "desc": "Ancient rock cut monuments in Odisha",
+        "rating": "4.3",
+        "lat": 20.9317,
+        "lng": 85.0785
+      },
+      {
+        "name": "Heritage Walk Bhubaneswar",
+        "desc": "Guided walk through old quarter of Bhubaneswar",
+        "rating": "4.3",
+        "lat": 20.921699999999998,
+        "lng": 85.0685
+      },
+      {
+        "name": "Memorial Museum Bhubaneswar",
+        "desc": "Memorial to freedom fighters of Odisha",
+        "rating": "4.1",
+        "lat": 20.9117,
+        "lng": 85.0585
+      },
+      {
+        "name": "Ruins Site Odisha",
+        "desc": "Ancient ruins and archaeological findings in Odisha",
+        "rating": "4.2",
+        "lat": 20.901699999999998,
+        "lng": 85.0485
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Bhubaneswar",
+        "desc": "Authentic Odisha thali with local specialties",
+        "rating": "4.5",
+        "lat": 21.0517,
+        "lng": 85.1985
+      },
+      {
+        "name": "Street Food Market Bhubaneswar",
+        "desc": "Famous street food market in Bhubaneswar",
+        "rating": "4.4",
+        "lat": 21.0617,
+        "lng": 85.2085
+      },
+      {
+        "name": "Local Sweet Shop Odisha",
+        "desc": "Famous traditional sweets unique to Odisha",
+        "rating": "4.5",
+        "lat": 21.0717,
+        "lng": 85.2185
+      },
+      {
+        "name": "Tribal Cuisine Odisha",
+        "desc": "Authentic tribal food of Odisha",
+        "rating": "4.4",
+        "lat": 21.081699999999998,
+        "lng": 85.2285
+      },
+      {
+        "name": "Dhaba Odisha",
+        "desc": "Famous highway dhaba with Odisha specialties",
+        "rating": "4.3",
+        "lat": 21.0917,
+        "lng": 85.2385
+      },
+      {
+        "name": "Vegetarian Restaurant Bhubaneswar",
+        "desc": "Best pure vegetarian food in Bhubaneswar",
+        "rating": "4.3",
+        "lat": 20.851699999999997,
+        "lng": 84.9985
+      },
+      {
+        "name": "Biryani House Bhubaneswar",
+        "desc": "Best biryani and rice dishes in Bhubaneswar",
+        "rating": "4.4",
+        "lat": 20.8417,
+        "lng": 84.9885
+      },
+      {
+        "name": "Bakery Cafe Bhubaneswar",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 20.831699999999998,
+        "lng": 84.9785
+      },
+      {
+        "name": "Royal Kitchen Odisha",
+        "desc": "Restaurant serving royal recipes of Odisha",
+        "rating": "4.5",
+        "lat": 20.8217,
+        "lng": 84.9685
+      },
+      {
+        "name": "Fish Curry House Odisha",
+        "desc": "Traditional Odisha style fish preparation",
+        "rating": "4.4",
+        "lat": 20.8117,
+        "lng": 84.9585
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Bhubaneswar",
+        "desc": "Luxury 5-star Taj hotel in Bhubaneswar",
+        "rating": "4.7",
+        "lat": 21.151699999999998,
+        "lng": 85.2985
+      },
+      {
+        "name": "Oberoi Resort Odisha",
+        "desc": "Luxury resort in scenic location in Odisha",
+        "rating": "4.8",
+        "lat": 21.1617,
+        "lng": 85.3085
+      },
+      {
+        "name": "Heritage Hotel Bhubaneswar",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 21.171699999999998,
+        "lng": 85.3185
+      },
+      {
+        "name": "ITC Hotel Bhubaneswar",
+        "desc": "ITC luxury hotel in Bhubaneswar",
+        "rating": "4.6",
+        "lat": 21.1817,
+        "lng": 85.3285
+      },
+      {
+        "name": "Eco Resort Odisha",
+        "desc": "Eco-friendly resort in nature of Odisha",
+        "rating": "4.5",
+        "lat": 21.191699999999997,
+        "lng": 85.3385
+      },
+      {
+        "name": "Boutique Hotel Bhubaneswar",
+        "desc": "Charming boutique hotel in old quarter of Bhubaneswar",
+        "rating": "4.4",
+        "lat": 20.7517,
+        "lng": 84.8985
+      },
+      {
+        "name": "Marriott Bhubaneswar",
+        "desc": "International 5-star Marriott hotel in Bhubaneswar",
+        "rating": "4.6",
+        "lat": 20.741699999999998,
+        "lng": 84.88850000000001
+      },
+      {
+        "name": "Forest Lodge Odisha",
+        "desc": "Wildlife lodge near forest of Odisha",
+        "rating": "4.4",
+        "lat": 20.7317,
+        "lng": 84.8785
+      },
+      {
+        "name": "Homestay Odisha",
+        "desc": "Authentic homestay with local family in Odisha",
+        "rating": "4.3",
+        "lat": 20.7217,
+        "lng": 84.8685
+      },
+      {
+        "name": "Budget Hotel Bhubaneswar",
+        "desc": "Clean comfortable budget stay in Bhubaneswar",
+        "rating": "4.0",
+        "lat": 20.7117,
+        "lng": 84.8585
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Odisha",
+        "desc": "Best panoramic viewpoint in Odisha",
+        "rating": "4.5",
+        "lat": 21.2517,
+        "lng": 85.3985
+      },
+      {
+        "name": "Waterfall Odisha",
+        "desc": "Most beautiful waterfall in Odisha",
+        "rating": "4.5",
+        "lat": 21.261699999999998,
+        "lng": 85.4085
+      },
+      {
+        "name": "Lake Odisha",
+        "desc": "Scenic lake in Odisha with boating",
+        "rating": "4.3",
+        "lat": 21.2717,
+        "lng": 85.4185
+      },
+      {
+        "name": "Hill Station Odisha",
+        "desc": "Popular hill station in Odisha",
+        "rating": "4.4",
+        "lat": 21.281699999999997,
+        "lng": 85.4285
+      },
+      {
+        "name": "National Park Odisha",
+        "desc": "Wildlife national park in Odisha",
+        "rating": "4.4",
+        "lat": 21.2917,
+        "lng": 85.4385
+      },
+      {
+        "name": "Beach Odisha",
+        "desc": "Beautiful beach in Odisha",
+        "rating": "4.3",
+        "lat": 20.651699999999998,
+        "lng": 84.7985
+      },
+      {
+        "name": "Cave System Odisha",
+        "desc": "Natural cave system in Odisha",
+        "rating": "4.3",
+        "lat": 20.6417,
+        "lng": 84.7885
+      },
+      {
+        "name": "Dam Odisha",
+        "desc": "Scenic dam and reservoir in Odisha",
+        "rating": "4.2",
+        "lat": 20.6317,
+        "lng": 84.77850000000001
+      },
+      {
+        "name": "Botanical Garden Bhubaneswar",
+        "desc": "Botanical garden with rare plants in Bhubaneswar",
+        "rating": "4.2",
+        "lat": 20.6217,
+        "lng": 84.7685
+      },
+      {
+        "name": "Zoo Bhubaneswar",
+        "desc": "State zoo in Bhubaneswar with variety of animals",
+        "rating": "4.1",
+        "lat": 20.6117,
+        "lng": 84.7585
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Bhubaneswar",
+        "desc": "Bustling main market of Bhubaneswar",
+        "rating": "4.3",
+        "lat": 21.351699999999997,
+        "lng": 85.4985
+      },
+      {
+        "name": "Handicraft Market Odisha",
+        "desc": "Traditional handicrafts of Odisha",
+        "rating": "4.4",
+        "lat": 21.3617,
+        "lng": 85.5085
+      },
+      {
+        "name": "Silk Market Odisha",
+        "desc": "Famous silk and textile market of Odisha",
+        "rating": "4.4",
+        "lat": 21.3717,
+        "lng": 85.5185
+      },
+      {
+        "name": "Tribal Art Market Odisha",
+        "desc": "Traditional tribal art and crafts of Odisha",
+        "rating": "4.4",
+        "lat": 21.3817,
+        "lng": 85.52850000000001
+      },
+      {
+        "name": "Spice Market Odisha",
+        "desc": "Aromatic spice market unique to Odisha",
+        "rating": "4.3",
+        "lat": 21.3917,
+        "lng": 85.5385
+      },
+      {
+        "name": "Mall Bhubaneswar",
+        "desc": "Modern shopping mall in Bhubaneswar",
+        "rating": "4.2",
+        "lat": 20.5517,
+        "lng": 84.6985
+      },
+      {
+        "name": "Gem Market Odisha",
+        "desc": "Precious and semi-precious stones of Odisha",
+        "rating": "4.3",
+        "lat": 20.5417,
+        "lng": 84.6885
+      },
+      {
+        "name": "Bamboo Craft Odisha",
+        "desc": "Traditional bamboo craft market of Odisha",
+        "rating": "4.3",
+        "lat": 20.531699999999997,
+        "lng": 84.6785
+      },
+      {
+        "name": "Pottery Village Odisha",
+        "desc": "Traditional pottery making village in Odisha",
+        "rating": "4.3",
+        "lat": 20.5217,
+        "lng": 84.6685
+      },
+      {
+        "name": "Night Market Bhubaneswar",
+        "desc": "Evening market in Bhubaneswar with local goods",
+        "rating": "4.2",
+        "lat": 20.511699999999998,
+        "lng": 84.6585
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Odisha",
+        "desc": "Tiger and wildlife reserve in Odisha",
+        "rating": "4.5",
+        "lat": 21.4517,
+        "lng": 85.5985
+      },
+      {
+        "name": "Bird Sanctuary Odisha",
+        "desc": "Migratory bird sanctuary in Odisha",
+        "rating": "4.4",
+        "lat": 21.4617,
+        "lng": 85.6085
+      },
+      {
+        "name": "Forest Reserve Odisha",
+        "desc": "Dense forest reserve of Odisha",
+        "rating": "4.4",
+        "lat": 21.4717,
+        "lng": 85.6185
+      },
+      {
+        "name": "River Valley Odisha",
+        "desc": "Scenic river valley in Odisha",
+        "rating": "4.3",
+        "lat": 21.4817,
+        "lng": 85.6285
+      },
+      {
+        "name": "Mountain Peak Odisha",
+        "desc": "Highest mountain peak in Odisha",
+        "rating": "4.4",
+        "lat": 21.491699999999998,
+        "lng": 85.63850000000001
+      },
+      {
+        "name": "Wetland Odisha",
+        "desc": "Important wetland ecosystem in Odisha",
+        "rating": "4.3",
+        "lat": 20.4517,
+        "lng": 84.5985
+      },
+      {
+        "name": "Tea Garden Odisha",
+        "desc": "Scenic tea or coffee plantation in Odisha",
+        "rating": "4.4",
+        "lat": 20.441699999999997,
+        "lng": 84.5885
+      },
+      {
+        "name": "Organic Farm Odisha",
+        "desc": "Organic farming experience in Odisha",
+        "rating": "4.3",
+        "lat": 20.4317,
+        "lng": 84.5785
+      },
+      {
+        "name": "Sunrise Point Odisha",
+        "desc": "Most spectacular sunrise point in Odisha",
+        "rating": "4.5",
+        "lat": 20.421699999999998,
+        "lng": 84.5685
+      },
+      {
+        "name": "Eco Park Bhubaneswar",
+        "desc": "Ecology park in Bhubaneswar with rare plants",
+        "rating": "4.1",
+        "lat": 20.4117,
+        "lng": 84.5585
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Odisha",
+        "desc": "Most famous temple in Odisha",
+        "rating": "4.6",
+        "lat": 21.5517,
+        "lng": 85.6985
+      },
+      {
+        "name": "Mosque Bhubaneswar",
+        "desc": "Historic mosque in Bhubaneswar",
+        "rating": "4.3",
+        "lat": 21.5617,
+        "lng": 85.7085
+      },
+      {
+        "name": "Church Bhubaneswar",
+        "desc": "Historic church in Bhubaneswar",
+        "rating": "4.3",
+        "lat": 21.5717,
+        "lng": 85.7185
+      },
+      {
+        "name": "Gurudwara Odisha",
+        "desc": "Important Sikh shrine in Odisha",
+        "rating": "4.4",
+        "lat": 21.581699999999998,
+        "lng": 85.7285
+      },
+      {
+        "name": "Buddhist Monastery Odisha",
+        "desc": "Ancient Buddhist monastery in Odisha",
+        "rating": "4.4",
+        "lat": 21.5917,
+        "lng": 85.7385
+      },
+      {
+        "name": "Jain Temple Odisha",
+        "desc": "Famous Jain temple in Odisha",
+        "rating": "4.4",
+        "lat": 20.351699999999997,
+        "lng": 84.4985
+      },
+      {
+        "name": "Dargah Odisha",
+        "desc": "Famous Sufi dargah in Odisha",
+        "rating": "4.3",
+        "lat": 20.3417,
+        "lng": 84.4885
+      },
+      {
+        "name": "Ashram Odisha",
+        "desc": "Spiritual ashram in Odisha",
+        "rating": "4.4",
+        "lat": 20.331699999999998,
+        "lng": 84.4785
+      },
+      {
+        "name": "Pilgrimage Site Odisha",
+        "desc": "Important pilgrimage destination in Odisha",
+        "rating": "4.5",
+        "lat": 20.3217,
+        "lng": 84.4685
+      },
+      {
+        "name": "Sacred River Ghat Odisha",
+        "desc": "Sacred river ghat for rituals in Odisha",
+        "rating": "4.3",
+        "lat": 20.3117,
+        "lng": 84.4585
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Odisha",
+        "desc": "Traditional folk dance performance of Odisha",
+        "rating": "4.5",
+        "lat": 21.651699999999998,
+        "lng": 85.7985
+      },
+      {
+        "name": "Art Gallery Bhubaneswar",
+        "desc": "State art gallery in Bhubaneswar",
+        "rating": "4.2",
+        "lat": 21.6617,
+        "lng": 85.8085
+      },
+      {
+        "name": "Cultural Center Bhubaneswar",
+        "desc": "Cultural center for arts in Bhubaneswar",
+        "rating": "4.3",
+        "lat": 21.671699999999998,
+        "lng": 85.8185
+      },
+      {
+        "name": "Music Festival Odisha",
+        "desc": "Annual music festival of Odisha",
+        "rating": "4.5",
+        "lat": 21.6817,
+        "lng": 85.8285
+      },
+      {
+        "name": "Tribal Museum Odisha",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 21.691699999999997,
+        "lng": 85.8385
+      },
+      {
+        "name": "Craft Village Odisha",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 20.2517,
+        "lng": 84.3985
+      },
+      {
+        "name": "Classical Dance Academy Bhubaneswar",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 20.241699999999998,
+        "lng": 84.38850000000001
+      },
+      {
+        "name": "Puppet Theatre Odisha",
+        "desc": "Traditional puppet theatre of Odisha",
+        "rating": "4.4",
+        "lat": 20.2317,
+        "lng": 84.3785
+      },
+      {
+        "name": "Weaving Center Odisha",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 20.2217,
+        "lng": 84.3685
+      },
+      {
+        "name": "Open Air Theatre Bhubaneswar",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 20.2117,
+        "lng": 84.3585
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Odisha",
+        "desc": "Best trekking trails in Odisha",
+        "rating": "4.4",
+        "lat": 21.7517,
+        "lng": 85.8985
+      },
+      {
+        "name": "Rock Climbing Odisha",
+        "desc": "Rock climbing spots in Odisha",
+        "rating": "4.3",
+        "lat": 21.761699999999998,
+        "lng": 85.9085
+      },
+      {
+        "name": "River Rafting Odisha",
+        "desc": "White water rafting in rivers of Odisha",
+        "rating": "4.5",
+        "lat": 21.7717,
+        "lng": 85.9185
+      },
+      {
+        "name": "Paragliding Odisha",
+        "desc": "Paragliding spots in Odisha",
+        "rating": "4.4",
+        "lat": 21.781699999999997,
+        "lng": 85.9285
+      },
+      {
+        "name": "Camping Odisha",
+        "desc": "Camping spots in forests of Odisha",
+        "rating": "4.4",
+        "lat": 21.7917,
+        "lng": 85.9385
+      },
+      {
+        "name": "Zip Line Odisha",
+        "desc": "Zip lining adventure in Odisha",
+        "rating": "4.3",
+        "lat": 20.151699999999998,
+        "lng": 84.2985
+      },
+      {
+        "name": "Jungle Safari Odisha",
+        "desc": "Jeep jungle safari in Odisha",
+        "rating": "4.4",
+        "lat": 20.1417,
+        "lng": 84.2885
+      },
+      {
+        "name": "Cycling Tour Odisha",
+        "desc": "Scenic cycling routes in Odisha",
+        "rating": "4.3",
+        "lat": 20.1317,
+        "lng": 84.27850000000001
+      },
+      {
+        "name": "Water Sports Odisha",
+        "desc": "Water sports activities in Odisha",
+        "rating": "4.3",
+        "lat": 20.1217,
+        "lng": 84.2685
+      },
+      {
+        "name": "Bungee Jumping Odisha",
+        "desc": "Bungee jumping experience in Odisha",
+        "rating": "4.3",
+        "lat": 20.1117,
+        "lng": 84.2585
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Odisha",
+        "desc": "Traditional Ayurvedic treatments in Odisha",
+        "rating": "4.4",
+        "lat": 21.851699999999997,
+        "lng": 85.9985
+      },
+      {
+        "name": "Yoga Retreat Odisha",
+        "desc": "Yoga and meditation retreat in Odisha",
+        "rating": "4.4",
+        "lat": 21.8617,
+        "lng": 86.0085
+      },
+      {
+        "name": "Spa Resort Odisha",
+        "desc": "Luxury spa resort in Odisha",
+        "rating": "4.5",
+        "lat": 21.8717,
+        "lng": 86.0185
+      },
+      {
+        "name": "Naturopathy Center Odisha",
+        "desc": "Natural healing center in Odisha",
+        "rating": "4.3",
+        "lat": 21.8817,
+        "lng": 86.02850000000001
+      },
+      {
+        "name": "Meditation Ashram Odisha",
+        "desc": "Peaceful meditation ashram in Odisha",
+        "rating": "4.4",
+        "lat": 21.8917,
+        "lng": 86.0385
+      },
+      {
+        "name": "Wellness Resort Bhubaneswar",
+        "desc": "Luxury wellness resort in Bhubaneswar",
+        "rating": "4.4",
+        "lat": 20.0517,
+        "lng": 84.1985
+      },
+      {
+        "name": "Herbal Garden Odisha",
+        "desc": "Medicinal herb garden in Odisha",
+        "rating": "4.2",
+        "lat": 20.0417,
+        "lng": 84.1885
+      },
+      {
+        "name": "Forest Bathing Odisha",
+        "desc": "Therapeutic forest walks in Odisha",
+        "rating": "4.3",
+        "lat": 20.031699999999997,
+        "lng": 84.1785
+      },
+      {
+        "name": "Hot Spring Odisha",
+        "desc": "Natural hot spring in Odisha",
+        "rating": "4.4",
+        "lat": 20.0217,
+        "lng": 84.1685
+      },
+      {
+        "name": "Detox Retreat Odisha",
+        "desc": "Detox and wellness retreat in Odisha",
+        "rating": "4.3",
+        "lat": 20.011699999999998,
+        "lng": 84.1585
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Bhubaneswar",
+        "desc": "Main airport of Odisha in Bhubaneswar",
+        "rating": "4.0",
+        "lat": 21.9517,
+        "lng": 86.0985
+      },
+      {
+        "name": "Railway Station Bhubaneswar",
+        "desc": "Main railway junction in Bhubaneswar",
+        "rating": "3.8",
+        "lat": 21.9617,
+        "lng": 86.1085
+      },
+      {
+        "name": "Bus Terminal Bhubaneswar",
+        "desc": "State bus terminal in Bhubaneswar",
+        "rating": "3.7",
+        "lat": 21.9717,
+        "lng": 86.1185
+      },
+      {
+        "name": "Metro Rail Bhubaneswar",
+        "desc": "Metro rail system in Bhubaneswar",
+        "rating": "4.2",
+        "lat": 21.9817,
+        "lng": 86.1285
+      },
+      {
+        "name": "Highway Odisha",
+        "desc": "Major national highway through Odisha",
+        "rating": "4.0",
+        "lat": 21.991699999999998,
+        "lng": 86.13850000000001
+      },
+      {
+        "name": "Port Odisha",
+        "desc": "Major sea port of Odisha",
+        "rating": "3.9",
+        "lat": 19.9517,
+        "lng": 84.0985
+      },
+      {
+        "name": "Taxi Stand Bhubaneswar",
+        "desc": "Main cab and taxi hub in Bhubaneswar",
+        "rating": "3.8",
+        "lat": 19.941699999999997,
+        "lng": 84.0885
+      },
+      {
+        "name": "Auto Rickshaw Bhubaneswar",
+        "desc": "Auto rickshaw services across Bhubaneswar",
+        "rating": "3.6",
+        "lat": 19.9317,
+        "lng": 84.0785
+      },
+      {
+        "name": "Cab Services Bhubaneswar",
+        "desc": "Ola and Uber cab services in Bhubaneswar",
+        "rating": "4.0",
+        "lat": 19.921699999999998,
+        "lng": 84.0685
+      },
+      {
+        "name": "Helipad Odisha",
+        "desc": "Helicopter services in Odisha",
+        "rating": "4.0",
+        "lat": 19.9117,
+        "lng": 84.0585
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Odisha",
+        "desc": "Most famous festival of Odisha",
+        "rating": "4.7",
+        "lat": 22.0517,
+        "lng": 86.1985
+      },
+      {
+        "name": "Cooking Class Odisha",
+        "desc": "Learn traditional Odisha cooking techniques",
+        "rating": "4.5",
+        "lat": 22.0617,
+        "lng": 86.2085
+      },
+      {
+        "name": "Village Walk Odisha",
+        "desc": "Authentic village life experience in Odisha",
+        "rating": "4.4",
+        "lat": 22.0717,
+        "lng": 86.2185
+      },
+      {
+        "name": "Craft Workshop Odisha",
+        "desc": "Traditional craft making workshop in Odisha",
+        "rating": "4.4",
+        "lat": 22.081699999999998,
+        "lng": 86.2285
+      },
+      {
+        "name": "Sunrise Trek Odisha",
+        "desc": "Early morning sunrise trek in Odisha",
+        "rating": "4.5",
+        "lat": 22.0917,
+        "lng": 86.2385
+      },
+      {
+        "name": "Local Market Tour Bhubaneswar",
+        "desc": "Guided tour of local markets in Bhubaneswar",
+        "rating": "4.3",
+        "lat": 19.851699999999997,
+        "lng": 83.9985
+      },
+      {
+        "name": "Folk Performance Odisha",
+        "desc": "Traditional folk art performance of Odisha",
+        "rating": "4.5",
+        "lat": 19.8417,
+        "lng": 83.9885
+      },
+      {
+        "name": "Farm Stay Odisha",
+        "desc": "Authentic farm stay experience in Odisha",
+        "rating": "4.4",
+        "lat": 19.831699999999998,
+        "lng": 83.9785
+      },
+      {
+        "name": "Night Safari Odisha",
+        "desc": "Night wildlife safari in Odisha",
+        "rating": "4.4",
+        "lat": 19.8217,
+        "lng": 83.9685
+      },
+      {
+        "name": "Harvest Festival Odisha",
+        "desc": "Traditional harvest festival of Odisha",
+        "rating": "4.5",
+        "lat": 19.8117,
+        "lng": 83.9585
+      }
+    ]
+  }
+}

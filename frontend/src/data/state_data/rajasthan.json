@@ -1,0 +1,870 @@
+{
+  "state": "Rajasthan",
+  "capital": "Jaipur",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Amber Fort Jaipur",
+        "desc": "Most famous heritage site in Rajasthan",
+        "rating": "4.6",
+        "lat": 27.0238,
+        "lng": 74.2179
+      },
+      {
+        "name": "State Museum Jaipur",
+        "desc": "Archaeological museum showcasing Rajasthan history",
+        "rating": "4.2",
+        "lat": 27.033800000000003,
+        "lng": 74.2279
+      },
+      {
+        "name": "Old Fort Jaipur",
+        "desc": "Historic fort from medieval era in Jaipur",
+        "rating": "4.3",
+        "lat": 27.0438,
+        "lng": 74.2379
+      },
+      {
+        "name": "Ancient Temple Rajasthan",
+        "desc": "Famous ancient temple showcasing Rajasthan architecture",
+        "rating": "4.4",
+        "lat": 27.053800000000003,
+        "lng": 74.2479
+      },
+      {
+        "name": "Colonial Building Jaipur",
+        "desc": "Historic colonial era building in Jaipur",
+        "rating": "4.1",
+        "lat": 27.0638,
+        "lng": 74.2579
+      },
+      {
+        "name": "Palace Rajasthan",
+        "desc": "Royal palace of former rulers of Rajasthan",
+        "rating": "4.4",
+        "lat": 27.0138,
+        "lng": 74.2079
+      },
+      {
+        "name": "Rock Cut Caves Rajasthan",
+        "desc": "Ancient rock cut monuments in Rajasthan",
+        "rating": "4.3",
+        "lat": 27.003800000000002,
+        "lng": 74.1979
+      },
+      {
+        "name": "Heritage Walk Jaipur",
+        "desc": "Guided walk through old quarter of Jaipur",
+        "rating": "4.3",
+        "lat": 26.9938,
+        "lng": 74.1879
+      },
+      {
+        "name": "Memorial Museum Jaipur",
+        "desc": "Memorial to freedom fighters of Rajasthan",
+        "rating": "4.1",
+        "lat": 26.983800000000002,
+        "lng": 74.1779
+      },
+      {
+        "name": "Ruins Site Rajasthan",
+        "desc": "Ancient ruins and archaeological findings in Rajasthan",
+        "rating": "4.2",
+        "lat": 26.9738,
+        "lng": 74.1679
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Jaipur",
+        "desc": "Authentic Rajasthan thali with local specialties",
+        "rating": "4.5",
+        "lat": 27.123800000000003,
+        "lng": 74.3179
+      },
+      {
+        "name": "Street Food Market Jaipur",
+        "desc": "Famous street food market in Jaipur",
+        "rating": "4.4",
+        "lat": 27.1338,
+        "lng": 74.3279
+      },
+      {
+        "name": "Local Sweet Shop Rajasthan",
+        "desc": "Famous traditional sweets unique to Rajasthan",
+        "rating": "4.5",
+        "lat": 27.143800000000002,
+        "lng": 74.3379
+      },
+      {
+        "name": "Tribal Cuisine Rajasthan",
+        "desc": "Authentic tribal food of Rajasthan",
+        "rating": "4.4",
+        "lat": 27.1538,
+        "lng": 74.3479
+      },
+      {
+        "name": "Dhaba Rajasthan",
+        "desc": "Famous highway dhaba with Rajasthan specialties",
+        "rating": "4.3",
+        "lat": 27.163800000000002,
+        "lng": 74.3579
+      },
+      {
+        "name": "Vegetarian Restaurant Jaipur",
+        "desc": "Best pure vegetarian food in Jaipur",
+        "rating": "4.3",
+        "lat": 26.9238,
+        "lng": 74.1179
+      },
+      {
+        "name": "Biryani House Jaipur",
+        "desc": "Best biryani and rice dishes in Jaipur",
+        "rating": "4.4",
+        "lat": 26.913800000000002,
+        "lng": 74.1079
+      },
+      {
+        "name": "Bakery Cafe Jaipur",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 26.9038,
+        "lng": 74.0979
+      },
+      {
+        "name": "Royal Kitchen Rajasthan",
+        "desc": "Restaurant serving royal recipes of Rajasthan",
+        "rating": "4.5",
+        "lat": 26.893800000000002,
+        "lng": 74.0879
+      },
+      {
+        "name": "Fish Curry House Rajasthan",
+        "desc": "Traditional Rajasthan style fish preparation",
+        "rating": "4.4",
+        "lat": 26.8838,
+        "lng": 74.0779
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Jaipur",
+        "desc": "Luxury 5-star Taj hotel in Jaipur",
+        "rating": "4.7",
+        "lat": 27.2238,
+        "lng": 74.4179
+      },
+      {
+        "name": "Oberoi Resort Rajasthan",
+        "desc": "Luxury resort in scenic location in Rajasthan",
+        "rating": "4.8",
+        "lat": 27.233800000000002,
+        "lng": 74.4279
+      },
+      {
+        "name": "Heritage Hotel Jaipur",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 27.2438,
+        "lng": 74.4379
+      },
+      {
+        "name": "ITC Hotel Jaipur",
+        "desc": "ITC luxury hotel in Jaipur",
+        "rating": "4.6",
+        "lat": 27.253800000000002,
+        "lng": 74.4479
+      },
+      {
+        "name": "Eco Resort Rajasthan",
+        "desc": "Eco-friendly resort in nature of Rajasthan",
+        "rating": "4.5",
+        "lat": 27.2638,
+        "lng": 74.4579
+      },
+      {
+        "name": "Boutique Hotel Jaipur",
+        "desc": "Charming boutique hotel in old quarter of Jaipur",
+        "rating": "4.4",
+        "lat": 26.823800000000002,
+        "lng": 74.0179
+      },
+      {
+        "name": "Marriott Jaipur",
+        "desc": "International 5-star Marriott hotel in Jaipur",
+        "rating": "4.6",
+        "lat": 26.8138,
+        "lng": 74.0079
+      },
+      {
+        "name": "Forest Lodge Rajasthan",
+        "desc": "Wildlife lodge near forest of Rajasthan",
+        "rating": "4.4",
+        "lat": 26.803800000000003,
+        "lng": 73.9979
+      },
+      {
+        "name": "Homestay Rajasthan",
+        "desc": "Authentic homestay with local family in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.7938,
+        "lng": 73.9879
+      },
+      {
+        "name": "Budget Hotel Jaipur",
+        "desc": "Clean comfortable budget stay in Jaipur",
+        "rating": "4.0",
+        "lat": 26.783800000000003,
+        "lng": 73.9779
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Rajasthan",
+        "desc": "Best panoramic viewpoint in Rajasthan",
+        "rating": "4.5",
+        "lat": 27.323800000000002,
+        "lng": 74.5179
+      },
+      {
+        "name": "Waterfall Rajasthan",
+        "desc": "Most beautiful waterfall in Rajasthan",
+        "rating": "4.5",
+        "lat": 27.3338,
+        "lng": 74.5279
+      },
+      {
+        "name": "Lake Rajasthan",
+        "desc": "Scenic lake in Rajasthan with boating",
+        "rating": "4.3",
+        "lat": 27.3438,
+        "lng": 74.5379
+      },
+      {
+        "name": "Hill Station Rajasthan",
+        "desc": "Popular hill station in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.3538,
+        "lng": 74.5479
+      },
+      {
+        "name": "National Park Rajasthan",
+        "desc": "Wildlife national park in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.3638,
+        "lng": 74.5579
+      },
+      {
+        "name": "Beach Rajasthan",
+        "desc": "Beautiful beach in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.7238,
+        "lng": 73.9179
+      },
+      {
+        "name": "Cave System Rajasthan",
+        "desc": "Natural cave system in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.713800000000003,
+        "lng": 73.9079
+      },
+      {
+        "name": "Dam Rajasthan",
+        "desc": "Scenic dam and reservoir in Rajasthan",
+        "rating": "4.2",
+        "lat": 26.7038,
+        "lng": 73.8979
+      },
+      {
+        "name": "Botanical Garden Jaipur",
+        "desc": "Botanical garden with rare plants in Jaipur",
+        "rating": "4.2",
+        "lat": 26.693800000000003,
+        "lng": 73.8879
+      },
+      {
+        "name": "Zoo Jaipur",
+        "desc": "State zoo in Jaipur with variety of animals",
+        "rating": "4.1",
+        "lat": 26.6838,
+        "lng": 73.8779
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Jaipur",
+        "desc": "Bustling main market of Jaipur",
+        "rating": "4.3",
+        "lat": 27.4238,
+        "lng": 74.6179
+      },
+      {
+        "name": "Handicraft Market Rajasthan",
+        "desc": "Traditional handicrafts of Rajasthan",
+        "rating": "4.4",
+        "lat": 27.4338,
+        "lng": 74.6279
+      },
+      {
+        "name": "Silk Market Rajasthan",
+        "desc": "Famous silk and textile market of Rajasthan",
+        "rating": "4.4",
+        "lat": 27.443800000000003,
+        "lng": 74.6379
+      },
+      {
+        "name": "Tribal Art Market Rajasthan",
+        "desc": "Traditional tribal art and crafts of Rajasthan",
+        "rating": "4.4",
+        "lat": 27.4538,
+        "lng": 74.6479
+      },
+      {
+        "name": "Spice Market Rajasthan",
+        "desc": "Aromatic spice market unique to Rajasthan",
+        "rating": "4.3",
+        "lat": 27.463800000000003,
+        "lng": 74.6579
+      },
+      {
+        "name": "Mall Jaipur",
+        "desc": "Modern shopping mall in Jaipur",
+        "rating": "4.2",
+        "lat": 26.623800000000003,
+        "lng": 73.8179
+      },
+      {
+        "name": "Gem Market Rajasthan",
+        "desc": "Precious and semi-precious stones of Rajasthan",
+        "rating": "4.3",
+        "lat": 26.6138,
+        "lng": 73.8079
+      },
+      {
+        "name": "Bamboo Craft Rajasthan",
+        "desc": "Traditional bamboo craft market of Rajasthan",
+        "rating": "4.3",
+        "lat": 26.6038,
+        "lng": 73.7979
+      },
+      {
+        "name": "Pottery Village Rajasthan",
+        "desc": "Traditional pottery making village in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.5938,
+        "lng": 73.7879
+      },
+      {
+        "name": "Night Market Jaipur",
+        "desc": "Evening market in Jaipur with local goods",
+        "rating": "4.2",
+        "lat": 26.5838,
+        "lng": 73.7779
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Rajasthan",
+        "desc": "Tiger and wildlife reserve in Rajasthan",
+        "rating": "4.5",
+        "lat": 27.5238,
+        "lng": 74.7179
+      },
+      {
+        "name": "Bird Sanctuary Rajasthan",
+        "desc": "Migratory bird sanctuary in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.533800000000003,
+        "lng": 74.7279
+      },
+      {
+        "name": "Forest Reserve Rajasthan",
+        "desc": "Dense forest reserve of Rajasthan",
+        "rating": "4.4",
+        "lat": 27.5438,
+        "lng": 74.7379
+      },
+      {
+        "name": "River Valley Rajasthan",
+        "desc": "Scenic river valley in Rajasthan",
+        "rating": "4.3",
+        "lat": 27.553800000000003,
+        "lng": 74.7479
+      },
+      {
+        "name": "Mountain Peak Rajasthan",
+        "desc": "Highest mountain peak in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.5638,
+        "lng": 74.7579
+      },
+      {
+        "name": "Wetland Rajasthan",
+        "desc": "Important wetland ecosystem in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.5238,
+        "lng": 73.7179
+      },
+      {
+        "name": "Tea Garden Rajasthan",
+        "desc": "Scenic tea or coffee plantation in Rajasthan",
+        "rating": "4.4",
+        "lat": 26.5138,
+        "lng": 73.7079
+      },
+      {
+        "name": "Organic Farm Rajasthan",
+        "desc": "Organic farming experience in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.503800000000002,
+        "lng": 73.6979
+      },
+      {
+        "name": "Sunrise Point Rajasthan",
+        "desc": "Most spectacular sunrise point in Rajasthan",
+        "rating": "4.5",
+        "lat": 26.4938,
+        "lng": 73.6879
+      },
+      {
+        "name": "Eco Park Jaipur",
+        "desc": "Ecology park in Jaipur with rare plants",
+        "rating": "4.1",
+        "lat": 26.483800000000002,
+        "lng": 73.6779
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Rajasthan",
+        "desc": "Most famous temple in Rajasthan",
+        "rating": "4.6",
+        "lat": 27.623800000000003,
+        "lng": 74.8179
+      },
+      {
+        "name": "Mosque Jaipur",
+        "desc": "Historic mosque in Jaipur",
+        "rating": "4.3",
+        "lat": 27.6338,
+        "lng": 74.8279
+      },
+      {
+        "name": "Church Jaipur",
+        "desc": "Historic church in Jaipur",
+        "rating": "4.3",
+        "lat": 27.643800000000002,
+        "lng": 74.8379
+      },
+      {
+        "name": "Gurudwara Rajasthan",
+        "desc": "Important Sikh shrine in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.6538,
+        "lng": 74.8479
+      },
+      {
+        "name": "Buddhist Monastery Rajasthan",
+        "desc": "Ancient Buddhist monastery in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.663800000000002,
+        "lng": 74.8579
+      },
+      {
+        "name": "Jain Temple Rajasthan",
+        "desc": "Famous Jain temple in Rajasthan",
+        "rating": "4.4",
+        "lat": 26.4238,
+        "lng": 73.6179
+      },
+      {
+        "name": "Dargah Rajasthan",
+        "desc": "Famous Sufi dargah in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.413800000000002,
+        "lng": 73.6079
+      },
+      {
+        "name": "Ashram Rajasthan",
+        "desc": "Spiritual ashram in Rajasthan",
+        "rating": "4.4",
+        "lat": 26.4038,
+        "lng": 73.5979
+      },
+      {
+        "name": "Pilgrimage Site Rajasthan",
+        "desc": "Important pilgrimage destination in Rajasthan",
+        "rating": "4.5",
+        "lat": 26.393800000000002,
+        "lng": 73.5879
+      },
+      {
+        "name": "Sacred River Ghat Rajasthan",
+        "desc": "Sacred river ghat for rituals in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.3838,
+        "lng": 73.5779
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Rajasthan",
+        "desc": "Traditional folk dance performance of Rajasthan",
+        "rating": "4.5",
+        "lat": 27.7238,
+        "lng": 74.9179
+      },
+      {
+        "name": "Art Gallery Jaipur",
+        "desc": "State art gallery in Jaipur",
+        "rating": "4.2",
+        "lat": 27.733800000000002,
+        "lng": 74.9279
+      },
+      {
+        "name": "Cultural Center Jaipur",
+        "desc": "Cultural center for arts in Jaipur",
+        "rating": "4.3",
+        "lat": 27.7438,
+        "lng": 74.9379
+      },
+      {
+        "name": "Music Festival Rajasthan",
+        "desc": "Annual music festival of Rajasthan",
+        "rating": "4.5",
+        "lat": 27.753800000000002,
+        "lng": 74.9479
+      },
+      {
+        "name": "Tribal Museum Rajasthan",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 27.7638,
+        "lng": 74.9579
+      },
+      {
+        "name": "Craft Village Rajasthan",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 26.323800000000002,
+        "lng": 73.5179
+      },
+      {
+        "name": "Classical Dance Academy Jaipur",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 26.3138,
+        "lng": 73.5079
+      },
+      {
+        "name": "Puppet Theatre Rajasthan",
+        "desc": "Traditional puppet theatre of Rajasthan",
+        "rating": "4.4",
+        "lat": 26.303800000000003,
+        "lng": 73.4979
+      },
+      {
+        "name": "Weaving Center Rajasthan",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 26.2938,
+        "lng": 73.4879
+      },
+      {
+        "name": "Open Air Theatre Jaipur",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 26.283800000000003,
+        "lng": 73.4779
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Rajasthan",
+        "desc": "Best trekking trails in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.823800000000002,
+        "lng": 75.0179
+      },
+      {
+        "name": "Rock Climbing Rajasthan",
+        "desc": "Rock climbing spots in Rajasthan",
+        "rating": "4.3",
+        "lat": 27.8338,
+        "lng": 75.0279
+      },
+      {
+        "name": "River Rafting Rajasthan",
+        "desc": "White water rafting in rivers of Rajasthan",
+        "rating": "4.5",
+        "lat": 27.8438,
+        "lng": 75.0379
+      },
+      {
+        "name": "Paragliding Rajasthan",
+        "desc": "Paragliding spots in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.8538,
+        "lng": 75.0479
+      },
+      {
+        "name": "Camping Rajasthan",
+        "desc": "Camping spots in forests of Rajasthan",
+        "rating": "4.4",
+        "lat": 27.8638,
+        "lng": 75.0579
+      },
+      {
+        "name": "Zip Line Rajasthan",
+        "desc": "Zip lining adventure in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.2238,
+        "lng": 73.4179
+      },
+      {
+        "name": "Jungle Safari Rajasthan",
+        "desc": "Jeep jungle safari in Rajasthan",
+        "rating": "4.4",
+        "lat": 26.213800000000003,
+        "lng": 73.4079
+      },
+      {
+        "name": "Cycling Tour Rajasthan",
+        "desc": "Scenic cycling routes in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.2038,
+        "lng": 73.3979
+      },
+      {
+        "name": "Water Sports Rajasthan",
+        "desc": "Water sports activities in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.193800000000003,
+        "lng": 73.3879
+      },
+      {
+        "name": "Bungee Jumping Rajasthan",
+        "desc": "Bungee jumping experience in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.1838,
+        "lng": 73.3779
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Rajasthan",
+        "desc": "Traditional Ayurvedic treatments in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.9238,
+        "lng": 75.1179
+      },
+      {
+        "name": "Yoga Retreat Rajasthan",
+        "desc": "Yoga and meditation retreat in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.9338,
+        "lng": 75.1279
+      },
+      {
+        "name": "Spa Resort Rajasthan",
+        "desc": "Luxury spa resort in Rajasthan",
+        "rating": "4.5",
+        "lat": 27.943800000000003,
+        "lng": 75.1379
+      },
+      {
+        "name": "Naturopathy Center Rajasthan",
+        "desc": "Natural healing center in Rajasthan",
+        "rating": "4.3",
+        "lat": 27.9538,
+        "lng": 75.1479
+      },
+      {
+        "name": "Meditation Ashram Rajasthan",
+        "desc": "Peaceful meditation ashram in Rajasthan",
+        "rating": "4.4",
+        "lat": 27.963800000000003,
+        "lng": 75.1579
+      },
+      {
+        "name": "Wellness Resort Jaipur",
+        "desc": "Luxury wellness resort in Jaipur",
+        "rating": "4.4",
+        "lat": 26.123800000000003,
+        "lng": 73.3179
+      },
+      {
+        "name": "Herbal Garden Rajasthan",
+        "desc": "Medicinal herb garden in Rajasthan",
+        "rating": "4.2",
+        "lat": 26.1138,
+        "lng": 73.3079
+      },
+      {
+        "name": "Forest Bathing Rajasthan",
+        "desc": "Therapeutic forest walks in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.1038,
+        "lng": 73.2979
+      },
+      {
+        "name": "Hot Spring Rajasthan",
+        "desc": "Natural hot spring in Rajasthan",
+        "rating": "4.4",
+        "lat": 26.0938,
+        "lng": 73.2879
+      },
+      {
+        "name": "Detox Retreat Rajasthan",
+        "desc": "Detox and wellness retreat in Rajasthan",
+        "rating": "4.3",
+        "lat": 26.0838,
+        "lng": 73.2779
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Jaipur",
+        "desc": "Main airport of Rajasthan in Jaipur",
+        "rating": "4.0",
+        "lat": 28.0238,
+        "lng": 75.2179
+      },
+      {
+        "name": "Railway Station Jaipur",
+        "desc": "Main railway junction in Jaipur",
+        "rating": "3.8",
+        "lat": 28.033800000000003,
+        "lng": 75.2279
+      },
+      {
+        "name": "Bus Terminal Jaipur",
+        "desc": "State bus terminal in Jaipur",
+        "rating": "3.7",
+        "lat": 28.0438,
+        "lng": 75.2379
+      },
+      {
+        "name": "Metro Rail Jaipur",
+        "desc": "Metro rail system in Jaipur",
+        "rating": "4.2",
+        "lat": 28.053800000000003,
+        "lng": 75.2479
+      },
+      {
+        "name": "Highway Rajasthan",
+        "desc": "Major national highway through Rajasthan",
+        "rating": "4.0",
+        "lat": 28.0638,
+        "lng": 75.2579
+      },
+      {
+        "name": "Port Rajasthan",
+        "desc": "Major sea port of Rajasthan",
+        "rating": "3.9",
+        "lat": 26.0238,
+        "lng": 73.2179
+      },
+      {
+        "name": "Taxi Stand Jaipur",
+        "desc": "Main cab and taxi hub in Jaipur",
+        "rating": "3.8",
+        "lat": 26.0138,
+        "lng": 73.2079
+      },
+      {
+        "name": "Auto Rickshaw Jaipur",
+        "desc": "Auto rickshaw services across Jaipur",
+        "rating": "3.6",
+        "lat": 26.003800000000002,
+        "lng": 73.1979
+      },
+      {
+        "name": "Cab Services Jaipur",
+        "desc": "Ola and Uber cab services in Jaipur",
+        "rating": "4.0",
+        "lat": 25.9938,
+        "lng": 73.1879
+      },
+      {
+        "name": "Helipad Rajasthan",
+        "desc": "Helicopter services in Rajasthan",
+        "rating": "4.0",
+        "lat": 25.983800000000002,
+        "lng": 73.1779
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Rajasthan",
+        "desc": "Most famous festival of Rajasthan",
+        "rating": "4.7",
+        "lat": 28.123800000000003,
+        "lng": 75.3179
+      },
+      {
+        "name": "Cooking Class Rajasthan",
+        "desc": "Learn traditional Rajasthan cooking techniques",
+        "rating": "4.5",
+        "lat": 28.1338,
+        "lng": 75.3279
+      },
+      {
+        "name": "Village Walk Rajasthan",
+        "desc": "Authentic village life experience in Rajasthan",
+        "rating": "4.4",
+        "lat": 28.143800000000002,
+        "lng": 75.3379
+      },
+      {
+        "name": "Craft Workshop Rajasthan",
+        "desc": "Traditional craft making workshop in Rajasthan",
+        "rating": "4.4",
+        "lat": 28.1538,
+        "lng": 75.3479
+      },
+      {
+        "name": "Sunrise Trek Rajasthan",
+        "desc": "Early morning sunrise trek in Rajasthan",
+        "rating": "4.5",
+        "lat": 28.163800000000002,
+        "lng": 75.3579
+      },
+      {
+        "name": "Local Market Tour Jaipur",
+        "desc": "Guided tour of local markets in Jaipur",
+        "rating": "4.3",
+        "lat": 25.9238,
+        "lng": 73.1179
+      },
+      {
+        "name": "Folk Performance Rajasthan",
+        "desc": "Traditional folk art performance of Rajasthan",
+        "rating": "4.5",
+        "lat": 25.913800000000002,
+        "lng": 73.1079
+      },
+      {
+        "name": "Farm Stay Rajasthan",
+        "desc": "Authentic farm stay experience in Rajasthan",
+        "rating": "4.4",
+        "lat": 25.9038,
+        "lng": 73.0979
+      },
+      {
+        "name": "Night Safari Rajasthan",
+        "desc": "Night wildlife safari in Rajasthan",
+        "rating": "4.4",
+        "lat": 25.893800000000002,
+        "lng": 73.0879
+      },
+      {
+        "name": "Harvest Festival Rajasthan",
+        "desc": "Traditional harvest festival of Rajasthan",
+        "rating": "4.5",
+        "lat": 25.8838,
+        "lng": 73.0779
+      }
+    ]
+  }
+}

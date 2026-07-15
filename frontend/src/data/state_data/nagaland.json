@@ -1,0 +1,870 @@
+{
+  "state": "Nagaland",
+  "capital": "Kohima",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Dzukou Valley",
+        "desc": "Most famous heritage site in Nagaland",
+        "rating": "4.6",
+        "lat": 26.1584,
+        "lng": 94.5624
+      },
+      {
+        "name": "State Museum Kohima",
+        "desc": "Archaeological museum showcasing Nagaland history",
+        "rating": "4.2",
+        "lat": 26.168400000000002,
+        "lng": 94.5724
+      },
+      {
+        "name": "Old Fort Kohima",
+        "desc": "Historic fort from medieval era in Kohima",
+        "rating": "4.3",
+        "lat": 26.1784,
+        "lng": 94.58239999999999
+      },
+      {
+        "name": "Ancient Temple Nagaland",
+        "desc": "Famous ancient temple showcasing Nagaland architecture",
+        "rating": "4.4",
+        "lat": 26.1884,
+        "lng": 94.5924
+      },
+      {
+        "name": "Colonial Building Kohima",
+        "desc": "Historic colonial era building in Kohima",
+        "rating": "4.1",
+        "lat": 26.1984,
+        "lng": 94.6024
+      },
+      {
+        "name": "Palace Nagaland",
+        "desc": "Royal palace of former rulers of Nagaland",
+        "rating": "4.4",
+        "lat": 26.1484,
+        "lng": 94.55239999999999
+      },
+      {
+        "name": "Rock Cut Caves Nagaland",
+        "desc": "Ancient rock cut monuments in Nagaland",
+        "rating": "4.3",
+        "lat": 26.1384,
+        "lng": 94.5424
+      },
+      {
+        "name": "Heritage Walk Kohima",
+        "desc": "Guided walk through old quarter of Kohima",
+        "rating": "4.3",
+        "lat": 26.1284,
+        "lng": 94.5324
+      },
+      {
+        "name": "Memorial Museum Kohima",
+        "desc": "Memorial to freedom fighters of Nagaland",
+        "rating": "4.1",
+        "lat": 26.1184,
+        "lng": 94.52239999999999
+      },
+      {
+        "name": "Ruins Site Nagaland",
+        "desc": "Ancient ruins and archaeological findings in Nagaland",
+        "rating": "4.2",
+        "lat": 26.1084,
+        "lng": 94.5124
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Kohima",
+        "desc": "Authentic Nagaland thali with local specialties",
+        "rating": "4.5",
+        "lat": 26.2584,
+        "lng": 94.66239999999999
+      },
+      {
+        "name": "Street Food Market Kohima",
+        "desc": "Famous street food market in Kohima",
+        "rating": "4.4",
+        "lat": 26.2684,
+        "lng": 94.6724
+      },
+      {
+        "name": "Local Sweet Shop Nagaland",
+        "desc": "Famous traditional sweets unique to Nagaland",
+        "rating": "4.5",
+        "lat": 26.2784,
+        "lng": 94.6824
+      },
+      {
+        "name": "Tribal Cuisine Nagaland",
+        "desc": "Authentic tribal food of Nagaland",
+        "rating": "4.4",
+        "lat": 26.2884,
+        "lng": 94.69239999999999
+      },
+      {
+        "name": "Dhaba Nagaland",
+        "desc": "Famous highway dhaba with Nagaland specialties",
+        "rating": "4.3",
+        "lat": 26.2984,
+        "lng": 94.7024
+      },
+      {
+        "name": "Vegetarian Restaurant Kohima",
+        "desc": "Best pure vegetarian food in Kohima",
+        "rating": "4.3",
+        "lat": 26.0584,
+        "lng": 94.4624
+      },
+      {
+        "name": "Biryani House Kohima",
+        "desc": "Best biryani and rice dishes in Kohima",
+        "rating": "4.4",
+        "lat": 26.0484,
+        "lng": 94.4524
+      },
+      {
+        "name": "Bakery Cafe Kohima",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 26.0384,
+        "lng": 94.44239999999999
+      },
+      {
+        "name": "Royal Kitchen Nagaland",
+        "desc": "Restaurant serving royal recipes of Nagaland",
+        "rating": "4.5",
+        "lat": 26.0284,
+        "lng": 94.4324
+      },
+      {
+        "name": "Fish Curry House Nagaland",
+        "desc": "Traditional Nagaland style fish preparation",
+        "rating": "4.4",
+        "lat": 26.0184,
+        "lng": 94.4224
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Kohima",
+        "desc": "Luxury 5-star Taj hotel in Kohima",
+        "rating": "4.7",
+        "lat": 26.3584,
+        "lng": 94.7624
+      },
+      {
+        "name": "Oberoi Resort Nagaland",
+        "desc": "Luxury resort in scenic location in Nagaland",
+        "rating": "4.8",
+        "lat": 26.3684,
+        "lng": 94.77239999999999
+      },
+      {
+        "name": "Heritage Hotel Kohima",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 26.3784,
+        "lng": 94.7824
+      },
+      {
+        "name": "ITC Hotel Kohima",
+        "desc": "ITC luxury hotel in Kohima",
+        "rating": "4.6",
+        "lat": 26.3884,
+        "lng": 94.7924
+      },
+      {
+        "name": "Eco Resort Nagaland",
+        "desc": "Eco-friendly resort in nature of Nagaland",
+        "rating": "4.5",
+        "lat": 26.3984,
+        "lng": 94.80239999999999
+      },
+      {
+        "name": "Boutique Hotel Kohima",
+        "desc": "Charming boutique hotel in old quarter of Kohima",
+        "rating": "4.4",
+        "lat": 25.9584,
+        "lng": 94.3624
+      },
+      {
+        "name": "Marriott Kohima",
+        "desc": "International 5-star Marriott hotel in Kohima",
+        "rating": "4.6",
+        "lat": 25.9484,
+        "lng": 94.3524
+      },
+      {
+        "name": "Forest Lodge Nagaland",
+        "desc": "Wildlife lodge near forest of Nagaland",
+        "rating": "4.4",
+        "lat": 25.9384,
+        "lng": 94.3424
+      },
+      {
+        "name": "Homestay Nagaland",
+        "desc": "Authentic homestay with local family in Nagaland",
+        "rating": "4.3",
+        "lat": 25.9284,
+        "lng": 94.33239999999999
+      },
+      {
+        "name": "Budget Hotel Kohima",
+        "desc": "Clean comfortable budget stay in Kohima",
+        "rating": "4.0",
+        "lat": 25.918400000000002,
+        "lng": 94.3224
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Nagaland",
+        "desc": "Best panoramic viewpoint in Nagaland",
+        "rating": "4.5",
+        "lat": 26.4584,
+        "lng": 94.8624
+      },
+      {
+        "name": "Waterfall Nagaland",
+        "desc": "Most beautiful waterfall in Nagaland",
+        "rating": "4.5",
+        "lat": 26.4684,
+        "lng": 94.8724
+      },
+      {
+        "name": "Lake Nagaland",
+        "desc": "Scenic lake in Nagaland with boating",
+        "rating": "4.3",
+        "lat": 26.4784,
+        "lng": 94.88239999999999
+      },
+      {
+        "name": "Hill Station Nagaland",
+        "desc": "Popular hill station in Nagaland",
+        "rating": "4.4",
+        "lat": 26.4884,
+        "lng": 94.8924
+      },
+      {
+        "name": "National Park Nagaland",
+        "desc": "Wildlife national park in Nagaland",
+        "rating": "4.4",
+        "lat": 26.4984,
+        "lng": 94.9024
+      },
+      {
+        "name": "Beach Nagaland",
+        "desc": "Beautiful beach in Nagaland",
+        "rating": "4.3",
+        "lat": 25.8584,
+        "lng": 94.2624
+      },
+      {
+        "name": "Cave System Nagaland",
+        "desc": "Natural cave system in Nagaland",
+        "rating": "4.3",
+        "lat": 25.8484,
+        "lng": 94.2524
+      },
+      {
+        "name": "Dam Nagaland",
+        "desc": "Scenic dam and reservoir in Nagaland",
+        "rating": "4.2",
+        "lat": 25.8384,
+        "lng": 94.2424
+      },
+      {
+        "name": "Botanical Garden Kohima",
+        "desc": "Botanical garden with rare plants in Kohima",
+        "rating": "4.2",
+        "lat": 25.828400000000002,
+        "lng": 94.2324
+      },
+      {
+        "name": "Zoo Kohima",
+        "desc": "State zoo in Kohima with variety of animals",
+        "rating": "4.1",
+        "lat": 25.8184,
+        "lng": 94.2224
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Kohima",
+        "desc": "Bustling main market of Kohima",
+        "rating": "4.3",
+        "lat": 26.5584,
+        "lng": 94.9624
+      },
+      {
+        "name": "Handicraft Market Nagaland",
+        "desc": "Traditional handicrafts of Nagaland",
+        "rating": "4.4",
+        "lat": 26.5684,
+        "lng": 94.9724
+      },
+      {
+        "name": "Silk Market Nagaland",
+        "desc": "Famous silk and textile market of Nagaland",
+        "rating": "4.4",
+        "lat": 26.578400000000002,
+        "lng": 94.9824
+      },
+      {
+        "name": "Tribal Art Market Nagaland",
+        "desc": "Traditional tribal art and crafts of Nagaland",
+        "rating": "4.4",
+        "lat": 26.5884,
+        "lng": 94.9924
+      },
+      {
+        "name": "Spice Market Nagaland",
+        "desc": "Aromatic spice market unique to Nagaland",
+        "rating": "4.3",
+        "lat": 26.5984,
+        "lng": 95.0024
+      },
+      {
+        "name": "Mall Kohima",
+        "desc": "Modern shopping mall in Kohima",
+        "rating": "4.2",
+        "lat": 25.7584,
+        "lng": 94.16239999999999
+      },
+      {
+        "name": "Gem Market Nagaland",
+        "desc": "Precious and semi-precious stones of Nagaland",
+        "rating": "4.3",
+        "lat": 25.7484,
+        "lng": 94.1524
+      },
+      {
+        "name": "Bamboo Craft Nagaland",
+        "desc": "Traditional bamboo craft market of Nagaland",
+        "rating": "4.3",
+        "lat": 25.7384,
+        "lng": 94.1424
+      },
+      {
+        "name": "Pottery Village Nagaland",
+        "desc": "Traditional pottery making village in Nagaland",
+        "rating": "4.3",
+        "lat": 25.7284,
+        "lng": 94.13239999999999
+      },
+      {
+        "name": "Night Market Kohima",
+        "desc": "Evening market in Kohima with local goods",
+        "rating": "4.2",
+        "lat": 25.7184,
+        "lng": 94.1224
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Nagaland",
+        "desc": "Tiger and wildlife reserve in Nagaland",
+        "rating": "4.5",
+        "lat": 26.6584,
+        "lng": 95.0624
+      },
+      {
+        "name": "Bird Sanctuary Nagaland",
+        "desc": "Migratory bird sanctuary in Nagaland",
+        "rating": "4.4",
+        "lat": 26.668400000000002,
+        "lng": 95.0724
+      },
+      {
+        "name": "Forest Reserve Nagaland",
+        "desc": "Dense forest reserve of Nagaland",
+        "rating": "4.4",
+        "lat": 26.6784,
+        "lng": 95.08239999999999
+      },
+      {
+        "name": "River Valley Nagaland",
+        "desc": "Scenic river valley in Nagaland",
+        "rating": "4.3",
+        "lat": 26.6884,
+        "lng": 95.0924
+      },
+      {
+        "name": "Mountain Peak Nagaland",
+        "desc": "Highest mountain peak in Nagaland",
+        "rating": "4.4",
+        "lat": 26.6984,
+        "lng": 95.1024
+      },
+      {
+        "name": "Wetland Nagaland",
+        "desc": "Important wetland ecosystem in Nagaland",
+        "rating": "4.3",
+        "lat": 25.6584,
+        "lng": 94.0624
+      },
+      {
+        "name": "Tea Garden Nagaland",
+        "desc": "Scenic tea or coffee plantation in Nagaland",
+        "rating": "4.4",
+        "lat": 25.6484,
+        "lng": 94.05239999999999
+      },
+      {
+        "name": "Organic Farm Nagaland",
+        "desc": "Organic farming experience in Nagaland",
+        "rating": "4.3",
+        "lat": 25.6384,
+        "lng": 94.0424
+      },
+      {
+        "name": "Sunrise Point Nagaland",
+        "desc": "Most spectacular sunrise point in Nagaland",
+        "rating": "4.5",
+        "lat": 25.6284,
+        "lng": 94.0324
+      },
+      {
+        "name": "Eco Park Kohima",
+        "desc": "Ecology park in Kohima with rare plants",
+        "rating": "4.1",
+        "lat": 25.6184,
+        "lng": 94.02239999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Nagaland",
+        "desc": "Most famous temple in Nagaland",
+        "rating": "4.6",
+        "lat": 26.7584,
+        "lng": 95.16239999999999
+      },
+      {
+        "name": "Mosque Kohima",
+        "desc": "Historic mosque in Kohima",
+        "rating": "4.3",
+        "lat": 26.7684,
+        "lng": 95.1724
+      },
+      {
+        "name": "Church Kohima",
+        "desc": "Historic church in Kohima",
+        "rating": "4.3",
+        "lat": 26.7784,
+        "lng": 95.1824
+      },
+      {
+        "name": "Gurudwara Nagaland",
+        "desc": "Important Sikh shrine in Nagaland",
+        "rating": "4.4",
+        "lat": 26.7884,
+        "lng": 95.19239999999999
+      },
+      {
+        "name": "Buddhist Monastery Nagaland",
+        "desc": "Ancient Buddhist monastery in Nagaland",
+        "rating": "4.4",
+        "lat": 26.7984,
+        "lng": 95.2024
+      },
+      {
+        "name": "Jain Temple Nagaland",
+        "desc": "Famous Jain temple in Nagaland",
+        "rating": "4.4",
+        "lat": 25.5584,
+        "lng": 93.9624
+      },
+      {
+        "name": "Dargah Nagaland",
+        "desc": "Famous Sufi dargah in Nagaland",
+        "rating": "4.3",
+        "lat": 25.5484,
+        "lng": 93.9524
+      },
+      {
+        "name": "Ashram Nagaland",
+        "desc": "Spiritual ashram in Nagaland",
+        "rating": "4.4",
+        "lat": 25.5384,
+        "lng": 93.94239999999999
+      },
+      {
+        "name": "Pilgrimage Site Nagaland",
+        "desc": "Important pilgrimage destination in Nagaland",
+        "rating": "4.5",
+        "lat": 25.5284,
+        "lng": 93.9324
+      },
+      {
+        "name": "Sacred River Ghat Nagaland",
+        "desc": "Sacred river ghat for rituals in Nagaland",
+        "rating": "4.3",
+        "lat": 25.5184,
+        "lng": 93.9224
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Nagaland",
+        "desc": "Traditional folk dance performance of Nagaland",
+        "rating": "4.5",
+        "lat": 26.8584,
+        "lng": 95.2624
+      },
+      {
+        "name": "Art Gallery Kohima",
+        "desc": "State art gallery in Kohima",
+        "rating": "4.2",
+        "lat": 26.8684,
+        "lng": 95.27239999999999
+      },
+      {
+        "name": "Cultural Center Kohima",
+        "desc": "Cultural center for arts in Kohima",
+        "rating": "4.3",
+        "lat": 26.8784,
+        "lng": 95.2824
+      },
+      {
+        "name": "Music Festival Nagaland",
+        "desc": "Annual music festival of Nagaland",
+        "rating": "4.5",
+        "lat": 26.8884,
+        "lng": 95.2924
+      },
+      {
+        "name": "Tribal Museum Nagaland",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 26.8984,
+        "lng": 95.30239999999999
+      },
+      {
+        "name": "Craft Village Nagaland",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 25.4584,
+        "lng": 93.8624
+      },
+      {
+        "name": "Classical Dance Academy Kohima",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 25.4484,
+        "lng": 93.8524
+      },
+      {
+        "name": "Puppet Theatre Nagaland",
+        "desc": "Traditional puppet theatre of Nagaland",
+        "rating": "4.4",
+        "lat": 25.4384,
+        "lng": 93.8424
+      },
+      {
+        "name": "Weaving Center Nagaland",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 25.4284,
+        "lng": 93.83239999999999
+      },
+      {
+        "name": "Open Air Theatre Kohima",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 25.418400000000002,
+        "lng": 93.8224
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Nagaland",
+        "desc": "Best trekking trails in Nagaland",
+        "rating": "4.4",
+        "lat": 26.9584,
+        "lng": 95.3624
+      },
+      {
+        "name": "Rock Climbing Nagaland",
+        "desc": "Rock climbing spots in Nagaland",
+        "rating": "4.3",
+        "lat": 26.9684,
+        "lng": 95.3724
+      },
+      {
+        "name": "River Rafting Nagaland",
+        "desc": "White water rafting in rivers of Nagaland",
+        "rating": "4.5",
+        "lat": 26.9784,
+        "lng": 95.38239999999999
+      },
+      {
+        "name": "Paragliding Nagaland",
+        "desc": "Paragliding spots in Nagaland",
+        "rating": "4.4",
+        "lat": 26.9884,
+        "lng": 95.3924
+      },
+      {
+        "name": "Camping Nagaland",
+        "desc": "Camping spots in forests of Nagaland",
+        "rating": "4.4",
+        "lat": 26.9984,
+        "lng": 95.4024
+      },
+      {
+        "name": "Zip Line Nagaland",
+        "desc": "Zip lining adventure in Nagaland",
+        "rating": "4.3",
+        "lat": 25.3584,
+        "lng": 93.7624
+      },
+      {
+        "name": "Jungle Safari Nagaland",
+        "desc": "Jeep jungle safari in Nagaland",
+        "rating": "4.4",
+        "lat": 25.3484,
+        "lng": 93.7524
+      },
+      {
+        "name": "Cycling Tour Nagaland",
+        "desc": "Scenic cycling routes in Nagaland",
+        "rating": "4.3",
+        "lat": 25.3384,
+        "lng": 93.7424
+      },
+      {
+        "name": "Water Sports Nagaland",
+        "desc": "Water sports activities in Nagaland",
+        "rating": "4.3",
+        "lat": 25.328400000000002,
+        "lng": 93.7324
+      },
+      {
+        "name": "Bungee Jumping Nagaland",
+        "desc": "Bungee jumping experience in Nagaland",
+        "rating": "4.3",
+        "lat": 25.3184,
+        "lng": 93.7224
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Nagaland",
+        "desc": "Traditional Ayurvedic treatments in Nagaland",
+        "rating": "4.4",
+        "lat": 27.0584,
+        "lng": 95.4624
+      },
+      {
+        "name": "Yoga Retreat Nagaland",
+        "desc": "Yoga and meditation retreat in Nagaland",
+        "rating": "4.4",
+        "lat": 27.0684,
+        "lng": 95.4724
+      },
+      {
+        "name": "Spa Resort Nagaland",
+        "desc": "Luxury spa resort in Nagaland",
+        "rating": "4.5",
+        "lat": 27.078400000000002,
+        "lng": 95.4824
+      },
+      {
+        "name": "Naturopathy Center Nagaland",
+        "desc": "Natural healing center in Nagaland",
+        "rating": "4.3",
+        "lat": 27.0884,
+        "lng": 95.4924
+      },
+      {
+        "name": "Meditation Ashram Nagaland",
+        "desc": "Peaceful meditation ashram in Nagaland",
+        "rating": "4.4",
+        "lat": 27.0984,
+        "lng": 95.5024
+      },
+      {
+        "name": "Wellness Resort Kohima",
+        "desc": "Luxury wellness resort in Kohima",
+        "rating": "4.4",
+        "lat": 25.2584,
+        "lng": 93.66239999999999
+      },
+      {
+        "name": "Herbal Garden Nagaland",
+        "desc": "Medicinal herb garden in Nagaland",
+        "rating": "4.2",
+        "lat": 25.2484,
+        "lng": 93.6524
+      },
+      {
+        "name": "Forest Bathing Nagaland",
+        "desc": "Therapeutic forest walks in Nagaland",
+        "rating": "4.3",
+        "lat": 25.2384,
+        "lng": 93.6424
+      },
+      {
+        "name": "Hot Spring Nagaland",
+        "desc": "Natural hot spring in Nagaland",
+        "rating": "4.4",
+        "lat": 25.2284,
+        "lng": 93.63239999999999
+      },
+      {
+        "name": "Detox Retreat Nagaland",
+        "desc": "Detox and wellness retreat in Nagaland",
+        "rating": "4.3",
+        "lat": 25.2184,
+        "lng": 93.6224
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Kohima",
+        "desc": "Main airport of Nagaland in Kohima",
+        "rating": "4.0",
+        "lat": 27.1584,
+        "lng": 95.5624
+      },
+      {
+        "name": "Railway Station Kohima",
+        "desc": "Main railway junction in Kohima",
+        "rating": "3.8",
+        "lat": 27.168400000000002,
+        "lng": 95.5724
+      },
+      {
+        "name": "Bus Terminal Kohima",
+        "desc": "State bus terminal in Kohima",
+        "rating": "3.7",
+        "lat": 27.1784,
+        "lng": 95.58239999999999
+      },
+      {
+        "name": "Metro Rail Kohima",
+        "desc": "Metro rail system in Kohima",
+        "rating": "4.2",
+        "lat": 27.1884,
+        "lng": 95.5924
+      },
+      {
+        "name": "Highway Nagaland",
+        "desc": "Major national highway through Nagaland",
+        "rating": "4.0",
+        "lat": 27.1984,
+        "lng": 95.6024
+      },
+      {
+        "name": "Port Nagaland",
+        "desc": "Major sea port of Nagaland",
+        "rating": "3.9",
+        "lat": 25.1584,
+        "lng": 93.5624
+      },
+      {
+        "name": "Taxi Stand Kohima",
+        "desc": "Main cab and taxi hub in Kohima",
+        "rating": "3.8",
+        "lat": 25.1484,
+        "lng": 93.55239999999999
+      },
+      {
+        "name": "Auto Rickshaw Kohima",
+        "desc": "Auto rickshaw services across Kohima",
+        "rating": "3.6",
+        "lat": 25.1384,
+        "lng": 93.5424
+      },
+      {
+        "name": "Cab Services Kohima",
+        "desc": "Ola and Uber cab services in Kohima",
+        "rating": "4.0",
+        "lat": 25.1284,
+        "lng": 93.5324
+      },
+      {
+        "name": "Helipad Nagaland",
+        "desc": "Helicopter services in Nagaland",
+        "rating": "4.0",
+        "lat": 25.1184,
+        "lng": 93.52239999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Nagaland",
+        "desc": "Most famous festival of Nagaland",
+        "rating": "4.7",
+        "lat": 27.2584,
+        "lng": 95.66239999999999
+      },
+      {
+        "name": "Cooking Class Nagaland",
+        "desc": "Learn traditional Nagaland cooking techniques",
+        "rating": "4.5",
+        "lat": 27.2684,
+        "lng": 95.6724
+      },
+      {
+        "name": "Village Walk Nagaland",
+        "desc": "Authentic village life experience in Nagaland",
+        "rating": "4.4",
+        "lat": 27.2784,
+        "lng": 95.6824
+      },
+      {
+        "name": "Craft Workshop Nagaland",
+        "desc": "Traditional craft making workshop in Nagaland",
+        "rating": "4.4",
+        "lat": 27.2884,
+        "lng": 95.69239999999999
+      },
+      {
+        "name": "Sunrise Trek Nagaland",
+        "desc": "Early morning sunrise trek in Nagaland",
+        "rating": "4.5",
+        "lat": 27.2984,
+        "lng": 95.7024
+      },
+      {
+        "name": "Local Market Tour Kohima",
+        "desc": "Guided tour of local markets in Kohima",
+        "rating": "4.3",
+        "lat": 25.0584,
+        "lng": 93.4624
+      },
+      {
+        "name": "Folk Performance Nagaland",
+        "desc": "Traditional folk art performance of Nagaland",
+        "rating": "4.5",
+        "lat": 25.0484,
+        "lng": 93.4524
+      },
+      {
+        "name": "Farm Stay Nagaland",
+        "desc": "Authentic farm stay experience in Nagaland",
+        "rating": "4.4",
+        "lat": 25.0384,
+        "lng": 93.44239999999999
+      },
+      {
+        "name": "Night Safari Nagaland",
+        "desc": "Night wildlife safari in Nagaland",
+        "rating": "4.4",
+        "lat": 25.0284,
+        "lng": 93.4324
+      },
+      {
+        "name": "Harvest Festival Nagaland",
+        "desc": "Traditional harvest festival of Nagaland",
+        "rating": "4.5",
+        "lat": 25.0184,
+        "lng": 93.4224
+      }
+    ]
+  }
+}

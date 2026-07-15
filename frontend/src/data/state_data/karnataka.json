@@ -1,0 +1,870 @@
+{
+  "state": "Karnataka",
+  "capital": "Bengaluru",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Mysore Palace",
+        "desc": "Most famous heritage site in Karnataka",
+        "rating": "4.6",
+        "lat": 15.3173,
+        "lng": 75.7139
+      },
+      {
+        "name": "State Museum Bengaluru",
+        "desc": "Archaeological museum showcasing Karnataka history",
+        "rating": "4.2",
+        "lat": 15.3273,
+        "lng": 75.7239
+      },
+      {
+        "name": "Old Fort Bengaluru",
+        "desc": "Historic fort from medieval era in Bengaluru",
+        "rating": "4.3",
+        "lat": 15.337299999999999,
+        "lng": 75.73389999999999
+      },
+      {
+        "name": "Ancient Temple Karnataka",
+        "desc": "Famous ancient temple showcasing Karnataka architecture",
+        "rating": "4.4",
+        "lat": 15.347299999999999,
+        "lng": 75.7439
+      },
+      {
+        "name": "Colonial Building Bengaluru",
+        "desc": "Historic colonial era building in Bengaluru",
+        "rating": "4.1",
+        "lat": 15.357299999999999,
+        "lng": 75.7539
+      },
+      {
+        "name": "Palace Karnataka",
+        "desc": "Royal palace of former rulers of Karnataka",
+        "rating": "4.4",
+        "lat": 15.3073,
+        "lng": 75.70389999999999
+      },
+      {
+        "name": "Rock Cut Caves Karnataka",
+        "desc": "Ancient rock cut monuments in Karnataka",
+        "rating": "4.3",
+        "lat": 15.2973,
+        "lng": 75.6939
+      },
+      {
+        "name": "Heritage Walk Bengaluru",
+        "desc": "Guided walk through old quarter of Bengaluru",
+        "rating": "4.3",
+        "lat": 15.2873,
+        "lng": 75.6839
+      },
+      {
+        "name": "Memorial Museum Bengaluru",
+        "desc": "Memorial to freedom fighters of Karnataka",
+        "rating": "4.1",
+        "lat": 15.2773,
+        "lng": 75.67389999999999
+      },
+      {
+        "name": "Ruins Site Karnataka",
+        "desc": "Ancient ruins and archaeological findings in Karnataka",
+        "rating": "4.2",
+        "lat": 15.267299999999999,
+        "lng": 75.6639
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Bengaluru",
+        "desc": "Authentic Karnataka thali with local specialties",
+        "rating": "4.5",
+        "lat": 15.4173,
+        "lng": 75.81389999999999
+      },
+      {
+        "name": "Street Food Market Bengaluru",
+        "desc": "Famous street food market in Bengaluru",
+        "rating": "4.4",
+        "lat": 15.427299999999999,
+        "lng": 75.8239
+      },
+      {
+        "name": "Local Sweet Shop Karnataka",
+        "desc": "Famous traditional sweets unique to Karnataka",
+        "rating": "4.5",
+        "lat": 15.437299999999999,
+        "lng": 75.8339
+      },
+      {
+        "name": "Tribal Cuisine Karnataka",
+        "desc": "Authentic tribal food of Karnataka",
+        "rating": "4.4",
+        "lat": 15.4473,
+        "lng": 75.84389999999999
+      },
+      {
+        "name": "Dhaba Karnataka",
+        "desc": "Famous highway dhaba with Karnataka specialties",
+        "rating": "4.3",
+        "lat": 15.4573,
+        "lng": 75.8539
+      },
+      {
+        "name": "Vegetarian Restaurant Bengaluru",
+        "desc": "Best pure vegetarian food in Bengaluru",
+        "rating": "4.3",
+        "lat": 15.2173,
+        "lng": 75.6139
+      },
+      {
+        "name": "Biryani House Bengaluru",
+        "desc": "Best biryani and rice dishes in Bengaluru",
+        "rating": "4.4",
+        "lat": 15.2073,
+        "lng": 75.6039
+      },
+      {
+        "name": "Bakery Cafe Bengaluru",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 15.1973,
+        "lng": 75.59389999999999
+      },
+      {
+        "name": "Royal Kitchen Karnataka",
+        "desc": "Restaurant serving royal recipes of Karnataka",
+        "rating": "4.5",
+        "lat": 15.187299999999999,
+        "lng": 75.5839
+      },
+      {
+        "name": "Fish Curry House Karnataka",
+        "desc": "Traditional Karnataka style fish preparation",
+        "rating": "4.4",
+        "lat": 15.177299999999999,
+        "lng": 75.5739
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Bengaluru",
+        "desc": "Luxury 5-star Taj hotel in Bengaluru",
+        "rating": "4.7",
+        "lat": 15.517299999999999,
+        "lng": 75.9139
+      },
+      {
+        "name": "Oberoi Resort Karnataka",
+        "desc": "Luxury resort in scenic location in Karnataka",
+        "rating": "4.8",
+        "lat": 15.5273,
+        "lng": 75.92389999999999
+      },
+      {
+        "name": "Heritage Hotel Bengaluru",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 15.5373,
+        "lng": 75.9339
+      },
+      {
+        "name": "ITC Hotel Bengaluru",
+        "desc": "ITC luxury hotel in Bengaluru",
+        "rating": "4.6",
+        "lat": 15.5473,
+        "lng": 75.9439
+      },
+      {
+        "name": "Eco Resort Karnataka",
+        "desc": "Eco-friendly resort in nature of Karnataka",
+        "rating": "4.5",
+        "lat": 15.5573,
+        "lng": 75.95389999999999
+      },
+      {
+        "name": "Boutique Hotel Bengaluru",
+        "desc": "Charming boutique hotel in old quarter of Bengaluru",
+        "rating": "4.4",
+        "lat": 15.1173,
+        "lng": 75.51389999999999
+      },
+      {
+        "name": "Marriott Bengaluru",
+        "desc": "International 5-star Marriott hotel in Bengaluru",
+        "rating": "4.6",
+        "lat": 15.107299999999999,
+        "lng": 75.5039
+      },
+      {
+        "name": "Forest Lodge Karnataka",
+        "desc": "Wildlife lodge near forest of Karnataka",
+        "rating": "4.4",
+        "lat": 15.097299999999999,
+        "lng": 75.4939
+      },
+      {
+        "name": "Homestay Karnataka",
+        "desc": "Authentic homestay with local family in Karnataka",
+        "rating": "4.3",
+        "lat": 15.087299999999999,
+        "lng": 75.48389999999999
+      },
+      {
+        "name": "Budget Hotel Bengaluru",
+        "desc": "Clean comfortable budget stay in Bengaluru",
+        "rating": "4.0",
+        "lat": 15.0773,
+        "lng": 75.4739
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Karnataka",
+        "desc": "Best panoramic viewpoint in Karnataka",
+        "rating": "4.5",
+        "lat": 15.6173,
+        "lng": 76.01389999999999
+      },
+      {
+        "name": "Waterfall Karnataka",
+        "desc": "Most beautiful waterfall in Karnataka",
+        "rating": "4.5",
+        "lat": 15.6273,
+        "lng": 76.0239
+      },
+      {
+        "name": "Lake Karnataka",
+        "desc": "Scenic lake in Karnataka with boating",
+        "rating": "4.3",
+        "lat": 15.6373,
+        "lng": 76.03389999999999
+      },
+      {
+        "name": "Hill Station Karnataka",
+        "desc": "Popular hill station in Karnataka",
+        "rating": "4.4",
+        "lat": 15.6473,
+        "lng": 76.0439
+      },
+      {
+        "name": "National Park Karnataka",
+        "desc": "Wildlife national park in Karnataka",
+        "rating": "4.4",
+        "lat": 15.6573,
+        "lng": 76.0539
+      },
+      {
+        "name": "Beach Karnataka",
+        "desc": "Beautiful beach in Karnataka",
+        "rating": "4.3",
+        "lat": 15.017299999999999,
+        "lng": 75.4139
+      },
+      {
+        "name": "Cave System Karnataka",
+        "desc": "Natural cave system in Karnataka",
+        "rating": "4.3",
+        "lat": 15.007299999999999,
+        "lng": 75.4039
+      },
+      {
+        "name": "Dam Karnataka",
+        "desc": "Scenic dam and reservoir in Karnataka",
+        "rating": "4.2",
+        "lat": 14.9973,
+        "lng": 75.3939
+      },
+      {
+        "name": "Botanical Garden Bengaluru",
+        "desc": "Botanical garden with rare plants in Bengaluru",
+        "rating": "4.2",
+        "lat": 14.9873,
+        "lng": 75.3839
+      },
+      {
+        "name": "Zoo Bengaluru",
+        "desc": "State zoo in Bengaluru with variety of animals",
+        "rating": "4.1",
+        "lat": 14.9773,
+        "lng": 75.37389999999999
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Bengaluru",
+        "desc": "Bustling main market of Bengaluru",
+        "rating": "4.3",
+        "lat": 15.7173,
+        "lng": 76.1139
+      },
+      {
+        "name": "Handicraft Market Karnataka",
+        "desc": "Traditional handicrafts of Karnataka",
+        "rating": "4.4",
+        "lat": 15.7273,
+        "lng": 76.12389999999999
+      },
+      {
+        "name": "Silk Market Karnataka",
+        "desc": "Famous silk and textile market of Karnataka",
+        "rating": "4.4",
+        "lat": 15.7373,
+        "lng": 76.1339
+      },
+      {
+        "name": "Tribal Art Market Karnataka",
+        "desc": "Traditional tribal art and crafts of Karnataka",
+        "rating": "4.4",
+        "lat": 15.7473,
+        "lng": 76.1439
+      },
+      {
+        "name": "Spice Market Karnataka",
+        "desc": "Aromatic spice market unique to Karnataka",
+        "rating": "4.3",
+        "lat": 15.757299999999999,
+        "lng": 76.1539
+      },
+      {
+        "name": "Mall Bengaluru",
+        "desc": "Modern shopping mall in Bengaluru",
+        "rating": "4.2",
+        "lat": 14.9173,
+        "lng": 75.31389999999999
+      },
+      {
+        "name": "Gem Market Karnataka",
+        "desc": "Precious and semi-precious stones of Karnataka",
+        "rating": "4.3",
+        "lat": 14.9073,
+        "lng": 75.3039
+      },
+      {
+        "name": "Bamboo Craft Karnataka",
+        "desc": "Traditional bamboo craft market of Karnataka",
+        "rating": "4.3",
+        "lat": 14.8973,
+        "lng": 75.2939
+      },
+      {
+        "name": "Pottery Village Karnataka",
+        "desc": "Traditional pottery making village in Karnataka",
+        "rating": "4.3",
+        "lat": 14.8873,
+        "lng": 75.28389999999999
+      },
+      {
+        "name": "Night Market Bengaluru",
+        "desc": "Evening market in Bengaluru with local goods",
+        "rating": "4.2",
+        "lat": 14.8773,
+        "lng": 75.2739
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Karnataka",
+        "desc": "Tiger and wildlife reserve in Karnataka",
+        "rating": "4.5",
+        "lat": 15.8173,
+        "lng": 76.2139
+      },
+      {
+        "name": "Bird Sanctuary Karnataka",
+        "desc": "Migratory bird sanctuary in Karnataka",
+        "rating": "4.4",
+        "lat": 15.8273,
+        "lng": 76.2239
+      },
+      {
+        "name": "Forest Reserve Karnataka",
+        "desc": "Dense forest reserve of Karnataka",
+        "rating": "4.4",
+        "lat": 15.837299999999999,
+        "lng": 76.23389999999999
+      },
+      {
+        "name": "River Valley Karnataka",
+        "desc": "Scenic river valley in Karnataka",
+        "rating": "4.3",
+        "lat": 15.847299999999999,
+        "lng": 76.2439
+      },
+      {
+        "name": "Mountain Peak Karnataka",
+        "desc": "Highest mountain peak in Karnataka",
+        "rating": "4.4",
+        "lat": 15.857299999999999,
+        "lng": 76.2539
+      },
+      {
+        "name": "Wetland Karnataka",
+        "desc": "Important wetland ecosystem in Karnataka",
+        "rating": "4.3",
+        "lat": 14.8173,
+        "lng": 75.2139
+      },
+      {
+        "name": "Tea Garden Karnataka",
+        "desc": "Scenic tea or coffee plantation in Karnataka",
+        "rating": "4.4",
+        "lat": 14.8073,
+        "lng": 75.20389999999999
+      },
+      {
+        "name": "Organic Farm Karnataka",
+        "desc": "Organic farming experience in Karnataka",
+        "rating": "4.3",
+        "lat": 14.7973,
+        "lng": 75.1939
+      },
+      {
+        "name": "Sunrise Point Karnataka",
+        "desc": "Most spectacular sunrise point in Karnataka",
+        "rating": "4.5",
+        "lat": 14.7873,
+        "lng": 75.1839
+      },
+      {
+        "name": "Eco Park Bengaluru",
+        "desc": "Ecology park in Bengaluru with rare plants",
+        "rating": "4.1",
+        "lat": 14.7773,
+        "lng": 75.17389999999999
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Karnataka",
+        "desc": "Most famous temple in Karnataka",
+        "rating": "4.6",
+        "lat": 15.9173,
+        "lng": 76.31389999999999
+      },
+      {
+        "name": "Mosque Bengaluru",
+        "desc": "Historic mosque in Bengaluru",
+        "rating": "4.3",
+        "lat": 15.927299999999999,
+        "lng": 76.3239
+      },
+      {
+        "name": "Church Bengaluru",
+        "desc": "Historic church in Bengaluru",
+        "rating": "4.3",
+        "lat": 15.937299999999999,
+        "lng": 76.3339
+      },
+      {
+        "name": "Gurudwara Karnataka",
+        "desc": "Important Sikh shrine in Karnataka",
+        "rating": "4.4",
+        "lat": 15.9473,
+        "lng": 76.34389999999999
+      },
+      {
+        "name": "Buddhist Monastery Karnataka",
+        "desc": "Ancient Buddhist monastery in Karnataka",
+        "rating": "4.4",
+        "lat": 15.9573,
+        "lng": 76.3539
+      },
+      {
+        "name": "Jain Temple Karnataka",
+        "desc": "Famous Jain temple in Karnataka",
+        "rating": "4.4",
+        "lat": 14.7173,
+        "lng": 75.1139
+      },
+      {
+        "name": "Dargah Karnataka",
+        "desc": "Famous Sufi dargah in Karnataka",
+        "rating": "4.3",
+        "lat": 14.7073,
+        "lng": 75.1039
+      },
+      {
+        "name": "Ashram Karnataka",
+        "desc": "Spiritual ashram in Karnataka",
+        "rating": "4.4",
+        "lat": 14.6973,
+        "lng": 75.09389999999999
+      },
+      {
+        "name": "Pilgrimage Site Karnataka",
+        "desc": "Important pilgrimage destination in Karnataka",
+        "rating": "4.5",
+        "lat": 14.687299999999999,
+        "lng": 75.0839
+      },
+      {
+        "name": "Sacred River Ghat Karnataka",
+        "desc": "Sacred river ghat for rituals in Karnataka",
+        "rating": "4.3",
+        "lat": 14.677299999999999,
+        "lng": 75.0739
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Karnataka",
+        "desc": "Traditional folk dance performance of Karnataka",
+        "rating": "4.5",
+        "lat": 16.0173,
+        "lng": 76.4139
+      },
+      {
+        "name": "Art Gallery Bengaluru",
+        "desc": "State art gallery in Bengaluru",
+        "rating": "4.2",
+        "lat": 16.0273,
+        "lng": 76.42389999999999
+      },
+      {
+        "name": "Cultural Center Bengaluru",
+        "desc": "Cultural center for arts in Bengaluru",
+        "rating": "4.3",
+        "lat": 16.0373,
+        "lng": 76.4339
+      },
+      {
+        "name": "Music Festival Karnataka",
+        "desc": "Annual music festival of Karnataka",
+        "rating": "4.5",
+        "lat": 16.0473,
+        "lng": 76.4439
+      },
+      {
+        "name": "Tribal Museum Karnataka",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 16.057299999999998,
+        "lng": 76.45389999999999
+      },
+      {
+        "name": "Craft Village Karnataka",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 14.6173,
+        "lng": 75.01389999999999
+      },
+      {
+        "name": "Classical Dance Academy Bengaluru",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 14.607299999999999,
+        "lng": 75.0039
+      },
+      {
+        "name": "Puppet Theatre Karnataka",
+        "desc": "Traditional puppet theatre of Karnataka",
+        "rating": "4.4",
+        "lat": 14.597299999999999,
+        "lng": 74.9939
+      },
+      {
+        "name": "Weaving Center Karnataka",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 14.587299999999999,
+        "lng": 74.98389999999999
+      },
+      {
+        "name": "Open Air Theatre Bengaluru",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 14.5773,
+        "lng": 74.9739
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Karnataka",
+        "desc": "Best trekking trails in Karnataka",
+        "rating": "4.4",
+        "lat": 16.1173,
+        "lng": 76.51389999999999
+      },
+      {
+        "name": "Rock Climbing Karnataka",
+        "desc": "Rock climbing spots in Karnataka",
+        "rating": "4.3",
+        "lat": 16.127299999999998,
+        "lng": 76.5239
+      },
+      {
+        "name": "River Rafting Karnataka",
+        "desc": "White water rafting in rivers of Karnataka",
+        "rating": "4.5",
+        "lat": 16.1373,
+        "lng": 76.53389999999999
+      },
+      {
+        "name": "Paragliding Karnataka",
+        "desc": "Paragliding spots in Karnataka",
+        "rating": "4.4",
+        "lat": 16.147299999999998,
+        "lng": 76.5439
+      },
+      {
+        "name": "Camping Karnataka",
+        "desc": "Camping spots in forests of Karnataka",
+        "rating": "4.4",
+        "lat": 16.1573,
+        "lng": 76.5539
+      },
+      {
+        "name": "Zip Line Karnataka",
+        "desc": "Zip lining adventure in Karnataka",
+        "rating": "4.3",
+        "lat": 14.517299999999999,
+        "lng": 74.9139
+      },
+      {
+        "name": "Jungle Safari Karnataka",
+        "desc": "Jeep jungle safari in Karnataka",
+        "rating": "4.4",
+        "lat": 14.507299999999999,
+        "lng": 74.9039
+      },
+      {
+        "name": "Cycling Tour Karnataka",
+        "desc": "Scenic cycling routes in Karnataka",
+        "rating": "4.3",
+        "lat": 14.4973,
+        "lng": 74.8939
+      },
+      {
+        "name": "Water Sports Karnataka",
+        "desc": "Water sports activities in Karnataka",
+        "rating": "4.3",
+        "lat": 14.4873,
+        "lng": 74.8839
+      },
+      {
+        "name": "Bungee Jumping Karnataka",
+        "desc": "Bungee jumping experience in Karnataka",
+        "rating": "4.3",
+        "lat": 14.4773,
+        "lng": 74.87389999999999
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Karnataka",
+        "desc": "Traditional Ayurvedic treatments in Karnataka",
+        "rating": "4.4",
+        "lat": 16.217299999999998,
+        "lng": 76.6139
+      },
+      {
+        "name": "Yoga Retreat Karnataka",
+        "desc": "Yoga and meditation retreat in Karnataka",
+        "rating": "4.4",
+        "lat": 16.2273,
+        "lng": 76.62389999999999
+      },
+      {
+        "name": "Spa Resort Karnataka",
+        "desc": "Luxury spa resort in Karnataka",
+        "rating": "4.5",
+        "lat": 16.2373,
+        "lng": 76.6339
+      },
+      {
+        "name": "Naturopathy Center Karnataka",
+        "desc": "Natural healing center in Karnataka",
+        "rating": "4.3",
+        "lat": 16.2473,
+        "lng": 76.6439
+      },
+      {
+        "name": "Meditation Ashram Karnataka",
+        "desc": "Peaceful meditation ashram in Karnataka",
+        "rating": "4.4",
+        "lat": 16.2573,
+        "lng": 76.6539
+      },
+      {
+        "name": "Wellness Resort Bengaluru",
+        "desc": "Luxury wellness resort in Bengaluru",
+        "rating": "4.4",
+        "lat": 14.4173,
+        "lng": 74.81389999999999
+      },
+      {
+        "name": "Herbal Garden Karnataka",
+        "desc": "Medicinal herb garden in Karnataka",
+        "rating": "4.2",
+        "lat": 14.4073,
+        "lng": 74.8039
+      },
+      {
+        "name": "Forest Bathing Karnataka",
+        "desc": "Therapeutic forest walks in Karnataka",
+        "rating": "4.3",
+        "lat": 14.3973,
+        "lng": 74.7939
+      },
+      {
+        "name": "Hot Spring Karnataka",
+        "desc": "Natural hot spring in Karnataka",
+        "rating": "4.4",
+        "lat": 14.3873,
+        "lng": 74.78389999999999
+      },
+      {
+        "name": "Detox Retreat Karnataka",
+        "desc": "Detox and wellness retreat in Karnataka",
+        "rating": "4.3",
+        "lat": 14.3773,
+        "lng": 74.7739
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Bengaluru",
+        "desc": "Main airport of Karnataka in Bengaluru",
+        "rating": "4.0",
+        "lat": 16.3173,
+        "lng": 76.7139
+      },
+      {
+        "name": "Railway Station Bengaluru",
+        "desc": "Main railway junction in Bengaluru",
+        "rating": "3.8",
+        "lat": 16.3273,
+        "lng": 76.7239
+      },
+      {
+        "name": "Bus Terminal Bengaluru",
+        "desc": "State bus terminal in Bengaluru",
+        "rating": "3.7",
+        "lat": 16.3373,
+        "lng": 76.73389999999999
+      },
+      {
+        "name": "Metro Rail Bengaluru",
+        "desc": "Metro rail system in Bengaluru",
+        "rating": "4.2",
+        "lat": 16.3473,
+        "lng": 76.7439
+      },
+      {
+        "name": "Highway Karnataka",
+        "desc": "Major national highway through Karnataka",
+        "rating": "4.0",
+        "lat": 16.3573,
+        "lng": 76.7539
+      },
+      {
+        "name": "Port Karnataka",
+        "desc": "Major sea port of Karnataka",
+        "rating": "3.9",
+        "lat": 14.3173,
+        "lng": 74.7139
+      },
+      {
+        "name": "Taxi Stand Bengaluru",
+        "desc": "Main cab and taxi hub in Bengaluru",
+        "rating": "3.8",
+        "lat": 14.3073,
+        "lng": 74.70389999999999
+      },
+      {
+        "name": "Auto Rickshaw Bengaluru",
+        "desc": "Auto rickshaw services across Bengaluru",
+        "rating": "3.6",
+        "lat": 14.2973,
+        "lng": 74.6939
+      },
+      {
+        "name": "Cab Services Bengaluru",
+        "desc": "Ola and Uber cab services in Bengaluru",
+        "rating": "4.0",
+        "lat": 14.2873,
+        "lng": 74.6839
+      },
+      {
+        "name": "Helipad Karnataka",
+        "desc": "Helicopter services in Karnataka",
+        "rating": "4.0",
+        "lat": 14.2773,
+        "lng": 74.67389999999999
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Karnataka",
+        "desc": "Most famous festival of Karnataka",
+        "rating": "4.7",
+        "lat": 16.4173,
+        "lng": 76.81389999999999
+      },
+      {
+        "name": "Cooking Class Karnataka",
+        "desc": "Learn traditional Karnataka cooking techniques",
+        "rating": "4.5",
+        "lat": 16.4273,
+        "lng": 76.8239
+      },
+      {
+        "name": "Village Walk Karnataka",
+        "desc": "Authentic village life experience in Karnataka",
+        "rating": "4.4",
+        "lat": 16.4373,
+        "lng": 76.8339
+      },
+      {
+        "name": "Craft Workshop Karnataka",
+        "desc": "Traditional craft making workshop in Karnataka",
+        "rating": "4.4",
+        "lat": 16.4473,
+        "lng": 76.84389999999999
+      },
+      {
+        "name": "Sunrise Trek Karnataka",
+        "desc": "Early morning sunrise trek in Karnataka",
+        "rating": "4.5",
+        "lat": 16.4573,
+        "lng": 76.8539
+      },
+      {
+        "name": "Local Market Tour Bengaluru",
+        "desc": "Guided tour of local markets in Bengaluru",
+        "rating": "4.3",
+        "lat": 14.2173,
+        "lng": 74.6139
+      },
+      {
+        "name": "Folk Performance Karnataka",
+        "desc": "Traditional folk art performance of Karnataka",
+        "rating": "4.5",
+        "lat": 14.2073,
+        "lng": 74.6039
+      },
+      {
+        "name": "Farm Stay Karnataka",
+        "desc": "Authentic farm stay experience in Karnataka",
+        "rating": "4.4",
+        "lat": 14.197299999999998,
+        "lng": 74.59389999999999
+      },
+      {
+        "name": "Night Safari Karnataka",
+        "desc": "Night wildlife safari in Karnataka",
+        "rating": "4.4",
+        "lat": 14.1873,
+        "lng": 74.5839
+      },
+      {
+        "name": "Harvest Festival Karnataka",
+        "desc": "Traditional harvest festival of Karnataka",
+        "rating": "4.5",
+        "lat": 14.177299999999999,
+        "lng": 74.5739
+      }
+    ]
+  }
+}

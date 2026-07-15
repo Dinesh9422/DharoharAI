@@ -1,0 +1,870 @@
+{
+  "state": "Punjab",
+  "capital": "Chandigarh",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Golden Temple Amritsar",
+        "desc": "Most famous heritage site in Punjab",
+        "rating": "4.6",
+        "lat": 31.1471,
+        "lng": 75.3412
+      },
+      {
+        "name": "State Museum Chandigarh",
+        "desc": "Archaeological museum showcasing Punjab history",
+        "rating": "4.2",
+        "lat": 31.1571,
+        "lng": 75.3512
+      },
+      {
+        "name": "Old Fort Chandigarh",
+        "desc": "Historic fort from medieval era in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.167099999999998,
+        "lng": 75.3612
+      },
+      {
+        "name": "Ancient Temple Punjab",
+        "desc": "Famous ancient temple showcasing Punjab architecture",
+        "rating": "4.4",
+        "lat": 31.1771,
+        "lng": 75.3712
+      },
+      {
+        "name": "Colonial Building Chandigarh",
+        "desc": "Historic colonial era building in Chandigarh",
+        "rating": "4.1",
+        "lat": 31.187099999999997,
+        "lng": 75.3812
+      },
+      {
+        "name": "Palace Punjab",
+        "desc": "Royal palace of former rulers of Punjab",
+        "rating": "4.4",
+        "lat": 31.137099999999997,
+        "lng": 75.3312
+      },
+      {
+        "name": "Rock Cut Caves Punjab",
+        "desc": "Ancient rock cut monuments in Punjab",
+        "rating": "4.3",
+        "lat": 31.1271,
+        "lng": 75.3212
+      },
+      {
+        "name": "Heritage Walk Chandigarh",
+        "desc": "Guided walk through old quarter of Chandigarh",
+        "rating": "4.3",
+        "lat": 31.117099999999997,
+        "lng": 75.3112
+      },
+      {
+        "name": "Memorial Museum Chandigarh",
+        "desc": "Memorial to freedom fighters of Punjab",
+        "rating": "4.1",
+        "lat": 31.1071,
+        "lng": 75.3012
+      },
+      {
+        "name": "Ruins Site Punjab",
+        "desc": "Ancient ruins and archaeological findings in Punjab",
+        "rating": "4.2",
+        "lat": 31.097099999999998,
+        "lng": 75.2912
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Chandigarh",
+        "desc": "Authentic Punjab thali with local specialties",
+        "rating": "4.5",
+        "lat": 31.2471,
+        "lng": 75.4412
+      },
+      {
+        "name": "Street Food Market Chandigarh",
+        "desc": "Famous street food market in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.257099999999998,
+        "lng": 75.4512
+      },
+      {
+        "name": "Local Sweet Shop Punjab",
+        "desc": "Famous traditional sweets unique to Punjab",
+        "rating": "4.5",
+        "lat": 31.2671,
+        "lng": 75.4612
+      },
+      {
+        "name": "Tribal Cuisine Punjab",
+        "desc": "Authentic tribal food of Punjab",
+        "rating": "4.4",
+        "lat": 31.277099999999997,
+        "lng": 75.4712
+      },
+      {
+        "name": "Dhaba Punjab",
+        "desc": "Famous highway dhaba with Punjab specialties",
+        "rating": "4.3",
+        "lat": 31.2871,
+        "lng": 75.4812
+      },
+      {
+        "name": "Vegetarian Restaurant Chandigarh",
+        "desc": "Best pure vegetarian food in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.047099999999997,
+        "lng": 75.2412
+      },
+      {
+        "name": "Biryani House Chandigarh",
+        "desc": "Best biryani and rice dishes in Chandigarh",
+        "rating": "4.4",
+        "lat": 31.0371,
+        "lng": 75.2312
+      },
+      {
+        "name": "Bakery Cafe Chandigarh",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 31.027099999999997,
+        "lng": 75.2212
+      },
+      {
+        "name": "Royal Kitchen Punjab",
+        "desc": "Restaurant serving royal recipes of Punjab",
+        "rating": "4.5",
+        "lat": 31.0171,
+        "lng": 75.2112
+      },
+      {
+        "name": "Fish Curry House Punjab",
+        "desc": "Traditional Punjab style fish preparation",
+        "rating": "4.4",
+        "lat": 31.007099999999998,
+        "lng": 75.2012
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Chandigarh",
+        "desc": "Luxury 5-star Taj hotel in Chandigarh",
+        "rating": "4.7",
+        "lat": 31.347099999999998,
+        "lng": 75.5412
+      },
+      {
+        "name": "Oberoi Resort Punjab",
+        "desc": "Luxury resort in scenic location in Punjab",
+        "rating": "4.8",
+        "lat": 31.3571,
+        "lng": 75.5512
+      },
+      {
+        "name": "Heritage Hotel Chandigarh",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 31.367099999999997,
+        "lng": 75.5612
+      },
+      {
+        "name": "ITC Hotel Chandigarh",
+        "desc": "ITC luxury hotel in Chandigarh",
+        "rating": "4.6",
+        "lat": 31.3771,
+        "lng": 75.5712
+      },
+      {
+        "name": "Eco Resort Punjab",
+        "desc": "Eco-friendly resort in nature of Punjab",
+        "rating": "4.5",
+        "lat": 31.387099999999997,
+        "lng": 75.5812
+      },
+      {
+        "name": "Boutique Hotel Chandigarh",
+        "desc": "Charming boutique hotel in old quarter of Chandigarh",
+        "rating": "4.4",
+        "lat": 30.9471,
+        "lng": 75.1412
+      },
+      {
+        "name": "Marriott Chandigarh",
+        "desc": "International 5-star Marriott hotel in Chandigarh",
+        "rating": "4.6",
+        "lat": 30.937099999999997,
+        "lng": 75.1312
+      },
+      {
+        "name": "Forest Lodge Punjab",
+        "desc": "Wildlife lodge near forest of Punjab",
+        "rating": "4.4",
+        "lat": 30.9271,
+        "lng": 75.1212
+      },
+      {
+        "name": "Homestay Punjab",
+        "desc": "Authentic homestay with local family in Punjab",
+        "rating": "4.3",
+        "lat": 30.917099999999998,
+        "lng": 75.1112
+      },
+      {
+        "name": "Budget Hotel Chandigarh",
+        "desc": "Clean comfortable budget stay in Chandigarh",
+        "rating": "4.0",
+        "lat": 30.9071,
+        "lng": 75.1012
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Punjab",
+        "desc": "Best panoramic viewpoint in Punjab",
+        "rating": "4.5",
+        "lat": 31.4471,
+        "lng": 75.6412
+      },
+      {
+        "name": "Waterfall Punjab",
+        "desc": "Most beautiful waterfall in Punjab",
+        "rating": "4.5",
+        "lat": 31.457099999999997,
+        "lng": 75.6512
+      },
+      {
+        "name": "Lake Punjab",
+        "desc": "Scenic lake in Punjab with boating",
+        "rating": "4.3",
+        "lat": 31.4671,
+        "lng": 75.6612
+      },
+      {
+        "name": "Hill Station Punjab",
+        "desc": "Popular hill station in Punjab",
+        "rating": "4.4",
+        "lat": 31.477099999999997,
+        "lng": 75.6712
+      },
+      {
+        "name": "National Park Punjab",
+        "desc": "Wildlife national park in Punjab",
+        "rating": "4.4",
+        "lat": 31.487099999999998,
+        "lng": 75.6812
+      },
+      {
+        "name": "Beach Punjab",
+        "desc": "Beautiful beach in Punjab",
+        "rating": "4.3",
+        "lat": 30.847099999999998,
+        "lng": 75.0412
+      },
+      {
+        "name": "Cave System Punjab",
+        "desc": "Natural cave system in Punjab",
+        "rating": "4.3",
+        "lat": 30.8371,
+        "lng": 75.0312
+      },
+      {
+        "name": "Dam Punjab",
+        "desc": "Scenic dam and reservoir in Punjab",
+        "rating": "4.2",
+        "lat": 30.827099999999998,
+        "lng": 75.02120000000001
+      },
+      {
+        "name": "Botanical Garden Chandigarh",
+        "desc": "Botanical garden with rare plants in Chandigarh",
+        "rating": "4.2",
+        "lat": 30.8171,
+        "lng": 75.0112
+      },
+      {
+        "name": "Zoo Chandigarh",
+        "desc": "State zoo in Chandigarh with variety of animals",
+        "rating": "4.1",
+        "lat": 30.8071,
+        "lng": 75.0012
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Chandigarh",
+        "desc": "Bustling main market of Chandigarh",
+        "rating": "4.3",
+        "lat": 31.547099999999997,
+        "lng": 75.7412
+      },
+      {
+        "name": "Handicraft Market Punjab",
+        "desc": "Traditional handicrafts of Punjab",
+        "rating": "4.4",
+        "lat": 31.5571,
+        "lng": 75.7512
+      },
+      {
+        "name": "Silk Market Punjab",
+        "desc": "Famous silk and textile market of Punjab",
+        "rating": "4.4",
+        "lat": 31.5671,
+        "lng": 75.7612
+      },
+      {
+        "name": "Tribal Art Market Punjab",
+        "desc": "Traditional tribal art and crafts of Punjab",
+        "rating": "4.4",
+        "lat": 31.577099999999998,
+        "lng": 75.77120000000001
+      },
+      {
+        "name": "Spice Market Punjab",
+        "desc": "Aromatic spice market unique to Punjab",
+        "rating": "4.3",
+        "lat": 31.5871,
+        "lng": 75.7812
+      },
+      {
+        "name": "Mall Chandigarh",
+        "desc": "Modern shopping mall in Chandigarh",
+        "rating": "4.2",
+        "lat": 30.7471,
+        "lng": 74.9412
+      },
+      {
+        "name": "Gem Market Punjab",
+        "desc": "Precious and semi-precious stones of Punjab",
+        "rating": "4.3",
+        "lat": 30.737099999999998,
+        "lng": 74.9312
+      },
+      {
+        "name": "Bamboo Craft Punjab",
+        "desc": "Traditional bamboo craft market of Punjab",
+        "rating": "4.3",
+        "lat": 30.727099999999997,
+        "lng": 74.9212
+      },
+      {
+        "name": "Pottery Village Punjab",
+        "desc": "Traditional pottery making village in Punjab",
+        "rating": "4.3",
+        "lat": 30.7171,
+        "lng": 74.9112
+      },
+      {
+        "name": "Night Market Chandigarh",
+        "desc": "Evening market in Chandigarh with local goods",
+        "rating": "4.2",
+        "lat": 30.707099999999997,
+        "lng": 74.9012
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Punjab",
+        "desc": "Tiger and wildlife reserve in Punjab",
+        "rating": "4.5",
+        "lat": 31.6471,
+        "lng": 75.8412
+      },
+      {
+        "name": "Bird Sanctuary Punjab",
+        "desc": "Migratory bird sanctuary in Punjab",
+        "rating": "4.4",
+        "lat": 31.6571,
+        "lng": 75.8512
+      },
+      {
+        "name": "Forest Reserve Punjab",
+        "desc": "Dense forest reserve of Punjab",
+        "rating": "4.4",
+        "lat": 31.667099999999998,
+        "lng": 75.8612
+      },
+      {
+        "name": "River Valley Punjab",
+        "desc": "Scenic river valley in Punjab",
+        "rating": "4.3",
+        "lat": 31.6771,
+        "lng": 75.8712
+      },
+      {
+        "name": "Mountain Peak Punjab",
+        "desc": "Highest mountain peak in Punjab",
+        "rating": "4.4",
+        "lat": 31.687099999999997,
+        "lng": 75.8812
+      },
+      {
+        "name": "Wetland Punjab",
+        "desc": "Important wetland ecosystem in Punjab",
+        "rating": "4.3",
+        "lat": 30.6471,
+        "lng": 74.8412
+      },
+      {
+        "name": "Tea Garden Punjab",
+        "desc": "Scenic tea or coffee plantation in Punjab",
+        "rating": "4.4",
+        "lat": 30.637099999999997,
+        "lng": 74.8312
+      },
+      {
+        "name": "Organic Farm Punjab",
+        "desc": "Organic farming experience in Punjab",
+        "rating": "4.3",
+        "lat": 30.6271,
+        "lng": 74.8212
+      },
+      {
+        "name": "Sunrise Point Punjab",
+        "desc": "Most spectacular sunrise point in Punjab",
+        "rating": "4.5",
+        "lat": 30.617099999999997,
+        "lng": 74.8112
+      },
+      {
+        "name": "Eco Park Chandigarh",
+        "desc": "Ecology park in Chandigarh with rare plants",
+        "rating": "4.1",
+        "lat": 30.6071,
+        "lng": 74.8012
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Punjab",
+        "desc": "Most famous temple in Punjab",
+        "rating": "4.6",
+        "lat": 31.7471,
+        "lng": 75.9412
+      },
+      {
+        "name": "Mosque Chandigarh",
+        "desc": "Historic mosque in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.757099999999998,
+        "lng": 75.9512
+      },
+      {
+        "name": "Church Chandigarh",
+        "desc": "Historic church in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.7671,
+        "lng": 75.9612
+      },
+      {
+        "name": "Gurudwara Punjab",
+        "desc": "Important Sikh shrine in Punjab",
+        "rating": "4.4",
+        "lat": 31.777099999999997,
+        "lng": 75.9712
+      },
+      {
+        "name": "Buddhist Monastery Punjab",
+        "desc": "Ancient Buddhist monastery in Punjab",
+        "rating": "4.4",
+        "lat": 31.7871,
+        "lng": 75.9812
+      },
+      {
+        "name": "Jain Temple Punjab",
+        "desc": "Famous Jain temple in Punjab",
+        "rating": "4.4",
+        "lat": 30.547099999999997,
+        "lng": 74.7412
+      },
+      {
+        "name": "Dargah Punjab",
+        "desc": "Famous Sufi dargah in Punjab",
+        "rating": "4.3",
+        "lat": 30.5371,
+        "lng": 74.7312
+      },
+      {
+        "name": "Ashram Punjab",
+        "desc": "Spiritual ashram in Punjab",
+        "rating": "4.4",
+        "lat": 30.527099999999997,
+        "lng": 74.7212
+      },
+      {
+        "name": "Pilgrimage Site Punjab",
+        "desc": "Important pilgrimage destination in Punjab",
+        "rating": "4.5",
+        "lat": 30.5171,
+        "lng": 74.7112
+      },
+      {
+        "name": "Sacred River Ghat Punjab",
+        "desc": "Sacred river ghat for rituals in Punjab",
+        "rating": "4.3",
+        "lat": 30.507099999999998,
+        "lng": 74.7012
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Punjab",
+        "desc": "Traditional folk dance performance of Punjab",
+        "rating": "4.5",
+        "lat": 31.847099999999998,
+        "lng": 76.0412
+      },
+      {
+        "name": "Art Gallery Chandigarh",
+        "desc": "State art gallery in Chandigarh",
+        "rating": "4.2",
+        "lat": 31.8571,
+        "lng": 76.0512
+      },
+      {
+        "name": "Cultural Center Chandigarh",
+        "desc": "Cultural center for arts in Chandigarh",
+        "rating": "4.3",
+        "lat": 31.867099999999997,
+        "lng": 76.0612
+      },
+      {
+        "name": "Music Festival Punjab",
+        "desc": "Annual music festival of Punjab",
+        "rating": "4.5",
+        "lat": 31.8771,
+        "lng": 76.0712
+      },
+      {
+        "name": "Tribal Museum Punjab",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 31.887099999999997,
+        "lng": 76.0812
+      },
+      {
+        "name": "Craft Village Punjab",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 30.4471,
+        "lng": 74.6412
+      },
+      {
+        "name": "Classical Dance Academy Chandigarh",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 30.437099999999997,
+        "lng": 74.6312
+      },
+      {
+        "name": "Puppet Theatre Punjab",
+        "desc": "Traditional puppet theatre of Punjab",
+        "rating": "4.4",
+        "lat": 30.4271,
+        "lng": 74.6212
+      },
+      {
+        "name": "Weaving Center Punjab",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 30.417099999999998,
+        "lng": 74.6112
+      },
+      {
+        "name": "Open Air Theatre Chandigarh",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 30.4071,
+        "lng": 74.6012
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Punjab",
+        "desc": "Best trekking trails in Punjab",
+        "rating": "4.4",
+        "lat": 31.9471,
+        "lng": 76.1412
+      },
+      {
+        "name": "Rock Climbing Punjab",
+        "desc": "Rock climbing spots in Punjab",
+        "rating": "4.3",
+        "lat": 31.957099999999997,
+        "lng": 76.1512
+      },
+      {
+        "name": "River Rafting Punjab",
+        "desc": "White water rafting in rivers of Punjab",
+        "rating": "4.5",
+        "lat": 31.9671,
+        "lng": 76.1612
+      },
+      {
+        "name": "Paragliding Punjab",
+        "desc": "Paragliding spots in Punjab",
+        "rating": "4.4",
+        "lat": 31.977099999999997,
+        "lng": 76.1712
+      },
+      {
+        "name": "Camping Punjab",
+        "desc": "Camping spots in forests of Punjab",
+        "rating": "4.4",
+        "lat": 31.987099999999998,
+        "lng": 76.1812
+      },
+      {
+        "name": "Zip Line Punjab",
+        "desc": "Zip lining adventure in Punjab",
+        "rating": "4.3",
+        "lat": 30.347099999999998,
+        "lng": 74.5412
+      },
+      {
+        "name": "Jungle Safari Punjab",
+        "desc": "Jeep jungle safari in Punjab",
+        "rating": "4.4",
+        "lat": 30.3371,
+        "lng": 74.5312
+      },
+      {
+        "name": "Cycling Tour Punjab",
+        "desc": "Scenic cycling routes in Punjab",
+        "rating": "4.3",
+        "lat": 30.327099999999998,
+        "lng": 74.52120000000001
+      },
+      {
+        "name": "Water Sports Punjab",
+        "desc": "Water sports activities in Punjab",
+        "rating": "4.3",
+        "lat": 30.3171,
+        "lng": 74.5112
+      },
+      {
+        "name": "Bungee Jumping Punjab",
+        "desc": "Bungee jumping experience in Punjab",
+        "rating": "4.3",
+        "lat": 30.3071,
+        "lng": 74.5012
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Punjab",
+        "desc": "Traditional Ayurvedic treatments in Punjab",
+        "rating": "4.4",
+        "lat": 32.0471,
+        "lng": 76.2412
+      },
+      {
+        "name": "Yoga Retreat Punjab",
+        "desc": "Yoga and meditation retreat in Punjab",
+        "rating": "4.4",
+        "lat": 32.0571,
+        "lng": 76.2512
+      },
+      {
+        "name": "Spa Resort Punjab",
+        "desc": "Luxury spa resort in Punjab",
+        "rating": "4.5",
+        "lat": 32.067099999999996,
+        "lng": 76.2612
+      },
+      {
+        "name": "Naturopathy Center Punjab",
+        "desc": "Natural healing center in Punjab",
+        "rating": "4.3",
+        "lat": 32.0771,
+        "lng": 76.27120000000001
+      },
+      {
+        "name": "Meditation Ashram Punjab",
+        "desc": "Peaceful meditation ashram in Punjab",
+        "rating": "4.4",
+        "lat": 32.0871,
+        "lng": 76.2812
+      },
+      {
+        "name": "Wellness Resort Chandigarh",
+        "desc": "Luxury wellness resort in Chandigarh",
+        "rating": "4.4",
+        "lat": 30.2471,
+        "lng": 74.4412
+      },
+      {
+        "name": "Herbal Garden Punjab",
+        "desc": "Medicinal herb garden in Punjab",
+        "rating": "4.2",
+        "lat": 30.237099999999998,
+        "lng": 74.4312
+      },
+      {
+        "name": "Forest Bathing Punjab",
+        "desc": "Therapeutic forest walks in Punjab",
+        "rating": "4.3",
+        "lat": 30.227099999999997,
+        "lng": 74.4212
+      },
+      {
+        "name": "Hot Spring Punjab",
+        "desc": "Natural hot spring in Punjab",
+        "rating": "4.4",
+        "lat": 30.2171,
+        "lng": 74.4112
+      },
+      {
+        "name": "Detox Retreat Punjab",
+        "desc": "Detox and wellness retreat in Punjab",
+        "rating": "4.3",
+        "lat": 30.207099999999997,
+        "lng": 74.4012
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Chandigarh",
+        "desc": "Main airport of Punjab in Chandigarh",
+        "rating": "4.0",
+        "lat": 32.147099999999995,
+        "lng": 76.3412
+      },
+      {
+        "name": "Railway Station Chandigarh",
+        "desc": "Main railway junction in Chandigarh",
+        "rating": "3.8",
+        "lat": 32.1571,
+        "lng": 76.3512
+      },
+      {
+        "name": "Bus Terminal Chandigarh",
+        "desc": "State bus terminal in Chandigarh",
+        "rating": "3.7",
+        "lat": 32.1671,
+        "lng": 76.3612
+      },
+      {
+        "name": "Metro Rail Chandigarh",
+        "desc": "Metro rail system in Chandigarh",
+        "rating": "4.2",
+        "lat": 32.177099999999996,
+        "lng": 76.3712
+      },
+      {
+        "name": "Highway Punjab",
+        "desc": "Major national highway through Punjab",
+        "rating": "4.0",
+        "lat": 32.1871,
+        "lng": 76.3812
+      },
+      {
+        "name": "Port Punjab",
+        "desc": "Major sea port of Punjab",
+        "rating": "3.9",
+        "lat": 30.1471,
+        "lng": 74.3412
+      },
+      {
+        "name": "Taxi Stand Chandigarh",
+        "desc": "Main cab and taxi hub in Chandigarh",
+        "rating": "3.8",
+        "lat": 30.137099999999997,
+        "lng": 74.3312
+      },
+      {
+        "name": "Auto Rickshaw Chandigarh",
+        "desc": "Auto rickshaw services across Chandigarh",
+        "rating": "3.6",
+        "lat": 30.1271,
+        "lng": 74.3212
+      },
+      {
+        "name": "Cab Services Chandigarh",
+        "desc": "Ola and Uber cab services in Chandigarh",
+        "rating": "4.0",
+        "lat": 30.117099999999997,
+        "lng": 74.3112
+      },
+      {
+        "name": "Helipad Punjab",
+        "desc": "Helicopter services in Punjab",
+        "rating": "4.0",
+        "lat": 30.1071,
+        "lng": 74.3012
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Punjab",
+        "desc": "Most famous festival of Punjab",
+        "rating": "4.7",
+        "lat": 32.247099999999996,
+        "lng": 76.4412
+      },
+      {
+        "name": "Cooking Class Punjab",
+        "desc": "Learn traditional Punjab cooking techniques",
+        "rating": "4.5",
+        "lat": 32.2571,
+        "lng": 76.4512
+      },
+      {
+        "name": "Village Walk Punjab",
+        "desc": "Authentic village life experience in Punjab",
+        "rating": "4.4",
+        "lat": 32.2671,
+        "lng": 76.4612
+      },
+      {
+        "name": "Craft Workshop Punjab",
+        "desc": "Traditional craft making workshop in Punjab",
+        "rating": "4.4",
+        "lat": 32.2771,
+        "lng": 76.4712
+      },
+      {
+        "name": "Sunrise Trek Punjab",
+        "desc": "Early morning sunrise trek in Punjab",
+        "rating": "4.5",
+        "lat": 32.287099999999995,
+        "lng": 76.4812
+      },
+      {
+        "name": "Local Market Tour Chandigarh",
+        "desc": "Guided tour of local markets in Chandigarh",
+        "rating": "4.3",
+        "lat": 30.047099999999997,
+        "lng": 74.2412
+      },
+      {
+        "name": "Folk Performance Punjab",
+        "desc": "Traditional folk art performance of Punjab",
+        "rating": "4.5",
+        "lat": 30.0371,
+        "lng": 74.2312
+      },
+      {
+        "name": "Farm Stay Punjab",
+        "desc": "Authentic farm stay experience in Punjab",
+        "rating": "4.4",
+        "lat": 30.027099999999997,
+        "lng": 74.2212
+      },
+      {
+        "name": "Night Safari Punjab",
+        "desc": "Night wildlife safari in Punjab",
+        "rating": "4.4",
+        "lat": 30.0171,
+        "lng": 74.2112
+      },
+      {
+        "name": "Harvest Festival Punjab",
+        "desc": "Traditional harvest festival of Punjab",
+        "rating": "4.5",
+        "lat": 30.007099999999998,
+        "lng": 74.2012
+      }
+    ]
+  }
+}

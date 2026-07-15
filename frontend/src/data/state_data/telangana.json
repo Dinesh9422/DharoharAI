@@ -1,0 +1,870 @@
+{
+  "state": "Telangana",
+  "capital": "Hyderabad",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Charminar Hyderabad",
+        "desc": "Most famous heritage site in Telangana",
+        "rating": "4.6",
+        "lat": 18.1124,
+        "lng": 79.0193
+      },
+      {
+        "name": "State Museum Hyderabad",
+        "desc": "Archaeological museum showcasing Telangana history",
+        "rating": "4.2",
+        "lat": 18.122400000000003,
+        "lng": 79.0293
+      },
+      {
+        "name": "Old Fort Hyderabad",
+        "desc": "Historic fort from medieval era in Hyderabad",
+        "rating": "4.3",
+        "lat": 18.1324,
+        "lng": 79.0393
+      },
+      {
+        "name": "Ancient Temple Telangana",
+        "desc": "Famous ancient temple showcasing Telangana architecture",
+        "rating": "4.4",
+        "lat": 18.142400000000002,
+        "lng": 79.0493
+      },
+      {
+        "name": "Colonial Building Hyderabad",
+        "desc": "Historic colonial era building in Hyderabad",
+        "rating": "4.1",
+        "lat": 18.1524,
+        "lng": 79.05930000000001
+      },
+      {
+        "name": "Palace Telangana",
+        "desc": "Royal palace of former rulers of Telangana",
+        "rating": "4.4",
+        "lat": 18.1024,
+        "lng": 79.0093
+      },
+      {
+        "name": "Rock Cut Caves Telangana",
+        "desc": "Ancient rock cut monuments in Telangana",
+        "rating": "4.3",
+        "lat": 18.0924,
+        "lng": 78.9993
+      },
+      {
+        "name": "Heritage Walk Hyderabad",
+        "desc": "Guided walk through old quarter of Hyderabad",
+        "rating": "4.3",
+        "lat": 18.0824,
+        "lng": 78.9893
+      },
+      {
+        "name": "Memorial Museum Hyderabad",
+        "desc": "Memorial to freedom fighters of Telangana",
+        "rating": "4.1",
+        "lat": 18.072400000000002,
+        "lng": 78.9793
+      },
+      {
+        "name": "Ruins Site Telangana",
+        "desc": "Ancient ruins and archaeological findings in Telangana",
+        "rating": "4.2",
+        "lat": 18.0624,
+        "lng": 78.9693
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Hyderabad",
+        "desc": "Authentic Telangana thali with local specialties",
+        "rating": "4.5",
+        "lat": 18.212400000000002,
+        "lng": 79.1193
+      },
+      {
+        "name": "Street Food Market Hyderabad",
+        "desc": "Famous street food market in Hyderabad",
+        "rating": "4.4",
+        "lat": 18.2224,
+        "lng": 79.1293
+      },
+      {
+        "name": "Local Sweet Shop Telangana",
+        "desc": "Famous traditional sweets unique to Telangana",
+        "rating": "4.5",
+        "lat": 18.232400000000002,
+        "lng": 79.1393
+      },
+      {
+        "name": "Tribal Cuisine Telangana",
+        "desc": "Authentic tribal food of Telangana",
+        "rating": "4.4",
+        "lat": 18.2424,
+        "lng": 79.1493
+      },
+      {
+        "name": "Dhaba Telangana",
+        "desc": "Famous highway dhaba with Telangana specialties",
+        "rating": "4.3",
+        "lat": 18.2524,
+        "lng": 79.1593
+      },
+      {
+        "name": "Vegetarian Restaurant Hyderabad",
+        "desc": "Best pure vegetarian food in Hyderabad",
+        "rating": "4.3",
+        "lat": 18.0124,
+        "lng": 78.9193
+      },
+      {
+        "name": "Biryani House Hyderabad",
+        "desc": "Best biryani and rice dishes in Hyderabad",
+        "rating": "4.4",
+        "lat": 18.0024,
+        "lng": 78.9093
+      },
+      {
+        "name": "Bakery Cafe Hyderabad",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 17.9924,
+        "lng": 78.8993
+      },
+      {
+        "name": "Royal Kitchen Telangana",
+        "desc": "Restaurant serving royal recipes of Telangana",
+        "rating": "4.5",
+        "lat": 17.982400000000002,
+        "lng": 78.8893
+      },
+      {
+        "name": "Fish Curry House Telangana",
+        "desc": "Traditional Telangana style fish preparation",
+        "rating": "4.4",
+        "lat": 17.9724,
+        "lng": 78.8793
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Hyderabad",
+        "desc": "Luxury 5-star Taj hotel in Hyderabad",
+        "rating": "4.7",
+        "lat": 18.3124,
+        "lng": 79.2193
+      },
+      {
+        "name": "Oberoi Resort Telangana",
+        "desc": "Luxury resort in scenic location in Telangana",
+        "rating": "4.8",
+        "lat": 18.322400000000002,
+        "lng": 79.2293
+      },
+      {
+        "name": "Heritage Hotel Hyderabad",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 18.3324,
+        "lng": 79.2393
+      },
+      {
+        "name": "ITC Hotel Hyderabad",
+        "desc": "ITC luxury hotel in Hyderabad",
+        "rating": "4.6",
+        "lat": 18.3424,
+        "lng": 79.2493
+      },
+      {
+        "name": "Eco Resort Telangana",
+        "desc": "Eco-friendly resort in nature of Telangana",
+        "rating": "4.5",
+        "lat": 18.3524,
+        "lng": 79.2593
+      },
+      {
+        "name": "Boutique Hotel Hyderabad",
+        "desc": "Charming boutique hotel in old quarter of Hyderabad",
+        "rating": "4.4",
+        "lat": 17.9124,
+        "lng": 78.8193
+      },
+      {
+        "name": "Marriott Hyderabad",
+        "desc": "International 5-star Marriott hotel in Hyderabad",
+        "rating": "4.6",
+        "lat": 17.9024,
+        "lng": 78.80930000000001
+      },
+      {
+        "name": "Forest Lodge Telangana",
+        "desc": "Wildlife lodge near forest of Telangana",
+        "rating": "4.4",
+        "lat": 17.892400000000002,
+        "lng": 78.7993
+      },
+      {
+        "name": "Homestay Telangana",
+        "desc": "Authentic homestay with local family in Telangana",
+        "rating": "4.3",
+        "lat": 17.8824,
+        "lng": 78.7893
+      },
+      {
+        "name": "Budget Hotel Hyderabad",
+        "desc": "Clean comfortable budget stay in Hyderabad",
+        "rating": "4.0",
+        "lat": 17.872400000000003,
+        "lng": 78.7793
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Telangana",
+        "desc": "Best panoramic viewpoint in Telangana",
+        "rating": "4.5",
+        "lat": 18.4124,
+        "lng": 79.3193
+      },
+      {
+        "name": "Waterfall Telangana",
+        "desc": "Most beautiful waterfall in Telangana",
+        "rating": "4.5",
+        "lat": 18.4224,
+        "lng": 79.3293
+      },
+      {
+        "name": "Lake Telangana",
+        "desc": "Scenic lake in Telangana with boating",
+        "rating": "4.3",
+        "lat": 18.4324,
+        "lng": 79.3393
+      },
+      {
+        "name": "Hill Station Telangana",
+        "desc": "Popular hill station in Telangana",
+        "rating": "4.4",
+        "lat": 18.4424,
+        "lng": 79.3493
+      },
+      {
+        "name": "National Park Telangana",
+        "desc": "Wildlife national park in Telangana",
+        "rating": "4.4",
+        "lat": 18.4524,
+        "lng": 79.3593
+      },
+      {
+        "name": "Beach Telangana",
+        "desc": "Beautiful beach in Telangana",
+        "rating": "4.3",
+        "lat": 17.8124,
+        "lng": 78.7193
+      },
+      {
+        "name": "Cave System Telangana",
+        "desc": "Natural cave system in Telangana",
+        "rating": "4.3",
+        "lat": 17.802400000000002,
+        "lng": 78.7093
+      },
+      {
+        "name": "Dam Telangana",
+        "desc": "Scenic dam and reservoir in Telangana",
+        "rating": "4.2",
+        "lat": 17.7924,
+        "lng": 78.69930000000001
+      },
+      {
+        "name": "Botanical Garden Hyderabad",
+        "desc": "Botanical garden with rare plants in Hyderabad",
+        "rating": "4.2",
+        "lat": 17.782400000000003,
+        "lng": 78.6893
+      },
+      {
+        "name": "Zoo Hyderabad",
+        "desc": "State zoo in Hyderabad with variety of animals",
+        "rating": "4.1",
+        "lat": 17.7724,
+        "lng": 78.6793
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Hyderabad",
+        "desc": "Bustling main market of Hyderabad",
+        "rating": "4.3",
+        "lat": 18.5124,
+        "lng": 79.4193
+      },
+      {
+        "name": "Handicraft Market Telangana",
+        "desc": "Traditional handicrafts of Telangana",
+        "rating": "4.4",
+        "lat": 18.5224,
+        "lng": 79.4293
+      },
+      {
+        "name": "Silk Market Telangana",
+        "desc": "Famous silk and textile market of Telangana",
+        "rating": "4.4",
+        "lat": 18.532400000000003,
+        "lng": 79.4393
+      },
+      {
+        "name": "Tribal Art Market Telangana",
+        "desc": "Traditional tribal art and crafts of Telangana",
+        "rating": "4.4",
+        "lat": 18.5424,
+        "lng": 79.44930000000001
+      },
+      {
+        "name": "Spice Market Telangana",
+        "desc": "Aromatic spice market unique to Telangana",
+        "rating": "4.3",
+        "lat": 18.552400000000002,
+        "lng": 79.4593
+      },
+      {
+        "name": "Mall Hyderabad",
+        "desc": "Modern shopping mall in Hyderabad",
+        "rating": "4.2",
+        "lat": 17.712400000000002,
+        "lng": 78.6193
+      },
+      {
+        "name": "Gem Market Telangana",
+        "desc": "Precious and semi-precious stones of Telangana",
+        "rating": "4.3",
+        "lat": 17.7024,
+        "lng": 78.6093
+      },
+      {
+        "name": "Bamboo Craft Telangana",
+        "desc": "Traditional bamboo craft market of Telangana",
+        "rating": "4.3",
+        "lat": 17.6924,
+        "lng": 78.5993
+      },
+      {
+        "name": "Pottery Village Telangana",
+        "desc": "Traditional pottery making village in Telangana",
+        "rating": "4.3",
+        "lat": 17.6824,
+        "lng": 78.5893
+      },
+      {
+        "name": "Night Market Hyderabad",
+        "desc": "Evening market in Hyderabad with local goods",
+        "rating": "4.2",
+        "lat": 17.6724,
+        "lng": 78.5793
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Telangana",
+        "desc": "Tiger and wildlife reserve in Telangana",
+        "rating": "4.5",
+        "lat": 18.6124,
+        "lng": 79.5193
+      },
+      {
+        "name": "Bird Sanctuary Telangana",
+        "desc": "Migratory bird sanctuary in Telangana",
+        "rating": "4.4",
+        "lat": 18.622400000000003,
+        "lng": 79.5293
+      },
+      {
+        "name": "Forest Reserve Telangana",
+        "desc": "Dense forest reserve of Telangana",
+        "rating": "4.4",
+        "lat": 18.6324,
+        "lng": 79.5393
+      },
+      {
+        "name": "River Valley Telangana",
+        "desc": "Scenic river valley in Telangana",
+        "rating": "4.3",
+        "lat": 18.642400000000002,
+        "lng": 79.5493
+      },
+      {
+        "name": "Mountain Peak Telangana",
+        "desc": "Highest mountain peak in Telangana",
+        "rating": "4.4",
+        "lat": 18.6524,
+        "lng": 79.55930000000001
+      },
+      {
+        "name": "Wetland Telangana",
+        "desc": "Important wetland ecosystem in Telangana",
+        "rating": "4.3",
+        "lat": 17.6124,
+        "lng": 78.5193
+      },
+      {
+        "name": "Tea Garden Telangana",
+        "desc": "Scenic tea or coffee plantation in Telangana",
+        "rating": "4.4",
+        "lat": 17.6024,
+        "lng": 78.5093
+      },
+      {
+        "name": "Organic Farm Telangana",
+        "desc": "Organic farming experience in Telangana",
+        "rating": "4.3",
+        "lat": 17.5924,
+        "lng": 78.4993
+      },
+      {
+        "name": "Sunrise Point Telangana",
+        "desc": "Most spectacular sunrise point in Telangana",
+        "rating": "4.5",
+        "lat": 17.5824,
+        "lng": 78.4893
+      },
+      {
+        "name": "Eco Park Hyderabad",
+        "desc": "Ecology park in Hyderabad with rare plants",
+        "rating": "4.1",
+        "lat": 17.572400000000002,
+        "lng": 78.4793
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Telangana",
+        "desc": "Most famous temple in Telangana",
+        "rating": "4.6",
+        "lat": 18.712400000000002,
+        "lng": 79.6193
+      },
+      {
+        "name": "Mosque Hyderabad",
+        "desc": "Historic mosque in Hyderabad",
+        "rating": "4.3",
+        "lat": 18.7224,
+        "lng": 79.6293
+      },
+      {
+        "name": "Church Hyderabad",
+        "desc": "Historic church in Hyderabad",
+        "rating": "4.3",
+        "lat": 18.732400000000002,
+        "lng": 79.6393
+      },
+      {
+        "name": "Gurudwara Telangana",
+        "desc": "Important Sikh shrine in Telangana",
+        "rating": "4.4",
+        "lat": 18.7424,
+        "lng": 79.6493
+      },
+      {
+        "name": "Buddhist Monastery Telangana",
+        "desc": "Ancient Buddhist monastery in Telangana",
+        "rating": "4.4",
+        "lat": 18.7524,
+        "lng": 79.6593
+      },
+      {
+        "name": "Jain Temple Telangana",
+        "desc": "Famous Jain temple in Telangana",
+        "rating": "4.4",
+        "lat": 17.5124,
+        "lng": 78.4193
+      },
+      {
+        "name": "Dargah Telangana",
+        "desc": "Famous Sufi dargah in Telangana",
+        "rating": "4.3",
+        "lat": 17.5024,
+        "lng": 78.4093
+      },
+      {
+        "name": "Ashram Telangana",
+        "desc": "Spiritual ashram in Telangana",
+        "rating": "4.4",
+        "lat": 17.4924,
+        "lng": 78.3993
+      },
+      {
+        "name": "Pilgrimage Site Telangana",
+        "desc": "Important pilgrimage destination in Telangana",
+        "rating": "4.5",
+        "lat": 17.482400000000002,
+        "lng": 78.3893
+      },
+      {
+        "name": "Sacred River Ghat Telangana",
+        "desc": "Sacred river ghat for rituals in Telangana",
+        "rating": "4.3",
+        "lat": 17.4724,
+        "lng": 78.3793
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Telangana",
+        "desc": "Traditional folk dance performance of Telangana",
+        "rating": "4.5",
+        "lat": 18.8124,
+        "lng": 79.7193
+      },
+      {
+        "name": "Art Gallery Hyderabad",
+        "desc": "State art gallery in Hyderabad",
+        "rating": "4.2",
+        "lat": 18.822400000000002,
+        "lng": 79.7293
+      },
+      {
+        "name": "Cultural Center Hyderabad",
+        "desc": "Cultural center for arts in Hyderabad",
+        "rating": "4.3",
+        "lat": 18.8324,
+        "lng": 79.7393
+      },
+      {
+        "name": "Music Festival Telangana",
+        "desc": "Annual music festival of Telangana",
+        "rating": "4.5",
+        "lat": 18.8424,
+        "lng": 79.7493
+      },
+      {
+        "name": "Tribal Museum Telangana",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 18.8524,
+        "lng": 79.7593
+      },
+      {
+        "name": "Craft Village Telangana",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 17.4124,
+        "lng": 78.3193
+      },
+      {
+        "name": "Classical Dance Academy Hyderabad",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 17.4024,
+        "lng": 78.30930000000001
+      },
+      {
+        "name": "Puppet Theatre Telangana",
+        "desc": "Traditional puppet theatre of Telangana",
+        "rating": "4.4",
+        "lat": 17.392400000000002,
+        "lng": 78.2993
+      },
+      {
+        "name": "Weaving Center Telangana",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 17.3824,
+        "lng": 78.2893
+      },
+      {
+        "name": "Open Air Theatre Hyderabad",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 17.372400000000003,
+        "lng": 78.2793
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Telangana",
+        "desc": "Best trekking trails in Telangana",
+        "rating": "4.4",
+        "lat": 18.9124,
+        "lng": 79.8193
+      },
+      {
+        "name": "Rock Climbing Telangana",
+        "desc": "Rock climbing spots in Telangana",
+        "rating": "4.3",
+        "lat": 18.9224,
+        "lng": 79.8293
+      },
+      {
+        "name": "River Rafting Telangana",
+        "desc": "White water rafting in rivers of Telangana",
+        "rating": "4.5",
+        "lat": 18.9324,
+        "lng": 79.8393
+      },
+      {
+        "name": "Paragliding Telangana",
+        "desc": "Paragliding spots in Telangana",
+        "rating": "4.4",
+        "lat": 18.9424,
+        "lng": 79.8493
+      },
+      {
+        "name": "Camping Telangana",
+        "desc": "Camping spots in forests of Telangana",
+        "rating": "4.4",
+        "lat": 18.9524,
+        "lng": 79.8593
+      },
+      {
+        "name": "Zip Line Telangana",
+        "desc": "Zip lining adventure in Telangana",
+        "rating": "4.3",
+        "lat": 17.3124,
+        "lng": 78.2193
+      },
+      {
+        "name": "Jungle Safari Telangana",
+        "desc": "Jeep jungle safari in Telangana",
+        "rating": "4.4",
+        "lat": 17.302400000000002,
+        "lng": 78.2093
+      },
+      {
+        "name": "Cycling Tour Telangana",
+        "desc": "Scenic cycling routes in Telangana",
+        "rating": "4.3",
+        "lat": 17.2924,
+        "lng": 78.19930000000001
+      },
+      {
+        "name": "Water Sports Telangana",
+        "desc": "Water sports activities in Telangana",
+        "rating": "4.3",
+        "lat": 17.282400000000003,
+        "lng": 78.1893
+      },
+      {
+        "name": "Bungee Jumping Telangana",
+        "desc": "Bungee jumping experience in Telangana",
+        "rating": "4.3",
+        "lat": 17.2724,
+        "lng": 78.1793
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Telangana",
+        "desc": "Traditional Ayurvedic treatments in Telangana",
+        "rating": "4.4",
+        "lat": 19.0124,
+        "lng": 79.9193
+      },
+      {
+        "name": "Yoga Retreat Telangana",
+        "desc": "Yoga and meditation retreat in Telangana",
+        "rating": "4.4",
+        "lat": 19.0224,
+        "lng": 79.9293
+      },
+      {
+        "name": "Spa Resort Telangana",
+        "desc": "Luxury spa resort in Telangana",
+        "rating": "4.5",
+        "lat": 19.032400000000003,
+        "lng": 79.9393
+      },
+      {
+        "name": "Naturopathy Center Telangana",
+        "desc": "Natural healing center in Telangana",
+        "rating": "4.3",
+        "lat": 19.0424,
+        "lng": 79.94930000000001
+      },
+      {
+        "name": "Meditation Ashram Telangana",
+        "desc": "Peaceful meditation ashram in Telangana",
+        "rating": "4.4",
+        "lat": 19.052400000000002,
+        "lng": 79.9593
+      },
+      {
+        "name": "Wellness Resort Hyderabad",
+        "desc": "Luxury wellness resort in Hyderabad",
+        "rating": "4.4",
+        "lat": 17.212400000000002,
+        "lng": 78.1193
+      },
+      {
+        "name": "Herbal Garden Telangana",
+        "desc": "Medicinal herb garden in Telangana",
+        "rating": "4.2",
+        "lat": 17.2024,
+        "lng": 78.1093
+      },
+      {
+        "name": "Forest Bathing Telangana",
+        "desc": "Therapeutic forest walks in Telangana",
+        "rating": "4.3",
+        "lat": 17.1924,
+        "lng": 78.0993
+      },
+      {
+        "name": "Hot Spring Telangana",
+        "desc": "Natural hot spring in Telangana",
+        "rating": "4.4",
+        "lat": 17.1824,
+        "lng": 78.0893
+      },
+      {
+        "name": "Detox Retreat Telangana",
+        "desc": "Detox and wellness retreat in Telangana",
+        "rating": "4.3",
+        "lat": 17.1724,
+        "lng": 78.0793
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Hyderabad",
+        "desc": "Main airport of Telangana in Hyderabad",
+        "rating": "4.0",
+        "lat": 19.1124,
+        "lng": 80.0193
+      },
+      {
+        "name": "Railway Station Hyderabad",
+        "desc": "Main railway junction in Hyderabad",
+        "rating": "3.8",
+        "lat": 19.122400000000003,
+        "lng": 80.0293
+      },
+      {
+        "name": "Bus Terminal Hyderabad",
+        "desc": "State bus terminal in Hyderabad",
+        "rating": "3.7",
+        "lat": 19.1324,
+        "lng": 80.0393
+      },
+      {
+        "name": "Metro Rail Hyderabad",
+        "desc": "Metro rail system in Hyderabad",
+        "rating": "4.2",
+        "lat": 19.142400000000002,
+        "lng": 80.0493
+      },
+      {
+        "name": "Highway Telangana",
+        "desc": "Major national highway through Telangana",
+        "rating": "4.0",
+        "lat": 19.1524,
+        "lng": 80.05930000000001
+      },
+      {
+        "name": "Port Telangana",
+        "desc": "Major sea port of Telangana",
+        "rating": "3.9",
+        "lat": 17.1124,
+        "lng": 78.0193
+      },
+      {
+        "name": "Taxi Stand Hyderabad",
+        "desc": "Main cab and taxi hub in Hyderabad",
+        "rating": "3.8",
+        "lat": 17.1024,
+        "lng": 78.0093
+      },
+      {
+        "name": "Auto Rickshaw Hyderabad",
+        "desc": "Auto rickshaw services across Hyderabad",
+        "rating": "3.6",
+        "lat": 17.0924,
+        "lng": 77.9993
+      },
+      {
+        "name": "Cab Services Hyderabad",
+        "desc": "Ola and Uber cab services in Hyderabad",
+        "rating": "4.0",
+        "lat": 17.0824,
+        "lng": 77.9893
+      },
+      {
+        "name": "Helipad Telangana",
+        "desc": "Helicopter services in Telangana",
+        "rating": "4.0",
+        "lat": 17.072400000000002,
+        "lng": 77.9793
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Telangana",
+        "desc": "Most famous festival of Telangana",
+        "rating": "4.7",
+        "lat": 19.212400000000002,
+        "lng": 80.1193
+      },
+      {
+        "name": "Cooking Class Telangana",
+        "desc": "Learn traditional Telangana cooking techniques",
+        "rating": "4.5",
+        "lat": 19.2224,
+        "lng": 80.1293
+      },
+      {
+        "name": "Village Walk Telangana",
+        "desc": "Authentic village life experience in Telangana",
+        "rating": "4.4",
+        "lat": 19.232400000000002,
+        "lng": 80.1393
+      },
+      {
+        "name": "Craft Workshop Telangana",
+        "desc": "Traditional craft making workshop in Telangana",
+        "rating": "4.4",
+        "lat": 19.2424,
+        "lng": 80.1493
+      },
+      {
+        "name": "Sunrise Trek Telangana",
+        "desc": "Early morning sunrise trek in Telangana",
+        "rating": "4.5",
+        "lat": 19.2524,
+        "lng": 80.1593
+      },
+      {
+        "name": "Local Market Tour Hyderabad",
+        "desc": "Guided tour of local markets in Hyderabad",
+        "rating": "4.3",
+        "lat": 17.0124,
+        "lng": 77.9193
+      },
+      {
+        "name": "Folk Performance Telangana",
+        "desc": "Traditional folk art performance of Telangana",
+        "rating": "4.5",
+        "lat": 17.0024,
+        "lng": 77.9093
+      },
+      {
+        "name": "Farm Stay Telangana",
+        "desc": "Authentic farm stay experience in Telangana",
+        "rating": "4.4",
+        "lat": 16.9924,
+        "lng": 77.8993
+      },
+      {
+        "name": "Night Safari Telangana",
+        "desc": "Night wildlife safari in Telangana",
+        "rating": "4.4",
+        "lat": 16.982400000000002,
+        "lng": 77.8893
+      },
+      {
+        "name": "Harvest Festival Telangana",
+        "desc": "Traditional harvest festival of Telangana",
+        "rating": "4.5",
+        "lat": 16.9724,
+        "lng": 77.8793
+      }
+    ]
+  }
+}

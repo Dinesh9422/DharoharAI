@@ -1,0 +1,870 @@
+{
+  "state": "Kerala",
+  "capital": "Thiruvananthapuram",
+  "data": {
+    "Heritage": [
+      {
+        "name": "Alleppey Backwaters",
+        "desc": "Most famous heritage site in Kerala",
+        "rating": "4.6",
+        "lat": 10.8505,
+        "lng": 76.2711
+      },
+      {
+        "name": "State Museum Thiruvananthapuram",
+        "desc": "Archaeological museum showcasing Kerala history",
+        "rating": "4.2",
+        "lat": 10.8605,
+        "lng": 76.28110000000001
+      },
+      {
+        "name": "Old Fort Thiruvananthapuram",
+        "desc": "Historic fort from medieval era in Thiruvananthapuram",
+        "rating": "4.3",
+        "lat": 10.8705,
+        "lng": 76.2911
+      },
+      {
+        "name": "Ancient Temple Kerala",
+        "desc": "Famous ancient temple showcasing Kerala architecture",
+        "rating": "4.4",
+        "lat": 10.8805,
+        "lng": 76.3011
+      },
+      {
+        "name": "Colonial Building Thiruvananthapuram",
+        "desc": "Historic colonial era building in Thiruvananthapuram",
+        "rating": "4.1",
+        "lat": 10.8905,
+        "lng": 76.31110000000001
+      },
+      {
+        "name": "Palace Kerala",
+        "desc": "Royal palace of former rulers of Kerala",
+        "rating": "4.4",
+        "lat": 10.8405,
+        "lng": 76.2611
+      },
+      {
+        "name": "Rock Cut Caves Kerala",
+        "desc": "Ancient rock cut monuments in Kerala",
+        "rating": "4.3",
+        "lat": 10.8305,
+        "lng": 76.25110000000001
+      },
+      {
+        "name": "Heritage Walk Thiruvananthapuram",
+        "desc": "Guided walk through old quarter of Thiruvananthapuram",
+        "rating": "4.3",
+        "lat": 10.820500000000001,
+        "lng": 76.2411
+      },
+      {
+        "name": "Memorial Museum Thiruvananthapuram",
+        "desc": "Memorial to freedom fighters of Kerala",
+        "rating": "4.1",
+        "lat": 10.810500000000001,
+        "lng": 76.2311
+      },
+      {
+        "name": "Ruins Site Kerala",
+        "desc": "Ancient ruins and archaeological findings in Kerala",
+        "rating": "4.2",
+        "lat": 10.8005,
+        "lng": 76.2211
+      }
+    ],
+    "Food": [
+      {
+        "name": "Traditional Thali Thiruvananthapuram",
+        "desc": "Authentic Kerala thali with local specialties",
+        "rating": "4.5",
+        "lat": 10.9505,
+        "lng": 76.3711
+      },
+      {
+        "name": "Street Food Market Thiruvananthapuram",
+        "desc": "Famous street food market in Thiruvananthapuram",
+        "rating": "4.4",
+        "lat": 10.9605,
+        "lng": 76.3811
+      },
+      {
+        "name": "Local Sweet Shop Kerala",
+        "desc": "Famous traditional sweets unique to Kerala",
+        "rating": "4.5",
+        "lat": 10.9705,
+        "lng": 76.39110000000001
+      },
+      {
+        "name": "Tribal Cuisine Kerala",
+        "desc": "Authentic tribal food of Kerala",
+        "rating": "4.4",
+        "lat": 10.980500000000001,
+        "lng": 76.4011
+      },
+      {
+        "name": "Dhaba Kerala",
+        "desc": "Famous highway dhaba with Kerala specialties",
+        "rating": "4.3",
+        "lat": 10.9905,
+        "lng": 76.4111
+      },
+      {
+        "name": "Vegetarian Restaurant Thiruvananthapuram",
+        "desc": "Best pure vegetarian food in Thiruvananthapuram",
+        "rating": "4.3",
+        "lat": 10.7505,
+        "lng": 76.17110000000001
+      },
+      {
+        "name": "Biryani House Thiruvananthapuram",
+        "desc": "Best biryani and rice dishes in Thiruvananthapuram",
+        "rating": "4.4",
+        "lat": 10.7405,
+        "lng": 76.1611
+      },
+      {
+        "name": "Bakery Cafe Thiruvananthapuram",
+        "desc": "Old bakery famous for local breads and snacks",
+        "rating": "4.2",
+        "lat": 10.730500000000001,
+        "lng": 76.1511
+      },
+      {
+        "name": "Royal Kitchen Kerala",
+        "desc": "Restaurant serving royal recipes of Kerala",
+        "rating": "4.5",
+        "lat": 10.7205,
+        "lng": 76.14110000000001
+      },
+      {
+        "name": "Fish Curry House Kerala",
+        "desc": "Traditional Kerala style fish preparation",
+        "rating": "4.4",
+        "lat": 10.7105,
+        "lng": 76.1311
+      }
+    ],
+    "Hotels": [
+      {
+        "name": "Taj Hotel Thiruvananthapuram",
+        "desc": "Luxury 5-star Taj hotel in Thiruvananthapuram",
+        "rating": "4.7",
+        "lat": 11.0505,
+        "lng": 76.4711
+      },
+      {
+        "name": "Oberoi Resort Kerala",
+        "desc": "Luxury resort in scenic location in Kerala",
+        "rating": "4.8",
+        "lat": 11.060500000000001,
+        "lng": 76.4811
+      },
+      {
+        "name": "Heritage Hotel Thiruvananthapuram",
+        "desc": "Colonial era building converted to heritage hotel",
+        "rating": "4.5",
+        "lat": 11.070500000000001,
+        "lng": 76.4911
+      },
+      {
+        "name": "ITC Hotel Thiruvananthapuram",
+        "desc": "ITC luxury hotel in Thiruvananthapuram",
+        "rating": "4.6",
+        "lat": 11.0805,
+        "lng": 76.50110000000001
+      },
+      {
+        "name": "Eco Resort Kerala",
+        "desc": "Eco-friendly resort in nature of Kerala",
+        "rating": "4.5",
+        "lat": 11.0905,
+        "lng": 76.5111
+      },
+      {
+        "name": "Boutique Hotel Thiruvananthapuram",
+        "desc": "Charming boutique hotel in old quarter of Thiruvananthapuram",
+        "rating": "4.4",
+        "lat": 10.650500000000001,
+        "lng": 76.0711
+      },
+      {
+        "name": "Marriott Thiruvananthapuram",
+        "desc": "International 5-star Marriott hotel in Thiruvananthapuram",
+        "rating": "4.6",
+        "lat": 10.6405,
+        "lng": 76.06110000000001
+      },
+      {
+        "name": "Forest Lodge Kerala",
+        "desc": "Wildlife lodge near forest of Kerala",
+        "rating": "4.4",
+        "lat": 10.6305,
+        "lng": 76.0511
+      },
+      {
+        "name": "Homestay Kerala",
+        "desc": "Authentic homestay with local family in Kerala",
+        "rating": "4.3",
+        "lat": 10.6205,
+        "lng": 76.0411
+      },
+      {
+        "name": "Budget Hotel Thiruvananthapuram",
+        "desc": "Clean comfortable budget stay in Thiruvananthapuram",
+        "rating": "4.0",
+        "lat": 10.6105,
+        "lng": 76.03110000000001
+      }
+    ],
+    "Tourist Spots": [
+      {
+        "name": "Main Viewpoint Kerala",
+        "desc": "Best panoramic viewpoint in Kerala",
+        "rating": "4.5",
+        "lat": 11.150500000000001,
+        "lng": 76.5711
+      },
+      {
+        "name": "Waterfall Kerala",
+        "desc": "Most beautiful waterfall in Kerala",
+        "rating": "4.5",
+        "lat": 11.1605,
+        "lng": 76.5811
+      },
+      {
+        "name": "Lake Kerala",
+        "desc": "Scenic lake in Kerala with boating",
+        "rating": "4.3",
+        "lat": 11.1705,
+        "lng": 76.5911
+      },
+      {
+        "name": "Hill Station Kerala",
+        "desc": "Popular hill station in Kerala",
+        "rating": "4.4",
+        "lat": 11.1805,
+        "lng": 76.6011
+      },
+      {
+        "name": "National Park Kerala",
+        "desc": "Wildlife national park in Kerala",
+        "rating": "4.4",
+        "lat": 11.1905,
+        "lng": 76.61110000000001
+      },
+      {
+        "name": "Beach Kerala",
+        "desc": "Beautiful beach in Kerala",
+        "rating": "4.3",
+        "lat": 10.5505,
+        "lng": 75.9711
+      },
+      {
+        "name": "Cave System Kerala",
+        "desc": "Natural cave system in Kerala",
+        "rating": "4.3",
+        "lat": 10.5405,
+        "lng": 75.9611
+      },
+      {
+        "name": "Dam Kerala",
+        "desc": "Scenic dam and reservoir in Kerala",
+        "rating": "4.2",
+        "lat": 10.5305,
+        "lng": 75.95110000000001
+      },
+      {
+        "name": "Botanical Garden Thiruvananthapuram",
+        "desc": "Botanical garden with rare plants in Thiruvananthapuram",
+        "rating": "4.2",
+        "lat": 10.5205,
+        "lng": 75.9411
+      },
+      {
+        "name": "Zoo Thiruvananthapuram",
+        "desc": "State zoo in Thiruvananthapuram with variety of animals",
+        "rating": "4.1",
+        "lat": 10.5105,
+        "lng": 75.9311
+      }
+    ],
+    "Shopping": [
+      {
+        "name": "Main Bazaar Thiruvananthapuram",
+        "desc": "Bustling main market of Thiruvananthapuram",
+        "rating": "4.3",
+        "lat": 11.2505,
+        "lng": 76.67110000000001
+      },
+      {
+        "name": "Handicraft Market Kerala",
+        "desc": "Traditional handicrafts of Kerala",
+        "rating": "4.4",
+        "lat": 11.2605,
+        "lng": 76.6811
+      },
+      {
+        "name": "Silk Market Kerala",
+        "desc": "Famous silk and textile market of Kerala",
+        "rating": "4.4",
+        "lat": 11.2705,
+        "lng": 76.6911
+      },
+      {
+        "name": "Tribal Art Market Kerala",
+        "desc": "Traditional tribal art and crafts of Kerala",
+        "rating": "4.4",
+        "lat": 11.2805,
+        "lng": 76.70110000000001
+      },
+      {
+        "name": "Spice Market Kerala",
+        "desc": "Aromatic spice market unique to Kerala",
+        "rating": "4.3",
+        "lat": 11.2905,
+        "lng": 76.7111
+      },
+      {
+        "name": "Mall Thiruvananthapuram",
+        "desc": "Modern shopping mall in Thiruvananthapuram",
+        "rating": "4.2",
+        "lat": 10.4505,
+        "lng": 75.8711
+      },
+      {
+        "name": "Gem Market Kerala",
+        "desc": "Precious and semi-precious stones of Kerala",
+        "rating": "4.3",
+        "lat": 10.4405,
+        "lng": 75.86110000000001
+      },
+      {
+        "name": "Bamboo Craft Kerala",
+        "desc": "Traditional bamboo craft market of Kerala",
+        "rating": "4.3",
+        "lat": 10.4305,
+        "lng": 75.8511
+      },
+      {
+        "name": "Pottery Village Kerala",
+        "desc": "Traditional pottery making village in Kerala",
+        "rating": "4.3",
+        "lat": 10.4205,
+        "lng": 75.8411
+      },
+      {
+        "name": "Night Market Thiruvananthapuram",
+        "desc": "Evening market in Thiruvananthapuram with local goods",
+        "rating": "4.2",
+        "lat": 10.4105,
+        "lng": 75.8311
+      }
+    ],
+    "Nature": [
+      {
+        "name": "Tiger Reserve Kerala",
+        "desc": "Tiger and wildlife reserve in Kerala",
+        "rating": "4.5",
+        "lat": 11.3505,
+        "lng": 76.7711
+      },
+      {
+        "name": "Bird Sanctuary Kerala",
+        "desc": "Migratory bird sanctuary in Kerala",
+        "rating": "4.4",
+        "lat": 11.3605,
+        "lng": 76.78110000000001
+      },
+      {
+        "name": "Forest Reserve Kerala",
+        "desc": "Dense forest reserve of Kerala",
+        "rating": "4.4",
+        "lat": 11.3705,
+        "lng": 76.7911
+      },
+      {
+        "name": "River Valley Kerala",
+        "desc": "Scenic river valley in Kerala",
+        "rating": "4.3",
+        "lat": 11.3805,
+        "lng": 76.8011
+      },
+      {
+        "name": "Mountain Peak Kerala",
+        "desc": "Highest mountain peak in Kerala",
+        "rating": "4.4",
+        "lat": 11.3905,
+        "lng": 76.81110000000001
+      },
+      {
+        "name": "Wetland Kerala",
+        "desc": "Important wetland ecosystem in Kerala",
+        "rating": "4.3",
+        "lat": 10.3505,
+        "lng": 75.7711
+      },
+      {
+        "name": "Tea Garden Kerala",
+        "desc": "Scenic tea or coffee plantation in Kerala",
+        "rating": "4.4",
+        "lat": 10.3405,
+        "lng": 75.7611
+      },
+      {
+        "name": "Organic Farm Kerala",
+        "desc": "Organic farming experience in Kerala",
+        "rating": "4.3",
+        "lat": 10.3305,
+        "lng": 75.75110000000001
+      },
+      {
+        "name": "Sunrise Point Kerala",
+        "desc": "Most spectacular sunrise point in Kerala",
+        "rating": "4.5",
+        "lat": 10.320500000000001,
+        "lng": 75.7411
+      },
+      {
+        "name": "Eco Park Thiruvananthapuram",
+        "desc": "Ecology park in Thiruvananthapuram with rare plants",
+        "rating": "4.1",
+        "lat": 10.310500000000001,
+        "lng": 75.7311
+      }
+    ],
+    "Religious Places": [
+      {
+        "name": "Main Temple Kerala",
+        "desc": "Most famous temple in Kerala",
+        "rating": "4.6",
+        "lat": 11.4505,
+        "lng": 76.8711
+      },
+      {
+        "name": "Mosque Thiruvananthapuram",
+        "desc": "Historic mosque in Thiruvananthapuram",
+        "rating": "4.3",
+        "lat": 11.4605,
+        "lng": 76.8811
+      },
+      {
+        "name": "Church Thiruvananthapuram",
+        "desc": "Historic church in Thiruvananthapuram",
+        "rating": "4.3",
+        "lat": 11.4705,
+        "lng": 76.89110000000001
+      },
+      {
+        "name": "Gurudwara Kerala",
+        "desc": "Important Sikh shrine in Kerala",
+        "rating": "4.4",
+        "lat": 11.480500000000001,
+        "lng": 76.9011
+      },
+      {
+        "name": "Buddhist Monastery Kerala",
+        "desc": "Ancient Buddhist monastery in Kerala",
+        "rating": "4.4",
+        "lat": 11.4905,
+        "lng": 76.9111
+      },
+      {
+        "name": "Jain Temple Kerala",
+        "desc": "Famous Jain temple in Kerala",
+        "rating": "4.4",
+        "lat": 10.2505,
+        "lng": 75.67110000000001
+      },
+      {
+        "name": "Dargah Kerala",
+        "desc": "Famous Sufi dargah in Kerala",
+        "rating": "4.3",
+        "lat": 10.2405,
+        "lng": 75.6611
+      },
+      {
+        "name": "Ashram Kerala",
+        "desc": "Spiritual ashram in Kerala",
+        "rating": "4.4",
+        "lat": 10.230500000000001,
+        "lng": 75.6511
+      },
+      {
+        "name": "Pilgrimage Site Kerala",
+        "desc": "Important pilgrimage destination in Kerala",
+        "rating": "4.5",
+        "lat": 10.2205,
+        "lng": 75.64110000000001
+      },
+      {
+        "name": "Sacred River Ghat Kerala",
+        "desc": "Sacred river ghat for rituals in Kerala",
+        "rating": "4.3",
+        "lat": 10.2105,
+        "lng": 75.6311
+      }
+    ],
+    "Arts & Culture": [
+      {
+        "name": "Folk Dance Kerala",
+        "desc": "Traditional folk dance performance of Kerala",
+        "rating": "4.5",
+        "lat": 11.5505,
+        "lng": 76.9711
+      },
+      {
+        "name": "Art Gallery Thiruvananthapuram",
+        "desc": "State art gallery in Thiruvananthapuram",
+        "rating": "4.2",
+        "lat": 11.560500000000001,
+        "lng": 76.9811
+      },
+      {
+        "name": "Cultural Center Thiruvananthapuram",
+        "desc": "Cultural center for arts in Thiruvananthapuram",
+        "rating": "4.3",
+        "lat": 11.570500000000001,
+        "lng": 76.9911
+      },
+      {
+        "name": "Music Festival Kerala",
+        "desc": "Annual music festival of Kerala",
+        "rating": "4.5",
+        "lat": 11.5805,
+        "lng": 77.00110000000001
+      },
+      {
+        "name": "Tribal Museum Kerala",
+        "desc": "Museum of tribal culture and heritage",
+        "rating": "4.4",
+        "lat": 11.5905,
+        "lng": 77.0111
+      },
+      {
+        "name": "Craft Village Kerala",
+        "desc": "Village of traditional craft makers",
+        "rating": "4.4",
+        "lat": 10.150500000000001,
+        "lng": 75.5711
+      },
+      {
+        "name": "Classical Dance Academy Thiruvananthapuram",
+        "desc": "Academy of classical dance forms",
+        "rating": "4.4",
+        "lat": 10.1405,
+        "lng": 75.56110000000001
+      },
+      {
+        "name": "Puppet Theatre Kerala",
+        "desc": "Traditional puppet theatre of Kerala",
+        "rating": "4.4",
+        "lat": 10.1305,
+        "lng": 75.5511
+      },
+      {
+        "name": "Weaving Center Kerala",
+        "desc": "Traditional weaving demonstration center",
+        "rating": "4.3",
+        "lat": 10.1205,
+        "lng": 75.5411
+      },
+      {
+        "name": "Open Air Theatre Thiruvananthapuram",
+        "desc": "Cultural performances at open air theatre",
+        "rating": "4.2",
+        "lat": 10.1105,
+        "lng": 75.53110000000001
+      }
+    ],
+    "Adventure": [
+      {
+        "name": "Trekking Kerala",
+        "desc": "Best trekking trails in Kerala",
+        "rating": "4.4",
+        "lat": 11.650500000000001,
+        "lng": 77.0711
+      },
+      {
+        "name": "Rock Climbing Kerala",
+        "desc": "Rock climbing spots in Kerala",
+        "rating": "4.3",
+        "lat": 11.6605,
+        "lng": 77.0811
+      },
+      {
+        "name": "River Rafting Kerala",
+        "desc": "White water rafting in rivers of Kerala",
+        "rating": "4.5",
+        "lat": 11.6705,
+        "lng": 77.0911
+      },
+      {
+        "name": "Paragliding Kerala",
+        "desc": "Paragliding spots in Kerala",
+        "rating": "4.4",
+        "lat": 11.6805,
+        "lng": 77.1011
+      },
+      {
+        "name": "Camping Kerala",
+        "desc": "Camping spots in forests of Kerala",
+        "rating": "4.4",
+        "lat": 11.6905,
+        "lng": 77.11110000000001
+      },
+      {
+        "name": "Zip Line Kerala",
+        "desc": "Zip lining adventure in Kerala",
+        "rating": "4.3",
+        "lat": 10.0505,
+        "lng": 75.4711
+      },
+      {
+        "name": "Jungle Safari Kerala",
+        "desc": "Jeep jungle safari in Kerala",
+        "rating": "4.4",
+        "lat": 10.0405,
+        "lng": 75.4611
+      },
+      {
+        "name": "Cycling Tour Kerala",
+        "desc": "Scenic cycling routes in Kerala",
+        "rating": "4.3",
+        "lat": 10.0305,
+        "lng": 75.45110000000001
+      },
+      {
+        "name": "Water Sports Kerala",
+        "desc": "Water sports activities in Kerala",
+        "rating": "4.3",
+        "lat": 10.0205,
+        "lng": 75.4411
+      },
+      {
+        "name": "Bungee Jumping Kerala",
+        "desc": "Bungee jumping experience in Kerala",
+        "rating": "4.3",
+        "lat": 10.0105,
+        "lng": 75.4311
+      }
+    ],
+    "Wellness": [
+      {
+        "name": "Ayurveda Center Kerala",
+        "desc": "Traditional Ayurvedic treatments in Kerala",
+        "rating": "4.4",
+        "lat": 11.7505,
+        "lng": 77.17110000000001
+      },
+      {
+        "name": "Yoga Retreat Kerala",
+        "desc": "Yoga and meditation retreat in Kerala",
+        "rating": "4.4",
+        "lat": 11.7605,
+        "lng": 77.1811
+      },
+      {
+        "name": "Spa Resort Kerala",
+        "desc": "Luxury spa resort in Kerala",
+        "rating": "4.5",
+        "lat": 11.7705,
+        "lng": 77.1911
+      },
+      {
+        "name": "Naturopathy Center Kerala",
+        "desc": "Natural healing center in Kerala",
+        "rating": "4.3",
+        "lat": 11.7805,
+        "lng": 77.20110000000001
+      },
+      {
+        "name": "Meditation Ashram Kerala",
+        "desc": "Peaceful meditation ashram in Kerala",
+        "rating": "4.4",
+        "lat": 11.7905,
+        "lng": 77.2111
+      },
+      {
+        "name": "Wellness Resort Thiruvananthapuram",
+        "desc": "Luxury wellness resort in Thiruvananthapuram",
+        "rating": "4.4",
+        "lat": 9.9505,
+        "lng": 75.3711
+      },
+      {
+        "name": "Herbal Garden Kerala",
+        "desc": "Medicinal herb garden in Kerala",
+        "rating": "4.2",
+        "lat": 9.9405,
+        "lng": 75.36110000000001
+      },
+      {
+        "name": "Forest Bathing Kerala",
+        "desc": "Therapeutic forest walks in Kerala",
+        "rating": "4.3",
+        "lat": 9.9305,
+        "lng": 75.3511
+      },
+      {
+        "name": "Hot Spring Kerala",
+        "desc": "Natural hot spring in Kerala",
+        "rating": "4.4",
+        "lat": 9.9205,
+        "lng": 75.3411
+      },
+      {
+        "name": "Detox Retreat Kerala",
+        "desc": "Detox and wellness retreat in Kerala",
+        "rating": "4.3",
+        "lat": 9.9105,
+        "lng": 75.3311
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Airport Thiruvananthapuram",
+        "desc": "Main airport of Kerala in Thiruvananthapuram",
+        "rating": "4.0",
+        "lat": 11.8505,
+        "lng": 77.2711
+      },
+      {
+        "name": "Railway Station Thiruvananthapuram",
+        "desc": "Main railway junction in Thiruvananthapuram",
+        "rating": "3.8",
+        "lat": 11.8605,
+        "lng": 77.28110000000001
+      },
+      {
+        "name": "Bus Terminal Thiruvananthapuram",
+        "desc": "State bus terminal in Thiruvananthapuram",
+        "rating": "3.7",
+        "lat": 11.8705,
+        "lng": 77.2911
+      },
+      {
+        "name": "Metro Rail Thiruvananthapuram",
+        "desc": "Metro rail system in Thiruvananthapuram",
+        "rating": "4.2",
+        "lat": 11.8805,
+        "lng": 77.3011
+      },
+      {
+        "name": "Highway Kerala",
+        "desc": "Major national highway through Kerala",
+        "rating": "4.0",
+        "lat": 11.8905,
+        "lng": 77.31110000000001
+      },
+      {
+        "name": "Port Kerala",
+        "desc": "Major sea port of Kerala",
+        "rating": "3.9",
+        "lat": 9.8505,
+        "lng": 75.2711
+      },
+      {
+        "name": "Taxi Stand Thiruvananthapuram",
+        "desc": "Main cab and taxi hub in Thiruvananthapuram",
+        "rating": "3.8",
+        "lat": 9.8405,
+        "lng": 75.2611
+      },
+      {
+        "name": "Auto Rickshaw Thiruvananthapuram",
+        "desc": "Auto rickshaw services across Thiruvananthapuram",
+        "rating": "3.6",
+        "lat": 9.8305,
+        "lng": 75.25110000000001
+      },
+      {
+        "name": "Cab Services Thiruvananthapuram",
+        "desc": "Ola and Uber cab services in Thiruvananthapuram",
+        "rating": "4.0",
+        "lat": 9.820500000000001,
+        "lng": 75.2411
+      },
+      {
+        "name": "Helipad Kerala",
+        "desc": "Helicopter services in Kerala",
+        "rating": "4.0",
+        "lat": 9.810500000000001,
+        "lng": 75.2311
+      }
+    ],
+    "Local Experiences": [
+      {
+        "name": "Main Festival Kerala",
+        "desc": "Most famous festival of Kerala",
+        "rating": "4.7",
+        "lat": 11.9505,
+        "lng": 77.3711
+      },
+      {
+        "name": "Cooking Class Kerala",
+        "desc": "Learn traditional Kerala cooking techniques",
+        "rating": "4.5",
+        "lat": 11.9605,
+        "lng": 77.3811
+      },
+      {
+        "name": "Village Walk Kerala",
+        "desc": "Authentic village life experience in Kerala",
+        "rating": "4.4",
+        "lat": 11.970500000000001,
+        "lng": 77.39110000000001
+      },
+      {
+        "name": "Craft Workshop Kerala",
+        "desc": "Traditional craft making workshop in Kerala",
+        "rating": "4.4",
+        "lat": 11.9805,
+        "lng": 77.4011
+      },
+      {
+        "name": "Sunrise Trek Kerala",
+        "desc": "Early morning sunrise trek in Kerala",
+        "rating": "4.5",
+        "lat": 11.9905,
+        "lng": 77.4111
+      },
+      {
+        "name": "Local Market Tour Thiruvananthapuram",
+        "desc": "Guided tour of local markets in Thiruvananthapuram",
+        "rating": "4.3",
+        "lat": 9.7505,
+        "lng": 75.17110000000001
+      },
+      {
+        "name": "Folk Performance Kerala",
+        "desc": "Traditional folk art performance of Kerala",
+        "rating": "4.5",
+        "lat": 9.7405,
+        "lng": 75.1611
+      },
+      {
+        "name": "Farm Stay Kerala",
+        "desc": "Authentic farm stay experience in Kerala",
+        "rating": "4.4",
+        "lat": 9.7305,
+        "lng": 75.1511
+      },
+      {
+        "name": "Night Safari Kerala",
+        "desc": "Night wildlife safari in Kerala",
+        "rating": "4.4",
+        "lat": 9.720500000000001,
+        "lng": 75.14110000000001
+      },
+      {
+        "name": "Harvest Festival Kerala",
+        "desc": "Traditional harvest festival of Kerala",
+        "rating": "4.5",
+        "lat": 9.7105,
+        "lng": 75.1311
+      }
+    ]
+  }
+}
