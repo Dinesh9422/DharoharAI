@@ -2,11 +2,13 @@ fastapi
 uvicorn
 sqlalchemy
 psycopg2-binary
-python-jose
-passlib
-bcrypt
-python-multipart
 pymongo
 motor
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic[email]
+bcrypt==4.0.1
 python-dotenv
 google-generativeai
+httpx
